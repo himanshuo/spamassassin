@@ -1,0 +1,29 @@
+what will this be used to determine spam or not? wiki, basic things on website
+
+
+
+next steps:
+1) use tornado + asyncio with python3
+    make async
+2)WILL SEND TEXT directly through post request.                                                         DONE
+3)determine spamd size limit.                                                                           DONE
+     DEFAULT MAX MESSAGE SIZE : 500 KB)
+     CAN CUSTOMIZE TO MAKE IT MAX SIZE : 256 MB
+        size is specified in bytes, as a positive integer greater than 0.
+            For example, -s 500000
+        CONF SETTING IS:
+            -s max_size, --max-size=max_size
+               can specify this in spamc/spamd config files.
+
+	3.5) if too much then send in batches.
+4)determine best practices for using subprocess with tornado
+5) edit settings to not use email header info                                                           DONE
+    STEPS:
+        1) make edits to config file
+            sudo vim /etc/spamassassin/local.cf
+               (NOTE: there is a backup of this file in the same directory called local.cf.backup)
+        2) restart spamassassin service using
+            sudo /etc/init.d/spamassassin restart
+        3)spamc < filename.txt
+            (spamc -c <filename.txt to only see the score/neccesssary_to_consider_spam_score)
+6) train spamassassin using osf data
