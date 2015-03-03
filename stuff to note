@@ -27,3 +27,13 @@ next steps:
         3)spamc < filename.txt
             (spamc -c <filename.txt to only see the score/neccesssary_to_consider_spam_score)
 6) train spamassassin using osf data
+
+
+Confident that spamd is running in parallel                                                             DONE
+https://svn.apache.org/repos/asf/spamassassin/branches/3.4/spamd/README section on performance.
+    just need to determine num max-children running in parallel on my machine.
+       using a special algorithm that maximizes this value.
+       FOR TESTING, will make min parallel processes 3 and max 5. Note: these are "children"
+            file to do this is: sudo vim /etc/default/spamassassin
+
+            Can check that they are running in parallel using sandbox.sh
