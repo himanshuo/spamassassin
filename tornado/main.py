@@ -20,28 +20,123 @@ from tornado.ioloop import IOLoop
 import subprocess
 import time
 import tornado.web
-
-
+from pprint import pprint
+thread_pool = ThreadPoolExecutor(4)
 class GenAsyncHandler(tornado.web.RequestHandler):
+    #THIS MIGHT BE NOT PARALLEL. 2ish reasons:
+        # prepare is something that is run at start of server. NOT LIKELY A PROBLEM, BUT WHO KNOWS?
+        # ACTUAL POTENTIAL PROBLEM: the stdin takes in a PIPE instead of a stream.
+
+    # def prepare(self):
+    #     #setup command
+    #     command = "spamc -c"
+    #     self.args = shlex.split(command)
+    #     #self.STREAM = tornado.process.Subprocess.STREAM
+
+
+
+
+    @coroutine
+    def call_spamassassin(self, cmd='wc', stdin_data="123"):
+        """
+        Wrapper around subprocess call using Tornado's Subprocess class.
+        """
+
+        STREAM = tornado.process.Subprocess.STREAM
+
+
+        args = shlex.split(cmd)
+        proc = tornado.process.Subprocess(
+            args, stdin=STREAM, stdout=STREAM, stderr=STREAM
+        )
+
+
+        pprint(proc.stdin)
+
+        yield Task(proc.stdin.write, str.encode(stdin_data))
+
+        print(1)
+        proc.stdin.close()
+
+        result, error = yield [
+            Task(proc.stdout.read_until_close),
+            Task(proc.stderr.read_until_close)
+        ]
+        print(2)
+        # self.write("inside call_spammassssin")
+        return result, error
+
+
     @gen.coroutine
     def get(self):
-        http_client = httpclient.AsyncHTTPClient()
-        response = yield http_client.fetch("http://example.com")
-        #do_something_with_response(response)
-        if self.get_argument("id", "id does not exists") == "1":
-            self.write("sleeping .... ")
-            self.flush()
-            # Do nothing for 5 sec
-            yield gen.Task(IOLoop.instance().add_timeout, time.time() + 5)
-            self.write("I'm awake!")
+
+
+        email = self.get_argument("email", None)
+        if email:
+            result, error = yield gen.Task(self.call_spamassassin,'spamc', email)
+            str_result = bytes.decode(result)
+            self.write(email+":"+str_result)
+            self.finish()
+        else:
+            self.write("email does not exist\n")
             self.finish()
 
-        self.write(self.get_argument('id', "id does not exist")+"\n")
+    # @gen.coroutine
+    # def get(self):
+    #
+    #     #do_something_with_response(response)
+    #     if self.get_argument("id", "id does not exists") == "1":
+    #         #self.write("sleeping .... ")
+    #         self.flush()
+    #         data = self.get_argument('email','hello good sire, i am an advertisement. buy buy buyb buyb buy buyb buy ')
+    #
+    #         result, error = yield self.call_spamassassin(cmd='wc', stdin_data='123')
+    #         print('stdin async: ', result)
+    #
+    #         IOLoop.instance().stop()
+
+
+            #send command and get result
+            #proc = tornado.process.Subprocess(args, stdin=subprocess.PIPE, stdout=subprocess.PIPE)
+            #result =proc.communicate(data)
+
+            #self.proc = tornado.process.Subprocess(args)
+            #pprint(self.proc.__dict__)
+
+            #result = self.proc.proc.communicate(data)
+            #print(2)
+            #result = result[0].decode("utf-8").strip("\n")
+            #result_val = eval(result)
+
+            #if result_val<1:
+            #    self.write("HAM")
+            #else:
+            #    self.write("SPAM")
+            #self.finish()
+
+
+
+    #working version of parallel example.
+    # @gen.coroutine
+    # def get(self):
+    #     http_client = httpclient.AsyncHTTPClient()
+    #     response = yield http_client.fetch("http://example.com")
+    #     #do_something_with_response(response)
+    #     if self.get_argument("id", "id does not exists") == "1":
+    #         self.write("sleeping .... ")
+    #         self.flush()
+    #         # Do nothing for 5 sec
+    #         yield gen.Task(IOLoop.instance().add_timeout, time.time() + 5)
+    #         self.write("I'm awake!")
+    #         self.finish()
+    #     else:
+    #         self.write(self.get_argument('id', "id does not exist")+" is the current id. NOT 1.\n")
+
 application = tornado.web.Application([
     (r"/", GenAsyncHandler),
 
 
-], debug=True)
+], debug=True, autoreload=True)
 
 if __name__ == "__main__":
     application.listen(8000)

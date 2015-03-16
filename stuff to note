@@ -37,3 +37,13 @@ https://svn.apache.org/repos/asf/spamassassin/branches/3.4/spamd/README section 
             file to do this is: sudo vim /etc/default/spamassassin
 
             Can check that they are running in parallel using sandbox.sh
+
+
+what to understand about async and tornado. with tornado,
+    you DO NOT actually make it so users are put on different threads.
+    INSTEAD, everyone comes to a single thread AND their action is put on the ioloop.
+    their action is run. Others actions are also run. While running, the ioloop does not care whats happening.
+    the ioloop accepts more requests and just adds them onto the queue of things to do.
+    THUS you basically have multiple people getting things done on the same thread concurrently.
+    The ioloop is also always listening. if someone finishes a task, the ioloop runs the appropriate code for when that task is finished.
+
