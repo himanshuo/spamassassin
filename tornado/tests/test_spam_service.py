@@ -7,7 +7,7 @@ import unittest
 class TestSpamService(unittest.TestCase):
 
     def setUp(self):
-        self.url = 'http://localhost:8000/slow'
+        self.url = 'http://localhost:8000/'
 
 
     def test_basic_non_spam(self):
@@ -26,13 +26,15 @@ class TestSpamService(unittest.TestCase):
         self.assertEqual("SPAM", r.text)
 
     def test_other_spam(self):
-        files = {'file': open('sample_spam.txt', 'rb')}
+        files = {'file': open('sample_long_nonspam.txt', 'rb')}
         r = requests.post(self.url, data=files['file'].read())
-        self.assertEqual("SPAM", r.text)
+        self.assertEqual("HAM", r.text)
     def test_non_spam_with_no_email_headers(self):
         files = {'file': open('non_spam_with_no_email_headers.txt', 'rb')}
         r = requests.post(self.url, data=files['file'].read())
         self.assertEqual("HAM", r.text)
+
+
 
 
 if __name__ == '__main__':

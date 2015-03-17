@@ -3,7 +3,7 @@ what will this be used to determine spam or not? wiki, basic things on website
 
 
 next steps:
-1) use tornado + asyncio with python3
+1) use tornado + asyncio with python3                                                                   DONE
     make async
 2)WILL SEND TEXT directly through post request.                                                         DONE
 3)determine spamd size limit.                                                                           DONE
@@ -47,3 +47,10 @@ what to understand about async and tornado. with tornado,
     THUS you basically have multiple people getting things done on the same thread concurrently.
     The ioloop is also always listening. if someone finishes a task, the ioloop runs the appropriate code for when that task is finished.
 
+
+
+
+
+TEST RESULTS
+    for large file input (488KB. max is 500KB), 5 threads with 5  calls each, async takes avg of 29s and sync 61s
+    for normal input (500 bytes), 5 threads with 20 calls each- async: sync:

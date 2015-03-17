@@ -21,61 +21,77 @@ import subprocess
 import time
 import tornado.web
 from pprint import pprint
-thread_pool = ThreadPoolExecutor(4)
+
 class GenAsyncHandler(tornado.web.RequestHandler):
     #THIS MIGHT BE NOT PARALLEL. 2ish reasons:
         # prepare is something that is run at start of server. NOT LIKELY A PROBLEM, BUT WHO KNOWS?
         # ACTUAL POTENTIAL PROBLEM: the stdin takes in a PIPE instead of a stream.
 
-    # def prepare(self):
-    #     #setup command
-    #     command = "spamc -c"
-    #     self.args = shlex.split(command)
-    #     #self.STREAM = tornado.process.Subprocess.STREAM
+    def prepare(self):
+        #setup command
+        command = "spamc -c"
+        args = shlex.split(command)
+        STREAM = tornado.process.Subprocess.STREAM
+        self.proc = tornado.process.Subprocess(
+            args, stdin=STREAM, stdout=STREAM, stderr=STREAM
+        )
 
 
 
 
     @coroutine
-    def call_spamassassin(self, cmd='wc', stdin_data="123"):
+    def call_spamassassin(self, stdin_data):
         """
         Wrapper around subprocess call using Tornado's Subprocess class.
         """
 
-        STREAM = tornado.process.Subprocess.STREAM
 
 
-        args = shlex.split(cmd)
-        proc = tornado.process.Subprocess(
-            args, stdin=STREAM, stdout=STREAM, stderr=STREAM
-        )
 
 
-        pprint(proc.stdin)
 
-        yield Task(proc.stdin.write, str.encode(stdin_data))
 
-        print(1)
-        proc.stdin.close()
+
+        yield Task(self.proc.stdin.write, stdin_data)
+
+
+        self.proc.stdin.close()
 
         result, error = yield [
-            Task(proc.stdout.read_until_close),
-            Task(proc.stderr.read_until_close)
+            Task(self.proc.stdout.read_until_close),
+            Task(self.proc.stderr.read_until_close)
         ]
-        print(2)
+
         # self.write("inside call_spammassssin")
         return result, error
 
 
+    def _handle_result(self, res):
+        str_result = bytes.decode(res)
+        result_val = eval(str_result.strip())
+
+        if result_val<1:
+            return "HAM"
+        else:
+            return "SPAM"
+
     @gen.coroutine
-    def get(self):
+    def post(self):
 
 
-        email = self.get_argument("email", None)
-        if email:
-            result, error = yield gen.Task(self.call_spamassassin,'spamc', email)
-            str_result = bytes.decode(result)
-            self.write(email+":"+str_result)
+        email_bytes = self.request.body
+
+        if email_bytes:
+
+            if email_bytes.decode('utf-8') == "data=1":
+                #print("long called")
+                f=open('too_long.txt')
+                #print()
+                result, error = yield gen.Task(self.call_spamassassin,str.encode(f.read()))
+            else:
+                result, error = yield gen.Task(self.call_spamassassin,email_bytes)
+            # print(result)
+            self.write(self._handle_result(result))
             self.finish()
         else:
             self.write("email does not exist\n")
@@ -132,15 +148,13 @@ class GenAsyncHandler(tornado.web.RequestHandler):
     #     else:
     #         self.write(self.get_argument('id', "id does not exist")+" is the current id. NOT 1.\n")
 
-application = tornado.web.Application([
-    (r"/", GenAsyncHandler),
-
-
-], debug=True, autoreload=True)
-
-if __name__ == "__main__":
-    application.listen(8000)
-    tornado.ioloop.IOLoop.instance().start()
+# application = tornado.web.Application([
+#     (r"/", GenAsyncHandler),
+# ], debug=True, autoreload=True)
+#
+# if __name__ == "__main__":
+#     application.listen(8000)
+#     tornado.ioloop.IOLoop.instance().start()
 
 """
 #parallel
@@ -220,7 +234,7 @@ class MainHandler(tornado.web.RequestHandler):
         #self.finish(cname + " is uploaded!! Check %s folder" %__UPLOADS__)
         #self.write("rock the party, yo!")
 
-
+"""
 ######################THIS IS THE blocking version for testing purposes################
 class SlowHandler(tornado.web.RequestHandler):
     def prepare(self):
@@ -231,10 +245,7 @@ class SlowHandler(tornado.web.RequestHandler):
         #send command and get result
         self.proc = subprocess.Popen(args, stdin=subprocess.PIPE, stdout=subprocess.PIPE)
 
-    def slow_method(self, data):
-        arr = []
-        for i in range(1,100):
-            arr[0] = len(str(requests.get("http://www.google.co.uk")))
+
 
     def post(self):
 
@@ -242,12 +253,14 @@ class SlowHandler(tornado.web.RequestHandler):
         try:
             #get data
             data = self.request.body
+            #f=open('too_long.txt')    -> f.read().encode('utf-8')
+            #print("slow long")
 
             result = self.proc.communicate(data)
             #result=self.slow_method(data)
 
             result_val = eval(result[0].strip())
-            print(result_val)
+
             if result_val<1:
                 self.write("HAM")
             else:
@@ -261,10 +274,10 @@ class SlowHandler(tornado.web.RequestHandler):
 
 
 application = tornado.web.Application([
-    (r"/", MainHandler),
+    (r"/", GenAsyncHandler),
     (r"/slow", SlowHandler),
 
-], debug=True)
+], debug=True, autoreload=True)
 
 if __name__ == "__main__":
     application.listen(8000)
