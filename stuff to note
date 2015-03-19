@@ -26,7 +26,16 @@ next steps:
             sudo /etc/init.d/spamassassin restart
         3)spamc < filename.txt
             (spamc -c <filename.txt to only see the score/neccesssary_to_consider_spam_score)
-6) train spamassassin using osf data
+6)train spamassassin using osf data
+        sudo sa-learn --progress --ham HAMFOLDER/*
+        sudo sa-learn --sync
+
+        then, to see the contents of the spam db: (note, spamassassin basically turns messages into hashes.)
+        sudo sa-learn --dump [all|magic|data]
+7)figure out how to improve learning capabilities:
+    1) add head: from
+    2) what else can we add to header???????
+    3)
 
 
 Confident that spamd is running in parallel                                                             DONE
@@ -54,3 +63,6 @@ what to understand about async and tornado. with tornado,
 TEST RESULTS
     for large file input (488KB. max is 500KB), 5 threads with 5  calls each, async takes avg of 29s and sync 61s
     for normal input (500 bytes), 5 threads with 20 calls each- async: sync:
+
+
+
