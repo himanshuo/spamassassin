@@ -21,6 +21,8 @@ import subprocess
 import time
 import tornado.web
 from pprint import pprint
+import json
+import datetime
 
 class GenAsyncHandler(tornado.web.RequestHandler):
     #THIS MIGHT BE NOT PARALLEL. 2ish reasons:
@@ -29,28 +31,105 @@ class GenAsyncHandler(tornado.web.RequestHandler):
 
     def prepare(self):
         #setup command
-        command = "spamc -c"
+        command = "spamc"
         args = shlex.split(command)
         STREAM = tornado.process.Subprocess.STREAM
         self.proc = tornado.process.Subprocess(
             args, stdin=STREAM, stdout=STREAM, stderr=STREAM
         )
 
+        self.PREDEFINED_HEADERS = {
+            'Content-Type': 'text/plain; charset=UTF-8',
+            'MIME-Version': 1.0
+        }
+
+    def _get_predefined_headers(self):
+        out = ""
+        for k,v in self.PREDEFINED_HEADERS.items():
+            out+=self._format_header_val(k, v)
+        return out
+
+    def _url_params_to_text(self, data):
+        out=""
+        #i think it might be okay to have these url params as extra headers.
+        dont_include = ['message', 'email']
+        for k,v in data.items():
+            if k not in dont_include:
+                out+=self._format_header_val(k, v)
+        return out
 
 
+
+    # def _add_recieved_header(self,data):
+    #     """
+    # Received: from iron3.mail.virginia.edu (iron3.mail.Virginia.EDU. [128.143.2.240])
+    #     by mx.google.com with ESMTP id c7si2000643qaj.77.2015.01.15.06.13.23
+    #     for <ho2es@goog.email.virginia.edu>;
+    #     Thu, 15 Jan 2015 06:13:23 -0800 (PST)
+    #
+    # """
+    #     received = "Received: "
+    #     if data.get('email'):
+    #         received += "by " data.get('email')
+    #         if data.get('')
+
+    def _format_header_val(self,key, value ):
+        return str(key)+": "+str(value)+"\n"
+
+    def _get_custom_headers(self, data):
+        #not predefined, but we really want it.
+            #Received; by ip_address OR name \n date(Thu, 15 Jan 2015 06:13:23 -0800 (PST) )
+            #Date same as data in the recieved.
+            #X-Sender-IP
+            #Subject: name_of_project
+
+        #RULES THAT BREAK WITHOUT HEADERS:
+        """
+        -0.0 NO_RELAYS              Informational: message was not relayed via SMTP                           score 0
+         1.2 MISSING_HEADERS        Missing To: header                                                        score 0
+         1.4 MISSING_DATE           Missing Date: header                                                      score 0
+        -0.0 NO_RECEIVED            Informational: message has no Received headers                            score 0
+         0.1 MISSING_MID            Missing Message-Id: header                                                time+
+         1.8 MISSING_SUBJECT        Missing Subject: header                                                   project
+         1.0 MISSING_FROM           Missing From: header
+         0.0 NO_HEADERS_MESSAGE     Message appears to be missing most RFC-822 headers
+
+
+
+        author: commenter name
+                email: commenter email
+                subject: project on which person is
+                ip: ip address of author.
+                Content-Type: text/plain
+        """
+        header=""
+        header+=self._get_predefined_headers()
+        header+=self._url_params_to_text(data)
+        if data.get('email'):
+            header+= self._format_header_val("Email",data.get('email'))
+        if data.get('project_name'):
+            header+=self._format_header_val("Subject",data.get('project_name'))
+        if data.get('contributors'):
+            header+=self._format_header_val("From", data.get('contributors'))
+
+
+        #header+=self._add_recieved_header()
+
+        return header
 
     @coroutine
-    def call_spamassassin(self, stdin_data):
+    def call_spamassassin(self, data):
         """
         Wrapper around subprocess call using Tornado's Subprocess class.
         """
 
+        #add headers to stdin_data
+        #bytes to string. then add header strings then \n then reconvert to bytes
+        #message = str.decode(stdin_data,'utf-8')
 
+        message_with_header = self._get_custom_headers(data) +"\n" + data['message']
 
-
-
-
-
+        stdin_data = str.encode(message_with_header)
 
         yield Task(self.proc.stdin.write, stdin_data)
 
@@ -63,11 +142,13 @@ class GenAsyncHandler(tornado.web.RequestHandler):
         ]
 
         # self.write("inside call_spammassssin")
+
         return result, error
 
 
     def _handle_result(self, res):
         str_result = bytes.decode(res)
+        print(str_result)
         result_val = eval(str_result.strip())
 
         if result_val<1:
@@ -79,234 +160,38 @@ class GenAsyncHandler(tornado.web.RequestHandler):
     def post(self):
 
 
-        email_bytes = self.request.body
 
-        if email_bytes:
+        data = json.loads(self.request.body.decode('utf-8'))
+        print(data)
+        if 'message' in data:
 
-            if email_bytes.decode('utf-8') == "data=1":
-                #print("long called")
-                f=open('too_long.txt')
-                #print()
-                result, error = yield gen.Task(self.call_spamassassin,str.encode(f.read()))
-            else:
-                result, error = yield gen.Task(self.call_spamassassin,email_bytes)
+            #this is just for testing purposes. delete once done testing.
+            # if email_bytes.decode('utf-8') == "data=1":
+            #     #print("long called")
+            #     f=open('too_long.txt')
+            #     result, error = yield gen.Task(self.call_spamassassin,str.encode(f.read()))
+            # else:
+            #     result, error = yield gen.Task(self.call_spamassassin,email_bytes)
             # print(result)
+
+            result,error = yield gen.Task(self.call_spamassassin,data )
             self.write(self._handle_result(result))
             self.finish()
         else:
-            self.write("email does not exist\n")
-            self.finish()
-
-    # @gen.coroutine
-    # def get(self):
-    #
-    #     #do_something_with_response(response)
-    #     if self.get_argument("id", "id does not exists") == "1":
-    #         #self.write("sleeping .... ")
-    #         self.flush()
-    #         data = self.get_argument('email','hello good sire, i am an advertisement. buy buy buyb buyb buy buyb buy ')
-    #
-    #         result, error = yield self.call_spamassassin(cmd='wc', stdin_data='123')
-    #         print('stdin async: ', result)
-    #
-    #         IOLoop.instance().stop()
-
-
-            #send command and get result
-            #proc = tornado.process.Subprocess(args, stdin=subprocess.PIPE, stdout=subprocess.PIPE)
-            #result =proc.communicate(data)
-
-            #self.proc = tornado.process.Subprocess(args)
-            #pprint(self.proc.__dict__)
-
-            #result = self.proc.proc.communicate(data)
-            #print(2)
-            #result = result[0].decode("utf-8").strip("\n")
-            #result_val = eval(result)
-
-            #if result_val<1:
-            #    self.write("HAM")
-            #else:
-            #    self.write("SPAM")
-            #self.finish()
-
-
-
-    #working version of parallel example.
-    # @gen.coroutine
-    # def get(self):
-    #     http_client = httpclient.AsyncHTTPClient()
-    #     response = yield http_client.fetch("http://example.com")
-    #     #do_something_with_response(response)
-    #     if self.get_argument("id", "id does not exists") == "1":
-    #         self.write("sleeping .... ")
-    #         self.flush()
-    #         # Do nothing for 5 sec
-    #         yield gen.Task(IOLoop.instance().add_timeout, time.time() + 5)
-    #         self.write("I'm awake!")
-    #         self.finish()
-    #     else:
-    #         self.write(self.get_argument('id', "id does not exist")+" is the current id. NOT 1.\n")
-
-# application = tornado.web.Application([
-#     (r"/", GenAsyncHandler),
-# ], debug=True, autoreload=True)
-#
-# if __name__ == "__main__":
-#     application.listen(8000)
-#     tornado.ioloop.IOLoop.instance().start()
-
-"""
-#parallel
-thread_pool = ThreadPoolExecutor(4)#number is max number of parallel threads. why not more?
-
-class MainHandler(tornado.web.RequestHandler):
-    def prepare(self):
-        #setup command
-        command = "spamc -c"
-        args = shlex.split(command)
-
-        #send command and get result
-        self.proc = tornado.process.Subprocess(args, stdin=subprocess.PIPE, stdout=subprocess.PIPE)
-
-
-
-
-    def slow_method(self, data):
-        arr = []
-        for i in range(1,100):
-            arr[0] = len(str(httpclient.AsyncHTTPClient.fetch("http://www.google.co.uk")))
-        self.finish()
-
-
-    @tornado.web.asynchronous
-    @tornado.gen.engine
-    def post(self):
-
-        #############POST data ##########################
-        try:
-            print("----------start------------------")
-            #get data
-            data = self.request.body
-            #todo: extract email from body.
-
-            #print(data)
-            """
-"""
-            # probably best to go through various ways of input in a method and use whichever one works.
-            # data = self.get_body_arguments('email','')
-            #print(data)
-            #data = self.get_arguments('email','')
-            #print(data)
-"""
-"""
-
-            #result = self.proc.communicate(data)
-
-            #self.proc.communicate
-
-            result = yield from thread_pool.submit(self.proc.communicate, data)
-            result_val = eval(result[0].strip())
-            print(result_val)
-            if result_val<1:
-                self.write("HAM")
-            else:
-                self.write("SPAM")
-
-            self.finish()
-        except Exception:
-            print(str(Exception))
-            print("-----------finish----------------")
-            self.write("ERROR")
+            self.write("No Message Given\n")
             self.finish()
 
 
-        ################file version###################
 
-        #fileinfo = self.request.files['file'][0]
-        #print("fileinfo is", fileinfo)
-        #fname = fileinfo['filename']
-        #extn = os.path.splitext(fname)[1]
-        #print(fname)
-        #cname = str(uuid.uuid4()) + extn
-        #fh = open(__UPLOADS__ + cname, 'w')
-        #fh.write(fileinfo['body'])
-        #self.finish(cname + " is uploaded!! Check %s folder" %__UPLOADS__)
-        #self.write("rock the party, yo!")
-
-"""
-######################THIS IS THE blocking version for testing purposes################
-class SlowHandler(tornado.web.RequestHandler):
-    def prepare(self):
-        #setup command
-        command = "spamc -c"
-        args = shlex.split(command)
-
-        #send command and get result
-        self.proc = subprocess.Popen(args, stdin=subprocess.PIPE, stdout=subprocess.PIPE)
-
-
-
-    def post(self):
-
-        #############POST data ##########################
-        try:
-            #get data
-            data = self.request.body
-            #f=open('too_long.txt')    -> f.read().encode('utf-8')
-            #print("slow long")
-
-            result = self.proc.communicate(data)
-            #result=self.slow_method(data)
-
-            result_val = eval(result[0].strip())
-
-            if result_val<1:
-                self.write("HAM")
-            else:
-                self.write("SPAM")
-        except Exception:
-            print(Exception)
-            self.write("ERROR")
 
 
 
 
 
 application = tornado.web.Application([
-    (r"/", GenAsyncHandler),
-    (r"/slow", SlowHandler),
-
+    (r"/", GenAsyncHandler)
 ], debug=True, autoreload=True)
 
 if __name__ == "__main__":
     application.listen(8000)
     tornado.ioloop.IOLoop.instance().start()
-"""
-
-# @coroutine
-# def call_subprocess(cmd, stdin_data=None, stdin_async=False):
-#     """
-#     Wrapper around subprocess call using Tornado's Subprocess class.
-#     """
-#     stdin = STREAM if stdin_async else subprocess.PIPE
-#
-#     sub_process = tornado.process.Subprocess(
-#         cmd, stdin=stdin, stdout=STREAM, stderr=STREAM
-#     )
-#
-#     if stdin_data:
-#         if stdin_async:
-#             yield Task(sub_process.stdin.write, stdin_data)
-#         else:
-#             sub_process.stdin.write(stdin_data)
-#
-#     if stdin_async or stdin_data:
-#         sub_process.stdin.close()
-#
-#     result, error = yield [
-#         Task(sub_process.stdout.read_until_close),
-#         Task(sub_process.stderr.read_until_close)
-#     ]
-#
-#     raise Return((result, error))

@@ -16,7 +16,7 @@ next steps:
                can specify this in spamc/spamd config files.
 
 	3.5) if too much then send in batches.
-4)determine best practices for using subprocess with tornado
+4)determine best practices for using subprocess with tornado                                            DONE
 5) edit settings to not use email header info                                                           DONE
     STEPS:
         1) make edits to config file
@@ -26,16 +26,46 @@ next steps:
             sudo /etc/init.d/spamassassin restart
         3)spamc < filename.txt
             (spamc -c <filename.txt to only see the score/neccesssary_to_consider_spam_score)
-6)train spamassassin using osf data
+6)train spamassassin using osf data                                                                     DONE
         sudo sa-learn --progress --ham HAMFOLDER/*
         sudo sa-learn --sync
 
         then, to see the contents of the spam db: (note, spamassassin basically turns messages into hashes.)
         sudo sa-learn --dump [all|magic|data]
 7)figure out how to improve learning capabilities:
-    1) add head: from
-    2) what else can we add to header???????
-    3)
+    1) generate a "message" in the form of an email.
+        supplied text or html data is message body
+        key:value pairs of metadata can be header.
+            things to include in header:
+                author: commenter name
+                email: commenter email
+                subject: project on which person is
+                ip: ip address of author.
+                Content-Type: text/plain
+            can use url params as header directly and add auto headers.
+            FROM TESTING, WHICH HEADERS ARE NECCESSARY:
+    2) change spamassassin settings to what http://search.cpan.org/~robn/Text-SpamAssassin-2.001/lib/Text/SpamAssassin.pm describes
+        1)ignore DUN/DUL ip addressess
+        2)https://github.com/robn/Text-SpamAssassin/blob/master/examples/comment_spam_prefs.cf
+        3)# percent HTML - what should these be?
+        score HTML_00_10		0
+        score HTML_10_20		0
+        score HTML_20_30		0
+        score HTML_30_40		0
+        score HTML_40_50		0
+        score HTML_50_60		0
+        score HTML_60_70		0
+        score HTML_70_80		0
+        score HTML_80_90		0
+        score HTML_90_100		0
+        4)score DNS_FROM_RFCI_DSN		0
+        5)score RCVD_IN_NJABL_DUL 0
+        score RCVD_IN_SORBS_DUL 0
+        score RCVD_IN_MAPS_DUL 0
+    3) give more than just spam or ham output. perhaps some analytics info or something.
+8) you can make seperate endpoints for different types of osf data: comments/ tites/ wikis/ ...
+REMEMBER WHAT THE ENTREPENEURSHIP GUY SAID: DO STUFF. IT MAKES PEOPLE THINK YOU ARE LEGIT. JUST KEEP PRODUCING MORE CONTENT!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!1
+
 
 
 Confident that spamd is running in parallel                                                             DONE
