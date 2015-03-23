@@ -52,7 +52,7 @@ class GenAsyncHandler(tornado.web.RequestHandler):
     def _url_params_to_text(self, data):
         out=""
         #i think it might be okay to have these url params as extra headers.
-        dont_include = ['message', 'email']
+        dont_include = ['message']
         for k,v in data.items():
             if k not in dont_include:
                 out+=self._format_header_val(k, v)
@@ -74,7 +74,15 @@ class GenAsyncHandler(tornado.web.RequestHandler):
     #         if data.get('')
 
     def _format_header_val(self,key, value ):
-        return str(key)+": "+str(value)+"\n"
+        key = str(key).capitalize()
+        if isinstance(value, (list, tuple)):
+            out = key+": "
+            for v in value:
+                out+= str(v) + ", "
+            out = str[0:-2] + "\n"
+            return out
+        else:
+            return key+": "+str(value)+"\n"
 
     def _get_custom_headers(self, data):
         #not predefined, but we really want it.
@@ -106,11 +114,10 @@ class GenAsyncHandler(tornado.web.RequestHandler):
         header+=self._get_predefined_headers()
         header+=self._url_params_to_text(data)
         if data.get('email'):
-            header+= self._format_header_val("Email",data.get('email'))
+            header+= self._format_header_val("From",data.get('email'))
         if data.get('project_name'):
             header+=self._format_header_val("Subject",data.get('project_name'))
-        if data.get('contributors'):
-            header+=self._format_header_val("From", data.get('contributors'))
+
 
 
         #header+=self._add_recieved_header()
