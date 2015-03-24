@@ -1,0 +1,29 @@
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 12 Mar 2015 03:37:01 -0000
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 12 Mar 2015 03:37:01 -0000
+  by zak.futurequest.net ([69.5.6.152])
+  with ESMTP via TCP; 12 Mar 2015 03:37:00 -0000
+Return-Path: <mail002400000092731@mail1.proche-s.jp>
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/simple; d=20duio7e.link; s=sel; q=dns/txt; l=1; bh=E/vXnD05Dl1lhaIeEf9ewZcM/ww=; h=From; b=K3Du4bLoyJ15PKPX5D0S2Os4SmJbavWknbnAspVvx9fAlQguidkEjPJADbNcFonG/i1t3bmbZ7jC9wE5uj4uBmn8oUNZeCV+uikelAnGNNSp4nXcSGvLlCEmprpQrvjYvGQb8zgGkuh46U2bpkZYi5aKBsqM8iTnY7VoJq+stgo=
+Date: Thu, 12 Mar 2015 12:35:37 +0900
+MIME-Version: 1.0
+From: mail@20duio7e.link
+To: lists-linux-xfs@bruce-guenter.dyndns.org
+Message-Id: 582379004_892068354fa18e501416@20duio7e.link
+Content-Type: text/plain; charset="Shift_JIS"
+Content-Transfer-Encoding: base64
+Subject: =?ISO-2022-JP?B?GyRCQD4xYDt7JEckOSEjJEkkMyRHQy8kLDokJEMkRiQkJEYkYjgrJEY4KyRMJFUkaiRyJDkkazt2JCxFdiQ/JGpBMCROPFIycSRLJEokQyRGJDckXiRDJEYkJCReJDkhI0BOJE5NTSRLJDQ2YT1qRjE7TiQsPXUkMTlnJCgkPyQiJE46IiROTU0kSyQiJGwkPyRpJEg7ZCRPJCQkRCRiNGokQyRGJCQkXiQ5ISMbKEI=?=
+
+kLyJgI6bj9KKlw0KDQqQvImAjpuCxYK3gUKCx4KxgsWSToKqjaKCwYLEgqKCxILgjKmCxIypgsqC
+04LogvCCt4LpjpaCqpOWgr2C6JFPgsyO0InvgsmCyILBgsSCtYLcgsGCxIKigtyCt4FCkMyCzJds
+gsmCsovfj4qTr45tgqqPlYKvjYeCpoK9gqCCzI2ggsyXbILJgqCC6oK9gueCxo6Egs2CooLCguCK
+6ILBgsSCooLcgreBQg0KDQpodHRwOi8vMjBkdWlvN2UubGluay8lN2Vwby9tYWlsYm94L1BDOjQy
+MjEzNDQ1NGZhMThlNTAwNmI0L01DOmZmYTMwMzMxOGQzYTBlZjliZWJmNjIwYTU2NTQyYThiLz9n
+dWlkPU9ODQoNCg0KgZ8gUCByIG8gYyBoIGUgcyCRiyCM+yANCiCBpiCCqCCQUyCTliCCvSCC6CCC
+zCCCyCCCoiCV+yCC1iANCiCR3iCJ7yCBRSCDSSCDdiCDZyCDQSCDRSCDZyCCzCCCsiCYQSCXjSCC
+zSCCqCCQlCCCxSCCtyCCqiCJuiCLTCCCoiCCuCCC6iCCqSCCzCCRiyCM+yCC1iCBdSCR3iCJ7yCK
+8yCWXSCBdiCCxiCCsiCV1CCQTSCC8CCCqCCK6CCCoiCSdiCCtSCC3CCCtyCBQiANCj09PT09PT09
+PT09PT0NCiMjIJHeIInvIIi2IJDmIA0KaW5mb0Bwcm9jaGUtcy5qcA0KIyMgkd4gie8gg3Qgg0gg
+gVsgg4AgDQpodHRwOi8vMjBkdWlvN2UubGluay8lN2Vwby9pbnF1aXJ5L1BDOjQyMjEzNDQ1NGZh
+MThlNTAwNmI0L01DOmZmYTMwMzMxOGQzYTBlZjliZWJmNjIwYTU2NTQyYThiLz9ndWlkPU9ODQoN
+CjQzOTE2Mw==

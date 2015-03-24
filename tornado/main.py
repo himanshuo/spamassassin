@@ -31,7 +31,7 @@ class GenAsyncHandler(tornado.web.RequestHandler):
 
     def prepare(self):
         #setup command
-        command = "spamc"
+        command = "spamc -c"
         args = shlex.split(command)
         STREAM = tornado.process.Subprocess.STREAM
         self.proc = tornado.process.Subprocess(
@@ -42,6 +42,17 @@ class GenAsyncHandler(tornado.web.RequestHandler):
             'Content-Type': 'text/plain; charset=UTF-8',
             'MIME-Version': 1.0
         }
+
+
+
+
+        self.full_report_proc = tornado.process.Subprocess(
+            shlex.split("spamc"), stdin=STREAM, stdout=STREAM, stderr=STREAM
+        )
+
+
+
+
 
     def _get_predefined_headers(self):
         out = ""
@@ -125,7 +136,7 @@ class GenAsyncHandler(tornado.web.RequestHandler):
         return header
 
     @coroutine
-    def call_spamassassin(self, data):
+    def call_spamassassin(self, data, full_report=False):
         """
         Wrapper around subprocess call using Tornado's Subprocess class.
         """
@@ -138,14 +149,18 @@ class GenAsyncHandler(tornado.web.RequestHandler):
 
         stdin_data = str.encode(message_with_header)
 
-        yield Task(self.proc.stdin.write, stdin_data)
+        cur_proc = self.proc
+        if full_report:
+            cur_proc = self.full_report_proc
+
+        yield Task(cur_proc.stdin.write, stdin_data)
 
 
-        self.proc.stdin.close()
+        cur_proc.stdin.close()
 
         result, error = yield [
-            Task(self.proc.stdout.read_until_close),
-            Task(self.proc.stderr.read_until_close)
+            Task(cur_proc.stdout.read_until_close),
+            Task(cur_proc.stderr.read_until_close)
         ]
 
         # self.write("inside call_spammassssin")
@@ -181,7 +196,11 @@ class GenAsyncHandler(tornado.web.RequestHandler):
             #     result, error = yield gen.Task(self.call_spamassassin,email_bytes)
             # print(result)
 
-            result,error = yield gen.Task(self.call_spamassassin,data )
+            if 'full_report' in data and data.get('full_report')=="True":
+                result,error = yield gen.Task(self.call_spamassassin,data,full_report=True )
+            else:
+                result,error = yield gen.Task(self.call_spamassassin,data,full_report=False )
+
             self.write(self._handle_result(result))
             self.finish()
         else:

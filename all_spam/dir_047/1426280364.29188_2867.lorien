@@ -1,0 +1,9 @@
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 13 Mar 2015 09:05:59 -0000
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 13 Mar 2015 09:05:59 -0000
+  by zak.futurequest.net ([69.5.6.152])
+  with SMTP via TCP; 13 Mar 2015 09:05:58 -0000
+	by 66.227.207.44 with ESMTPA; Fri, 13 Mar 2015 05:08:19 -0500
+X-Originating-IP: 237.162.61.31
+From: admin@aastocks.com
+To: lists-ezmlm@bruce-guenter.dyndns.org

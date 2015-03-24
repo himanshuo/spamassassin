@@ -1,0 +1,8 @@
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 18 Mar 2015 21:04:07 -0000
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 18 Mar 2015 21:04:07 -0000
+  by zak.futurequest.net ([69.5.6.152])
+  with SMTP via TCP; 18 Mar 2015 21:04:06 -0000
+	by 89.69.189.18 with ESMTPA; Wed, 18 Mar 2015 22:05:20 +0100
+From: mroberts422@aastocks.com
+To: bruce@bruce-guenter.dyndns.org

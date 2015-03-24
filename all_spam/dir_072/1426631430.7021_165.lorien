@@ -1,0 +1,154 @@
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 17 Mar 2015 07:56:33 -0000
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 17 Mar 2015 07:56:33 -0000
+  by zak.futurequest.net ([69.5.6.152])
+  with ESMTP via TCP; 17 Mar 2015 07:56:32 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=DKIM1; d=probeens.com;
+ h=To:Subject:Message-ID:Date:From:Reply-To:MIME-Version:Content-Type:Content-Transfer-Encoding; i=postmaster@probeens.com;
+ bh=LiBlX3XgwueyjUHDOMKRReMO4vU=;
+ b=QiBAqNyUvytcfsyJgCDZDmt/+8/boMzmXI9ZntxL+XryEOd9clMSzpwIsz8FIxc3Byl3qnBBd0nJ
+   jFfsH13IuMyhUajT9kI8gcGHxE8iTLwLLxGC3+KnsLfxj7mDe18ExjFKJuYqQa42Z7BaenG0Glki
+   Bk0tvYy7VDBKuOhSuE0=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=DKIM1; d=probeens.com;
+ b=XNNgMnT5xw9n1Yu3//hhG1Pb0KQo2+KE103Yn1+vHQkM3WD6GGxjzIiHuT6WRGd7CfLQtLOwVlr6
+   fTeek3hFKqNiZZrljNQWRuQWvJ4Pn5gaDl0i4sV3l5YXmXdqHepH7k7NxHZG7+5tJ3BD/rnFsQkV
+   2pyEUly4Yi+n+YR8RzI=;
+To: bruce@bruce-guenter.dyndns.org
+Subject: =?UTF-8?B?UHJvcG9zZXogZGVzIEJydXNjaGV0dGEgw6Agdm9zIGNsaWVudHM=?=
+Message-ID: <e32aa939147f08d0a6e17b298a2e9606@probeens.com>
+Return-Path: bounce@probeens.com
+Date: Tue, 17 Mar 2015 09:56:28 +0200
+From: "Fournisseur Bruschetta" <info@probeens.com>
+Reply-To: support@probeens.com
+MIME-Version: 1.0
+X-Mailer-LID: 58
+X-Mailer-SID: 1712
+X-Mailer-Sent-By: 1
+Content-Type: multipart/alternative; charset="UTF-8"; boundary="b1_42e0a6c16e9fa2a5732d0a35efe08800"
+Content-Transfer-Encoding: 8bit
+
+--b1_42e0a6c16e9fa2a5732d0a35efe08800
+Content-Type: text/plain; format=flowed; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+Bruschett'food®
+un concept de restauration de qualité clé en main
+
+Proposez des Bruschetta à vos clients, c'est facile et rentable !
+
+UN MATÉRIEL PROFESSIONNEL COMPLET :
+LE BRUSCHETT'GRILL
+Un matériel professionnel adapté pour
+préparer 8 Bruschetta® en même temps
+sans bruit et sans fumée.
+
+DES PRODUITS ALIMENTAIRES
+SAVOUREUX ET DE QUALITÉ
+Des antipasti préparés en Italie associés à un fromage légèrement
+fondu sur une tranche de pain croustillante à l'extérieur, mœlleuse à
+l'intérieur...
+
+DES SERVICES ADAPTÉS
+• Des outils de communication efficaces
+• Formation
+• Service après vente
+• Suivi commercial et marketing...
+
+
+En savoir plus: http://probeens.com/link.php?M=2340159&N=1712&L=7&F=T
+
+_________________________________________________________________________________________________________________________________________
+Ce message vous est envoyé par LeadsLeader. D é s a b o n n e m e n t de
+la liste: http://probeens.com/link.php?M=2340159&N=1712&L=2&F=T
+_________________________________________________________________________________________________________________________________________
+
+
+--b1_42e0a6c16e9fa2a5732d0a35efe08800
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Vous aussi proposez des Bruschetta® à vos clients</title>
+
+</head>
+
+<body bgcolor="#D9D4D0">
+<div align="center">Si vous ne visualisez pas correctement ce message, <a
+href="http://probeens.com/link.php?M=2340159&N=1712&L=8&F=H">consultez-le
+en ligne.</a></div>
+<table style="width: 100%;" border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td align="center" bgcolor="#D9D4D0"><a
+href="http://probeens.com/link.php?M=2340159&N=1712&L=7&F=H"><img
+src="http://www.tradi-qual.com/newsletters/bruschetta/bf2014/email/eff/img/bruschettfood.jpg"
+alt="Bruschett'food" border="0" height="250" /></a></td>
+</tr>
+<tr>
+<td align="center" bgcolor="#D9D4D0" height="40"><a
+href="http://probeens.com/link.php?M=2340159&N=1712&L=7&F=H" style="color:
+#601311; font-size: 1.3em; font-family: arial; text-decoration: none;"
+target="_self">Proposez des Bruschetta &agrave; vos clients, c'est facile
+et rentable !</a></td>
+</tr>
+</tbody>
+</table>
+<table style="width: 100%;" border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td align="center" bgcolor="#601311" height="190" valign="top"><a
+href="http://probeens.com/link.php?M=2340159&N=1712&L=7&F=H"><img
+src="http://www.tradi-qual.com/newsletters/bruschetta/bf2014/email/eff/img/ensavoirplus.jpg"
+alt="En savoir plus" border="0" height="93" width="650" /></a><br /> <a
+href="http://probeens.com/link.php?M=2340159&N=1712&L=7&F=H" style="color:
+#d9d4d2; font-size: 1em; font-family: arial; text-decoration: none;"
+target="_self">Bruschett'food, un concept de restauration rapide cl&eacute;
+en main<br /> Une valeur s&ucirc;re de la restauration rapide <br />
+D&eacute;marrage en 48h seulement </a></td>
+</tr>
+</tbody>
+</table>
+<table style="width: 100%;" border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td align="center" bgcolor="#D9D4D0"><br />
+<table style="width: 100%;" bgcolor="#d9d4d1" border="0" cellpadding="0"
+cellspacing="0">
+<tbody>
+<tr>
+<td>
+<table style="width: 600px;" align="center" border="0" cellpadding="0"
+cellspacing="0">
+<tbody>
+<tr>
+<td>
+<div align="center">Ce message vous est envoy&eacute; par LeadsLeader. <a
+href="http://probeens.com/link.php?M=2340159&N=1712&L=2&F=H">D &eacute; s a
+b o n n e m e n t</a> de la liste</div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<img
+src="http://track13013574.effimails27.com/servlet/effi.pixel?id_compteur=13013574"
+/></td>
+</tr>
+</tbody>
+</table>
+<img
+src="http://track13075477.effimails27.com/servlet/effi.pixel?id_compteur=13075477"
+/>
+<img
+src="http://probeens.com/open.php?M=2340159&L=58&N=1712&F=H&image=.jpg"
+height="1" width="10"></body>
+</html>
+
+--b1_42e0a6c16e9fa2a5732d0a35efe08800--

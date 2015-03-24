@@ -1,0 +1,30 @@
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 12 Mar 2015 21:03:45 -0000
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 12 Mar 2015 21:03:45 -0000
+  by zak.futurequest.net ([69.5.6.152])
+  with ESMTP via TCP; 12 Mar 2015 21:03:44 -0000
+Return-Path: <mail002400000096021@mail1.proche-s.jp>
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/simple; d=eupwt153.link; s=sel; q=dns/txt; l=1; bh=E/vXnD05Dl1lhaIeEf9ewZcM/ww=; h=From; b=DD+4MQ1zZi5Er6vEb7PN14/Qq4aDb5IlH76/HOa81zBRszOx+gjKQCKTe2co8RPYlp7fcFi5hUqWizImvPt2NRpr9tIGVsNGS8Dtmv5em6mtPZgFMqfRFuFpjYO0nztGjthzGtTsl0UZ1t/ZAYnDs2c8PEq9RRXm0eaB64TxT2g=
+Date: Fri, 13 Mar 2015 06:03:42 +0900
+MIME-Version: 1.0
+From: mail@eupwt153.link
+To: lists-linux-xfs@bruce-guenter.dyndns.org
+Message-Id: 120917859_892068354fa18e501416@eupwt153.link
+Content-Type: text/plain; charset="Shift_JIS"
+Content-Transfer-Encoding: base64
+Subject: =?ISO-2022-JP?B?GyRCQD4xYDt7JEckOSEjJCokTyRoJCYkNCQ2JCQkXiQ5ISM2Yk1LRnwkRyQ5JCwkKkhoJGwkRyRPJCIkaiReJDskcyQrISkbKEIxGyRCMi8bKEI0MDAwGyRCS3w7cTs6PnlFTyRON28kYjojRnwkKkVPJDckRyQtJD8kaSRIO1ckQyRGJCokaiReJDkkTiRHJCo8dTxoJGokKjRqJCRDVyQ3JF4kOSEjGyhC?=
+
+kLyJgI6bj9KKlw0KDQqQvImAjpuCxYK3gUKCqILNguaCpIKygrSCooLcgreBQovgl2qT+oLFgreC
+qoKolOaC6oLFgs2CoILogtyCuYLxgqmBSDGJrTQwMDCWnI6RjlmP95NugsyMj4LgjaGT+oKok26C
+tYLFgquCvYLngsaOdoLBgsSCqILogtyCt4LMgsWCqI7zjuaC6IKoiuiCopJ2grWC3IK3gUINCg0K
+aHR0cDovL2V1cHd0MTUzLmxpbmsvJTdlcG8vbWFpbGJveC9QQzo0MjIxMzQ0NTRmYTE4ZTUwMDZi
+NC9NQzoxYTA2ODU2MDk2N2ZhYzI4YTg4NDkxNTljYTY4ODc0NC8/Z3VpZD1PTg0KDQoNCoGfIFAg
+ciBvIGMgaCBlIHMgkYsgjPsgDQoggaYggqggkFMgk5Yggr0ggugggswggsgggqIglfsggtYgDQog
+kd4gie8ggUUgg0kgg3Ygg2cgg0Egg0Ugg2cggswggrIgmEEgl40ggs0ggqggkJQggsUggrcggqog
+ibogi0wggqIggrggguoggqkggswgkYsgjPsggtYggXUgkd4gie8givMgll0ggXYggsYggrIgldQg
+kE0ggvAggqggiugggqIgknYggrUggtwggrcggUIgDQo9PT09PT09PT09PT09DQojIyCR3iCJ7yCI
+tiCQ5iANCmluZm9AcHJvY2hlLXMuanANCiMjIJHeIInvIIN0IINIIIFbIIOAIA0KaHR0cDovL2V1
+cHd0MTUzLmxpbmsvJTdlcG8vaW5xdWlyeS9QQzo0MjIxMzQ0NTRmYTE4ZTUwMDZiNC9NQzoxYTA2
+ODU2MDk2N2ZhYzI4YTg4NDkxNTljYTY4ODc0NC8/Z3VpZD1PTg0KDQo0MzkxNjM=
+
+

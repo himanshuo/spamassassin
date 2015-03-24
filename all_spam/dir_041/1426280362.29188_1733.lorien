@@ -1,0 +1,31 @@
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 12 Mar 2015 11:04:34 -0000
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 12 Mar 2015 11:04:34 -0000
+  by zak.futurequest.net ([69.5.6.152])
+  with ESMTP via TCP; 12 Mar 2015 11:04:32 -0000
+Return-Path: <mail002400000094961@mail1.proche-s.jp>
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/simple; d=gl0d353lb.mobi; s=sel; q=dns/txt; l=1; bh=E/vXnD05Dl1lhaIeEf9ewZcM/ww=; h=From; b=Un6HLT4LzxWhDsZZj83+UeiVVYdcSoF7W41NS75exLfmi4RuS1TU/jxjufKxG30RifdgxSkVq3Z+YCXpq+L3hLaCnYWKt5WSEwm9SoiiEtExr3Uci0r4FtGTMNTdTxQ0wuwsk2HWenl+QXHMau4Baxn0v8oewQNT6h5TBiYNNcI=
+Date: Thu, 12 Mar 2015 20:04:31 +0900
+MIME-Version: 1.0
+From: mail@gl0d353lb.mobi
+To: lists-linux-xfs@bruce-guenter.dyndns.org
+Message-Id: 448735476_892068354fa18e501416@gl0d353lb.mobi
+Content-Type: text/plain; charset="Shift_JIS"
+Content-Transfer-Encoding: base64
+Subject: =?ISO-2022-JP?B?GyRCQD4xYDt7JEckOSEjOiNGfEZzMnNMXCRORUc3bCRHJDkhRCRiJCZLXEV2JEtCTExcJEokTiQrJGIkNyRsJF4kOyRzISM7ZCQrJGkkThsoQjEbJEIyLxsoQjQwMDAbJEJLfDtxOzo+eUVPJEchIiRJJCYkKztkJE5KLCRiOSwkOyRLJEokQyRGJC8kQCQ1JCQhRDAmJDkkayQ0MkhCMiRIISIkJCREJF4kRyRiOSwkOyRLJCQkRiQvJEAkNSQkIUQbKEI=?=
+
+kLyJgI6bj9KKlw0KDQqQvImAjpuCxYK3gUKNoZP6k/GJ8ZbagsyTZoyMgsWCt4FjguCCpJZ7k5aC
+yZHKltqCyILMgqmC4IK1guqC3IK5gvGBQo6EgqmC54LMMYmtNDAwMJacjpGOWY/3k26CxYFBgseC
+pIKpjoSCzJWqguCNS4K5gsmCyILBgsSCrYK+grOCooFjiKSCt4LpgrKJxpGwgsaBQYKigsKC3ILF
+guCNS4K5gsmCooLEgq2CvoKzgqKBYw0KDQpodHRwOi8vZ2wwZDM1M2xiLm1vYmkvJTdlcG8vbWFp
+bGJveC9QQzo0MjIxMzQ0NTRmYTE4ZTUwMDZiNC9NQzowNWZjMzg1MWUyNjQ5Mzc0YmJmNzJmNjUw
+NzI1YzBlMi8/Z3VpZD1PTg0KDQoNCoGfIFAgciBvIGMgaCBlIHMgkYsgjPsgDQoggaYggqggkFMg
+k5Yggr0ggugggswggsgggqIglfsggtYgDQogkd4gie8ggUUgg0kgg3Ygg2cgg0Egg0Ugg2cggswg
+grIgmEEgl40ggs0ggqggkJQggsUggrcggqogibogi0wggqIggrggguoggqkggswgkYsgjPsggtYg
+gXUgkd4gie8givMgll0ggXYggsYggrIgldQgkE0ggvAggqggiugggqIgknYggrUggtwggrcggUIg
+DQo9PT09PT09PT09PT09DQojIyCR3iCJ7yCItiCQ5iANCmluZm9AcHJvY2hlLXMuanANCiMjIJHe
+IInvIIN0IINIIIFbIIOAIA0KaHR0cDovL2dsMGQzNTNsYi5tb2JpLyU3ZXBvL2lucXVpcnkvUEM6
+NDIyMTM0NDU0ZmExOGU1MDA2YjQvTUM6MDVmYzM4NTFlMjY0OTM3NGJiZjcyZjY1MDcyNWMwZTIv
+P2d1aWQ9T04NCg0KNDM5MTYz
+
+

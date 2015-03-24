@@ -1,0 +1,44 @@
+  by mx09.futurequest.net ([69.5.6.181]); 17 Mar 2015 01:12:52 -0000
+  by rip.mx09.futurequest.net ([10.2.1.181])
+  with ESMTP via TCP; 17 Mar 2015 01:12:52 -0000
+	id S1752460AbbCQBMr (ORCPT <rfc822;bruce@untroubled.org>);
+	Mon, 16 Mar 2015 21:12:47 -0400
+	mail-la0-f47.google.com" rhost-flags-OK-OK-OK-OK) by vger.kernel.org
+	with ESMTP id S1750933AbbCQBMq (ORCPT
+	<rfc822;linux-btrfs@vger.kernel.org>);
+	Mon, 16 Mar 2015 21:12:46 -0400
+        for <linux-btrfs@vger.kernel.org>; Mon, 16 Mar 2015 18:12:45 -0700 (PDT)
+DKIM-Signature:	v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:date:message-id:subject:from:to:content-type;
+        bh=vksLPKZNqr/TQn9Y+SC8BSRAZ29UqyQttoQiQ0ryQFU=;
+        b=SDaq/go5VbgxZlP+6cyV928bxx0KiuBCh0ZNRHKsTuiJ27Bo7VbSiNC3WtyjTbfB5C
+         NmVBJ2PRaYH50dBiTd9ICgQofWB56BPvhOdWP+n+Ih/lViyOR3UwUdaCm78dQEylgxXY
+         eYAQtlr5dLH8Y9RxoL+X0Wiwtxoi+Xl523MKlJxtKq8dOd/dKXyp85B5rvUsczfQr4K+
+         d4KO2yF0Lozw9VXBFomHvWsQb8d/crGb7iUterb3hYbkEh+klT5CMjTfajPmXeLS7MpW
+         +mHjZtgBos+aH9H6guJe9DmvOfwAxzabLXxsG9R0QvKIDan4+JFnRAW2FtHLcEl4lnIc
+         av0A==
+MIME-Version: 1.0
+ Mon, 16 Mar 2015 18:12:44 -0700 (PDT)
+Date:	Tue, 17 Mar 2015 09:12:43 +0800
+Message-ID: <CAO-6ohKYuJs7vWR38vyMFtDMeLr75kqQGGursGb2MKvPY7BVNQ@mail.gmail.com>
+Subject: Please let me know if you need to print color box, display box and labels
+From:	Jinghao Printing - CHINA <dorothykbender215@gmail.com>
+To:	undisclosed-recipients:;
+Content-Type: text/plain; charset=UTF-8
+Sender:	linux-btrfs-owner@vger.kernel.org
+Precedence: bulk
+List-ID: <linux-btrfs.vger.kernel.org>
+X-Mailing-List:	linux-btrfs@vger.kernel.org
+Content-Length: 384
+
+Hi, this is David Wu from Shanghai, China.
+Please let me know if you need color box, display box, corrugated box,
+label, hang tag etc.
+
+I will send you the website.
+
+Best regards,
+David Wu
+--
+To unsubscribe from this list: send the line "unsubscribe linux-btrfs" in

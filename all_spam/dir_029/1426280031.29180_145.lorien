@@ -1,0 +1,30 @@
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 12 Mar 2015 23:04:00 -0000
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 12 Mar 2015 23:04:00 -0000
+  by zak.futurequest.net ([69.5.6.152])
+  with ESMTP via TCP; 12 Mar 2015 23:03:59 -0000
+Return-Path: <mail002400000096491@mail1.proche-s.jp>
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/simple; d=h3ha8b5c.link; s=sel; q=dns/txt; l=1; bh=E/vXnD05Dl1lhaIeEf9ewZcM/ww=; h=From; b=sLuzNxe7rZcZNW0GAZcOI5PPzxES6nVn8NHRuqGhO4LFo1vyqIlikjQQYwFLcxclybvLqsyv/IhFrNhAnEnC/0cGiP2PnFATD3UN5Tjczp9I0uiVTen2SpK/kCwGn1pNvhvBrZPEahMt7/cZuRnoTtBO90HCMmRyHu9YbAMHG+Q=
+Date: Fri, 13 Mar 2015 08:03:58 +0900
+MIME-Version: 1.0
+From: mail@h3ha8b5c.link
+To: bruce@bruce-guenter.dyndns.org
+Message-Id: 551368253_296164554fa18e4ebc7b@h3ha8b5c.link
+Content-Type: text/plain; charset="Shift_JIS"
+Content-Transfer-Encoding: base64
+Subject: =?ISO-2022-JP?B?GyRCQD4xYDt7JEckOSEjNS5KfSRLJE9JVDtXNUQkSk5PJHI0NiQ4JF4kOSFEJD0kbDhOISI1Lkp9JEs8ZiQrJGwkRiQkJGtJdEosJGIkIiRrJE4kKyRiJDckbCReJDskcyFEISMbKEIxGyRCMi8bKEI0MDAwGyRCS3wkTjtxOzo+eUVPJHJLXEZ8ISIkKjx1JDE8aCRqJCQkPyRAJDEkXiQ7JHMkKyEpGyhC?=
+
+kLyJgI6bj9KKlw0KDQqQvImAjpuCxYK3gUKLTZX7gsmCzZVzjnaLY4LIl82C8Iq0graC3IK3gWOC
+u4LqjMyBQYtNlfuCyY7kgqmC6oLEgqKC6ZWUlaqC4IKggumCzIKpguCCtYLqgtyCuYLxgWOBQjGJ
+rTQwMDCWnILMjpGOWY/3k26C8JZ7k/qBQYKojvOCr47mguiCooK9gr6Cr4LcgrmC8YKpgUgNCg0K
+aHR0cDovL2gzaGE4YjVjLmxpbmsvJTdlcG8vbWFpbGJveC9QQzoxMTk5OTQzNTRmYTE4ZTRlYWYx
+NC9NQzozMDYxZDBiZGUxZDBmZWI2NmJmYjE3MWE3OGFlYTk2ZC8/Z3VpZD1PTg0KDQoNCoGfIFAg
+ciBvIGMgaCBlIHMgkYsgjPsgDQoggaYggqggkFMgk5Yggr0ggugggswggsgggqIglfsggtYgDQog
+kd4gie8ggUUgg0kgg3Ygg2cgg0Egg0Ugg2cggswggrIgmEEgl40ggs0ggqggkJQggsUggrcggqog
+ibogi0wggqIggrggguoggqkggswgkYsgjPsggtYggXUgkd4gie8givMgll0ggXYggsYggrIgldQg
+kE0ggvAggqggiugggqIgknYggrUggtwggrcggUIgDQo9PT09PT09PT09PT09DQojIyCR3iCJ7yCI
+tiCQ5iANCmluZm9AcHJvY2hlLXMuanANCiMjIJHeIInvIIN0IINIIIFbIIOAIA0KaHR0cDovL2gz
+aGE4YjVjLmxpbmsvJTdlcG8vaW5xdWlyeS9QQzoxMTk5OTQzNTRmYTE4ZTRlYWYxNC9NQzozMDYx
+ZDBiZGUxZDBmZWI2NmJmYjE3MWE3OGFlYTk2ZC8/Z3VpZD1PTg0KDQo0MzkxNjI=
+
+

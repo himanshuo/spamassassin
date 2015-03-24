@@ -1,0 +1,30 @@
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 12 Mar 2015 03:19:08 -0000
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 12 Mar 2015 03:19:08 -0000
+  by zak.futurequest.net ([69.5.6.152])
+  with ESMTP via TCP; 12 Mar 2015 03:19:07 -0000
+Return-Path: <mail002400000092671@mail1.proche-s.jp>
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/simple; d=20duio7e.link; s=sel; q=dns/txt; l=1; bh=ye5WgdPFn3VBwno4tn7fRiWeGHs=; h=From; b=o8ULFHhuKBWUeVo2x3nuSvwpOAQ4BSjIKiQFwInALfAOFLrj+FllBF9o70tFTKE8gLnujh/8gFiaHkOSpkVq10VAkPXQ4g2Cv+1gKs7zeqAygIz86lwe2R55b6oXQuqoboEJ/yd3dDkZdM6e8lnWJnPckimyPxuYtfitqkklPL0=
+Date: Thu, 12 Mar 2015 12:19:05 +0900
+MIME-Version: 1.0
+From: mail@20duio7e.link
+To: lists-linux-xfs@bruce-guenter.dyndns.org
+Message-Id: 268760773_892068354fa18e501416@20duio7e.link
+Content-Type: text/plain; charset="Shift_JIS"
+Content-Transfer-Encoding: base64
+Subject: =?ISO-2022-JP?B?GyRCOWROTyRHJDkhI0A+MWA7e01NJE8kXiQ1JEs6IyRiQTQ/SCRYJE43Y0RLJEs9MSRvJGwkSiQsJGkkYiEiNS5KfU1NJFg6I0Z8JEkkJiQ3JEYkYhsoQjEbJEIyLxsoQjQwMDAbJEJLfCRyPnlFTyQ3JEYkNyReJCQkPyQkJCskaSRIISJEQ0RLOl4kckJHJEQ7diRyRGQkYSRGJCokaSRsJF4kOSEjGyhC?=
+
+VGF4IEJpeiBJbm5vdmF0aW9uDQoNCo2El82CxYK3gUKQvImAjpuXbILNgtyCs4LJjaGC4JFTkGeC
+1oLMjIOSyYLJj1CC7YLqgsiCqoLnguCBQYtNlfuXbILWjaGT+oLHgqSCtYLEguAxia00MDAwlpyC
+8I/3k26CtYLEgrWC3IKigr2CooKpgueCxoFBksGSyY3cgvCRxYLCjpaC8JLigt+CxIKogueC6oLc
+greBQg0KDQpodHRwOi8vMjBkdWlvN2UubGluay8lN2Vwby9tYWlsYm94L1BDOjQyMjEzNDQ1NGZh
+MThlNTAwNmI0L01DOmJlZDE3MjgzMGI4ZmVjMmY3MGQ1NWYzZDlhYmE2OTg5Lz9ndWlkPU9ODQoN
+Cg0KgZ8gUCByIG8gYyBoIGUgcyCRiyCM+yANCiCBpiCCqCCQUyCTliCCvSCC6CCCzCCCyCCCoiCV
++yCC1iANCiCR3iCJ7yCBRSCDSSCDdiCDZyCDQSCDRSCDZyCCzCCCsiCYQSCXjSCCzSCCqCCQlCCC
+xSCCtyCCqiCJuiCLTCCCoiCCuCCC6iCCqSCCzCCRiyCM+yCC1iCBdSCR3iCJ7yCK8yCWXSCBdiCC
+xiCCsiCV1CCQTSCC8CCCqCCK6CCCoiCSdiCCtSCC3CCCtyCBQiANCj09PT09PT09PT09PT0NCiMj
+IJHeIInvIIi2IJDmIA0KaW5mb0Bwcm9jaGUtcy5qcA0KIyMgkd4gie8gg3Qgg0gggVsgg4AgDQpo
+dHRwOi8vMjBkdWlvN2UubGluay8lN2Vwby9pbnF1aXJ5L1BDOjQyMjEzNDQ1NGZhMThlNTAwNmI0
+L01DOmJlZDE3MjgzMGI4ZmVjMmY3MGQ1NWYzZDlhYmE2OTg5Lz9ndWlkPU9ODQoNCjQzOTE2Mw==
+
+

@@ -1,0 +1,9 @@
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 19 Mar 2015 07:55:05 -0000
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 19 Mar 2015 07:55:05 -0000
+  by zak.futurequest.net ([69.5.6.152])
+  with SMTP via TCP; 19 Mar 2015 07:55:04 -0000
+	by 123.16.191.20 with ESMTPA; Thu, 19 Mar 2015 14:58:45 +0700
+X-Originating-IP: 192.101.171.105
+From: s3pp@investmarkfinancial.com
+To: lists-ezmlm@bruce-guenter.dyndns.org

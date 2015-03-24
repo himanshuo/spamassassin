@@ -1,0 +1,12 @@
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 09 Mar 2015 21:28:20 -0000
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 09 Mar 2015 21:28:20 -0000
+  by zak.futurequest.net ([69.5.6.152])
+  with SMTP via TCP; 09 Mar 2015 21:28:18 -0000
+	by 76.178.63.201 with ESMTPA; Mon, 9 Mar 2015 14:29:05 -0700
+X-Originating-IP: 154.98.165.163
+From: yvers.leroi@aastocks.com
+To: lists-bikinia@bruce-guenter.dyndns.org
+Subject: Don't delay recharging
+Date: Mon, 9 Mar 2015 14:21:46 -0700
+

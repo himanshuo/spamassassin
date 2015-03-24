@@ -1,0 +1,30 @@
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 16 Mar 2015 11:23:06 -0000
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 16 Mar 2015 11:23:06 -0000
+  by zak.futurequest.net ([69.5.6.152])
+  with ESMTP via TCP; 16 Mar 2015 11:23:06 -0000
+Return-Path: <mail002100000049641@mail1.proche-s.jp>
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/simple; d=l2w5ze4zc.link; s=sel; q=dns/txt; l=1; bh=VP0XESCfscB4EJI3QTLGbnniJBs=; h=From; b=EkCXciZwLTdo/TpACGhmhBSx//G9xCiqW7Q4JKRrNrP4ghTvFt2VgWQbDP42lfQSK5jJ8a0ItzgUyRfmWUvtTW4JWXbZACYAF3BwftPUgiaB9QoenfRJ7cw8/95ekGxe4AsYhWdvN2Xvne1ZmHn8Qtm5q0r1rbYGB+nOsKKuxMY=
+Date: Mon, 16 Mar 2015 20:23:04 +0900
+MIME-Version: 1.0
+From: mail@l2w5ze4zc.link
+To: lists-linux-xfs@bruce-guenter.dyndns.org
+Message-Id: 726729264_892068354fa18e501416@l2w5ze4zc.link
+Content-Type: text/plain; charset="Shift_JIS"
+Content-Transfer-Encoding: base64
+Subject: =?ISO-2022-JP?B?GyRCJCIkSiQ/JE40dUs+M1skcjY1JCgkRiQvJEAkNSQkISMkPSRsJEdNJ0MjJEskSiRDJEYkJCQ/JEAkLSQ/JCQkRyQ5ISMbKEI=?=
+
+gZqTWZV0ieaRnIKgguiBmgotLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQqXiJayl4iQbA0KDQqCoILI
+gr2CzIrzll2KeoLwi7OCpoLEgq2CvoKzgqKBQoK7guqCxZdGkkKCyYLIgsGCxIKigr2CvoKrgr2C
+ooLFgreBQg0KDQogiXsgl5cgKJazIJe/KSANCmh0dHA6Ly9sMnc1emU0emMubGluay8lN2Vwby9t
+YWlsYm94L1BDOjQyMjEzNDQ1NGZhMThlNTAwNmI0L01DOmI2OTBkZmQ1ZDc2M2VhNWEwMmQxMmQ0
+NDU4OTZlNmIzLz9ndWlkPU9ODQoNCg0KgZ8gUCByIG8gYyBoIGUgcyCRiyCM+yANCiCBpiCCqCCQ
+UyCTliCCvSCC6CCCzCCCyCCCoiCV+yCC1iANCiCR3iCJ7yCBRSCDSSCDdiCDZyCDQSCDRSCDZyCC
+zCCCsiCYQSCXjSCCzSCCqCCQlCCCxSCCtyCCqiCJuiCLTCCCoiCCuCCC6iCCqSCCzCCRiyCM+yCC
+1iCBdSCR3iCJ7yCK8yCWXSCBdiCCxiCCsiCV1CCQTSCC8CCCqCCK6CCCoiCSdiCCtSCC3CCCtyCB
+QiANCj09PT09PT09PT09PT0NCiMjIJHeIInvIIi2IJDmIA0KaW5mb0Bwcm9jaGUtcy5qcA0KIyMg
+kd4gie8gg3Qgg0gggVsgg4AgDQpodHRwOi8vbDJ3NXplNHpjLmxpbmsvJTdlcG8vaW5xdWlyeS9Q
+Qzo0MjIxMzQ0NTRmYTE4ZTUwMDZiNC9NQzpiNjkwZGZkNWQ3NjNlYTVhMDJkMTJkNDQ1ODk2ZTZi
+My8/Z3VpZD1PTg0KDQo0MzkxNjM=
+
+

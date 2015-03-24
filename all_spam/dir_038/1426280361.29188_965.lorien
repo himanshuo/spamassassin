@@ -1,0 +1,8 @@
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 13 Mar 2015 17:22:48 -0000
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 13 Mar 2015 17:22:48 -0000
+  by zak.futurequest.net ([69.5.6.152])
+  with SMTP via TCP; 13 Mar 2015 17:22:47 -0000
+	by 124.107.159.56 with ESMTPA; Sat, 14 Mar 2015 01:24:01 +0800
+From: zhukova_n@stocker-verlag.com
+To: lists-nfs@bruce-guenter.dyndns.org

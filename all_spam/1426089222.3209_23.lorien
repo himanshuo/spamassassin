@@ -1,0 +1,84 @@
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 11 Mar 2015 13:49:00 -0000
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 11 Mar 2015 13:49:00 -0000
+  by zak.futurequest.net ([69.5.6.152])
+  with ESMTP via TCP; 11 Mar 2015 13:47:12 -0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=163.com;
+	s=s110527; h=Date:From:Subject:MIME-Version:Message-ID; bh=uAV7V
+	VytyoHKWHLKca8aHRuiamsNIpqQCZRGEGnpLC0=; b=Lk2oWasH6ZLPbcYEO0jpx
+	Z0dA2FGLBlne17VI1b3UVeOIWC/2Jz1PoUJby3KE9ff7XNix3YSJo3N9/fv02u0q
+	N/sGVr0xQHX855ztcpCPCgIMVuVVa0SvwxXMrswFovJzwOs0K/Ze1gpeTRl0e/7t
+	+v8BrlN8ocXT5q/UCrB1MA=
+ ajax-webmail-wmsvr92 (Coremail) ; Wed, 11 Mar 2015 21:46:02 +0800 (CST)
+X-Originating-IP: [111.176.68.44]
+Date: Wed, 11 Mar 2015 21:46:02 +0800 (CST)
+From: =?GBK?B?sKyPqtGp?= <fusoubimao4@163.com>
+To: cvs@bruce-guenter.dyndns.org
+Subject: =?GBK?B?t6zYrri7vNO158TU?=
+X-Priority: 3
+X-Mailer: Coremail Webmail Server Version SP_ntes V3.5 build
+ 20150119(59087.7062) Copyright (c) 2002-2015 www.mailtech.cn 163com
+X-CM-CTRLDATA: nVTsiGZvb3Rlcl9odG09MjM0Ojgx
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_279697_172570094.1426081562802"
+MIME-Version: 1.0
+Message-ID: <3087b9fc.11ca4.14c0915c0b3.Coremail.fusoubimao4@163.com>
+X-CM-TRANSID: XMGowADHz4MbRwBV8DWEAA--.8686W
+X-CM-SenderInfo: 5ixv035elpt0qu6rljoofrz/1tbiLBq5cFJX5FH9BgAAs0
+X-Coremail-Antispam: 1U5529EdanIXcx71UUUUU7vcSsGvfC2KfnxnUU==
+Content-Length: 2206
+
+------=_Part_279697_172570094.1426081562802
+Content-Type: multipart/related; 
+	boundary="----=_Part_279698_1282646408.1426081562802"
+
+------=_Part_279698_1282646408.1426081562802
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_279699_997330670.1426081562802"
+
+------=_Part_279699_997330670.1426081562802
+Content-Type: text/plain; charset=GBK
+Content-Transfer-Encoding: 7bit
+
+
+------=_Part_279699_997330670.1426081562802
+Content-Type: text/html; charset=GBK
+Content-Transfer-Encoding: 7bit
+
+<div style="line-height:1.7;color:#000000;font-size:14px;font-family:Arial"><img src="cid:591b3936$1$14c0915c0b1$Coremail$fusoubimao4$163.com" orgwidth="785" orgheight="4500" data-image="1" style="width: 755px; height: 4328px;"></div><br><br><span title="neteasefooter"><span id="netease_mail_footer"></span></span>
+------=_Part_279699_997330670.1426081562802--
+
+------=_Part_279698_1282646408.1426081562802
+Content-Type: message/external-body; access-type=x-deleted; length=951176
+
+
+Content-Type: image/gif; name="20433.gif"
+Content-Transfer-Encoding: base64
+Content-Disposition: inline; filename="20433.gif"
+Content-ID: <591b3936$1$14c0915c0b1$Coremail$fusoubimao4$163.com>
+
+------=_Part_279698_1282646408.1426081562802--
+
+------=_Part_279697_172570094.1426081562802
+Content-Type: message/external-body; access-type=x-deleted; length=1016934
+
+
+Content-Type: image/gif; name="=?GBK?Q?=C0=CD=B6=AF=B7=A8.gif?="
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="=?GBK?Q?=C0=CD=B6=AF=B7=A8.gif?="
+
+------=_Part_279697_172570094.1426081562802
+Content-Type: message/external-body; access-type=x-deleted; length=171531
+
+
+Content-Type: application/vnd.ms-excel;
+ name="=?GBK?B?yMvUsby8xNzF4NG1LS0tLb/Os8zP6sfpLnhscw==?="
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment;
+ filename="=?GBK?B?yMvUsby8xNzF4NG1LS0tLb/Os8zP6sfpLnhscw==?="
+
+------=_Part_279697_172570094.1426081562802
+Content-Type: message/external-body; access-type=x-deleted; length=776504
+
+
+Content-Type: image/png; name="=?GBK?B?z/rK29b3udwucG5n?="

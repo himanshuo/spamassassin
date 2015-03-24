@@ -1,0 +1,9 @@
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 09 Mar 2015 09:13:49 -0000
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 09 Mar 2015 09:13:49 -0000
+  by zak.futurequest.net ([69.5.6.152])
+  with SMTP via TCP; 09 Mar 2015 09:13:48 -0000
+	by 103.28.114.165 with ESMTPA; Mon, 9 Mar 2015 16:14:59 +0700
+X-Originating-IP: 56.80.79.171
+From: britney5958408.29356@city.woodstock.on.ca
+To: lists-nfs@bruce-guenter.dyndns.org

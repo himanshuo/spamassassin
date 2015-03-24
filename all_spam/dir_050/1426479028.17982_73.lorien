@@ -1,0 +1,71 @@
+  by mx08.futurequest.net ([69.5.6.180]); 15 Mar 2015 13:11:09 -0000
+  by rip.mx08.futurequest.net ([10.2.1.180])
+  with ESMTP via TCP; 15 Mar 2015 13:11:09 -0000
+	id S1752191AbbCONLA (ORCPT <rfc822;bruce@untroubled.org>);
+	Sun, 15 Mar 2015 09:11:00 -0400
+	mail-la0-f68.google.com" rhost-flags-OK-OK-OK-OK) by vger.kernel.org
+	with ESMTP id S1752308AbbCONK7 convert rfc822-to-8bit (ORCPT
+	<rfc822;linux-kernel@vger.kernel.org>);
+	Sun, 15 Mar 2015 09:10:59 -0400
+        for <linux-kernel@vger.kernel.org>; Sun, 15 Mar 2015 06:10:57 -0700 (PDT)
+DKIM-Signature:	v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:date:message-id:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=SD4tpj5HlGDk//+6XYdV9xOUpHOf57+X+P9rbbkmYLI=;
+        b=Zq29QwJyBXqXOLDs8fYfz/1aCxt33NpEcGgKJOSMiOw1GpuYcKWmD5AC6dxpc8+rKr
+         hQRvBi6rp8cE3D+ZS37r+FDVAkObkDnqx6V1f7SpGoMgu0SL4Mv6MRYygBusXNzIUA8x
+         bWYqdG/QjtVI0wNa+kcow0ZgXDTWaKBjaFagZZETnMJDiAmE7Vh4tyUszpAnw4u4Fn8L
+         MIPrNuGB6EkPXhg0spHqbtW3yZ19HwuUR/0NGom7lIIoEnTFnZMTMN0O7PoRxg8rIjQG
+         1JtpvIH7KGPlx6Grf75KkBcsORjhTwAiVYrDj/BfygJnvetFv0hi1npt9b0W0pq1g5q2
+         aBQw==
+MIME-Version: 1.0
+ Sun, 15 Mar 2015 06:10:57 -0700 (PDT)
+Date:	Sun, 15 Mar 2015 14:10:57 +0100
+Message-ID: <CAK2AWjmiYW9G0GddekXTK4fxHYc15Ca9ZHv16+a-FC1rk+=gRw@mail.gmail.com>
+Subject: =?UTF-8?Q?Very_Important_and_Urgent_Business_Proposal=2E=E2=80=8F?=
+From:	Collins Baron <collinsbaron8@gmail.com>
+To:	collinsbaron8@gmail.com
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8BIT
+Sender:	linux-kernel-owner@vger.kernel.org
+Precedence: bulk
+List-ID: <linux-kernel.vger.kernel.org>
+X-Mailing-List:	linux-kernel@vger.kernel.org
+
+Dear Sir,
+
+My Name is Collins Baron. and I am an investment consultant working
+with Bank of Scotland as an Auditor .I will be happy to work this deal
+out with you if you have a corporate or personal Bank Account and if
+you are capable to keep TOP SECRET.I need strong Assurance that you
+will never let me down,if I transfer this money to your account.
+
+During one of our periodic auditing I discovered a dormant accounts
+with holding balance of £25,000.000.00 (Twenty Five Million British
+Pounds) this account has not been operated for the past years. The
+owner of this dormant account is a foreigner by name "Ed Swingle" who
+died on 4th Jan 2002. in a plane crash in Birmingham.you can view this
+CNN or BBC website for his true details.
+
+
+http://edition.cnn.com/2002/WORLD/europe/01/04/england.plane/
+
+As at this moment,I am constrained to issue more details about this
+business until your response is received.
+
+1) Your Age......................
+2)Your profession.....................
+3) your phone numbers
+4) home address............
+
+Thank you for your time and attention. This is my private email
+address    dr.collinsbaron@hotmail.com
+
+Call me on +447045783577
+
+Warmest regards,
+Dr. Collins Baron.
+--
+To unsubscribe from this list: send the line "unsubscribe linux-kernel" in
+the body of a message to majordomo@vger.kernel.org

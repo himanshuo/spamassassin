@@ -1,0 +1,30 @@
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 12 Mar 2015 02:05:28 -0000
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 12 Mar 2015 02:05:28 -0000
+  by zak.futurequest.net ([69.5.6.152])
+  with ESMTP via TCP; 12 Mar 2015 02:05:26 -0000
+Return-Path: <mail002400000092251@mail1.proche-s.jp>
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/simple; d=ykiqxpa0.link; s=sel; q=dns/txt; l=1; bh=E/vXnD05Dl1lhaIeEf9ewZcM/ww=; h=From; b=THBdttaQmwBg4xtEzh87GJbI8Xw2O4/4niGocDMUVrGIyO9ts/yFDnfRRn31x02aSGtx8C5amjG7X6+LzUCJFIx9avcdOSfyzRHmlz/bNEzqnC546CidbYcZJ8g7dYAJDp6o20bDFNX1ni55W9b2dQkxmJWp3HfGGlwWhdEUccM=
+Date: Thu, 12 Mar 2015 11:05:25 +0900
+MIME-Version: 1.0
+From: mail@ykiqxpa0.link
+To: bruce@bruce-guenter.dyndns.org
+Message-Id: 107359530_296164554fa18e4ebc7b@ykiqxpa0.link
+Content-Type: text/plain; charset="Shift_JIS"
+Content-Transfer-Encoding: base64
+Subject: =?ISO-2022-JP?B?GyRCQD4xYDt7JEckOSEjO2QkTjtxOzobKEIxGyRCMi8bKEI0MDAwGyRCS3wkLCQiJGwkUCEiNS5KfSROTCRNaCRPTEAkayQvJEokaiReJDkkKyEpJGIkJkQ5JC8kT0A4JC0kaSRsJEokJDtkJE5CZSRvJGokSyEiJEkkJiQrOSwkOyRLJEokQyRGJCQkPyRAJDEkSiQkJEckNyRnJCYkKyEpGyhC?=
+
+kLyJgI6bj9KKlw0KDQqQvImAjpuCxYK3gUKOhILMjpGOWTGJrTQwMDCWnIKqgqCC6oLOgUGLTZX7
+gsyWopeIgs2WvoLpgq2CyILogtyCt4KpgUiC4IKkkreCrYLNkLaCq4LnguqCyIKijoSCzJHjgu2C
+6ILJgUGCx4KkgqmNS4K5gsmCyILBgsSCooK9gr6Cr4LIgqKCxYK1guWCpIKpgUgNCg0KaHR0cDov
+L3lraXF4cGEwLmxpbmsvJTdlcG8vbWFpbGJveC9QQzoxMTk5OTQzNTRmYTE4ZTRlYWYxNC9NQzpm
+NDhmMzc4ZTE4NjY2ZDA0OWVlZTY5OGQwOWZlYjM3OC8/Z3VpZD1PTg0KDQoNCoGfIFAgciBvIGMg
+aCBlIHMgkYsgjPsgDQoggaYggqggkFMgk5Yggr0ggugggswggsgggqIglfsggtYgDQogkd4gie8g
+gUUgg0kgg3Ygg2cgg0Egg0Ugg2cggswggrIgmEEgl40ggs0ggqggkJQggsUggrcggqogibogi0wg
+gqIggrggguoggqkggswgkYsgjPsggtYggXUgkd4gie8givMgll0ggXYggsYggrIgldQgkE0ggvAg
+gqggiugggqIgknYggrUggtwggrcggUIgDQo9PT09PT09PT09PT09DQojIyCR3iCJ7yCItiCQ5iAN
+CmluZm9AcHJvY2hlLXMuanANCiMjIJHeIInvIIN0IINIIIFbIIOAIA0KaHR0cDovL3lraXF4cGEw
+LmxpbmsvJTdlcG8vaW5xdWlyeS9QQzoxMTk5OTQzNTRmYTE4ZTRlYWYxNC9NQzpmNDhmMzc4ZTE4
+NjY2ZDA0OWVlZTY5OGQwOWZlYjM3OC8/Z3VpZD1PTg0KDQo0MzkxNjI=
+
+

@@ -4,14 +4,14 @@ __author__ = 'himanshu'
 import requests
 import unittest
 import json
-
+import os
 class TestSpamService(unittest.TestCase):
 
     def setUp(self):
         self.url = 'http://localhost:8000/'
 
     def test_basic(self):
-        file= open('./all_ham/X', 'rb')
+        file= open('./all_spam/1426089335.3311_583.lorien', 'rb')
         data = {}
         lineno = 0
 
@@ -22,7 +22,7 @@ class TestSpamService(unittest.TestCase):
             if l=="\n" or l=="":
                 break
             parts = l.split(":")
-            if parts[1]:
+            if len(parts)>1:
                 key = parts[0].rstrip('\n')
                 key = key.lower()
                 value = parts[1].rstrip('\n')
@@ -39,8 +39,39 @@ class TestSpamService(unittest.TestCase):
         }
         print data
         r = requests.post(self.url, data=data)
-        self.assertEqual("HAM", r.text+"\n"+str(data))
+        self.assertEqual("HAM", r.text)
+
+
+
+def fix_messages(folder_name):
+    files_folders = os.listdir(folder_name)
+    i=0
+    for f in files_folders:
+        try:
+            if f[0:3] == "dir" or f[0:3]=="spa":
+                fix_messages(folder_name.rstrip("/")+"/"+f)
+            else:
+                cur_file_path = folder_name.rstrip("/")+"/"+f
+                cur_file_contents = open(cur_file_path,'r').readlines()
+                cur_file = open(cur_file_path,'w')
+                i+=1
+                for lineno in range(0,len(cur_file_contents)-1):
+                    #cur_file.write(cur_file_contents[lineno])
+                    if "Received:" not in cur_file_contents[lineno] and "Delivered-To:" not in cur_file_contents[lineno] :
+                        cur_file.write(cur_file_contents[lineno])
+                        #print "YES", cur_file_contents[lineno]
+                    else:
+                        pass
+                        #print "NO", cur_file_contents[lineno]
+                cur_file.close()
+        except:
+            print f
+
+
+
+
 
 
 if __name__ == '__main__':
-    unittest.main()
+    #unittest.main()
+    fix_messages("./all_spam/")

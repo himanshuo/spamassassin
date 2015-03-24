@@ -1,0 +1,22 @@
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 13 Mar 2015 19:26:34 -0000
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 13 Mar 2015 19:26:34 -0000
+  by zak.futurequest.net ([69.5.6.152])
+  with ESMTP via TCP; 13 Mar 2015 19:26:33 -0000
+Return-Path: <mail007200014419551@time-z.jp>
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/simple; d=bdnlimma.xyz; s=sel; q=dns/txt; l=1; bh=VP0XESCfscB4EJI3QTLGbnniJBs=; h=From; b=HT0A7X5umI7zyrXDaRi6JCXkFinuuaq3DYrmgZ/z1mIW/ld/N0Yl7go8ouxyji9ME3AfOAz4Dsitq2TkgG09/UK6BnFCFkjoIb5PBi5owdqtc92FTG0FNQS8ZM6x/RFQ9RH8n87dU3UeBR/9MRVtBHLc7Ue+qjvC93fb9y8gG44=
+Date: Sat, 14 Mar 2015 04:26:31 +0900
+MIME-Version: 1.0
+From: mail@bdnlimma.xyz
+To: bruce@bruce-guenter.dyndns.org
+Message-Id: 789504661_742499054fdfbc7e1723@bdnlimma.xyz
+Content-Type: text/plain; charset="Shift_JIS"
+Content-Transfer-Encoding: base64
+Subject: =?ISO-2022-JP?B?GyRCIVozSDs2SVQyRCFbGyhC?=
+
+g42DZzaCzJOWkUmU1I2Gl1yReoNUg0ODZ4LMj5+XpjiKhIutgpeCl4KXgpeCl4KXgpeCl4KXgrWC
+qYLgg16DX4KXgpeCl4KXgpeCl4KXgpeCl4KXgpeCl4KXgpcNCmh0dHA6Ly9iZG5saW1tYS54eXov
+JTdldGkvbXlwYWdlL1BDOjc5MjI1MzU1NGZkZmJjN2UwNzliL0lDOnF6VzFjbDJvZ1ZVTjM1dlRL
+QkdoLz9ndWlkPU9ODQoNCg0KDQoNCg0KDQoNCg0KDQooIJOvICkgTiBFIFggVA==
+
+

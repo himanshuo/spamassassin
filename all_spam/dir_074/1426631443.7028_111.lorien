@@ -1,0 +1,11 @@
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 17 Mar 2015 04:01:00 -0000
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 17 Mar 2015 04:01:00 -0000
+  by zak.futurequest.net ([69.5.6.152])
+  with SMTP via TCP; 17 Mar 2015 04:00:59 -0000
+	by 69.203.209.131 with ESMTPA; Tue, 17 Mar 2015 00:01:28 -0500
+From: walek@centracare.com
+To: cvs@bruce-guenter.dyndns.org
+Subject: Ways last longer in bad
+Date: Mon, 16 Mar 2015 23:53:10 -0500
+

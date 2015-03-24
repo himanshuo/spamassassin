@@ -1,0 +1,87 @@
+  by mx04.futurequest.net ([69.5.6.175]); 14 Mar 2015 16:25:25 -0000
+  by rip.mx04.futurequest.net ([10.2.1.175])
+  with ESMTP via TCP; 14 Mar 2015 16:25:25 -0000
+	id S1751572AbbCNQZA (ORCPT <rfc822;bruce@untroubled.org>);
+	Sat, 14 Mar 2015 12:25:00 -0400
+	mail-lb0-f194.google.com" rhost-flags-OK-OK-OK-OK) by vger.kernel.org
+	with ESMTP id S1751058AbbCNQY6 (ORCPT
+	<rfc822;linux-kernel@vger.kernel.org>);
+	Sat, 14 Mar 2015 12:24:58 -0400
+        for <linux-kernel@vger.kernel.org>; Sat, 14 Mar 2015 09:24:56 -0700 (PDT)
+DKIM-Signature:	v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:reply-to:sender:date:message-id:subject:from:to
+         :content-type;
+        bh=IM/Q2q5/Nn24NIUmj7dsMrt4Jahp6yaniz45cMj2eNU=;
+        b=qTXQKKQRg/gemFjW0pcMg2l20xu8uEYlbBjoIJ3/onCfIVDpzNuu+J7RrCJAcBcBsd
+         vZegabBuv7sXE/PhIX4w+33BNnKZ75tw18VNJ7DbCayhWHQhUXjeL4oIj7BBHCQnYKU7
+         6QPwNZ1M5j5kpqIzEfG3v3yvQ+j/shC4wx3+oHV8rxyGcmuyLtAD6+crskDF8pawe7bk
+         uQ88TfhftWkXCLAaIPJozJoY7+74hQAw+eW/FNwDaU/hixwjt6yP6gOXYf82p9b4jcEs
+         u40S9XjkJiws6N7bCNkiwwL/fO+/r9ffwqrpWYwPKhLG+r3GthsukSvAf8gygLAqnFUA
+         hxZg==
+MIME-Version: 1.0
+ Sat, 14 Mar 2015 09:24:56 -0700 (PDT)
+Reply-To: dr.anthony_emmanuel@yahoo.fr
+Date:	Sat, 14 Mar 2015 17:24:56 +0100
+X-Google-Sender-Auth: WtIWpoKUxH2XjJsaeVgqMMDCYvs
+Message-ID: <CAJ+JwhT5aLJ+vbiGu180qTo10gwVtYEAt7d7-yLZaf5XcEdfRg@mail.gmail.com>
+Subject: TREAT AS URGENTLY PLEASE!
+From:	Dranthony Emmanuel <dr.anthony_emmanuel@yahoo.fr>
+To:	undisclosed-recipients:;
+Content-Type: text/plain; charset=ISO-8859-1
+Sender:	linux-kernel-owner@vger.kernel.org
+Precedence: bulk
+List-ID: <linux-kernel.vger.kernel.org>
+X-Mailing-List:	linux-kernel@vger.kernel.org
+
+FROM ( DR.ANTHONY EMMANUEL.)
+AUDITING AND ACCOUNTING UNIT.
+BANK OF AFRICA. BURKINA FASO.
+CONTACT ME HERE;( dr.anthony_emmanuel@yahoo.fr )
+
+Attn: Sir/ Madam,
+
+
+FROM ( DR.ANTHONY EMMANUEL.) Staff of Bank Of Africa in Burkina Faso. I
+would like you to indicate your  interest to  receive the transfer of
+(15.5 Million Dollars) which I will like you to stand as the next of
+kin to my late client whose account is presently dormant for claims.
+if you are interested,indicate and i will intimate you with the method
+of application and how you can apply to the bank.
+
+But before i send to you the text of application form,I will like you
+to send me the following informations
+
+1.NAME IN FULL:..............................
+2.ADDRESS:.......................................
+3.NATIONALITY:.................................. .
+4.AGE:.............................................
+5.SEX..............................................
+6.OCCUPATION:......................................
+7.MARITAL STATUS:..................................
+8.PRIAVTE PHONE NO.................................
+9.PRIVATE FAX NO:..........................
+10.ATTACH COPY OF YOUR IDENTIFICATION......
+
+Now my questions are:
+1) Can you handle this project?
+2) Can I give you this trust?
+
+so i will like you to send to me those informations for easy and
+effective communication.Upon receipt of your reply, I will send to you
+by fax or email the text of the application form.I will not fail to
+bring to your notice that this transaction is hitch-free and that you
+should not entertain any atom of fear as all required arrangements
+have been made for the transfer. You should contact me immediately as
+soon as you receive this letter,if only you are interested and ready
+to help On this Contact me. through my private email address (
+dr.anthony_emmanuel@yahoo.fr )
+
+Trusting to hear from you immediately.
+Do keep this a top secret for security reasons.
+
+Yours faithfully,
+(DR.ANTHONY EMMANUEL)
+--
+To unsubscribe from this list: send the line "unsubscribe linux-kernel" in
+the body of a message to majordomo@vger.kernel.org

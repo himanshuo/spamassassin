@@ -1,0 +1,71 @@
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 12 Mar 2015 00:20:21 -0000
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 12 Mar 2015 00:20:21 -0000
+  by zak.futurequest.net ([69.5.6.152])
+  with ESMTP via TCP; 12 Mar 2015 00:20:20 -0000
+	id D65691508432; Thu, 12 Mar 2015 09:17:51 +0900 (JST)
+	by localhost (Postfix) with ESMTP id B5B1D1048CEF
+	for <lists-linux-kernel@bruce-guenter.dyndns.org>; Thu, 12 Mar 2015 09:17:51 +0900 (JST)
+MIME-Version: 1.0
+Content-Type: multipart/related;
+ boundary="=_80cc9d2c488fa5c017926161ee5d9323"
+To: <lists-linux-kernel@bruce-guenter.dyndns.org>
+From: =?Shift_JIS?B?i4aLyYujlG4=?=<mail@satbohsma.com>
+Subject: =?Shift_JIS?B?k1OUwoujlG6BmY1Vl6qP7pXxg1SDQ4NngZk=?=
+Message-Id: <20150312001751.B5B1D1048CEF@wwroikh.kvjchaabx>
+Date: Thu, 12 Mar 2015 09:17:51 +0900 (JST)
+
+--=_80cc9d2c488fa5c017926161ee5d9323
+Content-Type: multipart/alternative;
+ boundary="=_b50874813443e97f3509a216b7015bed"
+
+--=_b50874813443e97f3509a216b7015bed
+Content-Transfer-Encoding: 7bit
+Content-Type: text/plain; charset=Shift_JIS
+
+
+--=_b50874813443e97f3509a216b7015bed
+Content-Transfer-Encoding: base64
+Content-Type: text/html; charset=Shift_JIS
+
+PCFET0NUWVBFIGh0bWwgUFVCTElDICItLy9XM0MvL0RURCBYSFRNTCAxLjEvL0VOIiAiaHR0cDov
+L3d3dy53My5vcmcvVFIveGh0bWwxMS9EVEQveGh0bWwxMS5kdGQiPgo8aHRtbD4NCjxib2R5Pjxk
+aXYgc3R5bGU9J2JvcmRlcjogMXB4IHNvbGlkIGJsYWNrOyBtYXJnaW4tbGVmdDogYXV0bzsgbWFy
+Z2luLXJpZ2h0OiBhdXRvOyB3aWR0aDogMjUwcHg7IGJhY2tncm91bmQtY29sb3I6ICc+PGltZyBz
+cmM9J2NpZDptYWlsX3RvcCcgc3R5bGU9J3dpZHRoOiAyNTBweDsnPjxicj4NCg0KDQqLuojQk0mS
+hpemgvCM1oLpi4aLyYNUg0ODZ4FJgUk8YnI+DQqUboyUl1yReoKpgueNxZBWg0mDYoNZj+6V8YLc
+gsU8YnI+DQqCt4LXgsSCzI/ulfGW1JeFgrWCxIKoguiC3IK3gUI8YnI+DQo8YnI+DQqOn4nxgXmV
+85LLi0yUT4F6jlGJwZhngqCCxoLtgriCqYFJgUk8YnI+DQqCqIt9gqyCrYK+grOCooFJPGJyPg0K
+PGEgaHJlZj0iaHR0cDovL3cxLnRyZXVlLW1lbnNjaC5jb20vMzh6L2VvNWZ0LnBocD95ND1KUUZH
+ODBGR0xtRkU4bUxnejB5bThNWjM4aFJ1OG1yRzgxYmIiPo5RicGCt4LpPC9hPjxicj4NCjxicj4N
+CoOKg3OBW4NegVuXpjk4gZOC8IzWgumO0IpPlOmP7pXxgvCQyYK1grCC4ILIgq2M9opKgUmBSTxi
+cj4NCpaekauCtYLEgqKCvYK+gq+C6YKxgsaK1IjhgqKCyIK1gUmBSTxicj4NCjxicj4NCpFTgsSC
+zI/ajdeCzTxicj4NCjxhIGhyZWY9Imh0dHA6Ly93MS50cmV1ZS1tZW5zY2guY29tLzM4ei9lbzVm
+dC5waHA/eTQ9SlFGRzgwRkdMbUZFOG1MZ3oweW04TVozOGhSdThtckc4MWJiIj6CsYK/guc8L2E+
+PGJyPg0KDQo8YnI+DQo8YnI+DQo8YnI+DQo8YnI+DQo8YnI+DQo8YnI+DQo8YnI+DQo8YnI+DQo8
+YnI+DQo8YnI+DQo8YnI+DQo8YnI+DQo8YnI+DQo8YnI+DQo8YnI+DQqBpCCCqI9agtyCooLMkm6I
+5oLMgreCronvgqaC6Y+XkKuC8IK3gq6CyYypgsKCr4LpjpaCqo9vl4iC3IK3gUI8YnI+DQo8YSBo
+cmVmPSJodHRwOi8vdzEudHJldWUtbWVuc2NoLmNvbS8zOHovZW81ZnQucGhwP3k0PUxtTEc4TW8x
+ejBvbUwwSHA4TXB3OE1UTjhNODE3MDhiIj6Pb4nvgqKDaYNyPC9hPjxicj4NCjxicj4NCoGkIIy7
+jsCTSYLJjvuT/ILwkZ2C4oK1gr2CopX7gsmVS4ypgXmTb5hekGyQlJCnjMCShoFBjmOC6Izji82C
+qYF6PGJyPg0KPGEgaHJlZj0iaHR0cDovL3cxLnRyZXVlLW1lbnNjaC5jb20vMzh6L2VvNWZ0LnBo
+cD95ND10MEZtOFFwbUxta0c4bWtHN1Fpd3owMjM4RXl1NzBrdTd5YmIiPo/ajdeCzYNSg2CDiTwv
+YT48YnI+DQo8YnI+DQqBpCCVc5fPgUWDWoN0g4yBRYqEguiQ2ILogsyK1oxXgvCCqJJUgrWCzJX7
+gs2VS4ypgUmBSTxicj4NCjxhIGhyZWY9Imh0dHA6Ly93MS50cmV1ZS1tZW5zY2guY29tLzM4ei9l
+bzVmdC5waHA/eTQ9TG1GNTdRaXd6bXlnOG1VTjhNODE3MHpwOE1wdzhNVDN6eWJiIj6P2o3Xgs2D
+UoNgg4mCqYLnPC9hPjxicj4NCjxicj4NCoGkIILHgsiCvYLFguCXiJNYlXOXdoLFkaaT+pdajpGC
+qonClFwhITxicj4NCjxhIGhyZWY9Imh0dHA6Ly93MS50cmV1ZS1tZW5zY2guY29tLzM4ei9lbzVm
+dC5waHA/eTQ9SlFGRzgwRkdMbThHN1FyRTgwOEc4MEgzek9SdThtckc4MWJiIj6NoYK3gq6XWo6R
+gvCO84Kvguk8L2E+PGJyPg0KPGJyPg0KPGJyPg0KPGJyPg0KPGEgaHJlZj0iaHR0cDovL3cxLnRy
+ZXVlLW1lbnNjaC5jb20vMzh6L28xZS5waHA/eTQ9dDBGbThRcG1MbXl3OFFQdzcwOEU4MDNwOE1w
+dzhNcGIiPo13k8ePSZe5PC9hPjxicj4NCjxicj4NCjxicj4NCjwvZGl2PjwvYm9keT4NCjwvaHRt
+bD4=
+--=_b50874813443e97f3509a216b7015bed--
+
+--=_80cc9d2c488fa5c017926161ee5d9323
+Content-Type: message/external-body; access-type=x-deleted; length=1702
+
+
+Content-Transfer-Encoding: base64
+Content-ID: <mail_top>
+Content-Type: image/gif;

@@ -1,0 +1,65 @@
+  by mx01.futurequest.net ([69.5.6.171]); 22 Mar 2015 23:58:30 -0000
+  by rip.mx01.futurequest.net ([10.2.1.171])
+  with ESMTP via TCP; 22 Mar 2015 23:58:30 -0000
+	id 8DE873CB472A; Mon, 23 Mar 2015 00:34:12 +0100 (CET)
+To: bruce@untroubled.org
+Subject: Please visit ANZ Customer Center!
+X-PHP-Originating-Script: 10001:terms.php
+From: ANZ Internet Banking <email2@anz.com.au>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="b90ac9b07b49bfc6df0314b369cd9cc0"
+Message-Id: <20150322235829.8DE873CB472A@ns220235.ip-188-165-239.eu>
+Date: Mon, 23 Mar 2015 00:34:12 +0100 (CET)
+Content-Length: 2208
+
+This is a multi-part message in MIME format.
+--b90ac9b07b49bfc6df0314b369cd9cc0
+Content-type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html;
+      charset=windows-1251">
+    <title>ANZ Customer Center</title>
+  </head>
+  <body>
+    <table class="MsoNormalTable"
+      style="width:430.25pt;mso-cellspacing:0in;mso-yfti-tbllook:1184;mso-padding-alt:
+
+      7.5pt 7.5pt 7.5pt 7.5pt" id="table3" border="1" width="625"
+      cellpadding="0" cellspacing="0">
+      <tbody>
+        <tr
+          style="mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes">
+          <td style="padding:7.2pt 7.2pt 7.2pt 7.2pt" width="621">
+            <p align="left" style="color:red" ><b>Unauthorized access to your ANZ account.</b></p>
+            <p align="left">We recently noticed more attempts to log in
+              to your ANZ account from a foreign computer or device.</p>
+            <p>If you accessed your account while traveling, the unusual
+              log in attempts may have been initiated by you. However,
+              if you are the rightfull holder of the account, please
+              visit ANZ Customer Center as soon as possible to
+              verify your identity:</p>
+            <table align="center" bgcolor="#DCDCDC" border="0"
+              width="50%" cellpadding="3" cellspacing="0">
+              <tbody>
+                <tr>
+                  <td align="center">
+                    <div align="center"><a href="http://otokupon.pl/cron/anz/"> ANZ Customer Center</a href> </div>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <p align="left">Confirm that you're the owner of the account
+              and then follow the instructions.</p>
+            <p align="left">If you choose to ignore our request, you
+              leave us no choise but to temporaly suspend your account</p>
+            <p align="left">Regards,<br>
+              ANZ Customer Center<br>
+            </p>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <p align="left"> </p>
