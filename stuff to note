@@ -69,9 +69,13 @@ next steps:
 REMEMBER WHAT THE ENTREPENEURSHIP GUY SAID: DO STUFF. IT MAKES PEOPLE THINK YOU ARE LEGIT. JUST KEEP PRODUCING MORE CONTENT!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 9) AUTOLEARNING                                                                                          DONE(autolearn if header>3 body>3 in either direction.)
 10)user says to learn
+    --procedure to allow for sa-learn sudo usage is described in the following link:
+    http://askubuntu.com/questions/155791/how-do-i-sudo-a-command-in-a-script-without-being-asked-for-a-password
+    --the file used for this is called call_sa-learn.sh. I made it 777 for our purposes. This is NOT
+    safe for production.
 11)file input
 12)multilanguage support                                                                                 DONE
-13)
+
 
 
 Confident that spamd is running in parallel                                                             DONE

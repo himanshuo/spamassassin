@@ -1,0 +1,73 @@
+  by mx13.futurequest.net ([69.5.6.186]); 11 Mar 2015 04:11:57 -0000
+  by rip.mx13.futurequest.net ([10.2.1.186])
+  with ESMTP via TCP; 11 Mar 2015 04:11:57 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=targetmail.ro;
+ h=To:Subject:Message-ID:Date:From:Reply-To:MIME-Version:List-Unsubscribe:Content-Type:Content-Transfer-Encoding; i=clienti@targetmail.ro;
+ bh=ESauJU+blwm9az8VhMBQn1clIA4=;
+ b=hwuYXAxHFdXQovJkRD1bjLFVvMqWrADxHVYRl2SJcXlINBpHMEp6eTpwwKW4MOKwaJi/lGVW83DQ
+   3SQ+fWzj9wHG1IWop+WShDvmy6viDOCsvxBu1h8W7ybi7nszA9nr/B9/LE0veeSJw6f2gjN9qIlM
+   JpQjpVjImDck48VfmZI=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=targetmail.ro;
+ b=Trzk60VpIgtTjEZPQTe4GEMoADbW0vq4Pt6b/IwhCAMQnBOG6m+JzwTRfDNRc/nTBU5j1yuFJ+hy
+   xgSdlDKmM865nnM0/1O2g+Troalg9ja696+nwLn8D4NGgwZTHDqrapsWa7Kb9XD6otQsj8v19JHR
+   n+NGDCg6ZvQ8IlenZGk=;
+To: bruce@untroubled.org
+Subject: Seminte de strugure rosu
+Message-ID: <b0f0b95194c923bceb93afd946ffc368@targetmail-news.com>
+Return-Path: bounce@targetmail-news.com
+Date: Tue, 10 Mar 2015 22:35:17 +0000
+From: "Medicul recomanda" <clienti@targetmail.ro>
+Reply-To: clienti@targetmail.ro
+MIME-Version: 1.0
+X-Mailer-LID: 12
+List-Unsubscribe: <http://targetmail-news.com/unsubscribe.php?M=2974174&C=c0b4e7941e03b6d86f0f2a914a288194&L=12&N=88>
+X-Mailer-RecptId: 2974174
+X-Mailer-SID: 88
+X-Mailer-Sent-By: 5
+Content-Type: multipart/alternative; charset="UTF-8"; boundary="b1_9f7e17b8c015be9b503c3c306a4df092"
+Content-Transfer-Encoding: 8bit
+
+--b1_9f7e17b8c015be9b503c3c306a4df092
+Content-Type: text/plain; format=flowed; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+Your email client cannot read this email.
+To view it online, please go here:
+http://targetmail-news.com/display.php?M=2974174&C=c0b4e7941e03b6d86f0f2a914a288194&S=88&L=12&N=29
+
+
+To stop receiving these
+emails:http://targetmail-news.com/unsubscribe.php?M=2974174&C=c0b4e7941e03b6d86f0f2a914a288194&L=12&N=88
+EMAIL MARKETING
+
+--b1_9f7e17b8c015be9b503c3c306a4df092
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+</head>
+<body>
+<p>Semintele de strugure rosu sint o sursa valoroasa de antioxidanti
+naturali.<br /> Obtinute din struguri rosii, coapte de razele soarelui,
+semintele sint atent selectate si trecute printr-un proces special de
+prelucrare si macinare. Marimea particulelor este de 200-400 microni pentru
+o asimilare optima in organism.<br /> Semintele de strugure rosu sint
+bogate in flavonoide.<br /> Prezenta flavonoidelor se leaga de sanatatea
+arterelor, capilarelor, ligamentelor, tendoanelor, a sistemului imunitar si
+a pielii, imbunatateste oxigenarea si nutritia tesuturilor.<br /> <a
+href="http://targetmail-news.com/link.php?M=2974174&N=88&L=171&F=H"
+target="_blank" title="This external link will open in a new
+window"><strong>Cititi detalii.... <br /></strong></a></p>
+<p>Daca nu mai doriti sa primiti aceste emailuri, click pe linkul de <a
+href="http://targetmail-news.com/unsubscribe.php?M=2974174&C=c0b4e7941e03b6d86f0f2a914a288194&L=12&N=88">dezabonare</a></p>
+<p><a href="http://targetmail-news.com/link.php?M=2974174&N=88&L=171&F=H"
+target="_blank" title="This external link will open in a new
+window"><strong><br /></strong></a></p>
+<p><a href="http://targetmail-news.com/link.php?M=2974174&N=88&L=171&F=H"
+target="_blank" title="This external link will open in a new
+window"><strong></strong></a></p>
+<br/>TARGETMAIL<img
+src="http://targetmail-news.com/open.php?M=2974174&L=12&N=88&F=H&image=.jpg"
+height="1" width="10"></body>
+</html>

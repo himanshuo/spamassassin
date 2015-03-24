@@ -31,9 +31,9 @@ class MainHandler(tornado.web.RequestHandler):
 
     def prepare(self):
         #setup command
-        user_preferences_file = "./user_preferences/user_prefs"
 
-        command = "spamc -c --prefspath="+user_preferences_file
+
+        command = "spamc -c"
         args = shlex.split(command)
 
 
@@ -216,12 +216,16 @@ class TeacherHandler(MainHandler):
     def prepare(self):
 
 
+
+        command = "sa-learn"
+
+
         self.STREAM = tornado.process.Subprocess.STREAM
         self.teaching_spam_proc = tornado.process.Subprocess(
-            shlex.split("sa-learn --spam"), stdin=self.STREAM, stdout=self.STREAM, stderr=self.STREAM
+            shlex.split(command+" --spam"), stdin=self.STREAM, stdout=self.STREAM, stderr=self.STREAM
         )
         self.teaching_ham_proc = tornado.process.Subprocess(
-            shlex.split("sa-learn --ham"), stdin=self.STREAM, stdout=self.STREAM, stderr=self.STREAM
+            shlex.split(command+" --ham"), stdin=self.STREAM, stdout=self.STREAM, stderr=self.STREAM
         )
 
         self.PREDEFINED_HEADERS = {

@@ -14,12 +14,12 @@ for line in open('SMSSpamCollection').readlines():
     first_word = line.split()[0]
     text = convert_to_string(line.split()[1:])
     if first_word=="ham":
-        f= open("./ham/"+str(i), 'w')
+        f= open("./ham/"+"smsham"+str(i), 'w')
         print text
         f.write(text)
         f.close()
     else:
-        f= open("./spam/"+str(i), 'w')
+        f= open("./spam/"+"smsspam"+str(i), 'w')
         f.write(text)
         f.close()
 

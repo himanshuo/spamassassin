@@ -1,0 +1,38 @@
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 11 Mar 2015 08:52:52 -0000
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 11 Mar 2015 08:52:52 -0000
+  by zak.futurequest.net ([69.5.6.152])
+  with SMTP via TCP; 11 Mar 2015 08:52:50 -0000
+Return-Path: <david.guggisberg@konolfingen.ch>
+ by klima-therm.home.pl (79.96.3.3) with SMTP (IdeaSmtpServer v0.80)
+ id 9cd50ba8f139a2ac; Wed, 11 Mar 2015 09:52:49 +0100
+Date: Wed, 11 Mar 2015 09:52:49 +0100
+To: cvs@bruce-guenter.dyndns.org
+From: =?UTF-8?Q?Financial_Depth?= <david.guggisberg@konolfingen.ch>
+Subject: =?UTF-8?Q?Unpaid_Invoice_No_=2d_=37=34=38=38=32?=
+Message-ID: <aa0c9a7b5b2e84aec1fb16becb469a68@kaisai.co>
+X-Priority: 3
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="b1_aa0c9a7b5b2e84aec1fb16becb469a68"
+
+
+--b1_aa0c9a7b5b2e84aec1fb16becb469a68
+Content-Type: text/html; charset = "us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<body>
+<br />
+<br />
+<p>Attached is Unpaid Invoice for the Month Febuary</p>
+<br />
+<br />
+<p>Regards.</p>
+--b1_aa0c9a7b5b2e84aec1fb16becb469a68
+Content-Type: message/external-body; access-type=x-deleted; length=305712
+
+
+Content-Type: application/octet-stream; name="Invoice - #7382934.doc"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="Invoice - #7382934.doc"
