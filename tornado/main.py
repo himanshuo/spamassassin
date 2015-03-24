@@ -24,18 +24,27 @@ from pprint import pprint
 import json
 import datetime
 
-class GenAsyncHandler(tornado.web.RequestHandler):
+class MainHandler(tornado.web.RequestHandler):
     #THIS MIGHT BE NOT PARALLEL. 2ish reasons:
         # prepare is something that is run at start of server. NOT LIKELY A PROBLEM, BUT WHO KNOWS?
         # ACTUAL POTENTIAL PROBLEM: the stdin takes in a PIPE instead of a stream.
 
     def prepare(self):
         #setup command
-        command = "spamc -c"
+        user_preferences_file = "./user_preferences/user_prefs"
+
+        command = "spamc -c --prefspath="+user_preferences_file
         args = shlex.split(command)
-        STREAM = tornado.process.Subprocess.STREAM
+
+
+        self.STREAM = tornado.process.Subprocess.STREAM
+
         self.proc = tornado.process.Subprocess(
-            args, stdin=STREAM, stdout=STREAM, stderr=STREAM
+            args, stdin=self.STREAM, stdout=self.STREAM, stderr=self.STREAM
+        )
+
+        self.full_report_proc = tornado.process.Subprocess(
+            shlex.split("spamc"), stdin=self.STREAM, stdout=self.STREAM, stderr=self.STREAM
         )
 
         self.PREDEFINED_HEADERS = {
@@ -46,11 +55,18 @@ class GenAsyncHandler(tornado.web.RequestHandler):
 
 
 
-        self.full_report_proc = tornado.process.Subprocess(
-            shlex.split("spamc"), stdin=STREAM, stdout=STREAM, stderr=STREAM
-        )
 
 
+    def _format_header_val(self,key, value ):
+        key = str(key).capitalize()
+        if isinstance(value, (list, tuple)):
+            out = key+": "
+            for v in value:
+                out+= str(v) + ", "
+            out = str[0:-2] + "\n"
+            return out
+        else:
+            return key+": "+str(value)+"\n"
 
 
 
@@ -84,16 +100,6 @@ class GenAsyncHandler(tornado.web.RequestHandler):
     #         received += "by " data.get('email')
     #         if data.get('')
 
-    def _format_header_val(self,key, value ):
-        key = str(key).capitalize()
-        if isinstance(value, (list, tuple)):
-            out = key+": "
-            for v in value:
-                out+= str(v) + ", "
-            out = str[0:-2] + "\n"
-            return out
-        else:
-            return key+": "+str(value)+"\n"
 
     def _get_custom_headers(self, data):
         #not predefined, but we really want it.
@@ -129,26 +135,22 @@ class GenAsyncHandler(tornado.web.RequestHandler):
         if data.get('project_name'):
             header+=self._format_header_val("Subject",data.get('project_name'))
 
-
-
         #header+=self._add_recieved_header()
 
         return header
+
+
 
     @coroutine
     def call_spamassassin(self, data, full_report=False):
         """
         Wrapper around subprocess call using Tornado's Subprocess class.
         """
-
         #add headers to stdin_data
         #bytes to string. then add header strings then \n then reconvert to bytes
         #message = str.decode(stdin_data,'utf-8')
-
         message_with_header = self._get_custom_headers(data) +"\n" + data['message']
-
         stdin_data = str.encode(message_with_header)
-
         cur_proc = self.proc
         if full_report:
             cur_proc = self.full_report_proc
@@ -196,7 +198,7 @@ class GenAsyncHandler(tornado.web.RequestHandler):
             #     result, error = yield gen.Task(self.call_spamassassin,email_bytes)
             # print(result)
 
-            if 'full_report' in data and data.get('full_report')=="True":
+            if 'full_report' in data and data.get('full_report'):
                 result,error = yield gen.Task(self.call_spamassassin,data,full_report=True )
             else:
                 result,error = yield gen.Task(self.call_spamassassin,data,full_report=False )
@@ -209,13 +211,78 @@ class GenAsyncHandler(tornado.web.RequestHandler):
 
 
 
+class TeacherHandler(MainHandler):
+
+    def prepare(self):
 
 
+        self.STREAM = tornado.process.Subprocess.STREAM
+        self.teaching_spam_proc = tornado.process.Subprocess(
+            shlex.split("sa-learn --spam"), stdin=self.STREAM, stdout=self.STREAM, stderr=self.STREAM
+        )
+        self.teaching_ham_proc = tornado.process.Subprocess(
+            shlex.split("sa-learn --ham"), stdin=self.STREAM, stdout=self.STREAM, stderr=self.STREAM
+        )
+
+        self.PREDEFINED_HEADERS = {
+            'Content-Type': 'text/plain; charset=UTF-8',
+            'MIME-Version': 1.0
+        }
 
 
+    @coroutine
+    def teach_spamassassin(self, data):
+        """
+        NOTE: http://askubuntu.com/questions/159007/how-do-i-run-specific-sudo-commands-without-a-password
+        sa-learn requires sudo. In this case, I just made it so that for this specific command (sa-learn)
+        we do not need to use sudo. O
+        Other way to handle this is to call sudo using process and then input a password. This is bad way.
+        :param data:
+        :return:
+        """
+        cur_proc = None
+        if data.get('spam'):
+            cur_proc = self.teaching_spam_proc
+        else:
+            cur_proc = self.teaching_ham_proc
+
+        message_with_header = self._get_custom_headers(data) +"\n" + data['message']
+        stdin_data = str.encode(message_with_header)
+
+        yield Task(cur_proc.stdin.write, stdin_data)
+
+        cur_proc.stdin.close()
+        result, error = yield [
+            Task(cur_proc.stdout.read_until_close),
+            Task(cur_proc.stderr.read_until_close)
+        ]
+
+        return result, error
+
+
+    @gen.coroutine
+    def post(self):
+        data = json.loads(self.request.body.decode('utf-8'))
+        print(data)
+        if 'message' in data:
+            result,error = yield gen.Task(self.teach_spamassassin,data )
+
+            print("-----------------------------------")
+            print(error)
+            print("-----------------------------------")
+            if not error:
+                self.write("Learned")
+                self.finish()
+            else:
+                self.set_status(400)
+                self.finish("Malformed Request")
+        else:
+            self.write("No Message Given\n")
+            self.finish()
 
 application = tornado.web.Application([
-    (r"/", GenAsyncHandler)
+    (r"/", MainHandler),
+    (r"/teach", TeacherHandler)
 ], debug=True, autoreload=True)
 
 if __name__ == "__main__":

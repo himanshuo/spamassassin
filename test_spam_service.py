@@ -9,9 +9,11 @@ class TestSpamService(unittest.TestCase):
 
     def setUp(self):
         self.url = 'http://localhost:8000/'
+        self.teach_url = "http://localhost:8000/teach"
 
-    def test_basic(self):
-        file= open('./all_spam/1426089335.3311_583.lorien', 'rb')
+
+    def _setup_request_data(self, filename):
+        file= open(filename, 'rb')
         data = {}
         lineno = 0
 
@@ -31,15 +33,31 @@ class TestSpamService(unittest.TestCase):
         message= '\n'.join(lines[lineno:])
         message = message.rstrip('\n')
         data['message'] = message
+        return data
+
+    def test_basic(self):
+        data = self._setup_request_data('./all_spam/1426089335.3311_583.lorien')
         data = json.dumps(data)
 
 
         headers = {
             'Content-type': 'application/json'
         }
-        print data
+
         r = requests.post(self.url, data=data)
         self.assertEqual("HAM", r.text)
+
+    def test_teach(self):
+        data = self._setup_request_data('./all_spam/1426089335.3311_583.lorien')
+        data = json.dumps(data)
+
+
+        headers = {
+            'Content-type': 'application/json'
+        }
+
+        r = requests.post(self.teach_url, data=data)
+        self.assertEqual("Learned.", r.text)
 
 
 
@@ -73,5 +91,5 @@ def fix_messages(folder_name):
 
 
 if __name__ == '__main__':
-    #unittest.main()
-    fix_messages("./all_spam/")
+    unittest.main()
+    #fix_messages("./all_spam/")
