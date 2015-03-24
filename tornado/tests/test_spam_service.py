@@ -36,9 +36,9 @@ class TestSpamService(unittest.TestCase):
     #     self.assertEqual("HAM", r.text)
 
     def test_non_spam_with_no_email_headers(self):
-        files = {'file': open('non_spam_with_no_email_headers.txt', 'rb')}
+        file= open('non_spam_with_no_email_headers.txt', 'rb')
         data = json.dumps({
-            'message': files['file'].read(),
+            'message': file.read(),
             'email':'ho2es@virginia.edu',
         })
         headers = {

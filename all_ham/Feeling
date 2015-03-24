@@ -1,1 +1,87 @@
+Title: Feeling the future again: A replication attempt of Maier et al. (submitted, Exp. 4)
+Description: The project described herein tries to replicate a study that has been described in an unpublished paper authored by Maier et al. entiteld "Feeling the Future Again: Retroactive Avoidance of Negative Stimuli". This manuscript is currently under review at Frontiers in Psychology and can be ordered from markus.maier@psy.lmu.de. 
+
+The following Method will be used:
+
+Materials
+
+Software and Computer
+The study will be conducted using a HP Compaq 6005 Pro MT computer, a Samsung Sync Master 204B 20’’monitor (56Hz) and a HP keyboard. Eprime 2.0 software for designing psychological experiments will used for response registration and picture presentation. The left and right keys of the Eprime response box serve as response registration device. They will be placed at the table in front of the participants with the two response keys being centred to the midpoint of the computer monitor. The monitor will be placed at a distance of about 50 cm to the participant.
+
+Stimuli
+The stimulus pictures will be taken from the International Affective Picture System (IAPS] (Lang et al., 2008), which provides an experimental set of 1169 digitized photographs with normative rating scores (using a 9 point rating scale) on valence and arousal. A set of 10 extremely negative (mean = 1.73; SD = 0.27) and 10 neutral pictures will be  (mean = 4.90; SD = 0.27).
+
+Experimenters
+Only informally trained undergraduate research assistants will be used as experimenters. They will be double blind, i.e., they will not know anything about the goal of the study, nor danything about the pictures used in this experiment.
+
+Procedure
+Each participant will be tested individually in a quiet lab room. Light will dimmed in the windowless room. The study described here will be the final experiment in a series of three studies. the first two studies will last about 20 minutes. After the completion of the two studies, participants will be informed about Study 3. A written instruction will presented on the screen: 
+
+“In the following experiment you have to press two keys on the response box as simultaneous as possible. You will see this instruction on the monitor‘s screen:
+
+Please Press the Keys
+
+While seeing this instruction, please press both keys as simultaneous as possible!
+
+Afterwards colored stimuli will be presented which you should simply watch.”
+ 
+After the participant had read the instruction, the experimenter explains that the participant should put the index fingers on the left and right keys of the response box. Both keys will be placed on the table in front of the participant exactly at the same horizontal position as the midpoint of the computer screen. The experimenter emphasizes that both index fingers should slightly touch the cursor keys throughout the experiment, and once the command appears, they should press both keys as simultaneously as possible. Participants will be informed that there is no rush, but the response should be made spontaneous, and that after the key-press they should simply watch the following presentation of a colored stimulus. 
+
+Each trial starts with the key-press command presented on the screen. Once the key-press was performed, the command line disappeares and after a 500 msec delay with a black screen, a masked positive or negative picture will be presented. The masked picture presentation consists of three consecutive stimulus presentations. First, a masking stimulus will be presented for 72 msec, followed by the presentation of a negative or positive picture for 18 msec, again followed by the same mask for 72 msec. Each negative and positive picture will be combined with an individual mask. The masking stimulus was constructed by dividing the original picture into small squares that were randomly re-arranged. The resulting mask consisted of the same color and lightness properties as the original picture and could therefore effectively mask the content of the picture ensuring a subliminal presentation. After the second masking stimulus had disappeared, a 3000 msec inter-trial interval appeares before the key-press command initiated the next trial. A total of 60 trial presentations will be used in this study. The 60 experimental trials will be preceded by three practice trials with neutral pictures helping the participants to familiarize themselves with the task. 
+
+The trial randomization procedure:
+ A quantum based number generator (QRNG) from id Quantique will be used which can be found at www.idquantique.com. This hardware device passed both DIEHARD and NIST tests of randomness and is actually one of the most powerful ways to generate true random numbers (Turiel, 2007). Using this device, for each individual session, a random list of 60 bits (0/1) was constructed and stored. Each bit corresponded to one trial in our experiment in the order it has been created initially, i.e., trial 1 was related to the first bit, trial 2 to the second, etc. In addition, during each trial, directly after the key press of the participant the RNG that was connected to the computer randomly will create another bit (0/1). Since Quantis is not operating with a buffer, it was ensured that the actual bit used is always created after the key-press. The combination of initially created bits from the list and the actual RNG then define whether a negative masked picture will appear after a left or after a right key-press. 
+
+Sample size and data analyses:
+For sample size estimation, data collection and data analyses, we will follow the suggestions made by Eric-Jan Wagenmakers (made in a previous review and in personal communication). His suggestions are printed with his permission:
+
+1. Bayesian analyses, with a one-tailed approach and a r = .1 from the Cauchy distribution will be performed.
+
+2. After a minimum of 50 subjects, the Bayes factor is monitored continuously after each subsequent participant (i.e. after n=51, again after n=52, etc.) until it supports H0 or H1, passing the threshold for strong evidence (10 and 1/10). Thus, evidence can be monitored until the data either support H0 or H1. 
+
+Data collection will start around October 15th 2013 at the beginning of our fall semester.
+Contributors: Markus Maier
+Tags: 
+
 Feeling the future again: A replication attempt of Maier et al. (submitted, Exp. 4)
+The project described herein tries to replicate a study that has been described in an unpublished paper authored by Maier et al. entiteld "Feeling the Future Again: Retroactive Avoidance of Negative Stimuli". This manuscript is currently under review at Frontiers in Psychology and can be ordered from markus.maier@psy.lmu.de. 
+
+The following Method will be used:
+
+Materials
+
+Software and Computer
+The study will be conducted using a HP Compaq 6005 Pro MT computer, a Samsung Sync Master 204B 20’’monitor (56Hz) and a HP keyboard. Eprime 2.0 software for designing psychological experiments will used for response registration and picture presentation. The left and right keys of the Eprime response box serve as response registration device. They will be placed at the table in front of the participants with the two response keys being centred to the midpoint of the computer monitor. The monitor will be placed at a distance of about 50 cm to the participant.
+
+Stimuli
+The stimulus pictures will be taken from the International Affective Picture System (IAPS] (Lang et al., 2008), which provides an experimental set of 1169 digitized photographs with normative rating scores (using a 9 point rating scale) on valence and arousal. A set of 10 extremely negative (mean = 1.73; SD = 0.27) and 10 neutral pictures will be  (mean = 4.90; SD = 0.27).
+
+Experimenters
+Only informally trained undergraduate research assistants will be used as experimenters. They will be double blind, i.e., they will not know anything about the goal of the study, nor danything about the pictures used in this experiment.
+
+Procedure
+Each participant will be tested individually in a quiet lab room. Light will dimmed in the windowless room. The study described here will be the final experiment in a series of three studies. the first two studies will last about 20 minutes. After the completion of the two studies, participants will be informed about Study 3. A written instruction will presented on the screen: 
+
+“In the following experiment you have to press two keys on the response box as simultaneous as possible. You will see this instruction on the monitor‘s screen:
+
+Please Press the Keys
+
+While seeing this instruction, please press both keys as simultaneous as possible!
+
+Afterwards colored stimuli will be presented which you should simply watch.”
+ 
+After the participant had read the instruction, the experimenter explains that the participant should put the index fingers on the left and right keys of the response box. Both keys will be placed on the table in front of the participant exactly at the same horizontal position as the midpoint of the computer screen. The experimenter emphasizes that both index fingers should slightly touch the cursor keys throughout the experiment, and once the command appears, they should press both keys as simultaneously as possible. Participants will be informed that there is no rush, but the response should be made spontaneous, and that after the key-press they should simply watch the following presentation of a colored stimulus. 
+
+Each trial starts with the key-press command presented on the screen. Once the key-press was performed, the command line disappeares and after a 500 msec delay with a black screen, a masked positive or negative picture will be presented. The masked picture presentation consists of three consecutive stimulus presentations. First, a masking stimulus will be presented for 72 msec, followed by the presentation of a negative or positive picture for 18 msec, again followed by the same mask for 72 msec. Each negative and positive picture will be combined with an individual mask. The masking stimulus was constructed by dividing the original picture into small squares that were randomly re-arranged. The resulting mask consisted of the same color and lightness properties as the original picture and could therefore effectively mask the content of the picture ensuring a subliminal presentation. After the second masking stimulus had disappeared, a 3000 msec inter-trial interval appeares before the key-press command initiated the next trial. A total of 60 trial presentations will be used in this study. The 60 experimental trials will be preceded by three practice trials with neutral pictures helping the participants to familiarize themselves with the task. 
+
+The trial randomization procedure:
+ A quantum based number generator (QRNG) from id Quantique will be used which can be found at www.idquantique.com. This hardware device passed both DIEHARD and NIST tests of randomness and is actually one of the most powerful ways to generate true random numbers (Turiel, 2007). Using this device, for each individual session, a random list of 60 bits (0/1) was constructed and stored. Each bit corresponded to one trial in our experiment in the order it has been created initially, i.e., trial 1 was related to the first bit, trial 2 to the second, etc. In addition, during each trial, directly after the key press of the participant the RNG that was connected to the computer randomly will create another bit (0/1). Since Quantis is not operating with a buffer, it was ensured that the actual bit used is always created after the key-press. The combination of initially created bits from the list and the actual RNG then define whether a negative masked picture will appear after a left or after a right key-press. 
+
+Sample size and data analyses:
+For sample size estimation, data collection and data analyses, we will follow the suggestions made by Eric-Jan Wagenmakers (made in a previous review and in personal communication). His suggestions are printed with his permission:
+
+1. Bayesian analyses, with a one-tailed approach and a r = .1 from the Cauchy distribution will be performed.
+
+2. After a minimum of 50 subjects, the Bayes factor is monitored continuously after each subsequent participant (i.e. after n=51, again after n=52, etc.) until it supports H0 or H1, passing the threshold for strong evidence (10 and 1/10). Thus, evidence can be monitored until the data either support H0 or H1. 
+
+Data collection will start around October 15th 2013 at the beginning of our fall semester.

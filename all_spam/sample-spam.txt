@@ -1,17 +1,5 @@
-Return-Path: 
-X-Track: 27972: 2
-X-Rocket-Spam: 199.29.80.200
-X-YahooFilteredBulk: 199.29.80.200
-Received: from portal.plx.com (199.29.80.200)
-  by mta448.mail.yahoo.com with SMTP; 10 Oct 2001 17:48:42 -0700 (PDT)
-Received: from LPDURTIA by portal.plx.com (SMI-8.6/SMI-SVR4)
-    id RAA06725; Wed, 10 Oct 2001 17:47:37 -0700
-Message-Id: <200110110047.RAA06725@portal.plx.com>
 From: "Kevin Gunn" 
 Subject: product for you... but i think u need to buy it
-X-Priority: 3
-X-MSMail-Priority: Normal
-X-Mailer: DSS PLATINUM PRO
 Date: Thu, 11 Oct 2001 3:47:35 +0200
 Mime-Version: 1.0
 Content-Type: text/plain; charset="Windows-1251"

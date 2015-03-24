@@ -34,23 +34,27 @@ for project in results['results']:
         filename = "osffile"+str(l)
         f= open("./ham/"+str(filename), 'w')
     try:
+
         fields = ['title','description', 'contributors', 'tags']
-        out=""
-        for f in fields:
-            value = project.get(f,'') or ""
-            value = str(value.encode('utf-8','ignore'))
-            text = f.capitalize() +": " + value+"\n"
-            text = text.encode('utf-8','ignore')
+        out=u""
+        for field in fields:
+
+            value = project.get(field,'') or u""
+            if (isinstance(value, list)):
+                value =  u', '.join(value)
+            #value = value.encode('utf-8','ignore')
+            text = field.capitalize() +u": " + value+u"\n"
+            #text = text.encode('utf-8','ignore')
             out+=text
         out+="\n"
-        for f in ['title','description']:
-            value = project.get(f,'') or ""
-            value = str(value.encode('utf-8','ignore'))
-            text = f.capitalize() +": " + value+"\n"
-            text = text.encode('utf-8','ignore')
-            out+=text
-        f.write(out)
+        #out=out.encode('utf-8','ignore')
+        for field in ['title','description']:
+            value = project.get(field,'') or u""
+            value += u"\n"
+            out += value
+        f.write(out.encode('utf-8','ignore'))
         f.close()
     except Exception as e:
         print(e)
+        import pdb;pdb.set_trace()
 

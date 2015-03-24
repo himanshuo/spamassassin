@@ -1,0 +1,7 @@
+Title: CSC490 Research Project
+Description: In this project, we will be reproducing the results of Dr. Shan Sutharan's "Sensor Data Boundary Estimation for Anomaly Detection in Wireless Sensor Networks." The algorithms used will be re-written in Python and benchmarked against the original datasets used to create a performance standard for use in followup research assignments.
+Contributors: Harry Rybacki
+Tags: Big Data, Wireless Sensor Networks, Anomaly Detection
+
+CSC490 Research Project
+In this project, we will be reproducing the results of Dr. Shan Sutharan's "Sensor Data Boundary Estimation for Anomaly Detection in Wireless Sensor Networks." The algorithms used will be re-written in Python and benchmarked against the original datasets used to create a performance standard for use in followup research assignments.
