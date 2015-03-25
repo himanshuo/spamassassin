@@ -1,8 +1,3 @@
-  by bruce-guenter.dyndns.org ([192.168.1.2]); 14 Mar 2015 07:39:41 -0000
-  by localhost ([127.0.0.1])
-  with SMTP via TCP; 14 Mar 2015 07:39:41 -0000
-  by zak.futurequest.net ([69.5.6.152])
-  with ESMTP via TCP; 14 Mar 2015 07:39:40 -0000
 	by nwbcagwffy.dubat5s3c.com (Postfix) with ESMTP id 0A1167E18A8
 	for <lists-linux-xfs@bruce-guenter.dyndns.org>; Sat, 14 Mar 2015 16:39:39 +0900 (JST)
 	by kkmfazufpc.dubat5s3c.com (Postfix) with ESMTP id 01B6A7C0A04
@@ -42,3 +37,4 @@ http://47gv.pvirght.com/0MfcRk/7Rl0VmLYt80
 info@47gv.pvirght.com
 
 Å¶1Å¶8Å¶çŒÅ¶ñ¢Å¶ñûÅ¶óòÅ¶ópÅ¶ã÷Å¶é~Å¶
+

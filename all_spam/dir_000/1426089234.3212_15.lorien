@@ -1,9 +1,0 @@
-  by bruce-guenter.dyndns.org ([192.168.1.2]); 09 Mar 2015 16:57:13 -0000
-  by localhost ([127.0.0.1])
-  with SMTP via TCP; 09 Mar 2015 16:57:13 -0000
-  by zak.futurequest.net ([69.5.6.152])
-  with SMTP via TCP; 09 Mar 2015 16:57:12 -0000
-	by 109.87.216.147 with ESMTPA; Mon, 9 Mar 2015 21:00:43 +0400
-X-Originating-IP: 67.151.227.98
-From: infomgt@stockton-house.com
-To: bruce@bruce-guenter.dyndns.org

@@ -1,8 +1,3 @@
-  by bruce-guenter.dyndns.org ([192.168.1.2]); 15 Mar 2015 11:24:08 -0000
-  by localhost ([127.0.0.1])
-  with SMTP via TCP; 15 Mar 2015 11:24:08 -0000
-  by zak.futurequest.net ([69.5.6.152])
-  with ESMTP via TCP; 15 Mar 2015 11:24:06 -0000
 	by websmtp.sohu.com (Postfix) with ESMTP id BE407240EB5
 	for <lists-nfs@bruce-guenter.dyndns.org>; Sun, 15 Mar 2015 19:23:37 +0800 (CST)
 	by mx7.mail.chinaren.com (Postfix) with ESMTP id 2A325B0647
@@ -76,3 +71,6 @@ cDovL3Jlc2Nkbi5tYWlsLnFxLmNvbS96aF9DTi9pbWFnZXMvc3RhdGlvbmVyeS9sb3ZlLzU4L2Jv
 dHRvbS1yLmpwZz48L1REPjwvVFI+PC9UQk9EWT48L1RBQkxFPg0KPFRBQkxFIHN0eWxlPSJIRUlH
 SFQ6IDBweDsgRk9OVC1TSVpFOiAwcHgiIGJvcmRlcj0wIGNlbGxTcGFjaW5nPTAgY2VsbFBhZGRp
 bmc9MD4NCjxUQk9EWT4NCjxUUj4NCjxURD48L1REPjwvVFI+PC9UQk9EWT48L1RBQkxFPg==
+
+------_=_NextPart_000_105c412eee234c5ca65557cb79ccbbd9--
+

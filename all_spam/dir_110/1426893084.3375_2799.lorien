@@ -1,8 +1,3 @@
-  by bruce-guenter.dyndns.org ([192.168.1.2]); 18 Mar 2015 00:58:10 -0000
-  by localhost ([127.0.0.1])
-  with SMTP via TCP; 18 Mar 2015 00:58:10 -0000
-  by zak.futurequest.net ([69.5.6.152])
-  with ESMTP via TCP; 18 Mar 2015 00:58:08 -0000
 	id 96EDE1506438; Wed, 18 Mar 2015 09:57:57 +0900 (JST)
 	by localhost (Postfix) with ESMTP id 73F371048CD8
 	for <lists-reiserfs-list@bruce-guenter.dyndns.org>; Wed, 18 Mar 2015 09:57:57 +0900 (JST)
@@ -75,3 +70,4 @@ Content-ID: <mail_top>
 Content-Type: image/gif;
  name="mail_top.gif"
 
+--=_e852372b3d921c81031f9038f4a0a5a9--

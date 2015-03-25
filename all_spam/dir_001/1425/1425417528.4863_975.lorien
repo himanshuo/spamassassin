@@ -1,0 +1,278 @@
+Delivered-To: bruce@untroubled.org
+Received: (fqmail 6543 invoked from network); 03 Mar 2015 21:04:19 -0000
+Received: (qmail 12392 invoked from network); 3 Mar 2015 21:04:19 -0000
+Received: from rip.mx08.futurequest.net (rip.mx08.futurequest.net [10.2.1.180])
+  by mx08.futurequest.net ([69.5.6.180]); 03 Mar 2015 21:04:19 -0000
+Received: from localizareauto.com (localizareauto.com [5.101.99.43])
+  by rip.mx08.futurequest.net ([10.2.1.180])
+  with ESMTP via TCP; 03 Mar 2015 21:04:19 -0000
+Comment: DomainKeys? See http://domainkeys.sourceforge.net/
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=default; d=localizareauto.com;
+  b=vMTM+kSJnhafv/232nPNVOMsbAh5p7W7q/IRC5wK5B8iXsw1BtW487MK7/c0AfBIZXAIuQp4asHCjgH3/40yh7K8JhU3SmB3EcCvpVooO5lHbtW9FavvHYUWK4A1DCYswAHIgFdgRZay0Z+QbApNcp7LdrkRy7FaevHLdAE009g=;
+  h=Received:To:Subject:X-PHP-Originating-Script:Date:From:Reply-To:Message-ID:X-Priority:X-Mailer:X-phpList-version:X-MessageID:X-ListMember:Precedence:Bounces-To:List-Help:List-Unsubscribe:List-Subscribe:List-Owner:MIME-Version:Content-Type;
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=localizareauto.com; h=to
+	:subject:date:from:reply-to:message-id:list-help
+	:list-unsubscribe:list-subscribe:list-owner:mime-version
+	:content-type; s=default; bh=NdpC9CEqRWM5CTgTu8kzbFPIK6s=; b=a/C
+	Gw5O1dq5NHdwjf2RJieaCNpRKXDoQIlvvltsLChj6pxLZBjSgqVP8riH5QgXpDXB
+	ED4SG8/BXB7jWYbOoFzv5K3KtyC1Q6j9cBRC0KymigQHIPQHEtqsc58h1WCQ0Tjs
+	q7O51i2CFHWmfVm1JsK+QAFQd0RzQD1gZE1u92xA=
+Received: (qmail 26744 invoked by uid 0); 3 Mar 2015 16:04:16 -0500
+To: bruce@untroubled.org
+Subject: Cupon Reducere 10% pentru Localizatoare Auto prin GPS
+X-PHP-Originating-Script: 502:class.phpmailer.php
+Date: Tue, 3 Mar 2015 21:04:16 +0000
+From: "LocalizareAuto.com" <nu-raspundeti-intrati-pe-site@localizareauto.com>
+Reply-To: "LocalizareAuto.com" <nu-raspundeti-intrati-pe-site@localizareauto.com>
+Message-ID: <b81f9812be854e3accf44debc989f052@localhost.localdomain>
+X-Priority: 3
+X-Mailer: PHPMailer 5.2.5 (https://github.com/Synchro/PHPMailer/)
+X-phpList-version: 3.0.6
+X-MessageID: 179
+X-ListMember: bruce@untroubled.org
+Precedence: bulk
+Bounces-To: nu-raspundeti-intrati-pe-site@localizareauto.com
+List-Help: <http://www.localizareauto.com/list/?p=preferences&uid=0700b960c73aeb79640e3f4cbf247d76>
+List-Unsubscribe: <http://www.localizareauto.com/list/?p=unsubscribe&uid=0700b960c73aeb79640e3f4cbf247d76&jo=1>
+List-Subscribe: <http://www.localizareauto.com/list/?p=subscribe>
+List-Owner: <mailto:nu-raspundeti-intrati-pe-site@localizareauto.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_b81f9812be854e3accf44debc989f052"
+Content-Length: 10860
+
+--b1_b81f9812be854e3accf44debc989f052
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+
+
+ * OFERTA LUNII MARTIE:*
+
+ *10% Discount=20
+
+ la aparate GPS folosind=20
+
+ codul promotional:=20
+
+ GHIOCEL15
+
+ DOAR in aceasta saptamana*
+
+ * Aparate GPS la pret special!*
+
+ * Detalii pe site:=20
+
+ http://www.localizareauto.com/list/lt.php?id=3DATRzWg4FTWtICV5weEY
+ *
+
+ Cu sistemul nostru de Localizare Flota,=20
+
+ veti economisi LUNAR intre 10-25%
+
+ din cheltuielile cu autovehiculele.
+
+ * Informatii:=20
+
+ 0356 56 99 11 *
+
+ <http://www.localizareauto.com/list/lt.php?id=3DATR6F0MDQy4FAVRweg>
+
+ Cu sistemul nostru de localizare GPS aveti control total asupra
+autovehiculelor dvs.=20
+
+ si asupra traseelor parcurse de soferi, chiar si cu doi ani in urma!
+
+ <http://www.localizareauto.com/list/lt.php?id=3DATRxF0MDQy4FAVRweg>
+
+ *Nu raspundeti la email, dati click AICI sa ne contactati
+<http://www.localizareauto.com/list/lt.php?id=3DATR7F0MDQy4FAVRweg>
+*=20
+
+
+
+Acest email a fost transmis la adresa bruce@untroubled.org
+    Pentru a va dezabona de la acest newsletter click aici=0Ahttp://www.loc=
+alizareauto.com/list/lt.php?id=3DATRzXw4FTWtICV5weEY
+
+--
+In conformitate cu legea 365/2002  privind comertul electronic, acest mesaj=
+=0Anu este si nu poate fi considerat SPAM, deoarece:=20
+contine datele necesare de identificare; acceptare de primire a ofertei nu=
+=0Ava implica financiar; adresa d-voastra de e-mail a fost gasita fie pe un=
+=0Asite public, fie intr-un ghid de afaceri,=20
+fie in adresele altor firme care ne-au trimis ofertele lor sau am primit-o=
+=0Acu ocazia unor intalniri de afaceri; acest mesaj va este adresat cu scop=
+ul=0Ade a va invita sa beneficiati de serviciile companiei noastre si va es=
+te=0Atransmis in dorinta de a va tine la curent cu cele mai noi si mai=0Apr=
+ofitabile servicii pe care vi le putem oferi.=20
+Pentru ca intelegem si apreciem dorinta dumneavoastra de intimitate, ne=0Ac=
+erem scuze daca acest mesaj a ajuns din greseala la dvs, iar daca doriti=0A=
+sa nu mai primiti astfel de mesaje,
+
+ Va multumim pentru intelegere.
+
+Pentru a va modifica datele sau dezabona click pe=20
+http://www.localizareauto.com/list/lt.php?id=3DATRzXg4FTWtICV5weEY
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+EN:
+Note! This message is not SPAM. Contains our data identification. It was=0A=
+sent because: you have requested receiving our offer, or you are a partner=
+=0Aof our firm, or you are in our database as a result of previous=0Acorres=
+pondence, or your address was selected from a database that you have=0Asubs=
+cribed, or your address was made public by you by posting on a public=0Asit=
+e.=20
+=20
+Identification Data:
+sc Computer Force srl=20
+Romania country, Timis county=20
+Str. E. Ungureanu nr. 15 ap.2
+Fiscal code: RO583419
+Registration Nr.: J35/1824/1994
+Tel.: +40 356 56 99 11=20
+Fax.: +40 356 427 344
+
+If you do not wish to receive this information, please click here to=0AUNSU=
+BSCRIBE:=0Ahttp://www.localizareauto.com/list/lt.php?id=3DATRzXw4FTWtICV5we=
+EY
+
+
+
+-- powered by phpList, www.phplist.com --
+
+
+
+--b1_b81f9812be854e3accf44debc989f052
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><head>=0A        <meta content=3D"text/html;charset=3DUTF-8" http-equ=
+iv=3D"Content-Type">=0A        <title></title>  <style type=3D"text/css">
+body { font-size : 13px; font-family: Verdana, Arial, Helvetica, sans-serif=
+; }
+a { font-size: 13px; color: #0000cc; font-style: normal; font-family: verda=
+na, sans-serif; text-decoration: none; }
+a:visited { color: #993366; }
+a:hover { text-decoration: underline; }
+p { font-weight: normal; font-size: 13px; color: #000000; font-style: norma=
+l; font-family: verdana, sans-serif; text-decoration: none; }
+h1 {font-weight: bold; font-size: 14px; color: #000000; font-style: normal;=
+ font-family: verdana, sans-serif; text-decoration: none;}
+h2 {font-weight: bold; font-size: 13px; color: #000000; font-style: normal;=
+ font-family: verdana, sans-serif; text-decoration: none;}
+h3 {font-weight: bold; font-size: 12px; color: #000000; font-style: normal;=
+ font-family: verdana, sans-serif; text-decoration: none; margin:0px; paddi=
+ng:0px;}
+h4 {font-weight: bold; font-size: 11px; color: #000000; font-style: normal;=
+ font-family: verdana, sans-serif; text-decoration: none; margin:0px; paddi=
+ng:0px;}
+hr {width : 100%; height : 1px; color: #ff9900; size:1px;}
+.forwardform {margin: 0 0 0 0; padding: 0 0 0 0;}
+.forwardinput {margin: 0 0 0 0; padding: 0 0 0 0;}
+.forwardsubmit {margin: 0 0 0 0; padding: 0 0 0 0;}
+div.emailfooter { font-size : 11px; font-family: Verdana, Arial, Helvetica,=
+ sans-serif; }
+div.emailfooter a { font-size: 11px; color: #0000cc; font-style: normal; fo=
+nt-family: verdana, sans-serif; text-decoration: none; }
+</style></head><body><div align=3D"center">
+<table border=3D"1" cellspacing=3D"1" style=3D"border-collapse: collapse" c=
+ellpadding=3D"5" width=3D"70%">
+    <tbody>
+        <tr>
+            <td><blockquote>
+            <p align=3D"center"><b> <font size=3D"5" color=3D"#0000FF">OFER=
+TA LUNII MARTIE:</font></b></p>
+            <p align=3D"center"><b><font color=3D"#0000FF" size=3D"5">10% D=
+iscount <br />
+            </font><font size=3D"4">la aparate GPS folosind <br />
+            codul promotional: <br />
+            GHIOCEL15<br />
+            DOAR in aceasta saptamana</font></b></p>
+            <p align=3D"center"><b> <font size=3D"5" color=3D"#0000FF">Apar=
+ate GPS la pret special!</font></b></p>
+            <p align=3D"center"><b> =09<font color=3D"#000000" size=3D"5">D=
+etalii pe site: <br />
+            <a href=3D"http://www.localizareauto.com/list/lt.php?id=3DHTRzW=
+g4FTWtICV5weEY" > =09<font size=3D"5" color=3D"#000000">www.localizaregrati=
+s.ro/preturi.php</font></a></font><font size=3D"5">  </font></b></p>
+            <p align=3D"center"><font size=3D"5">Cu sistemul nostru de Loca=
+lizare Flota, <br />
+            veti economisi LUNAR intre 10-25%<br />
+            &nbsp;din cheltuielile cu autovehiculele.</font></p>
+            <p align=3D"center"><b> =09<font size=3D"5"> Informatii:&nbsp; =
+<br />
+            0356 56 99 11  </font></b></p>
+            <blockquote>
+            <p align=3D"center"><a href=3D"http://www.localizareauto.com/li=
+st/lt.php?id=3DHTR6F0MDQy4FAVRweg"  style=3D"font-size: 13px; color: #0000c=
+c; font-style: normal; font-family: verdana, sans-serif; text-decoration: n=
+one"> <img border=3D"0" src=3D"http://www.localizaregratis.ro/images/logo/l=
+ocalizare-gratis-flota.gif" alt=3D"" /></a></p>
+            </blockquote>
+            <p align=3D"center"><img width=3D"451" height=3D"203" src=3D"ht=
+tp://www.localizaregratis.ro/images/oferta/image003.jpg" alt=3D"" /></p>
+            <p align=3D"center"><font size=3D"3">Cu sistemul nostru de loca=
+lizare GPS aveti control total asupra  autovehiculelor dvs. <br />
+            si asupra traseelor parcurse de soferi, chiar si cu doi ani in =
+urma!</font></p>
+            <p align=3D"center"><a href=3D"http://www.localizareauto.com/li=
+st/lt.php?id=3DHTRxF0MDQy4FAVRweg" ><img src=3D"http://localizaregratis.ro/=
+images/satisfactie-localizare-auto.jpg" alt=3D"" width=3D"188" height=3D"13=
+8" border=3D"0" style=3D"margin-top: 0px; margin-right: 0px; margin-bottom:=
+ 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-botto=
+m: 0px; padding-left: 0px; " /></a></p>
+            <p style=3D"margin-bottom:0cm;margin-bottom:.0001pt;line-height=
+:
+            normal" align=3D"center"><b><font size=3D"3">Nu raspundeti la e=
+mail,&nbsp; </font> <a href=3D"http://www.localizareauto.com/list/lt.php?id=
+=3DHTR7F0MDQy4FAVRweg" > <font color=3D"#000000" size=3D"3">dati click AICI=
+&nbsp; sa ne contactati</font></a></b><font size=3D"3"> </font></p>
+            <p align=3D"center">&nbsp;</p>
+            </blockquote></td>
+        </tr>
+    </tbody>
+</table>
+</div><br />Acest email a fost transmis la adresa bruce@untroubled.org<br /=
+>=0A    Pentru a va dezabona de la acest newsletter click aici <a href=3D"h=
+ttp://www.localizareauto.com/list/lt.php?id=3DHTRzXw4FTWtICV5weEY" >UNSUBSC=
+RIBE (Dezabonare)</a><br />=0A<br />=0A--<br />=0AIn conformitate cu legea =
+365/2002  privind comertul electronic, acest mesaj nu este si nu poate fi c=
+onsiderat SPAM, deoarece: <br />=0Acontine datele necesare de identificare;=
+ acceptare de primire a ofertei nu va implica financiar; adresa d-voastra d=
+e e-mail a fost gasita fie pe un site public, fie intr-un ghid de afaceri, =
+<br />=0Afie in adresele altor firme care ne-au trimis ofertele lor sau am =
+primit-o cu ocazia unor intalniri de afaceri; acest mesaj va este adresat c=
+u scopul de a va invita sa beneficiati de serviciile companiei noastre si v=
+a este transmis in dorinta de a va tine la curent cu cele mai noi si mai pr=
+ofitabile servicii pe care vi le putem oferi. <br />=0APentru ca intelegem =
+si apreciem dorinta dumneavoastra de intimitate, ne cerem scuze daca acest =
+mesaj a ajuns din greseala la dvs, iar daca doriti sa nu mai primiti astfel=
+ de mesaje,<br />=0A<br />=0A Va multumim pentru intelegere.<br />=0A<br />=
+=0APentru a va modifica datele sau dezabona click pe <br />=0A<a href=3D"ht=
+tp://www.localizareauto.com/list/lt.php?id=3DHTRzXg4FTWtICV5weEY" >acest li=
+nk</a><br />=0A<br />=0A=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D<br />=0AEN:<br=
+ />=0ANote! This message is not SPAM. Contains our data identification. It =
+was sent because: you have requested receiving our offer, or you are a part=
+ner of our firm, or you are in our database as a result of previous corresp=
+ondence, or your address was selected from a database that you have subscri=
+bed, or your address was made public by you by posting on a public site. <b=
+r />=0A <br />=0AIdentification Data:<br />=0Asc Computer Force srl <br />=
+=0ARomania country, Timis county <br />=0AStr. E. Ungureanu nr. 15 ap.2<br =
+/>=0AFiscal code: RO583419<br />=0ARegistration Nr.: J35/1824/1994<br />=0A=
+Tel.: +40 356 56 99 11 <br />=0AFax.: +40 356 427 344<br />=0A<br />=0AIf y=
+ou do not wish to receive this information, please click here to UNSUBSCRIB=
+E: <a href=3D"http://www.localizareauto.com/list/lt.php?id=3DHTRzXw4FTWtICV=
+5weEY" >UNSUBSCRIBE (Dezabonare)</a><br />=0A=0A<div style=3D"clear: both; =
+font-family: arial, verdana, sans-serif; font-size: 8px; font-variant: smal=
+l-caps; font-weight: normal; padding: 2px; padding-left:10px;padding-top:20=
+px;">powered by <a href=3D"http://www.phplist.com/poweredby?utm_source=3Ddo=
+wnload3.0.6&amp;utm_medium=3Dpoweredtxt&amp;utm_campaign=3DphpList" target=
+=3D"_blank" title=3D"powered by phpList version 3.0.6, &copy; phpList ltd">=
+phpList</a></div><img src=3D"http://www.localizareauto.com/list/ut.php?u=3D=
+0700b960c73aeb79640e3f4cbf247d76&amp;m=3D179" width=3D"1" height=3D"1" bord=
+er=3D"0" /></body></html>
+
+
+--b1_b81f9812be854e3accf44debc989f052--

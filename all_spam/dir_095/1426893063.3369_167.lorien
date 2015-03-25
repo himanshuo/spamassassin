@@ -1,9 +1,3 @@
-  by bruce-guenter.dyndns.org ([192.168.1.2]); 19 Mar 2015 18:03:57 -0000
-  by localhost ([127.0.0.1])
-  with SMTP via TCP; 19 Mar 2015 18:03:57 -0000
-  by zak.futurequest.net ([69.5.6.152])
-  with ESMTP via TCP; 19 Mar 2015 18:03:55 -0000
-  with SMTP id 78F94D98; Fri, 20 Mar 2015 02:03:54 +0800
 From: =?GB2312?B?1tPW98jO?= <vn3xv210z@lwforensics.com>
 Subject: =?GB2312?B?w8W16rncwO21xKOov/u7qLGmteSjqQ==?=
 To: "cvs" <cvs@bruce-guenter.dyndns.org>
@@ -185,3 +179,4 @@ X-Mailer: Foxmail 4.1 [cn]
 2、案例分析：某运动服饰《销售周报表数据分析》心得
 三、店长用数据分析读懂财务报表，《数据分析四部曲》操作
 1、数据分析四部曲  2、运用分析工具读懂财务报表  3、案例分析：三分钟教会你看懂财务报表
+

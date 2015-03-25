@@ -1,8 +1,3 @@
-  by bruce-guenter.dyndns.org ([192.168.1.2]); 12 Mar 2015 13:25:35 -0000
-  by localhost ([127.0.0.1])
-  with SMTP via TCP; 12 Mar 2015 13:25:35 -0000
-  by zak.futurequest.net ([69.5.6.152])
-  with ESMTP via TCP; 12 Mar 2015 13:25:34 -0000
 	id 6F4BDD5A62; Thu, 12 Mar 2015 22:24:59 +0900 (JST)
 	by localhost (Postfix) with ESMTP id 534E41048DF4
 	for <bruce@bruce-guenter.dyndns.org>; Thu, 12 Mar 2015 22:24:48 +0900 (JST)
@@ -95,3 +90,4 @@ Date: Thu, 12 Mar 2015 22:24:48 +0900 (JST)
 
 ‚c‚l
 ’†
+Ž~

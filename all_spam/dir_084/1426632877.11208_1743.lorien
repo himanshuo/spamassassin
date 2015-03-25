@@ -1,8 +1,3 @@
-  by bruce-guenter.dyndns.org ([192.168.1.2]); 17 Mar 2015 21:41:30 -0000
-  by localhost ([127.0.0.1])
-  with SMTP via TCP; 17 Mar 2015 21:41:30 -0000
-  by zak.futurequest.net ([69.5.6.152])
-  with ESMTP via TCP; 17 Mar 2015 21:41:29 -0000
 	id A267F15105DA; Wed, 18 Mar 2015 06:41:17 +0900 (JST)
 	by localhost (Postfix) with ESMTP id 076D71048D70
 	for <lists-linux-kernel@bruce-guenter.dyndns.org>; Wed, 18 Mar 2015 06:41:12 +0900 (JST)
@@ -284,3 +279,4 @@ JKC公認訓練士、遠藤ドッグトレーニング代表。
 http://accesslink.jp/uvf/jes.php?69=JQ8EzM6N8MrG80HM80pm80oc7Qrw8ibb
 
 
+※解除後もメールが配信される等トラブルが発生した場合は、

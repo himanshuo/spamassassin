@@ -1,0 +1,44 @@
+Delivered-To: lists-linux-kernel@bruce-guenter.dyndns.org
+Received: (qmail 26462 invoked from network); 28 Feb 2015 18:54:05 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 28 Feb 2015 18:54:05 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 28 Feb 2015 18:54:05 -0000
+Received: (qmail 24169 invoked from network); 28 Feb 2015 18:54:04 -0000
+Received: from localhost ([103.7.241.185])
+  by zak.futurequest.net ([69.5.6.152])
+  with ESMTP via TCP; 28 Feb 2015 18:54:04 -0000
+To: lists-linux-kernel@bruce-guenter.dyndns.org
+Subject: =?Shift_JIS?B?i9mLfYOBgVuDi4LwjvOQTYK1gtyCtYK9?=
+DKIM-Signature: v=1;	a=rsa-sha1;	l=913;	s=selector;	t=1425149642;	c=relaxed/simple;	h=From;	d=tytgfee.info;	bh=8NmdqyuFVCttY9yPHtEZHiM1ba8=;	b=LYmFuwe0M4LyjNYFbSjee6+BLmjgXH6kUJu+8YvfTojxiWVdcmhxiWc6ScN8CRWz
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=tytgfee.info; s=selector; h=From;
+	b=VQCs4zwOcrK+ELDBhbfjorx5Qngq/z4BiXdiPiqRRFIyFASW7Nyg+OmqSPMx3BTC
+Return-Path: <return-maga-84631@tytgfee.info>
+From: TASTE <info@tytgfee.info>
+MIME-Version: 1.0
+Date: Sun, 01 Mar 2015 03:54:02 +0900
+Message-ID: <2e58e90324430492a62a0fd1e671ac2af1279214@tytgfee.info>
+Content-Type: multipart/alternative;boundary="=_f205a71cd04687326cfc723138bbeb83"
+Content-Transfer-Encoding: 
+
+--=_f205a71cd04687326cfc723138bbeb83
+Content-Transfer-Encoding: base64
+Content-Type: text/plain; charset=Shift_JIS
+
+joqLfYptlEaCtYLEgq2CvoKzgqKBSYFJDQoNCoGoim2URoK3gukNCg0KDQo=
+--=_f205a71cd04687326cfc723138bbeb83
+Content-Transfer-Encoding: base64
+Content-Type: text/html; charset=Shift_JIS
+
+PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCFET0NUWVBFIGh0bWwgUFVC
+TElDICItLy9KLVBIT05FLy9EVEQgWEhUTUwgQmFzaWMgMS4wIFBsdXMvL0VOIiAieGh0bWxfYmFz
+aWMxMC1wbHVzLmR0ZCI+CjxIVE1MPjxIRUFEPjxNRVRBIGh0dHAtZXF1aXY9IkNvbnRlbnQtVHlw
+ZSIgY29udGVudD0idGV4dC9odG1sOyBjaGFyc2V0PVNoaWZ0X0pJUyI+PC9IRUFEPjxCT0RZPjxE
+SVY+joqLfYptlEaCtYLEgq2CvoKzgqKBSYFJPGJyPg0KPGJyPg0Kgag8YSBocmVmPSJodHRwOi8v
+bC50eXRnZmVlLmluZm8vcmVjZXB0aW9uL2luZGV4LnBocD9rZXk9ZDM2MjBmMDQxZmRjZDIzZDM3
+MGRhZmQ4NDBiNjEyYzAmbWFnYT04NDYzMSI+im2URoK3guk8L2E+PGJyPg0KPGJyPg0KDQo8L0RJ
+Vj48L0JPRFk+PC9IVE1MPg==
+--=_f205a71cd04687326cfc723138bbeb83--
+
+

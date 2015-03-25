@@ -1,8 +1,3 @@
-  by bruce-guenter.dyndns.org ([192.168.1.2]); 12 Mar 2015 07:12:27 -0000
-  by localhost ([127.0.0.1])
-  with SMTP via TCP; 12 Mar 2015 07:12:27 -0000
-  by zak.futurequest.net ([69.5.6.152])
-  with ESMTP via TCP; 12 Mar 2015 07:12:25 -0000
 	id 362E0B90DE; Thu, 12 Mar 2015 16:12:25 +0900 (JST)
 	by localhost (Postfix) with SMTP id 0EC0CB902E
 	for <bruce@bruce-guenter.dyndns.org>; Thu, 12 Mar 2015 16:12:24 +0900 (JST)
@@ -15,7 +10,6 @@ From: <7.com@nanacom.tv>
 Subject: =?ISO-2022-JP?B?GyRCJU0lMCVqJTglJztRJE4kXiRePTEkQyRGJC8kQCQ1GyhC?=
  =?ISO-2022-JP?B?GyRCJCQkXiQ7JHMkKyEpGyhC?=
 MIME-Version: 1.0
-X-Mail-Agent: BSMTP DLL  Feb 11 2003  by Tatsuo Baba
 Content-Type: text/plain; charset="ISO-2022-JP"
 
 
@@ -54,3 +48,4 @@ info@nanacom.tv
 
 ==================
 18歳未満利用【禁】
+==================

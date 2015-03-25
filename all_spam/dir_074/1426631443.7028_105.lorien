@@ -1,8 +1,3 @@
-  by bruce-guenter.dyndns.org ([192.168.1.2]); 17 Mar 2015 08:01:08 -0000
-  by localhost ([127.0.0.1])
-  with SMTP via TCP; 17 Mar 2015 08:01:08 -0000
-  by zak.futurequest.net ([69.5.6.152])
-  with ESMTP via TCP; 17 Mar 2015 08:01:06 -0000
 To: cvs <cvs@bruce-guenter.dyndns.org>
 Subject: =?koi8-r?B?6+HrIO/j5e7p9Pgg8O/05e7j6eHsIPPh6vThPyD+6fTh6vTlIPcg7g==?=	=?koi8-r?B?7/fv6iDr7unn5SDv9CBJTkdBVEU=?=
 From: =?koi8-r?B?5dfHxc7JyiD0xdLFztTYxdc=?= 
@@ -145,3 +140,4 @@ r=3D"#FF9929" cellpadding=3D"5" width=3D"360">
 </table>
 
 </BODY></HTML>
+

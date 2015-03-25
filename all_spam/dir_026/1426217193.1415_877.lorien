@@ -1,9 +1,5 @@
-  by mx11.futurequest.net ([69.5.6.184]); 13 Mar 2015 02:47:54 -0000
-  by rip.mx11.futurequest.net ([10.2.1.184])
-  with ESMTP via TCP; 13 Mar 2015 02:47:54 -0000
 	by wiw.szczecin.pl (Postfix) with ESMTP id B17C05A870;
 	Fri, 13 Mar 2015 06:34:14 +0100 (CET)
- by localhost (dns.wiw.szczecin.pl [127.0.0.1]) (amavisd-new, port 10024)
  with ESMTP id 15250-01-9; Fri, 13 Mar 2015 06:34:14 +0100 (CET)
 	by wiw.szczecin.pl (Postfix) with ESMTP id 77E1257A75;
 	Fri, 13 Mar 2015 06:27:44 +0100 (CET)
@@ -31,3 +27,4 @@ est rate, we offer
 
 Please reply back for more information.
  =
+

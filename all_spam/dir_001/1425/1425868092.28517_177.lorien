@@ -1,0 +1,39 @@
+Delivered-To: bruce@bruce-guenter.dyndns.org
+Received: (qmail 16770 invoked from network); 7 Mar 2015 09:15:40 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 07 Mar 2015 09:15:40 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 07 Mar 2015 09:15:40 -0000
+Received: (qmail 30231 invoked from network); 7 Mar 2015 09:15:39 -0000
+Received: from ipv83454650.2.0.9 ([180.214.53.37])
+  by zak.futurequest.net ([69.5.6.152])
+  with ESMTP via TCP; 07 Mar 2015 09:15:39 -0000
+Return-Path: <mail002200000140221@mail1.proche-s.jp>
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/simple; d=w3a6tqz8.link; s=sel; q=dns/txt; l=1; bh=E/vXnD05Dl1lhaIeEf9ewZcM/ww=; h=From; b=J91NMPLKCgC4koLrgf7MLvod6SNoWiC+rMMAMNGAjCHr06Wnme4GM2P7XV0LAUhpj8anuQoXv8oCPa+M7aaQheHZKJKx9R8lyPh7kjZoZVDwr83QAwHGR1YGA/ne1pjQpbSkldXJkaGEQhSKqE2MRfEjlIR3epZ3Wg56+XFDV4w=
+Date: Sat, 07 Mar 2015 18:15:38 +0900
+MIME-Version: 1.0
+From: mail@w3a6tqz8.link
+To: bruce@bruce-guenter.dyndns.org
+Message-Id: 407978540_296164554fa18e4ebc7b@w3a6tqz8.link
+Content-Type: text/plain; charset="Shift_JIS"
+Content-Transfer-Encoding: base64
+Subject: =?ISO-2022-JP?B?MRskQjIvGyhCNDAwMBskQkt8JE87ZCROO3E7OiRHJCIkaiEiGyhCMTAbJEJHL0lUNjckSDhGJFAkbCRGJCQkayQzJE5GfEtcPFIycSRYNFQ4NSQ5JGs7diRHOkc4ZSROPFIycTlXOCUkLD1QTWgkayRIM04/LiQ3JEYkJCReJDkhI0A4JC0kaSRsJEokJDtkJE5KLCReJEchIiRJJCYkKzksJDskSyRKJEMkRiQvJEAkNSQkISMbKEI=?=
+
+kLyJgI6bj9KKlw0KDQoxia00MDAwlpyCzY6EgsyOkY5ZgsWCoILogUExMJROlXOLtYLGjMSCzoLq
+gsSCooLpgrGCzJP6lnuO0InvgtaK0oyzgreC6Y6WgsWNxYzjgsyO0InvjXaMo4Kqj2+XiILpgsaK
+bZBNgrWCxIKigtyCt4FCkLaCq4LnguqCyIKijoSCzJWqgtyCxYFBgseCpIKpjUuCuYLJgsiCwYLE
+gq2CvoKzgqKBQg0KDQogiXsgl5cgKJazIJe/KSANCmh0dHA6Ly93M2E2dHF6OC5saW5rLyU3ZXBv
+L21haWxib3gvUEM6MTE5OTk0MzU0ZmExOGU0ZWFmMTQvTUM6YTNmYzVjNjMyODdmY2MxNjgzOTAw
+NmM2ODBlZGVhOWUvP2d1aWQ9T04NCg0KDQqBnyBQIHIgbyBjIGggZSBzIJGLIIz7IA0KIIGmIIKo
+IJBTIJOWIIK9IILoIILMIILIIIKiIJX7IILWIA0KIJHeIInvIIFFIINJIIN2IINnIINBIINFIINn
+IILMIIKyIJhBIJeNIILNIIKoIJCUIILFIIK3IIKqIIm6IItMIIKiIIK4IILqIIKpIILMIJGLIIz7
+IILWIIF1IJHeIInvIIrzIJZdIIF2IILGIIKyIJXUIJBNIILwIIKoIIroIIKiIJJ2IIK1IILcIIK3
+IIFCIA0KPT09PT09PT09PT09PQ0KIyMgkd4gie8giLYgkOYgDQppbmZvQHByb2NoZS1zLmpwDQoj
+IyCR3iCJ7yCDdCCDSCCBWyCDgCANCmh0dHA6Ly93M2E2dHF6OC5saW5rLyU3ZXBvL2lucXVpcnkv
+UEM6MTE5OTk0MzU0ZmExOGU0ZWFmMTQvTUM6YTNmYzVjNjMyODdmY2MxNjgzOTAwNmM2ODBlZGVh
+OWUvP2d1aWQ9T04NCg0KNDM5MTYy
+
+
+
+

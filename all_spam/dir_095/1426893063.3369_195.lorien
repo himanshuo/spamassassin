@@ -1,9 +1,3 @@
-  by bruce-guenter.dyndns.org ([192.168.1.2]); 19 Mar 2015 04:50:36 -0000
-  by localhost ([127.0.0.1])
-  with SMTP via TCP; 19 Mar 2015 04:50:36 -0000
-  by zak.futurequest.net ([69.5.6.152])
-  with ESMTP via TCP; 19 Mar 2015 04:50:34 -0000
-  with SMTP id 3CE6B40D; Thu, 19 Mar 2015 12:50:32 +0800
 From: =?GB2312?B?zfTPyMn6?= <qqjsn@thedeltazone.com>
 Subject: =?GB2312?B?yOe6zs3G0NBLUEnT67yo0Ke53MDtzOXPtQ==?=
 To: "cvs" <cvs@bruce-guenter.dyndns.org>
@@ -110,3 +104,4 @@ cvs@bruce-guenter.dyndns.org----绩效考核暨KPI+BSC 实战训练营
    1、推行绩效管理的组织模式与各个部门的职责；2、推行绩效管理需要解决观念问题；
    3、推行需要解决制度与技巧问题 4、推行需要解决心态问题；
 十三、绩效沟通
+   1、计划阶段的绩效沟通 2、辅导阶段

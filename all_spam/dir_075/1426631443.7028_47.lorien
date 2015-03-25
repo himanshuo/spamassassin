@@ -1,9 +1,3 @@
-  by bruce-guenter.dyndns.org ([192.168.1.2]); 17 Mar 2015 05:21:49 -0000
-  by localhost ([127.0.0.1])
-  with SMTP via TCP; 17 Mar 2015 05:21:49 -0000
-  by zak.futurequest.net ([69.5.6.152])
-  with ESMTP via TCP; 17 Mar 2015 05:21:42 -0000
-	by  with esmtpa (Exim 4.69)
 	(envelope-from )
 	id 1MMY3M-0143qa-IZ
 	for cvs@bruce-guenter.dyndns.org; Tue, 17 Mar 2015 10:51:42 +0530
@@ -260,3 +254,6 @@ ont></td>
     </tr>
   </table>
 </div>
+</BODY></HTML>
+
+------=_ebabdszftv_72_71_79--

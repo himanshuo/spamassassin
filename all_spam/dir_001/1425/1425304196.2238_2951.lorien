@@ -1,0 +1,44 @@
+Delivered-To: lists-linux-xfs@bruce-guenter.dyndns.org
+Received: (qmail 18185 invoked from network); 1 Mar 2015 10:54:04 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 01 Mar 2015 10:54:04 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 01 Mar 2015 10:54:04 -0000
+Received: (qmail 21132 invoked from network); 1 Mar 2015 10:54:03 -0000
+Received: from localhost ([103.7.241.37])
+  by zak.futurequest.net ([69.5.6.152])
+  with ESMTP via TCP; 01 Mar 2015 10:54:03 -0000
+To: lists-linux-xfs@bruce-guenter.dyndns.org
+Subject: =?Shift_JIS?B?i9mLfYOBgVuDi4LwjvOQTYK1gtyCtYK9?=
+DKIM-Signature: v=1;	a=rsa-sha1;	l=913;	s=selector;	t=1425207242;	c=relaxed/simple;	h=From;	d=tytgfee.info;	bh=ew+25ZDOaZ/bf4TQ19aksT6yc+A=;	b=XHsIDd0gxxTOAviaeiP9PaDBxEWGT1b2fh9jCj7Cc+vpVj5uJ+XXifziOIxW17Hl
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=tytgfee.info; s=selector; h=From;
+	b=GIbZbS9YMjj6WR+pRx89vlNzJ/1wIU9cu4Eypf8di4RC7z/1CtsawpwV9flN5Irx
+Return-Path: <return-maga-84743@tytgfee.info>
+From: TASTE <info@tytgfee.info>
+MIME-Version: 1.0
+Date: Sun, 01 Mar 2015 19:54:02 +0900
+Message-ID: <edcaabb4ef811d148388296b207651d0000987d8@tytgfee.info>
+Content-Type: multipart/alternative;boundary="=_d09234ecd83de9c6a81ada52cf9b2875"
+Content-Transfer-Encoding: 
+
+--=_d09234ecd83de9c6a81ada52cf9b2875
+Content-Transfer-Encoding: base64
+Content-Type: text/plain; charset=Shift_JIS
+
+joqLfYptlEaCtYLEgq2CvoKzgqKBSYFJDQoNCoGoim2URoK3gukNCg0KDQo=
+--=_d09234ecd83de9c6a81ada52cf9b2875
+Content-Transfer-Encoding: base64
+Content-Type: text/html; charset=Shift_JIS
+
+PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCFET0NUWVBFIGh0bWwgUFVC
+TElDICItLy9KLVBIT05FLy9EVEQgWEhUTUwgQmFzaWMgMS4wIFBsdXMvL0VOIiAieGh0bWxfYmFz
+aWMxMC1wbHVzLmR0ZCI+CjxIVE1MPjxIRUFEPjxNRVRBIGh0dHAtZXF1aXY9IkNvbnRlbnQtVHlw
+ZSIgY29udGVudD0idGV4dC9odG1sOyBjaGFyc2V0PVNoaWZ0X0pJUyI+PC9IRUFEPjxCT0RZPjxE
+SVY+joqLfYptlEaCtYLEgq2CvoKzgqKBSYFJPGJyPg0KPGJyPg0Kgag8YSBocmVmPSJodHRwOi8v
+bC50eXRnZmVlLmluZm8vcmVjZXB0aW9uL2luZGV4LnBocD9rZXk9YjM2ZTUxNjU1MTc5MWY1MDc5
+MjNhZWZjNTBmNTBkNmMmbWFnYT04NDc0MyI+im2URoK3guk8L2E+PGJyPg0KPGJyPg0KDQo8L0RJ
+Vj48L0JPRFk+PC9IVE1MPg==
+--=_d09234ecd83de9c6a81ada52cf9b2875--
+
+

@@ -1,8 +1,3 @@
-  by bruce-guenter.dyndns.org ([192.168.1.2]); 20 Mar 2015 11:37:05 -0000
-  by localhost ([127.0.0.1])
-  with SMTP via TCP; 20 Mar 2015 11:37:05 -0000
-  by zak.futurequest.net ([69.5.6.152])
-  with ESMTP via TCP; 20 Mar 2015 11:37:04 -0000
 DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=app; d=maii.maiiscompras.com.br;
  h=From:Subject:To:Date:Message-ID:MIME-Version:Content-Type; i=renata@maii.maiiscompras.com.br;
  bh=FKGf13oxXI7BbaT5Q6nDOpEjMLM=;
@@ -551,3 +546,4 @@ grande impacto na nossa qualidade de vida nos pr&oacute;ximos anos.</span><=
 nter><p>Caso voc&ecirc; n&atilde;o queira mais receber, <a href=3D"http://s=
 is.maii.maiiscompras.com.br/s.php?129904.90.1029.8" target=3D"_blank">acess=
 e aqui para sair da lista</a>.</p></center></body>
+</html>

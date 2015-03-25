@@ -1,8 +1,3 @@
-  by bruce-guenter.dyndns.org ([192.168.1.2]); 18 Mar 2015 05:30:54 -0000
-  by localhost ([127.0.0.1])
-  with SMTP via TCP; 18 Mar 2015 05:30:54 -0000
-  by zak.futurequest.net ([69.5.6.152])
-  with ESMTP via TCP; 18 Mar 2015 05:30:53 -0000
 	id 290AACA3C8; Wed, 18 Mar 2015 14:30:01 +0900 (JST)
 	by localhost (Postfix) with ESMTP id 3E8651048CB3
 	for <lists-linux-kernel@bruce-guenter.dyndns.org>; Wed, 18 Mar 2015 14:29:27 +0900 (JST)
@@ -78,3 +73,4 @@ http://hybtys.ccidafragiz.com/reg/sb01x.php?gs=JQkm8ML18aRuzmPcL0nM80pw80yGz0p5z
 
 
 
+ストップ+メール

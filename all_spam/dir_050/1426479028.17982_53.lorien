@@ -1,14 +1,8 @@
-  by bruce-guenter.dyndns.org ([192.168.1.2]); 14 Mar 2015 08:09:44 -0000
-  by localhost ([127.0.0.1])
-  with SMTP via TCP; 14 Mar 2015 08:09:44 -0000
-  by zak.futurequest.net ([69.5.6.152])
-  with ESMTP via TCP; 14 Mar 2015 08:09:43 -0000
 X-Yahoo-Newman-Property: ymail-3
 X-Yahoo-Newman-Id: 900946.68482.bm@omp505.mail.kks.yahoo.co.jp
 DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
   s=yj20110701; d=yahoo.co.jp;
   b=J0FRI9ZunPPCW+BOE66wOhQzC/ccW3iaofIlY3yTqynWzozCOdw58TlYofgwmNjp02Ut9S2J4tHqDMUoNeEjuLXbQVIoBcCh0AwckFApkYLk8m39u78VuAAreGhT/FqsMaLXYczgL0Nvei59PD6WxLrdW4RzgBt2X+eAi/rZI9A=  ;
-  by smtp527.mail.kks.yahoo.co.jp with SMTP; 14 Mar 2015 08:09:41 -0000
 X-YMail-JAS: w2Qzh4YVM1mtdtl2HzHkpVEjPhdy2YnD8OngQbiCeh2XrZba8iHB2U2ieT5lrEHyEhkksPXVhP97AZL49y6Dp7LMW5aDY5cV8RphA5hBJD6e3NEGOgYW2ebHhnxfrGO5yA--
 X-Apparently-From: <hammweb5@yahoo.co.jp>
 X-YMail-OSG: 3GJ43L8VM1kERLZy_IROKZ9pFFYKueZ54.nhkCFIWX5_Erm
@@ -43,3 +37,4 @@ http://i3.l.gwt-3q2v4.com/home/index.php?key=dc7927b8418d034ab5a3a09e013c1a8e&rm
 
 Hl lA P P Y
   l    lN El X T
+

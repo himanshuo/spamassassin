@@ -1,0 +1,44 @@
+Delivered-To: lists-linux-kernel@bruce-guenter.dyndns.org
+Received: (qmail 5653 invoked from network); 1 Mar 2015 02:54:04 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 01 Mar 2015 02:54:04 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 01 Mar 2015 02:54:04 -0000
+Received: (qmail 3211 invoked from network); 1 Mar 2015 02:54:03 -0000
+Received: from merashmflb.pqlamz.net ([113.212.154.127])
+  by zak.futurequest.net ([69.5.6.152])
+  with ESMTP via TCP; 01 Mar 2015 02:54:03 -0000
+Received: from xryaetqppu.pqlamz.net (xryaetqppu.pqlamz.net [113.212.154.99])
+	by coryrakyth.pqlamz.net (Postfix) with ESMTP id D518EC213EF
+	for <lists-linux-kernel@bruce-guenter.dyndns.org>; Sun,  1 Mar 2015 11:53:39 +0900 (JST)
+Received: from localhost (73.35.be.static.xlhost.com [209.190.53.115])
+	by xryaetqppu.pqlamz.net (Postfix) with ESMTP id 44767C001B7
+	for <lists-linux-kernel@bruce-guenter.dyndns.org>; Sun,  1 Mar 2015 11:53:39 +0900 (JST)
+Content-Type: multipart/alternative;
+ boundary="=_ddc67c1af0ffd7cc7f967c753032948c"
+MIME-Version: 1.0
+Subject: =?Shift_JIS?B?i9mLfYOBgVuDi4LwjvOQTYK1gtyCtYK9?=
+To: lists-linux-kernel@bruce-guenter.dyndns.org
+From: TASTE <info@tytgfee.info>
+
+--=_ddc67c1af0ffd7cc7f967c753032948c
+Content-Transfer-Encoding: base64
+Content-Type: text/plain; charset=Shift_JIS
+
+joqLfYptlEaCtYLEgq2CvoKzgqKBSYFJDQoNCoGoim2URoK3gukNCg0KDQo=
+--=_ddc67c1af0ffd7cc7f967c753032948c
+Content-Transfer-Encoding: base64
+Content-Type: text/html; charset=Shift_JIS
+
+PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCFET0NUWVBFIGh0bWwgUFVC
+TElDICItLy9KLVBIT05FLy9EVEQgWEhUTUwgQmFzaWMgMS4wIFBsdXMvL0VOIiAieGh0bWxfYmFz
+aWMxMC1wbHVzLmR0ZCI+CjxIVE1MPjxIRUFEPjxNRVRBIGh0dHAtZXF1aXY9IkNvbnRlbnQtVHlw
+ZSIgY29udGVudD0idGV4dC9odG1sOyBjaGFyc2V0PVNoaWZ0X0pJUyI+PC9IRUFEPjxCT0RZPjxE
+SVY+joqLfYptlEaCtYLEgq2CvoKzgqKBSYFJPGJyPg0KPGJyPg0Kgag8YSBocmVmPSJodHRwOi8v
+bC50eXRnZmVlLmluZm8vcmVjZXB0aW9uL2luZGV4LnBocD9rZXk9ZDM2MjBmMDQxZmRjZDIzZDM3
+MGRhZmQ4NDBiNjEyYzAmbWFnYT04NDY4OCI+im2URoK3guk8L2E+PGJyPg0KPGJyPg0KDQo8L0RJ
+Vj48L0JPRFk+PC9IVE1MPg==
+--=_ddc67c1af0ffd7cc7f967c753032948c--
+
+

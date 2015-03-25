@@ -1,8 +1,3 @@
-  by bruce-guenter.dyndns.org ([192.168.1.2]); 15 Mar 2015 18:47:53 -0000
-  by localhost ([127.0.0.1])
-  with SMTP via TCP; 15 Mar 2015 18:47:53 -0000
-  by zak.futurequest.net ([69.5.6.152])
-  with SMTP via TCP; 15 Mar 2015 18:47:52 -0000
 	by localhost (Postfix)
 	with ESMTP 20141217 SAF488AA7D0694736A1F46AEC9EA65007 id C3BE2C6C
 	for <bruce@bruce-guenter.dyndns.org> from <msjdpwr.mail.1359314@smashunivers.me>;
@@ -29,3 +24,6 @@ ZGZjMWViZWJlMTM0YTg2ZWZiNDE2MmFhZDMNCi0tLS0tLS0tLS0tLS0tLS0tLS0tDQqBoYKxgszS
 sNmCzYnviPWTb5hegrOC6oK9gqiLcZdsgtaRl4LogrWCxILcgrehib2CqYzkjcCCooLcgrWCvY/q
 jYeCzaSNsY3XgsiOloLFguCCqItDjHmCybuyxJPggXmCqJbijYeC7YK5gXqC3ILFg4GBW4OLgsmC
 xIKoluKNh4LtgrmJuoKzgqKhDQpodHRwOi8vd3d3LnNtYXNodW5pdmVycy5tZS9wdC9pbmRleC5w
+aHA/dWs9ZmFmNjZkZGZjMWViZWJlMTM0YTg2ZWZiNDE2MmFhZDMNCg0KSZSqg1SDQ4jIibqCzI5n
+l3CCzYKyiZOXtom6grOCog==
+

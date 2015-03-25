@@ -1,11 +1,7 @@
-  by bruce-guenter.dyndns.org ([192.168.1.2]); 15 Mar 2015 12:45:47 -0000
-  by localhost ([127.0.0.1])
-  with SMTP via TCP; 15 Mar 2015 12:45:47 -0000
-  by zak.futurequest.net ([69.5.6.152])
-  with SMTP via TCP; 15 Mar 2015 12:45:46 -0000
 	by 95.40.25.91 with ESMTPA; Sat, 14 Mar 2015 23:39:58 +0100
 X-Originating-IP: 229.50.53.131
 From: ioroi-t@syntegra.com
 To: bruce@bruce-guenter.dyndns.org
 Subject: Feel the bottomless delight
 Content-Length: 72
+

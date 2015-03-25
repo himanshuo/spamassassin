@@ -1,8 +1,3 @@
-  by bruce-guenter.dyndns.org ([192.168.1.2]); 13 Mar 2015 05:12:34 -0000
-  by localhost ([127.0.0.1])
-  with SMTP via TCP; 13 Mar 2015 05:12:34 -0000
-  by zak.futurequest.net ([69.5.6.152])
-  with ESMTP via TCP; 13 Mar 2015 05:12:32 -0000
 	(envelope-from <riri.semuaseminar@gmail.com>)
 	id 1YWHtc-0007im-40
 	for cvs@bruce-guenter.dyndns.org; Fri, 13 Mar 2015 12:12:28 +0700
@@ -477,3 +472,6 @@ height="25" width="10" /></td>
 <img
 src="http://mailer.zabuza.org/open.php?M=122370&L=97&N=2312&F=H&image=.jpg"
 height="1" width="10"></body>
+</html>
+
+--b1_2329d2bdb784df95cebb925f9f704af5--

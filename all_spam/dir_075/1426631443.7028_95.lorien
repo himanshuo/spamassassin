@@ -1,9 +1,3 @@
-  by bruce-guenter.dyndns.org ([192.168.1.2]); 17 Mar 2015 09:24:24 -0000
-  by localhost ([127.0.0.1])
-  with SMTP via TCP; 17 Mar 2015 09:24:24 -0000
-  by zak.futurequest.net ([69.5.6.152])
-  with ESMTP via TCP; 17 Mar 2015 09:24:21 -0000
-	by  with esmtpa (Exim 4.69)
 	(envelope-from )
 	id 1MMQDU-7780en-V1
 	for cvs@bruce-guenter.dyndns.org; Tue, 17 Mar 2015 14:54:21 +0530
@@ -252,3 +246,6 @@ Content-Transfer-Encoding: 8bit
 </tr>
 </tbody>
 </table>
+
+</BODY></HTML>
+------------7B20E1D20BEC47--

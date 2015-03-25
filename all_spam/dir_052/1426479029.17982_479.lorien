@@ -1,8 +1,3 @@
-  by bruce-guenter.dyndns.org ([192.168.1.2]); 16 Mar 2015 00:24:43 -0000
-  by localhost ([127.0.0.1])
-  with SMTP via TCP; 16 Mar 2015 00:24:43 -0000
-  by zak.futurequest.net ([69.5.6.152])
-  with SMTP via TCP; 16 Mar 2015 00:24:42 -0000
 	by localhost (Postfix)
 	with ESMTP 20141217 S88938AF0C7CC4A699F7DE08BC1237FFD id B4376FCD
 	for <bruce@bruce-guenter.dyndns.org> from <peppegee.mail.1359449@smashvacances.me>;
@@ -28,3 +23,6 @@ YW5jZXMubWUvcmVjZXBib3gvaW5kZXgucGhwP3VrPWZhZjY2ZGRmYzFlYmViZTEzNGE4NmVmYjQx
 NjJhYWQzDQotLS0tLS0tLS0tLS0tLS0tLS0tLQ0KgaGCsYLM0rDZgs2J74j1k2+YXoKzguqCvYKo
 i3GXbILWkZeC6IK1gsSC3IK3oYm9gqmM5I3AgqKC3IK1gr2P6o2Hgs2kjbGN14LIjpaCxYLggqiL
 Q4x5gsm7ssST4IF5gqiW4o2Hgu2CuYF6gtyCxYOBgVuDi4LJgsSCqJbijYeC7YK5ibqCs4KioQ0K
+aHR0cDovL3d3dy5zbWFzaHZhY2FuY2VzLm1lL3B0L2luZGV4LnBocD91az1mYWY2NmRkZmMxZWJl
+YmUxMzRhODZlZmI0MTYyYWFkMw0KDQpJlKqDVINDiMiJuoLMjmeXcILNgrKJk5e2ibqCs4Ki
+

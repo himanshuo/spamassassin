@@ -1,8 +1,3 @@
-  by bruce-guenter.dyndns.org ([192.168.1.2]); 12 Mar 2015 09:50:49 -0000
-  by localhost ([127.0.0.1])
-  with SMTP via TCP; 12 Mar 2015 09:50:49 -0000
-  by zak.futurequest.net ([69.5.6.152])
-  with SMTP via TCP; 12 Mar 2015 09:50:47 -0000
 	by localhost (Postfix)
 	with ESMTP 20141217 S821239AB4C784B7882382AB40AED152C id 24C59023
 	for <bruce@bruce-guenter.dyndns.org> from <return-mail-49901@screenjapanas.info>;
@@ -29,3 +24,4 @@ OWNmOGE4NTJjNWNmMw0KLS0tLS0tLS0tLS0tLS0tLS0tLS0NCg0KgqiSbYLngrlfkuJfjn4NCmh0
 dHA6Ly93d3cuc2NyZWVuamFwYW5hcy5pbmZvL3RvcC9pbmRleC5waHA/dWs9NGRhMTVkYjcyMWY0
 OTA3OTA5NDljZjhhODUyYzVjZjMNCoGhgaGBoYGhgaGBoQ0KMTggjc4glqIglp4NCpeYIJdwIIvW
 II5+DQqBoYGhgaGBoYGhgaE=
+

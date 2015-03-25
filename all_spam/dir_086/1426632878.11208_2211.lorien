@@ -1,8 +1,3 @@
-  by bruce-guenter.dyndns.org ([192.168.1.2]); 17 Mar 2015 07:03:30 -0000
-  by localhost ([127.0.0.1])
-  with SMTP via TCP; 17 Mar 2015 07:03:30 -0000
-  by zak.futurequest.net ([69.5.6.152])
-  with ESMTP via TCP; 17 Mar 2015 07:03:29 -0000
 	by flznuugnkf.px4wnidq.net (Postfix) with ESMTP id A27CD563452
 	for <lists-linux-xfs@bruce-guenter.dyndns.org>; Tue, 17 Mar 2015 16:03:26 +0900 (JST)
 	by eywuhcysmv.px4wnidq.net (Postfix) with ESMTP id 81DCD5405A4
@@ -38,3 +33,4 @@ http://0q4y.tamtheblanche.com/hWot/1to1uh5v28Cpa7
 info@0q4y.tamtheblanche.com
 
 Å¶1Å¶8Å¶çŒÅ¶ñ¢Å¶ñûÅ¶óòÅ¶ópÅ¶ã÷Å¶é~Å¶
+

@@ -1,8 +1,3 @@
-  by bruce-guenter.dyndns.org ([192.168.1.2]); 15 Mar 2015 07:02:48 -0000
-  by localhost ([127.0.0.1])
-  with SMTP via TCP; 15 Mar 2015 07:02:48 -0000
-  by zak.futurequest.net ([69.5.6.152])
-  with SMTP via TCP; 15 Mar 2015 07:02:48 -0000
 	by localhost (Postfix)
 	with ESMTP 20141217 S2C41813080024949A24A97D970846AB7 id F7BA9BE4
 	for <bruce@bruce-guenter.dyndns.org> from <oegyaee.mail.1359226@smashunivers.me>;
@@ -28,3 +23,6 @@ cD91az1mYWY2NmRkZmMxZWJlYmUxMzRhODZlZmI0MTYyYWFkMw0KLS0tLS0tLS0tLS0tLS0tLS0t
 LS0NCoGhgrGCzNKw2YLNie+I9ZNvmF6Cs4Lqgr2CqItxl2yC1pGXguiCtYLEgtyCt6GJvYKpjOSN
 wIKigtyCtYK9j+qNh4LNpI2xjdeCyI6WgsWC4IKoi0OMeYLJu7LEk+CBeYKoluKNh4LtgrmBeoLc
 gsWDgYFbg4uCyYLEgqiW4o2Hgu2CuYm6grOCoqENCmh0dHA6Ly93d3cuc21hc2h1bml2ZXJzLm1l
+L3B0L2luZGV4LnBocD91az1mYWY2NmRkZmMxZWJlYmUxMzRhODZlZmI0MTYyYWFkMw0KDQpJlKqD
+VINDiMiJuoLMjmeXcILNgrKJk5e2ibqCs4Ki
+

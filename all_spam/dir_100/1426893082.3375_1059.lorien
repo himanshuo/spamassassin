@@ -1,9 +1,3 @@
-  by bruce-guenter.dyndns.org ([192.168.1.2]); 18 Mar 2015 01:19:48 -0000
-  by localhost ([127.0.0.1])
-  with SMTP via TCP; 18 Mar 2015 01:19:48 -0000
-  by zak.futurequest.net ([69.5.6.152])
-  with SMTP via TCP; 18 Mar 2015 01:19:47 -0000
-          by 127.0.0.1 with SMTP ID 437
           for <lists-linux-kernel@bruce-guenter.dyndns.org>;
           Wed, 18 Mar 2015 10:18:40 +0900 (JST)
 Date: Wed, 18 Mar 2015 10:18:40 +0900 (JST)
@@ -26,3 +20,4 @@ MQoKaHR0cDovL3Vha29qcmVvaXNrZW9qLmxpbmsvcGMvbWVtYmVyL2luZGV4LnBocD9kaXJlY3Rf
 dXNlcl9jZD04Nzk4NDQzOCZkaXJlY3RfcGFzc3dvcmQ9NDg5OAoK4oC7IOWNgeOAgOWFq+OAgOaJ
 jeOAgOacquOAgOa6gCDigLsKCuOAkOOAgO+8qOOAgO+8oeOAgO+8sOOAgO+8sOOAgO+8qeOAgO+8
 ruOAgO+8peOAgO+8s+OAgO+8s+OAgOOAkQoK4oC7IOOBlOOAgOWIqeOAgOeUqOOAgOemgeOAgOat
+oiDigLs=

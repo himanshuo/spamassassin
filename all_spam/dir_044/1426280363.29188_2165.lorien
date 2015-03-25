@@ -1,8 +1,3 @@
-  by bruce-guenter.dyndns.org ([192.168.1.2]); 13 Mar 2015 07:21:36 -0000
-  by localhost ([127.0.0.1])
-  with SMTP via TCP; 13 Mar 2015 07:21:36 -0000
-  by zak.futurequest.net ([69.5.6.152])
-  with SMTP via TCP; 13 Mar 2015 07:21:35 -0000
 	by NzwccFm6y4.t9isIAlnl with SMTP; Fri,13 Mar 2015 16:21:31 +0900 (JST)
 	by gFAVBcGHI0FS47 (Postfix) with ESMTP id YIEK1IM8ZWD
 	for <lists-bikini@bruce-guenter.dyndns.org>; Fri, 13 Mar 2015 16:21:31 +0900 (JST)
@@ -47,5 +42,6 @@ http://mjiri.6h9mz8n.pink/as/member/main/Top.html?pp=icfO4ov1DRZrUQO5kpFmWQ==
 
 
 285448314122015032217
+
 
 

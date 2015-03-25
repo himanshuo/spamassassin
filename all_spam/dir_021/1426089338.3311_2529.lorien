@@ -1,8 +1,3 @@
-  by bruce-guenter.dyndns.org ([192.168.1.2]); 09 Mar 2015 18:22:47 -0000
-  by localhost ([127.0.0.1])
-  with SMTP via TCP; 09 Mar 2015 18:22:47 -0000
-  by zak.futurequest.net ([69.5.6.152])
-  with ESMTP via TCP; 09 Mar 2015 18:22:46 -0000
 	id 0D417148E5CD; Tue, 10 Mar 2015 03:05:59 +0900 (JST)
 	by localhost (Postfix) with ESMTP id EFAD5148E5BE
 	for <lists-djb-ezmlm@bruce-guenter.dyndns.org>; Tue, 10 Mar 2015 03:05:58 +0900 (JST)
@@ -21,3 +16,4 @@ Content-Transfer-Encoding: 7bit
 
 アカウントの削除を希望されない場合、下記よりログインを行い削除のキャンセルをお申込み下さい。
 
+お客様のアカウントが削除対象となっております

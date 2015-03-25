@@ -1,9 +1,3 @@
-  by bruce-guenter.dyndns.org ([192.168.1.2]); 18 Mar 2015 12:55:47 -0000
-  by localhost ([127.0.0.1])
-  with SMTP via TCP; 18 Mar 2015 12:55:47 -0000
-  by zak.futurequest.net ([69.5.6.152])
-  with SMTP via TCP; 18 Mar 2015 12:55:46 -0000
-          by 127.0.0.1 with SMTP ID 413
           for <bruce@bruce-guenter.dyndns.org>;
           Wed, 18 Mar 2015 21:19:40 +0900 (JST)
 Date: Wed, 18 Mar 2015 21:19:40 +0900 (JST)
@@ -20,3 +14,6 @@ X-PHP-Qdmail: version-1.2.6b The_MIT_License http://hal456.net/qdmail PHPver 5.3
 
 aHR0cDovL2hva29haWpyZWktenNhb3JrZW9zay5saW5rL3BjL21lbWJlci9pbmRleC5waHA/ZGly
 ZWN0X3VzZXJfY2Q9ODc5NzY0NDAmZGlyZWN0X3Bhc3N3b3JkPTYyMjYKCuKAuyDljYHjgIDlhavj
+gIDmiY3jgIDmnKrjgIDmuoAg4oC7CgrjgJDjgIDvvKjjgIDvvKHjgIDvvLDjgIDvvLDjgIDvvKnj
+gIDvvK7jgIDvvKXjgIDvvLPjgIDvvLPjgIDjgJEKCuKAuyDjgZTjgIDliKnjgIDnlKjjgIDnpoHj
+gIDmraIg4oC7

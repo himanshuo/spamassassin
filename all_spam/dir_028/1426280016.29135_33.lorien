@@ -1,8 +1,3 @@
-  by bruce-guenter.dyndns.org ([192.168.1.2]); 13 Mar 2015 20:01:18 -0000
-  by localhost ([127.0.0.1])
-  with SMTP via TCP; 13 Mar 2015 20:01:18 -0000
-  by zak.futurequest.net ([69.5.6.152])
-  with ESMTP via TCP; 13 Mar 2015 20:01:17 -0000
 	id 238FB150BD39; Sat, 14 Mar 2015 05:00:19 +0900 (JST)
 	by localhost (Postfix) with ESMTP id 8E978104A34A
 	for <cvs@bruce-guenter.dyndns.org>; Sat, 14 Mar 2015 04:59:11 +0900 (JST)
@@ -73,3 +68,4 @@ Content-ID: <mail_top>
 Content-Type: image/gif;
  name="mail_top.gif"
 
+--=_75d183b55237d9cdd272ff8f31de064f--

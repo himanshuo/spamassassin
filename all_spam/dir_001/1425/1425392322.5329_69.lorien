@@ -1,0 +1,27 @@
+Delivered-To: bruce@bruce-guenter.dyndns.org
+Received: (qmail 28970 invoked from network); 2 Mar 2015 20:33:42 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 02 Mar 2015 20:33:42 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 02 Mar 2015 20:33:42 -0000
+Received: (qmail 17016 invoked from network); 2 Mar 2015 20:33:41 -0000
+Received: from stc-k002.3w3ymq9n ([103.235.13.116])
+  by zak.futurequest.net ([69.5.6.152])
+  with ESMTP via TCP; 02 Mar 2015 20:33:41 -0000
+Received: by stc-k002.3w3ymq9n (Postfix, from userid 1002)
+	id 2BF3F484F38; Tue,  3 Mar 2015 05:33:40 +0900 (JST)
+Received: from vloxotwwc.cqxcdgrld (unknown [10.159.163.236])
+	by localhost (Postfix) with ESMTP id CE8C3484F08
+	for <bruce@bruce-guenter.dyndns.org>; Tue,  3 Mar 2015 05:33:39 +0900 (JST)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/simple; d=animalbath.org; s=sel; q=dns/txt; l=1; bh=VP0XESCfscB4EJI3QTLGbnniJBs=; h=From; b=nKpBI0hCMIrQTWd5f+2SMzv20czGedVhfo1205RVemd8IBLoitUsv51LW864cV6C2K/jPbGMMsHTCtqflx0xQ4g1cCPOHLX5Ez0TKMfbySfS+ispQ3SjdZ9MsyA/TEq16qRDCPYC9+w6QEA9CiJuWwwUrf3ykSY+orc67Ai/WSc=
+Date: Tue, 03 Mar 2015 05:33:39 +0900
+MIME-Version: 1.0
+From: =?ISO-2022-JP?B?U3VnYXIbJEIiQRsoQlNwaWNl?= <mail@offdrop.org>
+To: bruce@bruce-guenter.dyndns.org
+Message-Id: 851520146_710931254f44ac9b752d@animalbath.org
+Content-Type: text/plain; charset="Shift_JIS"
+Content-Transfer-Encoding: base64
+Subject: =?ISO-2022-JP?B?GyRCISMbKEI=?=
+
+gUI=

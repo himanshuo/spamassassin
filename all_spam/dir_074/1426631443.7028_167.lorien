@@ -1,9 +1,3 @@
-  by bruce-guenter.dyndns.org ([192.168.1.2]); 16 Mar 2015 19:51:13 -0000
-  by localhost ([127.0.0.1])
-  with SMTP via TCP; 16 Mar 2015 19:51:13 -0000
-  by zak.futurequest.net ([69.5.6.152])
-  with ESMTP via TCP; 16 Mar 2015 19:51:12 -0000
-  with SMTP id 576A2F29; Tue, 17 Mar 2015 03:51:07 +0800
 From: =?GB2312?B?wu3Frsq/?= <tg4lq308h@beiyangliyi.com>
 Subject: =?GB2312?B?19/P8rncwO2688HstbzBptPr1rTQ0MGmyOe6zszhyf0=?=
 To: "cvs" <cvs@bruce-guenter.dyndns.org>
@@ -155,3 +149,4 @@ PDMA（美国产品开发管理协会www.pdma.org）会员
 1.成功的实现角色换位
 2.管理技能的培养
 3.个人修炼（习惯、领导力、沟通能力）
+4.组织的融合和团队的打造

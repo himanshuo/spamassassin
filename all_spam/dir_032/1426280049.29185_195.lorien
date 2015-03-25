@@ -1,8 +1,3 @@
-  by bruce-guenter.dyndns.org ([192.168.1.2]); 12 Mar 2015 09:44:02 -0000
-  by localhost ([127.0.0.1])
-  with SMTP via TCP; 12 Mar 2015 09:44:02 -0000
-  by zak.futurequest.net ([69.5.6.152])
-  with ESMTP via TCP; 12 Mar 2015 09:44:01 -0000
 	by 86-45-187-189-dynamic.agg2.stn.blp-srl.eircom.net with esmtpa (Exim 4.69)
 	(envelope-from )
 	id 1MMRWR-6276yr-XJ
@@ -42,3 +37,6 @@ Content-Transfer-Encoding: 8bit
   </tr>
 </table>
 
+
+</BODY></HTML>
+------------88C15CB60E7228--

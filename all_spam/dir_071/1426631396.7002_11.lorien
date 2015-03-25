@@ -1,8 +1,3 @@
-  by bruce-guenter.dyndns.org ([192.168.1.2]); 16 Mar 2015 11:12:27 -0000
-  by localhost ([127.0.0.1])
-  with SMTP via TCP; 16 Mar 2015 11:12:27 -0000
-  by zak.futurequest.net ([69.5.6.152])
-  with ESMTP via TCP; 16 Mar 2015 11:12:23 -0000
 DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=163.com;
 	s=s110527; h=Date:From:Subject:MIME-Version:Message-ID; bh=OhY2n
 	qbI8X80Ll8CTVpXqaTKbmm9ihIgMdVtlUskC3E=; b=WDXr4V7R33R8kqQqJqqn8
@@ -86,3 +81,4 @@ Content-Type: message/external-body; access-type=x-deleted; length=809553
 Content-Type: image/gif; name="=?GBK?B?z/rK29b3udwuZ2lm?="
 Content-Transfer-Encoding: base64
 Content-Disposition: attachment; filename="=?GBK?B?z/rK29b3udwuZ2lm?="
+

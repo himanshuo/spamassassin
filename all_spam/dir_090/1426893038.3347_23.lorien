@@ -1,8 +1,3 @@
-  by bruce-guenter.dyndns.org ([192.168.1.2]); 20 Mar 2015 19:39:53 -0000
-  by localhost ([127.0.0.1])
-  with SMTP via TCP; 20 Mar 2015 19:39:53 -0000
-  by zak.futurequest.net ([69.5.6.152])
-  with ESMTP via TCP; 20 Mar 2015 19:39:52 -0000
 	id 84507150AAA2; Sat, 21 Mar 2015 04:39:43 +0900 (JST)
 	by localhost (Postfix) with ESMTP id F1B2F1048C1E
 	for <cvs@bruce-guenter.dyndns.org>; Sat, 21 Mar 2015 04:39:42 +0900 (JST)
@@ -70,3 +65,6 @@ Content-Type: message/external-body; access-type=x-deleted; length=1702
 Content-Transfer-Encoding: base64
 Content-ID: <mail_top>
 Content-Type: image/gif;
+ name="mail_top.gif"
+
+--=_18e6b372c2b0c948de5dd68af48322dd--

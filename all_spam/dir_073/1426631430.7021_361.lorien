@@ -1,8 +1,3 @@
-  by bruce-guenter.dyndns.org ([192.168.1.2]); 17 Mar 2015 14:18:47 -0000
-  by localhost ([127.0.0.1])
-  with SMTP via TCP; 17 Mar 2015 14:18:47 -0000
-  by zak.futurequest.net ([69.5.6.152])
-  with ESMTP via TCP; 17 Mar 2015 14:18:45 -0000
 	id A69F5DAE43; Tue, 17 Mar 2015 23:17:38 +0900 (JST)
 	by localhost (Postfix) with ESMTP id B2D4A1048DA8
 	for <bruce@bruce-guenter.dyndns.org>; Tue, 17 Mar 2015 23:17:14 +0900 (JST)
@@ -119,3 +114,4 @@ http://wjhrah.npfehzgqaho.com/reg/sb01x.php?gs=Lm858QrG7Q8u8mHp808w70FGt0PEzm238
 
 
 
+ストップメール

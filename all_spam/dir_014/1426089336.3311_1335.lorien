@@ -1,9 +1,3 @@
-  by bruce-guenter.dyndns.org ([192.168.1.2]); 10 Mar 2015 02:21:21 -0000
-  by localhost ([127.0.0.1])
-  with SMTP via TCP; 10 Mar 2015 02:21:21 -0000
-  by zak.futurequest.net ([69.5.6.152])
-  with SMTP via TCP; 10 Mar 2015 02:21:20 -0000
-          by 127.0.0.1 with SMTP ID 574
           for <lists-djb-ezmlm@bruce-guenter.dyndns.org>;
           Tue, 10 Mar 2015 11:17:27 +0900 (JST)
 Date: Tue, 10 Mar 2015 11:17:27 +0900 (JST)
@@ -22,3 +16,4 @@ aHR0cDovL3Vqa3ItaHAtcGktbnAtbi1leS1zLXMtaW1hbmprcmVqcy1zLnB3L3BjL21lbWJlci9p
 bmRleC5waHA/ZGlyZWN0X3VzZXJfY2Q9ODQzNzAxMzMmZGlyZWN0X3Bhc3N3b3JkPTkwODcKCuKA
 uyDljYHjgIDlhavjgIDmiY3jgIDmnKrjgIDmuoAg4oC7CgrjgJDjgIDvvKjjgIDvvKHjgIDvvLDj
 gIDvvLDjgIDvvKnjgIDvvK7jgIDvvKXjgIDvvLPjgIDvvLPjgIDjgJEKCuKAuyDjgZTjgIDliKnj
+gIDnlKjjgIDnpoHjgIDmraIg4oC7

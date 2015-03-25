@@ -1,0 +1,44 @@
+Delivered-To: lists-bikini@bruce-guenter.dyndns.org
+Received: (qmail 18184 invoked from network); 1 Mar 2015 10:54:04 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 01 Mar 2015 10:54:04 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 01 Mar 2015 10:54:04 -0000
+Received: (qmail 21131 invoked from network); 1 Mar 2015 10:54:03 -0000
+Received: from localhost ([103.29.73.150])
+  by zak.futurequest.net ([69.5.6.152])
+  with ESMTP via TCP; 01 Mar 2015 10:54:03 -0000
+To: lists-bikini@bruce-guenter.dyndns.org
+Subject: =?Shift_JIS?B?i9mLfYOBgVuDi4LwjvOQTYK1gtyCtYK9?=
+DKIM-Signature: v=1;	a=rsa-sha1;	l=913;	s=selector;	t=1425207242;	c=relaxed/simple;	h=From;	d=tytgfee.info;	bh=/mwz4BJStReWI3KLfeJYUgjZlzE=;	b=VYqunVFPjReARRPSDfmxQ3to59F4p8E0Q2jQHkJiA5Kc8LF71gPKMlNtEJ00+Zv4
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=tytgfee.info; s=selector; h=From;
+	b=uc7dsOnG2C8615aVpY0N7/B3YRI7ZAeAXGbKK+KCoqm25jTa5mhq6got1myYlI1V
+Return-Path: <return-maga-84743@tytgfee.info>
+From: TASTE <info@tytgfee.info>
+MIME-Version: 1.0
+Date: Sun, 01 Mar 2015 19:54:02 +0900
+Message-ID: <bf72511653f9ba878d2bdf096e5c6c0f92059f87@tytgfee.info>
+Content-Type: multipart/alternative;boundary="=_a1b4d9591e0f8701f0cddabcd11869f2"
+Content-Transfer-Encoding: 
+
+--=_a1b4d9591e0f8701f0cddabcd11869f2
+Content-Transfer-Encoding: base64
+Content-Type: text/plain; charset=Shift_JIS
+
+joqLfYptlEaCtYLEgq2CvoKzgqKBSYFJDQoNCoGoim2URoK3gukNCg0KDQo=
+--=_a1b4d9591e0f8701f0cddabcd11869f2
+Content-Transfer-Encoding: base64
+Content-Type: text/html; charset=Shift_JIS
+
+PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCFET0NUWVBFIGh0bWwgUFVC
+TElDICItLy9KLVBIT05FLy9EVEQgWEhUTUwgQmFzaWMgMS4wIFBsdXMvL0VOIiAieGh0bWxfYmFz
+aWMxMC1wbHVzLmR0ZCI+CjxIVE1MPjxIRUFEPjxNRVRBIGh0dHAtZXF1aXY9IkNvbnRlbnQtVHlw
+ZSIgY29udGVudD0idGV4dC9odG1sOyBjaGFyc2V0PVNoaWZ0X0pJUyI+PC9IRUFEPjxCT0RZPjxE
+SVY+joqLfYptlEaCtYLEgq2CvoKzgqKBSYFJPGJyPg0KPGJyPg0Kgag8YSBocmVmPSJodHRwOi8v
+bC50eXRnZmVlLmluZm8vcmVjZXB0aW9uL2luZGV4LnBocD9rZXk9ZTI3NzRkYjY4NjgzNzJjODUx
+YjJmZDExNGVhODE0ODgmbWFnYT04NDc0MyI+im2URoK3guk8L2E+PGJyPg0KPGJyPg0KDQo8L0RJ
+Vj48L0JPRFk+PC9IVE1MPg==
+--=_a1b4d9591e0f8701f0cddabcd11869f2--
+
+

@@ -1,9 +1,3 @@
-  by bruce-guenter.dyndns.org ([192.168.1.2]); 19 Mar 2015 18:00:23 -0000
-  by localhost ([127.0.0.1])
-  with SMTP via TCP; 19 Mar 2015 18:00:23 -0000
-  by zak.futurequest.net ([69.5.6.152])
-  with ESMTP via TCP; 19 Mar 2015 18:00:21 -0000
-  with SMTP id 519E4898; Fri, 20 Mar 2015 02:00:18 +0800
 From: =?GB2312?B?uLW+rcDt?= <un5eg843p@dyyjk.com>
 Subject: =?GB2312?B?zerJxsbz0rXJ+rL60+vO77/Y1MvX98zlz7U=?=
 To: "cvs" <cvs@bruce-guenter.dyndns.org>
@@ -186,3 +180,4 @@ cvs@bruce-guenter.dyndns.org
 学习/兴奋两天,回到公司后……结合公司实际情况-
 通过学员成果发表--体会分享/经验回顾/讲师点评
 实践/活用所学五步骤  
+

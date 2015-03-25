@@ -1,8 +1,3 @@
-  by bruce-guenter.dyndns.org ([192.168.1.2]); 13 Mar 2015 17:49:38 -0000
-  by localhost ([127.0.0.1])
-  with SMTP via TCP; 13 Mar 2015 17:49:38 -0000
-  by zak.futurequest.net ([69.5.6.152])
-  with SMTP via TCP; 13 Mar 2015 17:49:37 -0000
 	by localhost (Postfix)
 	with ESMTP 20141217 SB67C0ACD12A648AC85EA6113FBDE3496 id A3E3E39D
 	for <bruce@bruce-guenter.dyndns.org> from <bduishd.mail.1358258@smashvin.co>;
@@ -31,3 +26,4 @@ pI2xjdeCyI6WgsWC4IKoi0OMeYLJu7LEk+CBeYKoluKNh4LtgrmBeoLcgsWDgYFbg4uCyYLEgqiW
 4o2Hgu2CuYm6grOCoqENCmh0dHA6Ly93d3cuc21hc2h2aW4uY28vcHQvaW5kZXgucGhwP3VrPWZh
 ZjY2ZGRmYzFlYmViZTEzNGE4NmVmYjQxNjJhYWQzDQoNCkmUqoNUg0OIyIm6gsyOZ5dwgs2CsomT
 l7aJuoKzgqI=
+

@@ -1,8 +1,3 @@
-  by bruce-guenter.dyndns.org ([192.168.1.2]); 12 Mar 2015 13:24:31 -0000
-  by localhost ([127.0.0.1])
-  with SMTP via TCP; 12 Mar 2015 13:24:31 -0000
-  by zak.futurequest.net ([69.5.6.152])
-  with ESMTP via TCP; 12 Mar 2015 13:24:30 -0000
 	id C47EED962A; Thu, 12 Mar 2015 22:23:14 +0900 (JST)
 	by localhost (Postfix) with ESMTP id 6C7EB1048D67
 	for <lists-reiserfs-list@bruce-guenter.dyndns.org>; Thu, 12 Mar 2015 22:23:08 +0900 (JST)
@@ -95,3 +90,4 @@ Date: Thu, 12 Mar 2015 22:23:08 +0900 (JST)
 
 ‚c‚l
 ’†
+Ž~

@@ -1,8 +1,3 @@
-  by bruce-guenter.dyndns.org ([192.168.1.2]); 20 Mar 2015 12:33:45 -0000
-  by localhost ([127.0.0.1])
-  with SMTP via TCP; 20 Mar 2015 12:33:45 -0000
-  by zak.futurequest.net ([69.5.6.152])
-  with ESMTP via TCP; 20 Mar 2015 12:33:43 -0000
 To: cvs <cvs@bruce-guenter.dyndns.org>
 Subject: =?koi8-r?B?8NLPydrXz8TJ1MUg0sHT09nMy8kg1yDMwMLZyCDLz8zJ3sXT1NfByA==?=	=?koi8-r?B?INPBzc/T1M/R1MXM2M7P?=
 From:  <insightrw594@gmail.com>
@@ -20,3 +15,4 @@ X-Mailer: Kayako eSupport v3.40.01
 - Реально выгодная стоимость;
 - Легкость в управлении;
 - Гибкая настройка пробиваемости и скорости Ваших рассылок.
+

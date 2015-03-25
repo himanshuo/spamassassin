@@ -1,9 +1,5 @@
-  by mx04.futurequest.net ([69.5.6.175]); 14 Mar 2015 16:25:25 -0000
-  by rip.mx04.futurequest.net ([10.2.1.175])
-  with ESMTP via TCP; 14 Mar 2015 16:25:25 -0000
 	id S1751572AbbCNQZA (ORCPT <rfc822;bruce@untroubled.org>);
 	Sat, 14 Mar 2015 12:25:00 -0400
-	mail-lb0-f194.google.com" rhost-flags-OK-OK-OK-OK) by vger.kernel.org
 	with ESMTP id S1751058AbbCNQY6 (ORCPT
 	<rfc822;linux-kernel@vger.kernel.org>);
 	Sat, 14 Mar 2015 12:24:58 -0400
@@ -85,3 +81,4 @@ Yours faithfully,
 --
 To unsubscribe from this list: send the line "unsubscribe linux-kernel" in
 the body of a message to majordomo@vger.kernel.org
+More majordomo info at  http://vger.kernel.org/majordomo-info.html

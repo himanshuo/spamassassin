@@ -1,8 +1,3 @@
-  by bruce-guenter.dyndns.org ([192.168.1.2]); 09 Mar 2015 16:20:38 -0000
-  by localhost ([127.0.0.1])
-  with SMTP via TCP; 09 Mar 2015 16:20:38 -0000
-  by zak.futurequest.net ([69.5.6.152])
-  with ESMTP via TCP; 09 Mar 2015 16:20:37 -0000
 	id 3E79D1490466; Tue, 10 Mar 2015 01:04:21 +0900 (JST)
 	by localhost (Postfix) with ESMTP id 25B7E14902FE
 	for <lists-djb-ezmlm@bruce-guenter.dyndns.org>; Tue, 10 Mar 2015 01:04:21 +0900 (JST)
@@ -28,3 +23,4 @@ Content-Transfer-Encoding: 7bit
 ※※※※※※
 お客様の【1,000万円当選】権利詳細内容につきましては、当選メール詳細にて後日受け取りの詳細をお送りさせて頂きます
 ※※※※※※
+

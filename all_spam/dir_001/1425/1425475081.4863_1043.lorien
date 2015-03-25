@@ -1,0 +1,128 @@
+Delivered-To: unknown
+Received: from pop.shaw.ca (64.59.136.142:110) by ivanova with POP3; 04 Mar
+  2015 11:30:02 -0000
+Received: from cds022.dcs.int.inet (LHLO cds022.dcs.int.inet) (10.0.145.209)
+ by cds022.dcs.int.inet with LMTP; Wed, 4 Mar 2015 02:23:42 -0700 (MST)
+Received: from pd5mr1no-ssvc.prod.shaw.ca (pd5mr1no-ssvc.prod.shaw.ca [10.0.153.212])
+	by cds022.dcs.int.inet (Postfix) with ESMTP id 65621934051
+	for <bruce.guenter@shaw.ca>; Wed,  4 Mar 2015 02:23:42 -0700 (MST)
+X-Cloudmark-SP-Filtered: true
+X-Cloudmark-SP-Result: v=1.1 cv=w11Dmd5aJ4zlTg45Ua1SiVsEOYXP0dITgwf4MnG6KhM= c=1 sm=1
+ a=9cW_t1CCXrUA:10 a=BLceEmwcHowA:10 a=iL/IK0Z3wT9/rowe1m40gQ==:17
+ a=WJeW7K-oAAAA:8 a=qI-sqkvjAAAA:8 a=KJREqPNuLu3r-mZn8akA:9
+ a=Ft8UYL4EG9YA:10 a=_W_S_7VecoQA:10 a=frz4AuCg-hUA:10 a=iMUSQ_OIJy30IsCG:21
+ a=9pPhUUmThGpGsBvp:21 a=HpAAvcLHHh0Zw7uRqdWCyQ==:117
+Received: from unknown (HELO pd5mi1no-ssvc.prod.shaw.ca) ([10.0.144.222])
+  by pd5mr1no-svcs.prod.shaw.ca with ESMTP; 04 Mar 2015 02:23:42 -0700
+Received: from unknown (HELO km23009-16.keymachine.de) ([87.118.106.253])
+  by pd5mi1no-dmz.prod.shaw.ca with ESMTP/TLS/DHE-RSA-AES256-SHA; 04 Mar 2015 02:23:41 -0700
+Received: (qmail 11309 invoked from network); 4 Mar 2015 10:23:39 +0100
+Received: from unknown (HELO User) (68.71.35.43)
+  by bildung-owl.dyndns.org with SMTP; 4 Mar 2015 10:23:38 +0100
+Reply-To: <service@intl.paypal.com>
+From: "PayPal"<service@intl.paypal.com>
+Subject: Notification of Limited Account Access
+Date: Wed, 4 Mar 2015 11:22:05 +0200
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0088_01C2A9A6.52A37EE8"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-Id: <20150304092342.65621934051@cds022.dcs.int.inet>
+To: undisclosed-recipients:;
+Content-Length: 7958
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0088_01C2A9A6.52A37EE8
+Content-Type: text/plain;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+
+<html><head><body><div class="ppmail">
+<style type="text/css">#emailWrapperTable h1, #emailWrapperTable h2 {font-family:Verdana,Arial;margin-bottom:2px; font-size:15px;}
+#emailWrapperTable h3 {font-size:13px;}
+#emailWrapperTable h4 {font-size:11px;}
+a {color:#084482; text-decoration:underline;}a.actionLink {color:#000; text-decoration:none;}
+hr {display: none;}
+.small {font-size:10px;}
+.ppid {color:#757575;}
+p {margin:11px 0; padding:0;}
+</style><table id="emailWrapperTable" style="font:11px Verdana, Arial, Helvetica, sans-serif;color:#333;" border="0" cellpadding="0" cellspacing="0" width="600">
+<tbody><tr valign="top"><td colspan="3">
+<table border="0" cellpadding="0" cellspacing="0" width="100%"></table></td></tr>
+<tr><td class="contentArea" style="width:530px; word-wrap:break-word; padding:12px; margin:0" width="530">
+<table style="font:Verdana, Arial, Helvetica, sans-serif;" width="100%"><tbody><tr><td>
+<h2><span class="outlookFix">Notification of Limited Account Access</span></h2></td></tr></tbody></table>
+<p>As part of our security measures, we regularly screen activity in the PayPal system. We recently reviewed your account, and we need more information to help us provide you with secure service. Until we can collect this information, your access to sensitive account features will be limited. We would like to restore your access as soon as possible.</p>
+<p>Why is my account access limited?<BR>Your account access has been limited for the following reason(s):</p>
+<p>A recent review of your account determined that we require some additional information from you in order to provide you with secure service. We understand it may be frustrating not to have full access to your PayPal account, but protecting your account is our primary concern.</p>
+<p>Case ID Number: PP-350-877-508</p>
+<p>To return your account to regular standing, you&#39;ll need to follow the instructions.</p>
+<style>.howTo ul, .howTo ol {margin-left:0; padding:4px 0 4px 20px;}
+.howTo ul li, 
+.howTo ol li {margin-left:0;padding-left:0;}</style>
+<table class="howTo" style="font:11px Verdana, Arial, Helvetica, sans-serif;" border="0" cellpadding="10" cellspacing="0" width="100%">
+<tbody><tr><td style="background-color:#E8F1FA">
+<p>It&#39;s easy:</p>
+<ul>
+<li>Click Reset your account now below to open a secure browser window.</li>
+<li>Confirm that you&#39;re the owner of the account, and then follow the instructions.</li>
+<li><p><a href="http://www.booksbytom.com/home.webapps.paypal.com.webscr.cmd.login.85zuODBM5mTb480tKwMk8s.dispatch.8kDd455e0E53Nd368k843eb05408QM58858d2868e2P6780Kb84DLDd8500d3ee8d833bc6108/WHEK5MD/" target="_blank">Reset your account now</a></p></li>
+<li><p>In accordance with PayPal's User Agreement, your account access will remain limited until the issue has been resolved. Unfortunately, if access to your account remains limited for an extended period of time, it may result in further limitations or eventual account closure. We encourage you to restore your PayPal account as soon as possible to help avoid this.</p></li>
+</ul></td></tr></tbody></table>
+<p>Sincerely,<BR>PayPal Account Review Department.</p>
+<table id="emailFooter" style="font:10px Verdana, Arial, Helvetica, sans-serif;color:#333;" border="0" cellpadding="0" cellspacing="0" width="530"><tbody><tr><td>
+<p>Please do not reply to this email. We are unable to respond to inquiries sent to this address. For immediate answers to your questions, visit our Help Centre by clicking "Help" located on any PayPal page or email.</p>
+<p>PayPal is committed to your privacy, learn more about our privacy policy.</p>
+<p>Copyright &copy; 2015 PayPal, Inc. All rights reserved.</p>
+<p class="xptFooter ppid" style="">PayPal Email ID PP1775 - 90B903CD880</p>
+</tbody></table></td></tr></table></div></body></html>
+------=_NextPart_000_0088_01C2A9A6.52A37EE8
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+
+<html><head><body><div class="ppmail">
+<style type="text/css">#emailWrapperTable h1, #emailWrapperTable h2 {font-family:Verdana,Arial;margin-bottom:2px; font-size:15px;}
+#emailWrapperTable h3 {font-size:13px;}
+#emailWrapperTable h4 {font-size:11px;}
+a {color:#084482; text-decoration:underline;}a.actionLink {color:#000; text-decoration:none;}
+hr {display: none;}
+.small {font-size:10px;}
+.ppid {color:#757575;}
+p {margin:11px 0; padding:0;}
+</style><table id="emailWrapperTable" style="font:11px Verdana, Arial, Helvetica, sans-serif;color:#333;" border="0" cellpadding="0" cellspacing="0" width="600">
+<tbody><tr valign="top"><td colspan="3">
+<table border="0" cellpadding="0" cellspacing="0" width="100%"></table></td></tr>
+<tr><td class="contentArea" style="width:530px; word-wrap:break-word; padding:12px; margin:0" width="530">
+<table style="font:Verdana, Arial, Helvetica, sans-serif;" width="100%"><tbody><tr><td>
+<h2><span class="outlookFix">Notification of Limited Account Access</span></h2></td></tr></tbody></table>
+<p>As part of our security measures, we regularly screen activity in the PayPal system. We recently reviewed your account, and we need more information to help us provide you with secure service. Until we can collect this information, your access to sensitive account features will be limited. We would like to restore your access as soon as possible.</p>
+<p>Why is my account access limited?<BR>Your account access has been limited for the following reason(s):</p>
+<p>A recent review of your account determined that we require some additional information from you in order to provide you with secure service. We understand it may be frustrating not to have full access to your PayPal account, but protecting your account is our primary concern.</p>
+<p>Case ID Number: PP-350-877-508</p>
+<p>To return your account to regular standing, you&#39;ll need to follow the instructions.</p>
+<style>.howTo ul, .howTo ol {margin-left:0; padding:4px 0 4px 20px;}
+.howTo ul li, 
+.howTo ol li {margin-left:0;padding-left:0;}</style>
+<table class="howTo" style="font:11px Verdana, Arial, Helvetica, sans-serif;" border="0" cellpadding="10" cellspacing="0" width="100%">
+<tbody><tr><td style="background-color:#E8F1FA">
+<p>It&#39;s easy:</p>
+<ul>
+<li>Click Reset your account now below to open a secure browser window.</li>
+<li>Confirm that you&#39;re the owner of the account, and then follow the instructions.</li>
+<li><p><a href="http://www.booksbytom.com/home.webapps.paypal.com.webscr.cmd.login.85zuODBM5mTb480tKwMk8s.dispatch.8kDd455e0E53Nd368k843eb05408QM58858d2868e2P6780Kb84DLDd8500d3ee8d833bc6108/WHEK5MD/" target="_blank">Reset your account now</a></p></li>
+<li><p>In accordance with PayPal's User Agreement, your account access will remain limited until the issue has been resolved. Unfortunately, if access to your account remains limited for an extended period of time, it may result in further limitations or eventual account closure. We encourage you to restore your PayPal account as soon as possible to help avoid this.</p></li>
+</ul></td></tr></tbody></table>
+<p>Sincerely,<BR>PayPal Account Review Department.</p>
+<table id="emailFooter" style="font:10px Verdana, Arial, Helvetica, sans-serif;color:#333;" border="0" cellpadding="0" cellspacing="0" width="530"><tbody><tr><td>
+<p>Please do not reply to this email. We are unable to respond to inquiries sent to this address. For immediate answers to your questions, visit our Help Centre by clicking "Help" located on any PayPal page or email.</p>
+<p>PayPal is committed to your privacy, learn more about our privacy policy.</p>
+<p>Copyright &copy; 2015 PayPal, Inc. All rights reserved.</p>
+<p class="xptFooter ppid" style="">PayPal Email ID PP1775 - 90B903CD880</p>
+</tbody></table></td></tr></table></div></body></html>
+
+------=_NextPart_000_0088_01C2A9A6.52A37EE8--

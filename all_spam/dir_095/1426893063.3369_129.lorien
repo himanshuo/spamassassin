@@ -1,8 +1,3 @@
-  by bruce-guenter.dyndns.org ([192.168.1.2]); 18 Mar 2015 17:14:09 -0000
-  by localhost ([127.0.0.1])
-  with SMTP via TCP; 18 Mar 2015 17:14:09 -0000
-  by zak.futurequest.net ([69.5.6.152])
-  with ESMTP via TCP; 18 Mar 2015 17:14:06 -0000
 X-Authentication-Warning: googlemail.com: demisingwh37 set sender to photocopiese9@bk.ru using -f
 Subject: =?koi8-r?B?4cTSxdPO2cUg0sHT09nMy8kg0M8gzMDC2c0gz9TSwdPM0c0gySDHzw==?=	=?koi8-r?B?0s/Ewc0=?=
 To: cvs <<cvs@bruce-guenter.dyndns.org>>
@@ -93,3 +88,4 @@ Content-Type: text/html; charset=koi8-r
       </b></font></div></td>
     </tr>
   </table>
+

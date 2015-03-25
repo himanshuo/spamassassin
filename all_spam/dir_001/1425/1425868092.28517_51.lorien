@@ -1,0 +1,30 @@
+Delivered-To: bruce@bruce-guenter.dyndns.org
+Received: (qmail 12092 invoked from network); 7 Mar 2015 06:15:27 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 07 Mar 2015 06:15:27 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 07 Mar 2015 06:15:27 -0000
+Received: (qmail 25478 invoked from network); 7 Mar 2015 06:15:26 -0000
+Received: from gnk58725970.1.2.7 ([180.214.53.43])
+  by zak.futurequest.net ([69.5.6.152])
+  with ESMTP via TCP; 07 Mar 2015 06:15:26 -0000
+Return-Path: <mail002200000137841@mail2.proche-s.jp>
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/simple; d=7awvpfjj.link; s=sel; q=dns/txt; l=1; bh=xjrm3U/J+d2maXDoJ9E/fHP+hBw=; h=From; b=Iv3JdlJ3WGDByYZvHLutL2s0YQiUDPCXPDGIZnPz8O1NX2vbscEHTZvaeIs379lhWCbbTZBwvPlG/+O3lwKp1Wyl0j7YmVghpcneGbAAnCDiXn8LCSML7rLNZyMYClfV5k5e3Ub9Q73Ri5E5DrZS72AQQPgrnpa8SZn+qkLrzDg=
+Date: Sat, 07 Mar 2015 15:15:25 +0900
+MIME-Version: 1.0
+From: mail@7awvpfjj.link
+To: bruce@bruce-guenter.dyndns.org
+Message-Id: 550804086_296164554fa18e4ebc7b@7awvpfjj.link
+Content-Type: text/plain; charset="Shift_JIS"
+Content-Transfer-Encoding: base64
+Subject: =?ISO-2022-JP?B?MjAbJEJLfCVdJSQlcyVIJCxESTJDJDUkbCRGJCQkXiQ5InYbKEI=?=
+
+MjCWnIN8g0ODk4Nngs0NCpC8iYCOm4/SipeXbILmguiSx4nBgrOC6oLEgqKC3IK3gfQNCg0KgaWB
+eZC8iYCOm4/SipeBepdsgqmC54LMg4GDYoNagVuDV4LNgrGCv4LngaUNCmh0dHA6Ly83YXd2cGZq
+ai5saW5rLyU3ZXBvL21haWxib3gvUEM6MTE5OTk0MzU0ZmExOGU0ZWFmMTQvSUM6bFNMdk5EaFpQ
+bW9uZGczVTlDaXQvP2d1aWQ9T04=
+
+
+
+

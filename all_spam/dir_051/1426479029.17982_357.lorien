@@ -1,8 +1,3 @@
-  by bruce-guenter.dyndns.org ([192.168.1.2]); 16 Mar 2015 02:26:44 -0000
-  by localhost ([127.0.0.1])
-  with SMTP via TCP; 16 Mar 2015 02:26:44 -0000
-  by zak.futurequest.net ([69.5.6.152])
-  with SMTP via TCP; 16 Mar 2015 02:26:43 -0000
 	by localhost (Postfix)
 	with ESMTP 20141217 SA054D3AFA8E64332BBFF31785A7746CB id 4140E1EA
 	for <bruce@bruce-guenter.dyndns.org> from <ehraae.mail.1359522@smashvague.me>;
@@ -28,3 +23,6 @@ LnNtYXNodmFndWUubWUvcmVjZXBib3gvaW5kZXgucGhwP3VrPWZhZjY2ZGRmYzFlYmViZTEzNGE4
 NmVmYjQxNjJhYWQzDQotLS0tLS0tLS0tLS0tLS0tLS0tLQ0KgaGCsYLM0rDZgs2J74j1k2+YXoKz
 guqCvYKoi3GXbILWkZeC6IK1gsSC3IK3oYm9gqmM5I3AgqKC3IK1gr2P6o2Hgs2kjbGN14LIjpaC
 xYLggqiLQ4x5gsm7ssST4IF5gqiW4o2Hgu2CuYF6gtyCxYOBgVuDi4LJgsSCqJbijYeC7YK5ibqC
+s4KioQ0KaHR0cDovL3d3dy5zbWFzaHZhZ3VlLm1lL3B0L2luZGV4LnBocD91az1mYWY2NmRkZmMx
+ZWJlYmUxMzRhODZlZmI0MTYyYWFkMw0KDQpJlKqDVINDiMiJuoLMjmeXcILNgrKJk5e2ibqCs4Ki
+

@@ -1,6 +1,3 @@
-  by mx09.futurequest.net ([69.5.6.181]); 21 Mar 2015 06:54:52 -0000
-  by rip.mx09.futurequest.net ([10.2.1.181])
-  with ESMTP via TCP; 21 Mar 2015 06:54:52 -0000
 To: bruce@untroubled.org
 DomainKey-Signature: a=rsa-sha1; s=defaultdk; d=pasionat.ro; c=simple; q=dns;
 	h=dkim-signature:from:subject:x-mach-nwlid:message-id:date:
@@ -1944,3 +1941,4 @@ Ym9keT4NCjwvaHRtbD4NCjwvZGl2PjxkaXY+PGltZyBzcmM9Imh0dHA6Ly9uZXdzbGV0dGVy
 LnBhc2lvbmF0LnJvL3N0YXQvbz9wPWV5SnpJam94TUN3aWJpSTZOelkyT1N3aWFTSTZPVFE1
 TENKaklqb3hOekV5TVRBeExDSnhJam93TENKbElqb2lZbkoxWTJWQWRXNTBjbTkxWW14bFpD
 NXZjbWNpTENKeUlqbzJOekEzTENKMElqb3hOREkyT1RBM05Ua3dmUT09Ii8+PC9kaXY+
+

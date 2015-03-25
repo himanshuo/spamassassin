@@ -1,8 +1,3 @@
-  by bruce-guenter.dyndns.org ([192.168.1.2]); 10 Mar 2015 11:16:40 -0000
-  by localhost ([127.0.0.1])
-  with SMTP via TCP; 10 Mar 2015 11:16:40 -0000
-  by zak.futurequest.net ([69.5.6.152])
-  with ESMTP via TCP; 10 Mar 2015 11:16:39 -0000
 	id 61333DACB5; Tue, 10 Mar 2015 20:15:42 +0900 (JST)
 	by localhost (Postfix) with ESMTP id 0BB3C1048D87
 	for <lists-djb-ezmlm@bruce-guenter.dyndns.org>; Tue, 10 Mar 2015 20:15:37 +0900 (JST)
@@ -71,3 +66,6 @@ http://alyszd.uxdszmngwkc.com/reg/sb01x.php?gs=LmowzQk5zmkuzOyw8MpR7QTN8mLmzOkw
 
 
 
+
+
+ストップメール

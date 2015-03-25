@@ -73,7 +73,7 @@ REMEMBER WHAT THE ENTREPENEURSHIP GUY SAID: DO STUFF. IT MAKES PEOPLE THINK YOU 
     http://askubuntu.com/questions/155791/how-do-i-sudo-a-command-in-a-script-without-being-asked-for-a-password
     --the file used for this is called call_sa-learn.sh. I made it 777 for our purposes. This is NOT
     safe for production.
-11)file input
+11)file input                                                                                            DONE
 12)multilanguage support                                                                                 DONE
 
 

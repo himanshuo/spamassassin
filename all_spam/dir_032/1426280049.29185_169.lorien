@@ -1,9 +1,3 @@
-  by bruce-guenter.dyndns.org ([192.168.1.2]); 13 Mar 2015 09:15:48 -0000
-  by localhost ([127.0.0.1])
-  with SMTP via TCP; 13 Mar 2015 09:15:48 -0000
-  by zak.futurequest.net ([69.5.6.152])
-  with ESMTP via TCP; 13 Mar 2015 09:15:46 -0000
-  with SMTP id 4CEA0E43; Fri, 13 Mar 2015 17:15:46 +0800
 From: =?GB2312?B?zuLX3A==?= <nd4bn492c@bewon.com>
 Subject: =?GB2312?B?1PXDtNH5ssXE3L+qt6Kz9rf7us+/zbuntcSy+sa3o78=?=
 To: "cvs" <cvs@bruce-guenter.dyndns.org>
@@ -165,3 +159,6 @@ IT运维管理咨询：参与该咨询项目的现状调研、交接维流程体系设计、产品上线运维关键指
 6.项目级敏捷通用过程模型
 7.项目级敏捷过程样例（版本中项目组全都实施敏捷）
 8.敏捷团队绩效管理
+  (1)谁来管理团队中的个体？(2)敏捷团队的目标(3)从团队外部认识团队目标(4)敏捷开发中的目标管理意识
+9.执行与实施层面的敏捷实践
+7、总结

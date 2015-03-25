@@ -1,8 +1,3 @@
-  by bruce-guenter.dyndns.org ([192.168.1.2]); 14 Mar 2015 22:56:08 -0000
-  by localhost ([127.0.0.1])
-  with SMTP via TCP; 14 Mar 2015 22:56:08 -0000
-  by zak.futurequest.net ([69.5.6.152])
-  with SMTP via TCP; 14 Mar 2015 22:56:07 -0000
 	by localhost (Postfix)
 	with ESMTP 20141217 S42107FD7AED24414A71B033EF236E867 id E6CF2424
 	for <bruce@bruce-guenter.dyndns.org> from <ndjkoire.mail.1358822@smashunivers.me>;
@@ -28,3 +23,6 @@ ZWNlcGJveC9pbmRleC5waHA/dWs9ZmFmNjZkZGZjMWViZWJlMTM0YTg2ZWZiNDE2MmFhZDMNCi0t
 LS0tLS0tLS0tLS0tLS0tLS0tDQqBoYKxgszSsNmCzYnviPWTb5hegrOC6oK9gqiLcZdsgtaRl4Lo
 grWCxILcgrehib2CqYzkjcCCooLcgrWCvY/qjYeCzaSNsY3XgsiOloLFguCCqItDjHmCybuyxJPg
 gXmCqJbijYeC7YK5gXqC3ILFg4GBW4OLgsmCxIKoluKNh4LtgrmJuoKzgqKhDQpodHRwOi8vd3d3
+LnNtYXNodW5pdmVycy5tZS9wdC9pbmRleC5waHA/dWs9ZmFmNjZkZGZjMWViZWJlMTM0YTg2ZWZi
+NDE2MmFhZDMNCg0KSZSqg1SDQ4jIibqCzI5nl3CCzYKyiZOXtom6grOCog==
+

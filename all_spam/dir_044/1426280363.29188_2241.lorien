@@ -1,8 +1,3 @@
-  by bruce-guenter.dyndns.org ([192.168.1.2]); 12 Mar 2015 08:02:16 -0000
-  by localhost ([127.0.0.1])
-  with SMTP via TCP; 12 Mar 2015 08:02:16 -0000
-  by zak.futurequest.net ([69.5.6.152])
-  with ESMTP via TCP; 12 Mar 2015 08:02:14 -0000
 	id B3703B913A; Thu, 12 Mar 2015 16:55:23 +0900 (JST)
 	by localhost (Postfix) with ESMTP id 6CA081048D65
 	for <lists-linux-xfs@bruce-guenter.dyndns.org>; Thu, 12 Mar 2015 16:48:41 +0900 (JST)
@@ -121,3 +116,4 @@ Content-ID: <2@wins>
 Content-Type: image/jpeg;
  name="img2.jpg"
 
+--=_c8aa988e4e5b01a93359cefb58e889f4--

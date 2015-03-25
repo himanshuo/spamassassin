@@ -1,8 +1,3 @@
-  by bruce-guenter.dyndns.org ([192.168.1.2]); 16 Mar 2015 05:10:41 -0000
-  by localhost ([127.0.0.1])
-  with SMTP via TCP; 16 Mar 2015 05:10:41 -0000
-  by zak.futurequest.net ([69.5.6.152])
-  with ESMTP via TCP; 16 Mar 2015 05:10:39 -0000
 	by wm164e.znmd.net (mailserver) with ESMTP id 40B5767C6A30C
 	for <lists-linux-kernel@bruce-guenter.dyndns.org>; Mon, 16 Mar 2015 14:02:57 +0900 (JST)
 Content-Transfer-Encoding: base64
@@ -41,3 +36,4 @@ QIFAgUCBRjliODM2NmM3DQoNCoSqhKqEqoSqhKqEqiBDb3B5cmlnaHQoQykyMDE0IExlYWRpbmcg
 QWxsIFJpZ2h0cyBSZXNlcnZlZC6EqoSqhKqEqoSqDQoNCpR6kE2S4o5+gvCCsorzll2Cs4LqgumP
 6o2Hgs2BQYm6i0xVUkyCqYLngqiO6JGxgquJuoKzgqKBQg0KDQqBpJR6kE2S4o5+gsyCqI7okbGC
 q4LNgrGCv4LnDQpodHRwOi8vcGMuai1sZWFkaW5nLmpwL21lbWJlci9pbnF1aXJ5LnBocD9taD03
+Y2QzNDcyYjgwZDVlMjExODgyMTFmNjlmOTM0ODg1Mw0KhKqEqoSqhKqEqoSqhKqEqoSqhKqEqoSq

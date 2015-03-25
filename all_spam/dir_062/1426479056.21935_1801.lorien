@@ -1,8 +1,3 @@
-  by bruce-guenter.dyndns.org ([192.168.1.2]); 16 Mar 2015 04:04:07 -0000
-  by localhost ([127.0.0.1])
-  with SMTP via TCP; 16 Mar 2015 04:04:07 -0000
-  by zak.futurequest.net ([69.5.6.152])
-  with ESMTP via TCP; 16 Mar 2015 04:04:06 -0000
 	by flznuugnkf.px4wnidq.net (Postfix) with ESMTP id 528BB5670E3
 	for <lists-linux-xfs@bruce-guenter.dyndns.org>; Mon, 16 Mar 2015 12:55:02 +0900 (JST)
 	by eywuhcysmv.px4wnidq.net (Postfix) with ESMTP id 2F4F9540139
@@ -45,3 +40,4 @@ http://y2y4.perchylly.com/X1d9/6i46jXakIdr5fsVt
 info@y2y4.perchylly.com
 
 Å¶1Å¶8Å¶çŒÅ¶ñ¢Å¶ñûÅ¶óòÅ¶ópÅ¶ã÷Å¶é~Å¶
+

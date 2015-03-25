@@ -1,12 +1,7 @@
-  by mx07.futurequest.net ([69.5.6.178]); 12 Mar 2015 12:07:23 -0000
-  by rip.mx07.futurequest.net ([10.2.1.178])
-  with ESMTP via TCP; 12 Mar 2015 12:07:23 -0000
 	id S1753656AbbCLMGF (ORCPT <rfc822;bruce@untroubled.org>);
 	Thu, 12 Mar 2015 08:06:05 -0400
-	rhost-flags-OK-OK-OK-OK) by vger.kernel.org with ESMTP
 	id S1751762AbbCLMGE (ORCPT <rfc822;linux-ext4@vger.kernel.org>);
 	Thu, 12 Mar 2015 08:06:04 -0400
-X-Greylist: delayed 616 seconds by postgrey-1.27 at vger.kernel.org; Thu, 12 Mar 2015 08:05:58 EDT
 X-CTCH-RefID: str=0001.0A0B0205.55017E9F.0160,ss=1,re=0.001,recu=0.000,reip=0.000,cl=1,cld=1,fgs=0
 X-CTCH-VOD: Unknown
 X-CTCH-Spam: Unknown
@@ -41,3 +36,4 @@ Liaoning 114021, China.
 
 --
 To unsubscribe from this list: send the line "unsubscribe linux-ext4" in
+the body of a message to majordomo@vger.kernel.org

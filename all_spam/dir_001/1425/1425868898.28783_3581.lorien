@@ -1,0 +1,38 @@
+Delivered-To: lists-linux-xfs@bruce-guenter.dyndns.org
+Received: (qmail 18860 invoked from network); 8 Mar 2015 21:55:21 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 08 Mar 2015 21:55:21 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 08 Mar 2015 21:55:21 -0000
+Received: (qmail 29563 invoked from network); 8 Mar 2015 21:55:20 -0000
+Received: from pbk83798593.6.2.8 ([180.214.53.46])
+  by zak.futurequest.net ([69.5.6.152])
+  with ESMTP via TCP; 08 Mar 2015 21:55:20 -0000
+Return-Path: <mail002200000163141@mail2.proche-s.jp>
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/simple; d=pn9fvjyt.link; s=sel; q=dns/txt; l=1; bh=E/vXnD05Dl1lhaIeEf9ewZcM/ww=; h=From; b=eulLoJ20ToTQAiOAezp078kI51dBujExyO35DCK9QwAiEY72t8M/gE0MDymq/Z2i9dvpUf3lMkkxaWhItZdgpKeS4gA4Z6DuovPro04BLhAS7luVHIo7nP0Mpmj1ti1MZn5a2ILWpd/cb5GM5K6t8IjvJw5f4y5UarSKLGa3vIo=
+Date: Mon, 09 Mar 2015 06:55:18 +0900
+MIME-Version: 1.0
+From: mail@pn9fvjyt.link
+To: lists-linux-xfs@bruce-guenter.dyndns.org
+Message-Id: 80804463_892068354fa18e501416@pn9fvjyt.link
+Content-Type: text/plain; charset="Shift_JIS"
+Content-Transfer-Encoding: base64
+Subject: =?ISO-2022-JP?B?GyRCQD4xYDt7JEckOSEjO2QkKyRpGyhCMRskQjIvGyhCNDAwMBskQkt8JE47cTs6PnlFTyRyPHUkMTxoJGs7diRLSVQwQiQsJCIkayROJEckOSRoJE0hKSRHJGIwQj80JDckRiQvJEAkNSQkISM1Lkp9JE5BMCRLJCpFTyQ3JDckPxsoQjE5GyRCTD4kTkp9ITkkRyQ5JCwbKEI=?=
+
+kLyJgI6bj9KKlw0KDQqQvImAjpuCxYK3gUKOhIKpgucxia00MDAwlpyCzI6RjlmP95NugvCO84Kv
+juaC6Y6WgsmVc4jAgqqCoILpgsyCxYK3guaCy4FIgsWC4IjAkFOCtYLEgq2CvoKzgqKBQotNlfuC
+zJFPgsmCqJNugrWCtYK9MTmWvILMlfuBWILFgreCqg0KDQogiXsgl5cgKJazIJe/KSANCmh0dHA6
+Ly9wbjlmdmp5dC5saW5rLyU3ZXBvL21haWxib3gvUEM6NDIyMTM0NDU0ZmExOGU1MDA2YjQvTUM6
+NDM5ZDNmMDA0NDg0ZDVkODJjNDA5ODc4ODY2ODIwYWUvP2d1aWQ9T04NCg0KDQqBnyBQIHIgbyBj
+IGggZSBzIJGLIIz7IA0KIIGmIIKoIJBTIJOWIIK9IILoIILMIILIIIKiIJX7IILWIA0KIJHeIInv
+IIFFIINJIIN2IINnIINBIINFIINnIILMIIKyIJhBIJeNIILNIIKoIJCUIILFIIK3IIKqIIm6IItM
+IIKiIIK4IILqIIKpIILMIJGLIIz7IILWIIF1IJHeIInvIIrzIJZdIIF2IILGIIKyIJXUIJBNIILw
+IIKoIIroIIKiIJJ2IIK1IILcIIK3IIFCIA0KPT09PT09PT09PT09PQ0KIyMgkd4gie8giLYgkOYg
+DQppbmZvQHByb2NoZS1zLmpwDQojIyCR3iCJ7yCDdCCDSCCBWyCDgCANCmh0dHA6Ly9wbjlmdmp5
+dC5saW5rLyU3ZXBvL2lucXVpcnkvUEM6NDIyMTM0NDU0ZmExOGU1MDA2YjQvTUM6NDM5ZDNmMDA0
+NDg0ZDVkODJjNDA5ODc4ODY2ODIwYWUvP2d1aWQ9T04NCg0KNDM5MTYz
+
+
+
+

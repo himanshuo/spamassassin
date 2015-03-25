@@ -1,0 +1,440 @@
+Delivered-To: lists-linux-xfs@bruce-guenter.dyndns.org
+Received: (qmail 11628 invoked from network); 8 Mar 2015 16:59:43 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 08 Mar 2015 16:59:43 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 08 Mar 2015 16:59:43 -0000
+Received: (qmail 24354 invoked from network); 8 Mar 2015 16:59:41 -0000
+Received: from 20552.kirmizimum.com ([94.138.205.52])
+  by zak.futurequest.net ([69.5.6.152])
+  with ESMTP via TCP; 08 Mar 2015 16:59:41 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=bulten; d=kirmizimum.com;
+ h=Date:To:From:Reply-to:Subject:Message-ID:Sender:List-Unsubscribe:MIME-Version:Content-Transfer-Encoding:Content-Type; i=user-rt@kirmizimum.com;
+ bh=Qc9/WzQgWVVmyfk4e6cbZ2IxMo8=;
+ b=VGyqXhBVITjCRz7aXRXwjq/VOxaF5FoyebcdAiCrEpC0FVntCBCBl/rczV0J1q4ZTlozj7Cm0AFL
+   8V46RDn30zKPJTXZQ1OQyWgIxTLDTkzoIoOtlwMBUq0j0YX+LOiAY5qvGLK9lNTg6Q9Ji4w9foK6
+   gFddC2aBOIdH0MNESa4=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=bulten; d=kirmizimum.com;
+ b=ZJtriHPkkRONi7r6cvK3VDTPHVy1qF+pmK0SdYP+en2vX+m0RUC3mO5eThpfaRGIGz62yEoMELds
+   QxpS7MLMlL01Wo4ITQQet9Xzq3bl4CLdk1qN4pxdKEbY2J/uK+yflm2bkBBzkB7n7k7uSDMze33m
+   z83oCtx9ScNFTTEwqDg=;
+Received: by 20552.kirmizimum.com id hvhvt6159ggm for <lists-linux-xfs@bruce-guenter.dyndns.org>; Sun, 8 Mar 2015 18:58:47 +0200 (envelope-from <bounce-58388-10855292-2696-248@kirmizimum.com>)
+Received: by localhost.localhost id hvhvum159gg5 for <lists-linux-xfs@bruce-guenter.dyndns.org>; Sun, 8 Mar 2015 17:59:22 +0100 (envelope-from <bounce-58388-10855292-2696-248@kirmizimum.com>)
+Date: Sun, 8 Mar 2015 16:59:22 +0000
+Return-Path: bounce-58388-10855292-2696-248@kirmizimum.com
+To: "lists-linux-xfs@bruce-guenter.dyndns.org" <lists-linux-xfs@bruce-guenter.dyndns.org>
+From: =?utf-8?Q?T=C3=BCketici_Bilgi?= <info@tuketici-bilgilendirme.com>
+Reply-to: =?utf-8?Q?T=C3=BCketici_Bilgi?= <info@tuketici-bilgilendirme.com>
+Subject: =?utf-8?Q?Kr=C3=A9di_Kart=C4=B1_Aidat=C4=B1_ve_Kredi_Dosya_Masraf=C4=B1n?=
+ =?utf-8?Q?=C4=B1_Alman=C4=B1n_En_Kolay_Yolu..?=
+Message-ID: <35aac4989f57d69750fa5e78d47f6c94@localhost.localdomain>
+X-Priority: 3
+Sender: <user-rt@kirmizimum.com>
+X-Mailer: KirmiziMum
+X-Complaints-To: abuse@kirmizimum.com
+List-Unsubscribe: <http://www.kirmizimum.com/u.php?p=zq/rs/15tw/s5/z8/rs>, <mailto:fbl@kirmizimum.com?subject=unsubscribe:zq-15tw-bGlzdHMtbGludXgteGZzQGJydWNlLWd1ZW50ZXIuZHluZG5zLm9yZw%3D%3D-s5-rt-rs>
+X-MessageID: zq-15tw-bGlzdHMtbGludXgteGZzQGJydWNlLWd1ZW50ZXIuZHluZG5zLm9yZw%3D%3D-s5-rt-rs
+X-Report-Abuse: <http://www.kirmizimum.com/report_abuse.php?mid=zq-15tw-bGlzdHMtbGludXgteGZzQGJydWNlLWd1ZW50ZXIuZHluZG5zLm9yZw%3D%3D-s5-rt-rs>
+Precedence: bulk
+X-SMTPAPI: {"unique_args":{"abuse-id":"zq-15tw-bGlzdHMtbGludXgteGZzQGJydWNlLWd1ZW50ZXIuZHluZG5zLm9yZw%3D%3D-s5-rt-rs"}, "category":"campaign"}
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="utf-8"
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">=0A<html xmlns=3D"http://www.=
+w3.org/1999/xhtml">=0A<head>=0A<meta content=3D"text/html; charset=3Dutf-8"=
+ http-equiv=3D"Content-Type" />=0A<title></title>=0A=0A<style type=3D"text/=
+css">@media only screen and (max-width:480px){body,table,td,p,a,li,blockquo=
+te{-webkit-text-size-adjust:none !important}body{width:100% !important;min-=
+width:100% !important}td[id=3DbodyCell]{padding:10px !important}table.kmMob=
+ileHide{display:none !important}table[class=3DkmTextContentContainer]{width=
+:100% !important}table[class=3DkmBoxedTextContentContainer]{width:100% !imp=
+ortant}td[class=3DkmImageContent]{padding-left:0 !important;padding-right:0=
+ !important}img[class=3DkmImage]{width:100% !important}table[class=3DkmSpli=
+tContentLeftContentContainer],table[class=3DkmSplitContentRightContentConta=
+iner],table[class=3DkmColumnContainer],td[class=3DkmVerticalButtonBarConten=
+tOuter] table[class=3DkmButtonBarContent],td[class=3DkmVerticalButtonCollec=
+tionContentOuter] table[class=3DkmButtonCollectionContent],table[class=3Dkm=
+VerticalButton],table[class=3DkmVerticalButtonContent]{width:100% !importan=
+t}td[class=3DkmButtonCollectionInner]{padding-left:9px !important;padding-r=
+ight:9px !important;padding-top:9px !important;padding-bottom:0 !important;=
+background-color:transparent !important}td[class=3DkmVerticalButtonIconCont=
+ent],td[class=3DkmVerticalButtonTextContent],td[class=3DkmVerticalButtonCon=
+tentOuter]{padding-left:0 !important;padding-right:0 !important;padding-bot=
+tom:9px !important}table[class=3DkmSplitContentLeftContentContainer] td[cla=
+ss=3DkmTextContent],table[class=3DkmSplitContentRightContentContainer] td[c=
+lass=3DkmTextContent],table[class=3DkmColumnContainer] td[class=3DkmTextCon=
+tent],table[class=3DkmSplitContentLeftContentContainer] td[class=3DkmImageC=
+ontent],table[class=3DkmSplitContentRightContentContainer] td[class=3DkmIma=
+geContent]{padding-top:9px !important}td[class=3D"rowContainer kmFloatLeft"=
+],td[class=3D"rowContainer kmFloatLeft firstColumn"],td[class=3D"rowContain=
+er kmFloatLeft lastColumn"]{float:left;clear:both;width:100% !important}tab=
+le[id=3DtemplateContainer],table[class=3DtemplateRow]{max-width:600px !impo=
+rtant;width:100% !important}h1{font-size:24px !important;line-height:130% !=
+important}h2{font-size:20px !important;line-height:130% !important}h3{font-=
+size:18px !important;line-height:130% !important}h4{font-size:16px !importa=
+nt;line-height:130% !important}td[class=3DkmTextContent]{font-size:14px !im=
+portant;line-height:130% !important}td[class=3DkmTextBlockInner] td[class=
+=3DkmTextContent]{padding-right:18px !important;padding-left:18px !importan=
+t}table[class=3D"kmTableBlock kmTableMobile"] td[class=3DkmTableBlockInner]=
+{padding-left:9px !important;padding-right:9px !important}table[class=3D"km=
+TableBlock kmTableMobile"] td[class=3DkmTableBlockInner] [class=3DkmTextCon=
+tent]{font-size:14px !important;line-height:130% !important;padding-left:4p=
+x !important;padding-right:4px !important}}</style>=0A</head>=0A<body style=
+=3D"margin:0;padding:0;background-color:#EEE">=0A<center>=0A<table align=3D=
+"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" id=3D"bodyTable" =
+style=3D"border-collapse: collapse; padding: 0px; height: 100%; margin: 0px=
+; width: 100%; background-color: #eeeeee;">=0A<tbody>=0A<tr>=0A<td align=3D=
+"center" id=3D"bodyCell" valign=3D"top" style=3D"border-collapse: collapse;=
+ mso-table-lspace: 0; mso-table-rspace: 0; padding-top: 50px; padding-left:=
+ 20px; padding-bottom: 20px; padding-right: 20px; border-top: 0; height: 10=
+0%; margin: 0; width: 100%;">=0A<table border=3D"0" cellpadding=3D"0" cells=
+pacing=3D"0" id=3D"templateContainer" style=3D"border-collapse: collapse; b=
+order: 1px solid #aaaaaa; border-radius: 0px; width: 600px; background-colo=
+r: #ffffff;">=0A<tbody>=0A<tr>=0A<td id=3D"templateContainerInner" style=3D=
+"border-collapse: collapse; mso-table-lspace: 0; mso-table-rspace: 0; paddi=
+ng: 0;">=0A<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D=
+"border-collapse: collapse; width: 100%;">=0A<tbody>=0A<tr>=0A<td align=3D"=
+center" valign=3D"top" style=3D"border-collapse: collapse; mso-table-lspace=
+: 0; mso-table-rspace: 0;">=0A<table border=3D"0" cellpadding=3D"0" cellspa=
+cing=3D"0" class=3D"templateRow" style=3D"border-collapse: collapse; width:=
+ 100%;">=0A<tbody>=0A<tr>=0A<td class=3D"rowContainer kmFloatLeft" valign=
+=3D"top" style=3D"border-collapse: collapse; mso-table-lspace: 0; mso-table=
+-rspace: 0;">=0A<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" cla=
+ss=3D"kmTextBlock" style=3D"border-collapse: collapse; width: 100%;">=0A<tb=
+ody class=3D"kmTextBlockOuter">=0A<tr>=0A<td class=3D"kmTextBlockInner" val=
+ign=3D"top" style=3D"border-collapse: collapse; mso-table-lspace: 0; mso-ta=
+ble-rspace: 0;">=0A<table align=3D"left" border=3D"0" cellpadding=3D"0" cel=
+lspacing=3D"0" class=3D"kmTextContentContainer" style=3D"border-collapse: c=
+ollapse; width: 100%;">=0A<tbody>=0A<tr>=0A<td class=3D"kmTextContent" vali=
+gn=3D"top" style=3D"border-collapse: collapse; mso-table-lspace: 0; mso-tab=
+le-rspace: 0; color: #727272; font-family: Helvetica, Arial; font-size: 12p=
+x; line-height: 150%; text-align: center; padding-bottom: 9px; padding-righ=
+t: 18px; padding-left: 18px; padding-top: 9px;">T&uuml;ketici Bilgilendirme=
+ Dan=C4=B1=C5=9Fmanl=C4=B1k Hizmetleri</td>=0A</tr>=0A</tbody>=0A</table>=
+=0A</td>=0A</tr>=0A</tbody>=0A</table>=0A<table border=3D"0" cellpadding=3D=
+"0" cellspacing=3D"0" class=3D"kmDividerBlock" style=3D"border-collapse: co=
+llapse; width: 100%;">=0A<tbody class=3D"kmDividerBlockOuter">=0A<tr>=0A<td=
+ class=3D"kmDividerBlockInner" style=3D"border-collapse: collapse; mso-tabl=
+e-lspace: 0; mso-table-rspace: 0; padding: 18px;">=0A<table class=3D"kmDivi=
+derContent" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"borde=
+r-collapse: collapse; border-top-width: 1px; border-top-style: solid; borde=
+r-top-color: #dad7d7; width: 100%;">=0A<tbody>=0A<tr>=0A<td style=3D"border=
+-collapse: collapse; mso-table-lspace: 0; mso-table-rspace: 0;"><span></spa=
+n></td>=0A</tr>=0A</tbody>=0A</table>=0A</td>=0A</tr>=0A</tbody>=0A</table>=
+=0A<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"kmImage=
+Block" style=3D"border-collapse: collapse; width: 100%;">=0A<tbody class=3D=
+"kmImageBlockOuter">=0A<tr>=0A<td class=3D"kmImageBlockInner" style=3D"bord=
+er-collapse: collapse; mso-table-lspace: 0; mso-table-rspace: 0; padding: 9=
+px;" valign=3D"top">=0A<table align=3D"left" border=3D"0" cellpadding=3D"0"=
+ cellspacing=3D"0" class=3D"kmImageContentContainer" style=3D"border-collap=
+se: collapse; width: 100%;">=0A<tbody>=0A<tr>=0A<td class=3D"kmImageContent=
+" valign=3D"top" style=3D"border-collapse: collapse; mso-table-lspace: 0; m=
+so-table-rspace: 0; padding: 0; padding-top: 0px; padding-bottom: 0; paddin=
+g-left: 9px; padding-right: 9px;"><a href=3D"http://www.kirmizimum.com/tl.p=
+hp?p=3Dzq/z8/rs/15tw/s5/rs//http%3A%2F%2Fwww.tuketici-bilgilendirme.com%2F"=
+ target=3D"_self" style=3D"word-wrap: break-word; color: #0000cd; font-weig=
+ht: normal; text-decoration: underline;"> <img align=3D"left" alt=3D"Hesapl=
+ama" class=3D"kmImage" src=3D"https://d3k81ch9hvuctc.cloudfront.net/company=
+%2FaSVyCC%2Fimages%2FHESAP.jpg" width=3D"564" style=3D"border: 0; height: a=
+uto; line-height: 100%; outline: none; text-decoration: none; padding-botto=
+m: 0; display: inline; vertical-align: bottom; margin-right: 0; max-width: =
+633px;" /> </a></td>=0A</tr>=0A</tbody>=0A</table>=0A</td>=0A</tr>=0A</tbod=
+y>=0A</table>=0A<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" cla=
+ss=3D"kmImageBlock" style=3D"border-collapse: collapse; width: 100%;">=0A<t=
+body class=3D"kmImageBlockOuter">=0A<tr>=0A<td class=3D"kmImageBlockInner" =
+style=3D"border-collapse: collapse; mso-table-lspace: 0; mso-table-rspace: =
+0; padding: 0px;" valign=3D"top">=0A<table align=3D"left" border=3D"0" cell=
+padding=3D"0" cellspacing=3D"0" class=3D"kmImageContentContainer" style=3D"=
+border-collapse: collapse; width: 100%;">=0A<tbody>=0A<tr>=0A<td class=3D"k=
+mImageContent" valign=3D"top" style=3D"border-collapse: collapse; mso-table=
+-lspace: 0; mso-table-rspace: 0; padding: 0;"><img align=3D"center" alt=3D"=
+Shadow" class=3D"kmImage" src=3D"https://d3k81ch9hvuctc.cloudfront.net/asse=
+ts/email/bottom_shadow_444.png" width=3D"600" style=3D"border: 0; height: a=
+uto; line-height: 100%; outline: none; text-decoration: none; padding-botto=
+m: 0; display: inline; vertical-align: bottom;" /></td>=0A</tr>=0A</tbody>=
+=0A</table>=0A</td>=0A</tr>=0A</tbody>=0A</table>=0A<table border=3D"0" cel=
+lpadding=3D"0" cellspacing=3D"0" class=3D"kmDividerBlock" style=3D"border-c=
+ollapse: collapse; width: 100%;">=0A<tbody class=3D"kmDividerBlockOuter">=
+=0A<tr>=0A<td class=3D"kmDividerBlockInner" style=3D"border-collapse: colla=
+pse; mso-table-lspace: 0; mso-table-rspace: 0; padding: 18px;">=0A<table cl=
+ass=3D"kmDividerContent" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" s=
+tyle=3D"border-collapse: collapse; border-top-width: 1px; border-top-style:=
+ solid; border-top-color: #cccccc; width: 100%;">=0A<tbody>=0A<tr>=0A<td st=
+yle=3D"border-collapse: collapse; mso-table-lspace: 0; mso-table-rspace: 0;=
+"><span></span></td>=0A</tr>=0A</tbody>=0A</table>=0A</td>=0A</tr>=0A</tbod=
+y>=0A</table>=0A<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" cla=
+ss=3D"kmButtonBlock" style=3D"border-collapse: collapse; width: 100%;">=0A<=
+tbody class=3D"kmButtonBlockOuter">=0A<tr>=0A<td valign=3D"top" align=3D"ce=
+nter" class=3D"kmButtonBlockInner" style=3D"border-collapse: collapse; mso-=
+table-lspace: 0; mso-table-rspace: 0; padding: 9px 18px;">=0A<table border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"kmButtonContentContaine=
+r" style=3D"border-collapse: collapse; border-radius: 5px; width: 100%; bac=
+kground-color: #f86d00;">=0A<tbody>=0A<tr>=0A<td align=3D"center" valign=3D=
+"middle" class=3D"kmButtonContent" style=3D"border-collapse: collapse; mso-=
+table-lspace: 0; mso-table-rspace: 0; color: #ffffff; font-family: Helvetic=
+a, Arial; font-size: 16px; padding: 10px; font-weight: bold;"><a class=3D"k=
+mButton" title=3D"" href=3D"http://www.kirmizimum.com/tl.php?p=3Dzq/z8/rs/1=
+5tw/s5/rs//http%3A%2F%2Fwww.tuketici-bilgilendirme.com%2F" target=3D"_self"=
+ style=3D"word-wrap: break-word; font-weight: bold; letter-spacing: -0.5px;=
+ line-height: 100%; text-align: center; text-decoration: initial; color: #f=
+fffff; font-family: Helvetica, Arial; font-size: 16px; padding-top: 0; padd=
+ing-bottom: 0;">&Ccedil;EKM=C4=B0=C5=9E OLDU=C4=9EUNUZ KRED=C4=B0Y=C4=B0 SE=
+&Ccedil;=C4=B0N</a></td>=0A</tr>=0A</tbody>=0A</table>=0A</td>=0A</tr>=0A</=
+tbody>=0A</table>=0A</td>=0A</tr>=0A</tbody>=0A</table>=0A</td>=0A</tr>=0A<=
+tr>=0A<td align=3D"center" valign=3D"top" style=3D"border-collapse: collaps=
+e; mso-table-lspace: 0; mso-table-rspace: 0;">=0A<table border=3D"0" cellpa=
+dding=3D"0" cellspacing=3D"0" class=3D"templateRow" style=3D"border-collaps=
+e: collapse; width: 100%;">=0A<tbody>=0A<tr>=0A<td class=3D"rowContainer km=
+FloatLeft firstColumn" valign=3D"top" width=3D"33%" style=3D"border-collaps=
+e: collapse; mso-table-lspace: 0; mso-table-rspace: 0;">=0A<table border=3D=
+"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"kmImageBlock" style=3D"bor=
+der-collapse: collapse; width: 100%;">=0A<tbody class=3D"kmImageBlockOuter"=
+>=0A<tr>=0A<td class=3D"kmImageBlockInner" style=3D"border-collapse: collap=
+se; mso-table-lspace: 0; mso-table-rspace: 0; padding: 0px;" valign=3D"top"=
+>=0A<table align=3D"left" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+class=3D"kmImageContentContainer" style=3D"border-collapse: collapse; width=
+: 100%;">=0A<tbody>=0A<tr>=0A<td class=3D"kmImageContent" valign=3D"top" st=
+yle=3D"border-collapse: collapse; mso-table-lspace: 0; mso-table-rspace: 0;=
+ padding: 0;"><a href=3D"http://www.kirmizimum.com/tl.php?p=3Dzq/z8/rs/15tw=
+/s5/rs//http%3A%2F%2Fwww.tuketici-bilgilendirme.com%2F" target=3D"_self" st=
+yle=3D"word-wrap: break-word; color: #0000cd; font-weight: normal; text-dec=
+oration: underline;"> <img align=3D"left" alt=3D"=C4=B0htiya&ccedil;" class=
+=3D"kmImage" src=3D"https://d3k81ch9hvuctc.cloudfront.net/company%2FaSVyCC%=
+2Fimages%2F%C4%B0HT%C4%B0YA%C3%87.JPG" width=3D"198" style=3D"border: 0; he=
+ight: auto; line-height: 100%; outline: none; text-decoration: none; paddin=
+g-bottom: 0; display: inline; vertical-align: bottom; margin-right: 0; max-=
+width: 300px;" /> </a></td>=0A</tr>=0A</tbody>=0A</table>=0A</td>=0A</tr>=
+=0A</tbody>=0A</table>=0A<table border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" class=3D"kmImageBlock" style=3D"border-collapse: collapse; width: 10=
+0%;">=0A<tbody class=3D"kmImageBlockOuter">=0A<tr>=0A<td class=3D"kmImageBl=
+ockInner" style=3D"border-collapse: collapse; mso-table-lspace: 0; mso-tabl=
+e-rspace: 0; padding: 0px;" valign=3D"top">=0A<table align=3D"left" border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"kmImageContentContainer=
+" style=3D"border-collapse: collapse; width: 100%;">=0A<tbody>=0A<tr>=0A<td=
+ class=3D"kmImageContent" valign=3D"top" style=3D"border-collapse: collapse=
+; mso-table-lspace: 0; mso-table-rspace: 0; padding: 0;"><img align=3D"cent=
+er" alt=3D"Shadow" class=3D"kmImage" src=3D"https://d3k81ch9hvuctc.cloudfro=
+nt.net/assets/email/bottom_shadow_444.png" width=3D"198" style=3D"border: 0=
+; height: auto; line-height: 100%; outline: none; text-decoration: none; pa=
+dding-bottom: 0; display: inline; vertical-align: bottom;" /></td>=0A</tr>=
+=0A</tbody>=0A</table>=0A</td>=0A</tr>=0A</tbody>=0A</table>=0A<table borde=
+r=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"kmButtonBlock" style=
+=3D"border-collapse: collapse; width: 100%;">=0A<tbody class=3D"kmButtonBlo=
+ckOuter">=0A<tr>=0A<td valign=3D"top" align=3D"center" class=3D"kmButtonBlo=
+ckInner" style=3D"border-collapse: collapse; mso-table-lspace: 0; mso-table=
+-rspace: 0; padding: 9px 18px;">=0A<table border=3D"0" cellpadding=3D"0" ce=
+llspacing=3D"0" width=3D"" class=3D"kmButtonContentContainer" style=3D"bord=
+er-collapse: collapse; mso-table-lspace: 0; mso-table-rspace: 0; border-top=
+-left-radius: 5px; border-top-right-radius: 5px; border-bottom-right-radius=
+: 5px; border-bottom-left-radius: 5px; background-color: #c1292b; border-ra=
+dius: 5px;">=0A<tbody>=0A<tr>=0A<td align=3D"center" valign=3D"middle" clas=
+s=3D"kmButtonContent" style=3D"border-collapse: collapse; mso-table-lspace:=
+ 0; mso-table-rspace: 0; color: #ffffff; font-family: Helvetica, Arial; fon=
+t-size: 16px; padding: 15px; padding-top: 7px; padding-bottom: 7px; padding=
+-left: 8px; padding-right: 8px; font-weight: bold;"><a class=3D"kmButton" t=
+itle=3D"" href=3D"http://www.kirmizimum.com/tl.php?p=3Dzq/z8/rs/15tw/s5/rs/=
+/http%3A%2F%2Fwww.tuketici-bilgilendirme.com%2F" target=3D"_self" style=3D"=
+word-wrap: break-word; font-weight: bold; letter-spacing: -0.5px; line-heig=
+ht: 100%; text-align: center; text-decoration: initial; color: #ffffff; fon=
+t-family: Helvetica, Arial; font-size: 16px; padding-top: 0; padding-bottom=
+: 0;">B=C4=B0LG=C4=B0 =C4=B0&Ccedil;=C4=B0N TIKLAYIN</a></td>=0A</tr>=0A</t=
+body>=0A</table>=0A</td>=0A</tr>=0A</tbody>=0A</table>=0A<table border=3D"0=
+" cellpadding=3D"0" cellspacing=3D"0" class=3D"kmTextBlock" style=3D"border=
+-collapse: collapse; width: 100%;">=0A<tbody class=3D"kmTextBlockOuter">=0A=
+<tr>=0A<td class=3D"kmTextBlockInner" valign=3D"top" style=3D"border-collap=
+se: collapse; mso-table-lspace: 0; mso-table-rspace: 0;">=0A<table align=3D=
+"left" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"kmTextCont=
+entContainer" style=3D"border-collapse: collapse; width: 100%;">=0A<tbody>=
+=0A<tr>=0A<td class=3D"kmTextContent" valign=3D"top" style=3D"border-collap=
+se: collapse; mso-table-lspace: 0; mso-table-rspace: 0; color: #505050; fon=
+t-family: Helvetica, Arial; font-size: 14px; line-height: 150%; text-align:=
+ left; padding-top: 9px; padding-bottom: 9px; padding-left: 18px; padding-r=
+ight: 18px;">=C4=B0htiya&ccedil; kredileri baz=C4=B1 kurumlar taraf=C4=
+=B1ndan; memurlara &ouml;zel krediler, bayram kredileri, tatil kredileri gi=
+bi alternatif isimlerle adland=C4=B1r=C4=B1labilirler. Bu t&uuml;r krediler=
+ i&ccedil;in de son 10 y=C4=B1lda kesilen t&uuml;m &uuml;cretler t&uuml;ket=
+ici kanunu kapsam=C4=B1nda iade al=C4=B1nabilir.</td>=0A</tr>=0A</tbody>=0A=
+</table>=0A</td>=0A</tr>=0A</tbody>=0A</table>=0A</td>=0A<td class=3D"rowCo=
+ntainer kmFloatLeft" valign=3D"top" width=3D"33%" style=3D"border-collapse:=
+ collapse; mso-table-lspace: 0; mso-table-rspace: 0;">=0A<table border=3D"0=
+" cellpadding=3D"0" cellspacing=3D"0" class=3D"kmImageBlock" style=3D"borde=
+r-collapse: collapse; width: 100%;">=0A<tbody class=3D"kmImageBlockOuter">=
+=0A<tr>=0A<td class=3D"kmImageBlockInner" style=3D"border-collapse: collaps=
+e; mso-table-lspace: 0; mso-table-rspace: 0; padding: 0px;" valign=3D"top">=
+=0A<table align=3D"left" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" c=
+lass=3D"kmImageContentContainer" style=3D"border-collapse: collapse; width:=
+ 100%;">=0A<tbody>=0A<tr>=0A<td class=3D"kmImageContent" valign=3D"top" sty=
+le=3D"border-collapse: collapse; mso-table-lspace: 0; mso-table-rspace: 0; =
+padding: 0;"><a href=3D"http://www.kirmizimum.com/tl.php?p=3Dzq/z8/rs/15tw/=
+s5/rs//http%3A%2F%2Fwww.tuketici-bilgilendirme.com%2F" target=3D"_self" sty=
+le=3D"word-wrap: break-word; color: #0000cd; font-weight: normal; text-deco=
+ration: underline;"> <img align=3D"left" alt=3D"Konut" class=3D"kmImage" sr=
+c=3D"https://d3k81ch9hvuctc.cloudfront.net/company%2FaSVyCC%2Fimages%2FKONU=
+T.JPG" width=3D"198" style=3D"border: 0; height: auto; line-height: 100%; o=
+utline: none; text-decoration: none; padding-bottom: 0; display: inline; ve=
+rtical-align: bottom; margin-right: 0; max-width: 300px;" /> </a></td>=0A</=
+tr>=0A</tbody>=0A</table>=0A</td>=0A</tr>=0A</tbody>=0A</table>=0A<table bo=
+rder=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"kmImageBlock" style=
+=3D"border-collapse: collapse; width: 100%;">=0A<tbody class=3D"kmImageBloc=
+kOuter">=0A<tr>=0A<td class=3D"kmImageBlockInner" style=3D"border-collapse:=
+ collapse; mso-table-lspace: 0; mso-table-rspace: 0; padding: 0px;" valign=
+=3D"top">=0A<table align=3D"left" border=3D"0" cellpadding=3D"0" cellspacin=
+g=3D"0" class=3D"kmImageContentContainer" style=3D"border-collapse: collaps=
+e; width: 100%;">=0A<tbody>=0A<tr>=0A<td class=3D"kmImageContent" valign=3D=
+"top" style=3D"border-collapse: collapse; mso-table-lspace: 0; mso-table-rs=
+pace: 0; padding: 0;"><img align=3D"center" alt=3D"Shadow" class=3D"kmImage=
+" src=3D"https://d3k81ch9hvuctc.cloudfront.net/assets/email/bottom_shadow_4=
+44.png" width=3D"198" style=3D"border: 0; height: auto; line-height: 100%; =
+outline: none; text-decoration: none; padding-bottom: 0; display: inline; v=
+ertical-align: bottom;" /></td>=0A</tr>=0A</tbody>=0A</table>=0A</td>=0A</t=
+r>=0A</tbody>=0A</table>=0A<table border=3D"0" cellpadding=3D"0" cellspacin=
+g=3D"0" class=3D"kmButtonBlock" style=3D"border-collapse: collapse; width: =
+100%;">=0A<tbody class=3D"kmButtonBlockOuter">=0A<tr>=0A<td valign=3D"top" =
+align=3D"center" class=3D"kmButtonBlockInner" style=3D"border-collapse: col=
+lapse; mso-table-lspace: 0; mso-table-rspace: 0; padding: 9px 18px;">=0A<ta=
+ble border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"" class=3D"km=
+ButtonContentContainer" style=3D"border-collapse: collapse; mso-table-lspac=
+e: 0; mso-table-rspace: 0; border-top-left-radius: 5px; border-top-right-ra=
+dius: 5px; border-bottom-right-radius: 5px; border-bottom-left-radius: 5px;=
+ background-color: #c1292b; border-radius: 5px;">=0A<tbody>=0A<tr>=0A<td al=
+ign=3D"center" valign=3D"middle" class=3D"kmButtonContent" style=3D"border-=
+collapse: collapse; mso-table-lspace: 0; mso-table-rspace: 0; color: #fffff=
+f; font-family: Helvetica, Arial; font-size: 16px; padding: 15px; padding-t=
+op: 7px; padding-bottom: 7px; padding-left: 8px; padding-right: 8px; font-w=
+eight: bold;"><a class=3D"kmButton" title=3D"" href=3D"http://www.kirmizimu=
+m.com/tl.php?p=3Dzq/z8/rs/15tw/s5/rs//http%3A%2F%2Fwww.tuketici-bilgilendir=
+me.com%2F" target=3D"_self" style=3D"word-wrap: break-word; font-weight: bo=
+ld; letter-spacing: -0.5px; line-height: 100%; text-align: center; text-dec=
+oration: initial; color: #ffffff; font-family: Helvetica, Arial; font-size:=
+ 16px; padding-top: 0; padding-bottom: 0;">B=C4=B0LG=C4=B0 =C4=B0&Ccedil;=
+=C4=B0N TIKLAYIN</a></td>=0A</tr>=0A</tbody>=0A</table>=0A</td>=0A</tr>=0A<=
+/tbody>=0A</table>=0A<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0=
+" class=3D"kmTextBlock" style=3D"border-collapse: collapse; width: 100%;">=
+=0A<tbody class=3D"kmTextBlockOuter">=0A<tr>=0A<td class=3D"kmTextBlockInne=
+r" valign=3D"top" style=3D"border-collapse: collapse; mso-table-lspace: 0; =
+mso-table-rspace: 0;">=0A<table align=3D"left" border=3D"0" cellpadding=3D"=
+0" cellspacing=3D"0" class=3D"kmTextContentContainer" style=3D"border-colla=
+pse: collapse; width: 100%;">=0A<tbody>=0A<tr>=0A<td class=3D"kmTextContent=
+" valign=3D"top" style=3D"border-collapse: collapse; mso-table-lspace: 0; m=
+so-table-rspace: 0; color: #505050; font-family: Helvetica, Arial; font-siz=
+e: 14px; line-height: 150%; text-align: left; padding-top: 9px; padding-bot=
+tom: 9px; padding-left: 18px; padding-right: 18px;">Mesken sahibi olmak i&c=
+cedil;in bankalardan kredi kullanan t&uuml;keticiler, kendilerinden ne i&cc=
+edil;in istendi=C4=9Fi belirtilmeden kesilen dosya masraflar=C4=B1n=C4=
+=B1n taraf=C4=B1nda iade edilmesini isteyebiliyor.</td>=0A</tr>=0A</tbody>=
+=0A</table>=0A</td>=0A</tr>=0A</tbody>=0A</table>=0A</td>=0A<td class=3D"ro=
+wContainer kmFloatLeft lastColumn" valign=3D"top" width=3D"33%" style=3D"bo=
+rder-collapse: collapse; mso-table-lspace: 0; mso-table-rspace: 0;">=0A<tab=
+le border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"kmImageBlock" =
+style=3D"border-collapse: collapse; width: 100%;">=0A<tbody class=3D"kmImag=
+eBlockOuter">=0A<tr>=0A<td class=3D"kmImageBlockInner" style=3D"border-coll=
+apse: collapse; mso-table-lspace: 0; mso-table-rspace: 0; padding: 0px;" va=
+lign=3D"top">=0A<table align=3D"left" border=3D"0" cellpadding=3D"0" cellsp=
+acing=3D"0" class=3D"kmImageContentContainer" style=3D"border-collapse: col=
+lapse; width: 100%;">=0A<tbody>=0A<tr>=0A<td class=3D"kmImageContent" valig=
+n=3D"top" style=3D"border-collapse: collapse; mso-table-lspace: 0; mso-tabl=
+e-rspace: 0; padding: 0;"><a href=3D"http://www.kirmizimum.com/tl.php?p=3Dz=
+q/z8/rs/15tw/s5/rs//http%3A%2F%2Fwww.tuketici-bilgilendirme.com%2F" target=
+=3D"_self" style=3D"word-wrap: break-word; color: #0000cd; font-weight: nor=
+mal; text-decoration: underline;"> <img align=3D"left" alt=3D"Ta=C5=9F=
+=C4=B1t" class=3D"kmImage" src=3D"https://d3k81ch9hvuctc.cloudfront.net/com=
+pany%2FaSVyCC%2Fimages%2FARA%C3%87.JPG" width=3D"198" style=3D"border: 0; h=
+eight: auto; line-height: 100%; outline: none; text-decoration: none; paddi=
+ng-bottom: 0; display: inline; vertical-align: bottom; margin-right: 0; max=
+-width: 300px;" /> </a></td>=0A</tr>=0A</tbody>=0A</table>=0A</td>=0A</tr>=
+=0A</tbody>=0A</table>=0A<table border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" class=3D"kmImageBlock" style=3D"border-collapse: collapse; width: 10=
+0%;">=0A<tbody class=3D"kmImageBlockOuter">=0A<tr>=0A<td class=3D"kmImageBl=
+ockInner" style=3D"border-collapse: collapse; mso-table-lspace: 0; mso-tabl=
+e-rspace: 0; padding: 0px;" valign=3D"top">=0A<table align=3D"left" border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"kmImageContentContainer=
+" style=3D"border-collapse: collapse; width: 100%;">=0A<tbody>=0A<tr>=0A<td=
+ class=3D"kmImageContent" valign=3D"top" style=3D"border-collapse: collapse=
+; mso-table-lspace: 0; mso-table-rspace: 0; padding: 0;"><img align=3D"cent=
+er" alt=3D"Shadow" class=3D"kmImage" src=3D"https://d3k81ch9hvuctc.cloudfro=
+nt.net/assets/email/bottom_shadow_444.png" width=3D"198" style=3D"border: 0=
+; height: auto; line-height: 100%; outline: none; text-decoration: none; pa=
+dding-bottom: 0; display: inline; vertical-align: bottom;" /></td>=0A</tr>=
+=0A</tbody>=0A</table>=0A</td>=0A</tr>=0A</tbody>=0A</table>=0A<table borde=
+r=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"kmButtonBlock" style=
+=3D"border-collapse: collapse; width: 100%;">=0A<tbody class=3D"kmButtonBlo=
+ckOuter">=0A<tr>=0A<td valign=3D"top" align=3D"center" class=3D"kmButtonBlo=
+ckInner" style=3D"border-collapse: collapse; mso-table-lspace: 0; mso-table=
+-rspace: 0; padding: 9px 18px;">=0A<table border=3D"0" cellpadding=3D"0" ce=
+llspacing=3D"0" width=3D"" class=3D"kmButtonContentContainer" style=3D"bord=
+er-collapse: collapse; mso-table-lspace: 0; mso-table-rspace: 0; border-top=
+-left-radius: 5px; border-top-right-radius: 5px; border-bottom-right-radius=
+: 5px; border-bottom-left-radius: 5px; background-color: #c1292b; border-ra=
+dius: 5px;">=0A<tbody>=0A<tr>=0A<td align=3D"center" valign=3D"middle" clas=
+s=3D"kmButtonContent" style=3D"border-collapse: collapse; mso-table-lspace:=
+ 0; mso-table-rspace: 0; color: #ffffff; font-family: Helvetica, Arial; fon=
+t-size: 16px; padding: 15px; padding-top: 7px; padding-bottom: 7px; padding=
+-left: 8px; padding-right: 8px; font-weight: bold;"><a class=3D"kmButton" t=
+itle=3D"" href=3D"http://www.kirmizimum.com/tl.php?p=3Dzq/z8/rs/15tw/s5/rs/=
+/http%3A%2F%2Fwww.tuketici-bilgilendirme.com%2F" target=3D"_self" style=3D"=
+word-wrap: break-word; font-weight: bold; letter-spacing: -0.5px; line-heig=
+ht: 100%; text-align: center; text-decoration: initial; color: #ffffff; fon=
+t-family: Helvetica, Arial; font-size: 16px; padding-top: 0; padding-bottom=
+: 0;">B=C4=B0LG=C4=B0 =C4=B0&Ccedil;=C4=B0N TIKLAYIN</a></td>=0A</tr>=0A</t=
+body>=0A</table>=0A</td>=0A</tr>=0A</tbody>=0A</table>=0A<table border=3D"0=
+" cellpadding=3D"0" cellspacing=3D"0" class=3D"kmTextBlock" style=3D"border=
+-collapse: collapse; width: 100%;">=0A<tbody class=3D"kmTextBlockOuter">=0A=
+<tr>=0A<td class=3D"kmTextBlockInner" valign=3D"top" style=3D"border-collap=
+se: collapse; mso-table-lspace: 0; mso-table-rspace: 0;">=0A<table align=3D=
+"left" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"kmTextCont=
+entContainer" style=3D"border-collapse: collapse; width: 100%;">=0A<tbody>=
+=0A<tr>=0A<td class=3D"kmTextContent" valign=3D"top" style=3D"border-collap=
+se: collapse; mso-table-lspace: 0; mso-table-rspace: 0; color: #505050; fon=
+t-family: Helvetica, Arial; font-size: 14px; line-height: 150%; text-align:=
+ left; padding-top: 9px; padding-bottom: 9px; padding-left: 18px; padding-r=
+ight: 18px;">Ta=C5=9F=C4=B1t Kredileri; Alm=C4=B1=C5=9F oldu=C4=9Funuz Bine=
+k,Ticari, L&uuml;ks ara&ccedil;lara Kullan=C4=B1lan Krediler. Bu t&uuml;r k=
+rediler i&ccedil;in de son 10 y=C4=B1lda kesilen t&uuml;m &uuml;cretler t&u=
+uml;ketici kanunu kapsam=C4=B1nda iade al=C4=B1nabilir.</td>=0A</tr>=0A</tb=
+ody>=0A</table>=0A</td>=0A</tr>=0A</tbody>=0A</table>=0A</td>=0A</tr>=0A</t=
+body>=0A</table>=0A</td>=0A</tr>=0A<tr>=0A<td align=3D"center" valign=3D"to=
+p" style=3D"border-collapse: collapse; mso-table-lspace: 0; mso-table-rspac=
+e: 0;">=0A<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"=
+templateRow" style=3D"border-collapse: collapse; width: 100%;">=0A<tbody>=
+=0A<tr>=0A<td class=3D"rowContainer kmFloatLeft" valign=3D"top" style=3D"bo=
+rder-collapse: collapse; mso-table-lspace: 0; mso-table-rspace: 0;">=0A<tab=
+le border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"kmDividerBlock=
+" style=3D"border-collapse: collapse; width: 100%;">=0A<tbody class=3D"kmDi=
+viderBlockOuter">=0A<tr>=0A<td class=3D"kmDividerBlockInner" style=3D"borde=
+r-collapse: collapse; mso-table-lspace: 0; mso-table-rspace: 0; padding: 18=
+px;">=0A<table class=3D"kmDividerContent" border=3D"0" cellpadding=3D"0" ce=
+llspacing=3D"0" style=3D"border-collapse: collapse; border-top-width: 1px; =
+border-top-style: solid; border-top-color: #cccccc; width: 100%;">=0A<tbody=
+>=0A<tr>=0A<td style=3D"border-collapse: collapse; mso-table-lspace: 0; mso=
+-table-rspace: 0;"><span></span></td>=0A</tr>=0A</tbody>=0A</table>=0A</td>=
+=0A</tr>=0A</tbody>=0A</table>=0A<table border=3D"0" cellpadding=3D"0" cell=
+spacing=3D"0" class=3D"kmTextBlock" style=3D"border-collapse: collapse; wid=
+th: 100%;">=0A<tbody class=3D"kmTextBlockOuter">=0A<tr>=0A<td class=3D"kmTe=
+xtBlockInner" valign=3D"top" style=3D"border-collapse: collapse; mso-table-=
+lspace: 0; mso-table-rspace: 0;">=0A<table align=3D"left" border=3D"0" cell=
+padding=3D"0" cellspacing=3D"0" class=3D"kmTextContentContainer" style=3D"b=
+order-collapse: collapse; width: 100%;">=0A<tbody>=0A<tr>=0A<td class=3D"km=
+TextContent" valign=3D"top" style=3D"border-collapse: collapse; mso-table-l=
+space: 0; mso-table-rspace: 0; color: #727272; font-family: Helvetica, Aria=
+l; font-size: 12px; line-height: 150%; text-align: center; padding-bottom: =
+9px; padding-right: 18px; padding-left: 18px; padding-top: 9px;">=0A<div st=
+yle=3D"line-height: 16px; color: #787878; font-size: 10px;">Bu e-posta size=
+ ilgili firman=C4=B1n veritaban=C4=B1na kay=C4=B1tl=C4=B1 oldu=C4=9Funuz i&=
+ccedil;in g&ouml;nderilmi=C5=9Ftir. Bu Mail =C4=B0zniniz d=C4=B1=C5=9F=
+=C4=B1nda g&ouml;nderildi=C4=9Fini d&uuml;=C5=9F&uuml;n&uuml;yorsan=C4=
+=B1z l&uuml;tfen <a href=3D"http://www.kirmizimum.com/tl.php?p=3Dzq/z8/rs/1=
+5tw/s5/rs//%25%25unsubscribelink%25%25" style=3D"word-wrap: break-word; col=
+or: #8ac21f; font-weight: normal; text-decoration: none; padding: 2px 0px;"=
+ target=3D"_blank">&Uuml;yelik iptali i&ccedil;in t=C4=B1klay=C4=B1n=C4=
+=B1z</a></div>=0A<div style=3D"line-height: 16px; color: #787878; font-size=
+: 10px;">&copy;2015 T&uuml;ketici Bilgilendirme Dan=C4=B1=C5=9Fmanl=C4=
+=B1k Hizmetleri, T&uuml;m haklar sakl=C4=B1d=C4=B1r.</div>=0A<span style=3D=
+"line-height: 20.7999992370605px;">&nbsp; &nbsp; &nbsp;</span></td>=0A</tr>=
+=0A</tbody>=0A</table>=0A</td>=0A</tr>=0A</tbody>=0A</table>=0A</td>=0A</tr=
+>=0A</tbody>=0A</table>=0A</td>=0A</tr>=0A</tbody>=0A</table>=0A</td>=0A</t=
+r>=0A</tbody>=0A</table>=0A</td>=0A</tr>=0A</tbody>=0A</table>=0A</center>=
+=0A=0A<img src=3D"http://www.kirmizimum.com/to.php?p=3Dzq/z8/rs/15tw/s5/rs"=
+ width=3D"5" height=3D"2" alt=3D".">=0A=0A</body>=0A</html>

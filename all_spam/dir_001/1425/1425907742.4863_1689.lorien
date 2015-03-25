@@ -1,0 +1,1389 @@
+Delivered-To: bruce@untroubled.org
+Received: (fqmail 19211 invoked from network); 09 Mar 2015 09:06:39 -0000
+Received: (qmail 25958 invoked from network); 9 Mar 2015 09:06:39 -0000
+Received: from rip.mx06.futurequest.net (rip.mx06.futurequest.net [10.2.1.177])
+  by mx06.futurequest.net ([69.5.6.177]); 09 Mar 2015 09:06:38 -0000
+Received: from mta204-93.loyaltycampaign.com (mta204-93.loyaltycampaign.com [93.115.93.204])
+  by rip.mx06.futurequest.net ([10.2.1.177])
+  with ESMTP via TCP; 09 Mar 2015 09:06:38 -0000
+Received: by mta105-93.loyaltycampaign.com (Postfix, from userid 500)
+	id 1CA6CF4585A; Mon,  9 Mar 2015 11:06:36 +0200 (EET)
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple; d=loyaltycampaign.ro;
+	s=selector; t=1425891996;
+	bh=oTL2opyUN/Ip7bLIwGeAg3Ax+6PeNvFnBc5ltUKVpe8=;
+	h=Date:To:From:Reply-to:Subject:Message-ID:Sender:List-Unsubscribe:
+	 MIME-Version:Content-Transfer-Encoding:Content-Type;
+	b=qWUPD/nXdc9PpH8a545Q5vjn2VTeRDC5YamyP6RBcsQrrMGWUaetsP5KZTvCVkSKu
+	 igrGDwUfpENKzYAzuulkxOTV9swsnp6IjMiQvXaRQa4gTOdxH/MeiAVk2aNvZln8NT
+	 ocn8d5zpniDUp20iUoSH2fum1UfMmWsnDJcU/T30=
+DomainKey-Signature: a=rsa-sha1; s=selector1; d=loyaltycampaign.ro; c=nofws; q=dns;
+	b=mAZKwVZhdy6ct1Kw5RqQJCh3+FJf5Lo33lZrY5UhoaNh+f+XEfpgZrMK5/coqhbiv
+	u1f6gKNvnLBZx8d6QKRvg==
+Date: Mon, 9 Mar 2015 11:06:36 +0200
+To: "bruce@untroubled.org" <bruce@untroubled.org>
+From: Fabrica de Site-uri <comenzi@vision-webdesign.com>
+Reply-to: Fabrica de Site-uri <comenzi@vision-webdesign.com>
+Subject: Iti facem site repede si bine
+Message-ID: <eefb803897bf9f1b173abe420f6c22f8@localhost.localdomain>
+X-Priority: 3
+Sender: <user-tu@loyaltycampaign.ro>
+X-Mailer: CampaignSender
+X-Complaints-To: abuse@loyaltycampaign.com
+List-Unsubscribe: <http://client.campaignsender.ro/u.php?p=3op/rs/2bqqj/1g6/3em/rs>, <mailto:abuse@loyaltycampaign.com?subject=unsubscribe:3op-2bqqj-YnJ1Y2VAdW50cm91YmxlZC5vcmc%3D-1g6-tu-rs>
+X-MessageID: 3op-2bqqj-YnJ1Y2VAdW50cm91YmxlZC5vcmc%3D-1g6-tu-rs
+X-Report-Abuse: <http://client.campaignsender.ro/report_abuse.php?mid=3op-2bqqj-YnJ1Y2VAdW50cm91YmxlZC5vcmc%3D-1g6-tu-rs>
+X-SMTPAPI: {"unique_args":{"abuse-id":"3op-2bqqj-YnJ1Y2VAdW50cm91YmxlZC5vcmc%3D-1g6-tu-rs"}, "category":"campaign"}
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="utf-8"
+Content-Length: 103043
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">=0A=0A<html xmlns=3D"http://w=
+ww.w3.org/1999/xhtml" xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"=
+urn:schemas-microsoft-com:office:office">=0A=0A<head>=0A=0A<title>Vision We=
+b Design Newsletter 01#1</title>=0A=0A<meta http-equiv=3D"Content-Type" con=
+tent=3D"text/html; charset=3Dutf-8" />=0A=0A<meta name=3D"viewport" content=
+=3D"width=3Ddevice-width, initial-scale=3D1, minimum-scale=3D1, maximum-sca=
+le=3D1">=0A=0A<style type=3D"text/css">=0A=0A=09/*--------------- Client St=
+yle  ---------------*/=0A=0A=09/* Force Hotmail/Outlook.com to display emai=
+ls at full width. */=0A=0A=09.ReadMsgBody{width:100%;} .ExternalClass{width=
+:100%;} =0A=0A=09/* Force Hotmail/Outlook.com to display line heights norma=
+lly. */=0A=0A=09.ExternalClass, .ExternalClass p, .ExternalClass span, .Ext=
+ernalClass font, .ExternalClass td, .ExternalClass div{line-height:100%;} =
+=0A=0A=09/* Remove spacing between tables in Outlook 2007 and up. */=0A=0A=
+=09table, td{mso-table-lspace:0pt; mso-table-rspace:0pt;} =0A=0A=09/* Force=
+ Outlook 2007 and up to provide a "view in browser" message. */=0A=0A=09#ou=
+tlook a{padding:0;} =0A=0A=09/* Force IE to smoothly render resized images.=
+ */=0A=0A=09img{-ms-interpolation-mode: bicubic;} =0A=0A=09/* Prevent Windo=
+ws- and Webkit-based mobile platforms from changing declared text sizes. */=
+=0A=0A=09body, table, td, p, a, li, blockquote{-ms-text-size-adjust:100%; -=
+webkit-text-size-adjust:100%;} =0A=0A=09=0A=0A=09html { width: 100%; }=0A=
+=0A=09body { -webkit-text-size-adjust: none; -ms-text-size-adjust: none; ma=
+rgin: 0; padding: 0; }=0A=0A=09table { border-spacing: 0;border-collapse: c=
+ollapse; }=0A=0A=09table td { border-collapse: collapse; }=0A=0A=09a { colo=
+r:#fff; text-decoration: none!important; }=0A=0A=09=0A=0A=09/*-------------=
+-- Tablet Style  ---------------*/=0A=0A=09@media only screen and  (max-wid=
+th: 600px) {=0A=0A=09=09body{width:100% !important; min-width:100% !importa=
+nt;}=0A=0A=09=09table[class=3D"flexibleFull"], table[class=3D"flexibleFullC=
+ontainer"] {width:100% !important;}=0A=0A=09=09table[class=3D"flexibleConta=
+iner"] {width:100% !important; padding-bottom:20px!important;}=0A=0A=09=09t=
+able[class=3D"flexible2Container"] {width:48% !important;}=0A=0A=09=09img[c=
+lass=3D"flexibleImage"] {width:100% !important; height: auto !important;}=
+=0A=0A=09=09td[class=3D"templateColumnContainer"] {width:30% !important; he=
+ight: auto !important;}=0A=0A=09=09table[class=3D"flexibleContainerCell"] {=
+width:95% !important;}=0A=0A=09=09table[class=3D"flexible2LeftContainer"] {=
+width:65% !important;}=0A=0A=09=09table[class=3D"flexible2RightContainer"] =
+{width:31% !important;}=0A=0A=09=09table[class=3D"flexibleTextContainer"] {=
+width:48% !important;}=0A=0A=09=09table[class=3D"flexibleImageContainer"] {=
+width:50% !important;}=0A=0A=09}=0A=0A=09=0A=0A=09/*--------------- Mobile =
+Style  ---------------*/=0A=0A=09@media only screen and (max-width: 480px){=
+=09=09=09=0A=0A=09=09/* Force iOS Mail to render the email at full width. *=
+/=0A=0A=09=09body{width:100% !important; min-width:100% !important;} =0A=0A=
+=09=09table[class=3D"flexibleFull"], table[class=3D"flexibleFullContainer"]=
+, table[class=3D"flexibleContainer"]{width:100% !important;}=0A=0A=09=09td[=
+class=3D"flexibleHeader"]{width:100% !important; text-align:center!importan=
+t;}=0A=0A=09=09table[class=3D"flexible2Container"] {width:100% !important; =
+text-align:center!important;}=0A=0A=09=09img[class=3D"flexibleImage"] {widt=
+h:100% !important;  height: auto !important;}=0A=0A=09=09td[class=3D"hide"]=
+ {display: none !important;}=0A=0A=09=09td[class=3D"templateColumnContainer=
+"] {display:block !important; width:100% !important;}=0A=0A=09=09table[clas=
+s=3D"flexibleContainerCell"] {width:100% !important; text-align:center!impo=
+rtant;}=0A=0A=09=09table[class=3D"flexible2LeftContainer"] {width:100% !imp=
+ortant;}=0A=0A=09=09table[class=3D"flexible2RightContainer"] {width:100% !i=
+mportant;}=0A=0A=09=09table[class=3D"flexibleTextContainer"] {width:100% !i=
+mportant;}=0A=0A=09=09table[class=3D"flexibleImageContainer"] {width:100% !=
+important;}=0A=0A=09}=0A=0A=09.style1 {=0A=0A=09text-align: right;=0A=0A}=
+=0A=0A.style2 {=0A=0A=09text-align: left;=0A=0A}=0A=0A=09.style3 {=0A=0A=09=
+font-family: Arial;=0A=0A=09font-size: 14px;=0A=0A=09color: #FF0000;=0A=0A}=
+=0A=0A.style4 {=0A=0A=09color: #FF0000;=0A=0A}=0A=0A=09.style5 {=0A=0A=09co=
+lor: #000000;=0A=0A}=0A=0A=09</style>=0A=0A</head>=0A=0A<body>=0A=0A<!-- TA=
+BLE MODULE START // -->=0A=0A=0A=0A<table style=3D"background: rgb(20, 117,=
+ 0);" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%" modul=
+es=3D"preheader">=0A=0A=09<tbody>=0A=0A=09=09<tr>=0A=0A=09=09=09<td align=
+=3D"center" valign=3D"top">=0A=0A=09=09=09=09<!-- MODULE ROW // -->=0A=0A=
+=0A=0A=09=09=09=09<table class=3D"flexibleFull" cellpadding=3D"0" cellspaci=
+ng=3D"0" border=3D"0" width=3D"600">=0A=0A=09=09=09=09=09<tbody>=0A=0A=09=
+=09=09=09=09=09<tr>=0A=0A=09=09=09=09=09=09=09<td align=3D"center" valign=
+=3D"top">=0A=0A=09=09=09=09=09=09=09=09<table class=3D"flexibleFullContaine=
+r" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"600">=0A=0A=09=
+=09=09=09=09=09=09=09=09<tbody>=0A=0A=09=09=09=09=09=09=09=09=09=09<tr>=0A=
+=0A=09=09=09=09=09=09=09=09=09=09=09<td style=3D"padding:0px 10px; font-siz=
+e:13px; font-family:Arial;" align=3D"center" valign=3D"top">=0A=0A=09=09=09=
+=09=09=09=09=09=09=09=09=09<!-- CONTENT TABLE // -->=0A=0A=0A=0A=09=09=09=
+=09=09=09=09=09=09=09=09=09<table class=3D"textlight" style=3D"color: rgb(2=
+55, 255, 255); padding: 10px 0px;" cellpadding=3D"0" cellspacing=3D"0" alig=
+n=3D"center" border=3D"0" width=3D"100%">=0A=0A=09=09=09=09=09=09=09=09=09=
+=09=09=09=09<tbody>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>=0A=
+=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td style=3D"height: 30px; =
+position: relative; left: 0px; top: 0px; width: 50%;" class=3D"style2">=0A=
+=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<strong>=0A=0A=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09<a href=3D"http://client.campaignsen=
+der.ro/tl.php?p=3D3op/3em/rs/2bqqj/1g6/rs//http%3A%2F%2Fbaza.laprint.ro%2Fw=
+eb%2F">Nu se vede corect? Click aici.=0A=0A=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09</a></strong>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09</td>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td style=
+=3D"height: 30px; width: 50%; position: relative;" align=3D"left" class=3D"=
+style1">=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<strong>Conta=
+ct =0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09rapid: dati =0A=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09reply la =0A=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09newsletter=0A=0A=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09</strong>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09</td>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=0A=09=09=
+=09=09=09=09=09=09=09=09=09=09=09</tbody>=0A=0A=09=09=09=09=09=09=09=09=09=
+=09=09=09</table>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09<!-- // CONTENT =
+TABLE -->=0A=0A=0A=0A=09=09=09=09=09=09=09=09=09=09=09</td>=0A=0A=09=09=09=
+=09=09=09=09=09=09=09</tr>=0A=0A=09=09=09=09=09=09=09=09=09</tbody>=0A=0A=
+=09=09=09=09=09=09=09=09</table>=0A=0A=09=09=09=09=09=09=09</td>=0A=0A=09=
+=09=09=09=09=09</tr>=0A=0A=09=09=09=09=09</tbody>=0A=0A=09=09=09=09</table>=
+=0A=0A=09=09=09=09<!-- // MODULE ROW -->=0A=0A=0A=0A=09=09=09</td>=0A=0A=09=
+=09</tr>=0A=0A=09</tbody>=0A=0A</table>=0A=0A<!-- // TABLE MODULE END -->=
+=0A=0A=0A=0A<!-- TABLE MODULE START // -->=0A=0A=0A=0A<table style=3D"backg=
+round: rgb(224, 224, 224);" cellpadding=3D"0" cellspacing=3D"0" border=3D"0=
+" width=3D"100%" modules=3D"header">=0A=0A=09<tbody>=0A=0A=09=09<tr>=0A=0A=
+=09=09=09<td align=3D"center" valign=3D"top">=0A=0A=09=09=09=09<!-- MODULE =
+ROW // -->=0A=0A=0A=0A=09=09=09=09<table class=3D"flexibleFull" cellpadding=
+=3D"0" cellspacing=3D"0" border=3D"0" width=3D"600">=0A=0A=09=09=09=09=09<t=
+body>=0A=0A=09=09=09=09=09=09<tr>=0A=0A=09=09=09=09=09=09=09<td align=3D"ce=
+nter" valign=3D"top">=0A=0A=09=09=09=09=09=09=09=09<table class=3D"flexible=
+FullContainer" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"60=
+0">=0A=0A=09=09=09=09=09=09=09=09=09<tbody>=0A=0A=09=09=09=09=09=09=09=09=
+=09=09<tr>=0A=0A=09=09=09=09=09=09=09=09=09=09=09<td style=3D"padding:10px;=
+  font-size:12px; font-weight:bold; font-family:Arial;" align=3D"center" va=
+lign=3D"top">=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09<!-- CONTENT TABLE /=
+/ -->=0A=0A=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09<table align=3D"left" =
+cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%">=0A=0A=09=
+=09=09=09=09=09=09=09=09=09=09=09=09<tbody>=0A=0A=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09<tr>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<t=
+d align=3D"center" valign=3D"middle">=0A=0A=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" w=
+idth=3D"100%">=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tbo=
+dy>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>=0A=0A=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td align=3D"cente=
+r">=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09 <a href=3D"http:/=
+/client.campaignsender.ro/tl.php?p=3D3op/3em/rs/2bqqj/1g6/rs//http%3A%2F%2F=
+www.layout.vision-webdesign.com%2F" style=3D"text-decoration: none;">=0A=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<img src=3D"http://baza.laprin=
+t.ro/web/head.jpg" alt=3D"" class=3D"flexibleImage" width=3D"580" height=3D=
+"186"></a>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</=
+td>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=0A=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tbody>=0A=0A=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09</table>=0A=0A=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09</td>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09</tr>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>=0A=0A=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09<td class=3D"hide" align=3D"center" val=
+ign=3D"middle">=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09&nbsp;=
+</td>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=0A=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09<tr>=0A=0A=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09<td class=3D"hide" align=3D"center" valign=3D"middle">=0A=0A=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<table class=3D"text-menu" =
+align=3D"center" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"=
+100%">=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tbody>=0A=
+=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>=0A=0A=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td align=3D"center" sty=
+le=3D"padding: 5px; position: relative;" width=3D"116px" class=3D"style4">=
+=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<a style=
+=3D"text-decoration: none;" href=3D"http://client.campaignsender.ro/tl.php?=
+p=3D3op/3em/rs/2bqqj/1g6/rs//http%3A%2F%2Fwww.layout.vision-webdesign.com%2=
+F" class=3D"style4">HOME</a><span class=3D"style4"> </span>=0A=0A=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</td>=0A=0A=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td align=3D"center" style=3D"pad=
+ding: 5px; position: relative;" width=3D"116px">=0A=0A=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09<a href=3D"http://client.campaignsen=
+der.ro/tl.php?p=3D3op/3em/rs/2bqqj/1g6/rs//http%3A%2F%2Fwww.layout.vision-w=
+ebdesign.com%2Fcum-functioneaza%2F"><span class=3D"style4">CUM LUCRAM</span=
+></a><span class=3D"style4"> </span>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09</td>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09<td align=3D"center" style=3D"padding: 5px; position: rel=
+ative;" width=3D"116px">=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09<a href=3D"http://client.campaignsender.ro/tl.php?p=3D3op/3e=
+m/rs/2bqqj/1g6/rs//http%3A%2F%2Fwww.layout.vision-webdesign.com%2F"><span c=
+lass=3D"style4">MODELE DE SITE</span></a><span class=3D"style4"> </span>=0A=
+=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</td>=0A=0A=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td align=3D"center" =
+style=3D"padding: 5px; position: relative;" width=3D"116px">=0A=0A=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<a style=3D"text-decorat=
+ion: none;" href=3D"http://client.campaignsender.ro/tl.php?p=3D3op/3em/rs/2=
+bqqj/1g6/rs//http%3A%2F%2Fwww.web.vision-webdesign.com%2Fportfolio%2F" clas=
+s=3D"style4">PORTOFOLIU</a><span class=3D"style4"> </span>=0A=0A=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</td>=0A=0A=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td align=3D"center" style=3D"pad=
+ding: 5px; position: relative;" width=3D"116px">=0A=0A=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09<a style=3D"text-decoration: none;" =
+href=3D"http://client.campaignsender.ro/tl.php?p=3D3op/3em/rs/2bqqj/1g6/rs/=
+/http%3A%2F%2Fwww.layout.vision-webdesign.com%2Fcontact-2%2F" class=3D"styl=
+e4">CONTACT</a><span class=3D"style4"> </span>=0A=0A=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09</td>=0A=0A=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09</tr>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09</tbody>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09</table>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</td>=0A=0A=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=0A=09=09=09=09=09=09=09=
+=09=09=09=09=09=09</tbody>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09</table=
+>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09<!-- // CONTENT TABLE -->=0A=0A=
+=0A=0A=09=09=09=09=09=09=09=09=09=09=09</td>=0A=0A=09=09=09=09=09=09=09=09=
+=09=09</tr>=0A=0A=09=09=09=09=09=09=09=09=09</tbody>=0A=0A=09=09=09=09=09=
+=09=09=09</table>=0A=0A=09=09=09=09=09=09=09</td>=0A=0A=09=09=09=09=09=09</=
+tr>=0A=0A=09=09=09=09=09</tbody>=0A=0A=09=09=09=09</table>=0A=0A=09=09=09=
+=09<!-- // MODULE ROW -->=0A=0A=0A=0A=09=09=09</td>=0A=0A=09=09</tr>=0A=0A=
+=09</tbody>=0A=0A</table>=0A=0A<!-- // TABLE MODULE END -->=0A=0A=0A=0A<!--=
+ TABLE MODULE START // -->=0A=0A=0A=0A<!-- // TABLE MODULE END -->=0A=0A=0A=
+=0A<!-- TABLE MODULE START // -->=0A=0A=0A=0A<!-- // TABLE MODULE END -->=
+=0A=0A=0A=0A<!-- TABLE MODULE START // -->=0A=0A=0A=0A<table style=3D"backg=
+round: rgb(224, 224, 224);" cellpadding=3D"0" cellspacing=3D"0" border=3D"0=
+" width=3D"100%" modules=3D"subject">=0A=0A=09<tbody>=0A=0A=09=09<tr>=0A=0A=
+=09=09=09<td align=3D"center" valign=3D"top">=0A=0A=09=09=09=09<!-- MODULE =
+ROW // -->=0A=0A=0A=0A=09=09=09=09<table class=3D"flexibleFull" cellpadding=
+=3D"0" cellspacing=3D"0" border=3D"0" width=3D"600">=0A=0A=09=09=09=09=09<t=
+body>=0A=0A=09=09=09=09=09=09<tr>=0A=0A=09=09=09=09=09=09=09<td align=3D"ce=
+nter" valign=3D"top">=0A=0A=09=09=09=09=09=09=09=09<table class=3D"flexible=
+FullContainer" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"60=
+0">=0A=0A=09=09=09=09=09=09=09=09=09<tbody>=0A=0A=09=09=09=09=09=09=09=09=
+=09=09<tr>=0A=0A=09=09=09=09=09=09=09=09=09=09=09<td style=3D"padding:10px;=
+" align=3D"center" valign=3D"top">=0A=0A=09=09=09=09=09=09=09=09=09=09=09=
+=09<!-- CONTENT TABLE // -->=0A=0A=0A=0A=09=09=09=09=09=09=09=09=09=09=09=
+=09<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%">=
+=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09<tbody>=0A=0A=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09<tr>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09<td valign=3D"top" style=3D"font-family: Arial; font-size: 14px; b=
+order-bottom-width: 2px; border-color: rgb(20, 117, 0); ">=0A=0A=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09 <a href=3D"http://client.campaignse=
+nder.ro/tl.php?p=3D3op/3em/rs/2bqqj/1g6/rs//http%3A%2F%2Fwww.layout.vision-=
+webdesign.com%2F" style=3D"text-decoration: none;">=0A=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09<img src=3D"http://baza.laprint.ro/web/1.jpg" al=
+t=3D"" width=3D"580" height=3D"110" class=3D"flexibleImage"></a>&nbsp;</td>=
+=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=0A=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09<tr>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09<td valign=3D"top" style=3D"font-family: Arial; font-size: 14px; "=
+>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<a href=3D"http://cl=
+ient.campaignsender.ro/tl.php?p=3D3op/3em/rs/2bqqj/1g6/rs//http%3A%2F%2Fwww=
+.layout.vision-webdesign.com%2Fprezentare-vision-web-design%2F">=0A=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<img src=3D"http://baza.laprint.r=
+o/web/serv.jpg" alt=3D"" width=3D"580" height=3D"42" class=3D"flexibleImage=
+"></a></td>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=0A=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>=0A=0A=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09<td valign=3D"top" style=3D"font-family: Arial; font-s=
+ize: 14px; ">=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09&nbsp;</=
+td>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=0A=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09<tr>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09<td valign=3D"top" style=3D"font-family: Arial; font-size: 14px=
+; border-bottom-width: 2px; border-color: rgb(20, 117, 0); border-bottom-st=
+yle: solid;">=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<div sty=
+le=3D"font-size: 18px; width: auto; font-weight: bold; color: rgb(228, 28, =
+54); position: relative;" class=3D"txt-headColor">=0A=0A=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09<p style=3D"padding: 0px; margin: 0px;" cl=
+ass=3D"style2">=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+OFERTE SPECIALE=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</p=
+>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</div>=0A=0A=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09</td>=0A=0A=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09</tr>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09</tbody=
+>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09</table>=0A=0A=09=09=09=09=09=09=
+=09=09=09=09=09=09<!-- // CONTENT TABLE -->=0A=0A=0A=0A=09=09=09=09=09=09=
+=09=09=09=09=09</td>=0A=0A=09=09=09=09=09=09=09=09=09=09</tr>=0A=0A=09=09=
+=09=09=09=09=09=09=09</tbody>=0A=0A=09=09=09=09=09=09=09=09</table>=0A=0A=
+=09=09=09=09=09=09=09</td>=0A=0A=09=09=09=09=09=09</tr>=0A=0A=09=09=09=09=
+=09</tbody>=0A=0A=09=09=09=09</table>=0A=0A=09=09=09=09<!-- // MODULE ROW -=
+->=0A=0A=0A=0A=09=09=09</td>=0A=0A=09=09</tr>=0A=0A=09</tbody>=0A=0A</table=
+>=0A=0A<!-- // TABLE MODULE END -->=0A=0A=0A=0A<!-- TABLE MODULE START // -=
+->=0A=0A=0A=0A<table style=3D"background: rgb(224, 224, 224);" cellpadding=
+=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%" modules=3D"grid2bl">=
+=0A=0A=09<tbody>=0A=0A=09=09<tr>=0A=0A=09=09=09<td align=3D"center" valign=
+=3D"top">=0A=0A=09=09=09=09<!-- MODULE ROW // -->=0A=0A=0A=0A=09=09=09=09<t=
+able class=3D"flexibleFull" cellpadding=3D"0" cellspacing=3D"0" border=3D"0=
+" width=3D"600">=0A=0A=09=09=09=09=09<tbody>=0A=0A=09=09=09=09=09=09<tr>=0A=
+=0A=09=09=09=09=09=09=09<td align=3D"center" valign=3D"top">=0A=0A=09=09=09=
+=09=09=09=09=09<table class=3D"flexibleFullContainer" cellpadding=3D"0" cel=
+lspacing=3D"0" border=3D"0" width=3D"600">=0A=0A=09=09=09=09=09=09=09=09=09=
+<tbody>=0A=0A=09=09=09=09=09=09=09=09=09=09<tr>=0A=0A=09=09=09=09=09=09=09=
+=09=09=09=09<td style=3D"padding:10px;" valign=3D"top">=0A=0A=09=09=09=09=
+=09=09=09=09=09=09=09=09<!-- CONTENT TABLE // -->=0A=0A=0A=0A=09=09=09=09=
+=09=09=09=09=09=09=09=09<table class=3D"flexible2LeftContainer" style=3D"ba=
+ckground: rgb(255, 255, 255);" cellpadding=3D"0" cellspacing=3D"0" align=3D=
+"left" border=3D"0" width=3D"380">=0A=0A=09=09=09=09=09=09=09=09=09=09=09=
+=09=09<tbody>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>=0A=0A=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td class=3D"imageContent" align=
+=3D"left" valign=3D"top">=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09<a href=3D"http://client.campaignsender.ro/tl.php?p=3D3op/3em/rs/2bqq=
+j/1g6/rs//http%3A%2F%2Fwww.layout.vision-webdesign.com%2F">=0A=0A=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09<img src=3D"http://baza.laprint.ro/w=
+eb/shop.png" alt=3D"" width=3D"380" height=3D"200" class=3D"flexibleImage">=
+</a>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</td>=0A=0A=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=0A=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09<tr>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td vali=
+gn=3D"top" height=3D"10">=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09</td>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=0A=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09<tr>=0A=0A=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09<td style=3D"font-family: Arial; font-size:14px; padding:=
+10px;" valign=3D"top">=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09<div style=3D"font-size: 18px; color: rgb(228, 28, 54); font-weight: bol=
+d; text-align: left; position: relative;" class=3D"txt-headColor">=0A=0A=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<p style=3D"padding: 0px; m=
+argin: 0px;">=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09Ma=
+gazin Online=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</p>=
+=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</div>=0A=0A=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09</td>=0A=0A=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09</tr>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>=0A=
+=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td align=3D"left" valign=
+=3D"top" style=3D"border-bottom-width: 5px; border-color: rgb(20, 117, 0); =
+border-bottom-style: solid;">=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09<table width=3D"100%" align=3D"left" cellpadding=3D"10" cellspacin=
+g=3D"0" border=3D"0">=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09<tbody>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>=
+=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td align=3D=
+"left" valign=3D"middle">=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09<div class=3D"txt-PriceColor" style=3D"color: rgb(228, 28=
+, 54); font-family: Arial; font-weight: bold; position: relative;">=0A=0A=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<p style=3D"=
+padding: 0px; margin: 0px;">=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09199 EUR=0A=0A=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09</p>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09</div>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09</td>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09<td align=3D"right" valign=3D"middle" width=3D"60">=0A=0A=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<table style=3D"bo=
+rder-top-left-radius: 3px; border-top-right-radius: 3px; border-bottom-righ=
+t-radius: 3px; border-bottom-left-radius: 3px; background: rgb(20, 117, 0);=
+" cellpadding=3D"0" cellspacing=3D"0" border=3D"0">=0A=0A=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tbody>=0A=0A=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>=0A=0A=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td align=3D"cente=
+r" valign=3D"middle" height=3D"35" width=3D"50" style=3D"text-align:center;=
+">=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09 <a href=3D"http://client.campaignsender.ro/tl.php?p=3D3op/3em/rs/2bq=
+qj/1g6/rs//http%3A%2F%2Fwww.layout.vision-webdesign.com%2Fcategory%2Fshop%2=
+F" style=3D"text-decoration: none;"><img src=3D"http://www.themenaja.com/as=
+sets/estore/shop.png" width=3D"24" height=3D"24" align=3D"middle" alt=3D"">=
+</a>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09</td>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09</tr>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09</tbody>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09</table>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09</td>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr=
+>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tbody>=0A=0A=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</table>=0A=0A=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09</td>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09</tr>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09</tbody>=0A=0A=
+=09=09=09=09=09=09=09=09=09=09=09=09</table>=0A=0A=09=09=09=09=09=09=09=09=
+=09=09=09=09<table class=3D"flexible2RightContainer" style=3D"background: r=
+gb(255, 255, 255);" cellpadding=3D"0" cellspacing=3D"0" align=3D"right" bor=
+der=3D"0" width=3D"180">=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09<tbody=
+>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>=0A=0A=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09<td class=3D"imageContent" align=3D"left" val=
+ign=3D"top">=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<a href=
+=3D"http://client.campaignsender.ro/tl.php?p=3D3op/3em/rs/2bqqj/1g6/rs//htt=
+p%3A%2F%2Fwww.layout.vision-webdesign.com%2F">=0A=0A=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09<img src=3D"http://baza.laprint.ro/web/prez.png"=
+ alt=3D"" width=3D"180" height=3D"200" class=3D"flexibleImage"></a>=0A=0A=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</td>=0A=0A=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09</tr>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09<tr>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td valign=3D"top=
+" height=3D"10">=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</td>=0A=
+=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=0A=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09<tr>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09<td style=3D"font-family: Arial; font-size:14px; padding:10px;" valig=
+n=3D"top">=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<div style=
+=3D"font-size: 18px; color: rgb(228, 28, 54); font-weight: bold; text-align=
+: left; position: relative;" class=3D"txt-headColor">=0A=0A=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09<p style=3D"padding: 0px; margin: 0px;"=
+>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09Site Prezentar=
+e=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</p>=0A=0A=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09</div>=0A=0A=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09</td>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09</tr>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>=0A=0A=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09<td align=3D"left" valign=3D"top" style=
+=3D"border-bottom-width: 5px; border-color: rgb(20, 117, 0); border-bottom-=
+style: solid;">=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<table=
+ width=3D"100%" align=3D"left" cellpadding=3D"10" cellspacing=3D"0" border=
+=3D"0">=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tbody>=0A=
+=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>=0A=0A=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td align=3D"left" valig=
+n=3D"middle">=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09<div class=3D"txt-PriceColor" style=3D"color: rgb(228, 28, 54); font-=
+family: Arial; font-weight: bold; position: relative;">=0A=0A=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<p style=3D"padding: 0px=
+; margin: 0px;">=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09149 EUR=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09</p>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09</div>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09</td>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09<td align=3D"right" valign=3D"middle" width=3D"60">=0A=0A=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<table style=3D"border-top-lef=
+t-radius: 3px; border-top-right-radius: 3px; border-bottom-right-radius: 3p=
+x; border-bottom-left-radius: 3px; background: rgb(20, 117, 0);" cellpaddin=
+g=3D"0" cellspacing=3D"0" border=3D"0">=0A=0A=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09<tbody>=0A=0A=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>=0A=0A=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td align=3D"center" valign=3D=
+"middle" height=3D"35" width=3D"50" style=3D"text-align:center;">=0A=0A=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09 <a hr=
+ef=3D"http://client.campaignsender.ro/tl.php?p=3D3op/3em/rs/2bqqj/1g6/rs//h=
+ttp%3A%2F%2Fwww.layout.vision-webdesign.com%2F" style=3D"text-decoration: n=
+one;"><img src=3D"http://www.themenaja.com/assets/estore/shop.png" width=3D=
+"24" height=3D"24" align=3D"middle" alt=3D""></a>=0A=0A=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</td>=0A=0A=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=0A=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tbody>=0A=0A=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</table>=0A=0A=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</td>=0A=0A=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=0A=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09</tbody>=0A=0A=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09</table>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09</td>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=0A=09=09=
+=09=09=09=09=09=09=09=09=09=09=09</tbody>=0A=0A=09=09=09=09=09=09=09=09=09=
+=09=09=09</table>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09<!-- // CONTENT =
+TABLE -->=0A=0A=0A=0A=09=09=09=09=09=09=09=09=09=09=09</td>=0A=0A=09=09=09=
+=09=09=09=09=09=09=09</tr>=0A=0A=09=09=09=09=09=09=09=09=09</tbody>=0A=0A=
+=09=09=09=09=09=09=09=09</table>=0A=0A=09=09=09=09=09=09=09</td>=0A=0A=09=
+=09=09=09=09=09</tr>=0A=0A=09=09=09=09=09</tbody>=0A=0A=09=09=09=09</table>=
+=0A=0A=09=09=09=09<!-- // MODULE ROW -->=0A=0A=0A=0A=09=09=09</td>=0A=0A=09=
+=09</tr>=0A=0A=09</tbody>=0A=0A</table>=0A=0A<!-- // TABLE MODULE END -->=
+=0A=0A=0A=0A<!-- TABLE MODULE START // -->=0A=0A=0A=0A<table style=3D"backg=
+round: rgb(224, 224, 224);" cellpadding=3D"0" cellspacing=3D"0" border=3D"0=
+" width=3D"100%" modules=3D"banner">=0A=0A=09<tbody>=0A=0A=09=09<tr>=0A=0A=
+=09=09=09<td align=3D"center" valign=3D"top">=0A=0A=09=09=09=09<!-- MODULE =
+ROW // -->=0A=0A=0A=0A=09=09=09=09<table class=3D"flexibleFull" cellpadding=
+=3D"0" cellspacing=3D"0" border=3D"0" width=3D"600">=0A=0A=09=09=09=09=09<t=
+body>=0A=0A=09=09=09=09=09=09<tr>=0A=0A=09=09=09=09=09=09=09<td align=3D"ce=
+nter" valign=3D"top">=0A=0A=09=09=09=09=09=09=09=09<table class=3D"flexible=
+FullContainer" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"60=
+0">=0A=0A=09=09=09=09=09=09=09=09=09<tbody>=0A=0A=09=09=09=09=09=09=09=09=
+=09=09<tr>=0A=0A=09=09=09=09=09=09=09=09=09=09=09<td valign=3D"top" width=
+=3D"600">=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09<!-- CONTENT TABLE // --=
+>=0A=0A=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09<table class=3D"flexibleCo=
+ntainer" cellpadding=3D"10" cellspacing=3D"0" align=3D"left" border=3D"0" w=
+idth=3D"100%">=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09<tbody>=0A=0A=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>=0A=0A=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09<td class=3D"imageContent" align=3D"center" valign=3D"=
+top">=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09 <a href=3D"http=
+://client.campaignsender.ro/tl.php?p=3D3op/3em/rs/2bqqj/1g6/rs//http%3A%2F%=
+2Fwww.layout.vision-webdesign.com%2F" style=3D"text-decoration: none;">=0A=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<img src=3D"http://baza.=
+laprint.ro/web/2.jpg" alt=3D"" width=3D"580" height=3D"110" class=3D"flexib=
+leImage"></a>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</td>=0A=0A=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=0A=09=09=09=09=09=09=09=
+=09=09=09=09=09=09</tbody>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09</table=
+>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09<!-- // CONTENT TABLE -->=0A=0A=
+=0A=0A=09=09=09=09=09=09=09=09=09=09=09</td>=0A=0A=09=09=09=09=09=09=09=09=
+=09=09</tr>=0A=0A=09=09=09=09=09=09=09=09=09</tbody>=0A=0A=09=09=09=09=09=
+=09=09=09</table>=0A=0A=09=09=09=09=09=09=09</td>=0A=0A=09=09=09=09=09=09</=
+tr>=0A=0A=09=09=09=09=09</tbody>=0A=0A=09=09=09=09</table>=0A=0A=09=09=09=
+=09<!-- // MODULE ROW -->=0A=0A=0A=0A=09=09=09</td>=0A=0A=09=09</tr>=0A=0A=
+=09</tbody>=0A=0A</table>=0A=0A<!-- // TABLE MODULE END -->=0A=0A=0A=0A<!--=
+ TABLE MODULE START // -->=0A=0A=0A=0A<table style=3D"background: rgb(224, =
+224, 224);" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%"=
+ modules=3D"subject">=0A=0A=09<tbody>=0A=0A=09=09<tr>=0A=0A=09=09=09<td ali=
+gn=3D"center" valign=3D"top">=0A=0A=09=09=09=09<!-- MODULE ROW // -->=0A=0A=
+=0A=0A=09=09=09=09<table class=3D"flexibleFull" cellpadding=3D"0" cellspaci=
+ng=3D"0" border=3D"0" width=3D"600">=0A=0A=09=09=09=09=09<tbody>=0A=0A=09=
+=09=09=09=09=09<tr>=0A=0A=09=09=09=09=09=09=09<td align=3D"center" valign=
+=3D"top">=0A=0A=09=09=09=09=09=09=09=09<table class=3D"flexibleFullContaine=
+r" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"600">=0A=0A=09=
+=09=09=09=09=09=09=09=09<tbody>=0A=0A=09=09=09=09=09=09=09=09=09=09<tr>=0A=
+=0A=09=09=09=09=09=09=09=09=09=09=09<td style=3D"padding:10px;" align=3D"ce=
+nter" valign=3D"top">=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09<!-- CONTENT=
+ TABLE // -->=0A=0A=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09<table cellpad=
+ding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%">=0A=0A=09=09=09=09=
+=09=09=09=09=09=09=09=09=09<tbody>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09<tr>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td valign=
+=3D"top" style=3D"font-family: Arial; font-size: 14px; border-bottom-width:=
+ 2px; border-color: rgb(20, 117, 0); border-bottom-style: solid;">=0A=0A=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<div style=3D"font-size: 18px;=
+ width: auto; font-weight: bold; color: rgb(228, 28, 54); position: relativ=
+e;" class=3D"txt-headColor">=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09<p style=3D"padding: 0px; margin: 0px;" class=3D"style2">=0A=0A=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09CATEGORII DE TOP=0A=
+=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</p>=0A=0A=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09</div>=0A=0A=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09</td>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09<=
+/tr>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09</tbody>=0A=0A=09=09=09=09=
+=09=09=09=09=09=09=09=09</table>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09<=
+!-- // CONTENT TABLE -->=0A=0A=0A=0A=09=09=09=09=09=09=09=09=09=09=09</td>=
+=0A=0A=09=09=09=09=09=09=09=09=09=09</tr>=0A=0A=09=09=09=09=09=09=09=09=09<=
+/tbody>=0A=0A=09=09=09=09=09=09=09=09</table>=0A=0A=09=09=09=09=09=09=09</t=
+d>=0A=0A=09=09=09=09=09=09</tr>=0A=0A=09=09=09=09=09</tbody>=0A=0A=09=09=09=
+=09</table>=0A=0A=09=09=09=09<!-- // MODULE ROW -->=0A=0A=0A=0A=09=09=09</t=
+d>=0A=0A=09=09</tr>=0A=0A=09</tbody>=0A=0A</table>=0A=0A<!-- // TABLE MODUL=
+E END -->=0A=0A=0A=0A<!-- TABLE MODULE START // -->=0A=0A=0A=0A<table style=
+=3D"background: rgb(224, 224, 224);" cellpadding=3D"0" cellspacing=3D"0" bo=
+rder=3D"0" width=3D"100%" modules=3D"grid3">=0A=0A=09<tbody>=0A=0A=09=09<tr=
+>=0A=0A=09=09=09<td align=3D"center" valign=3D"top">=0A=0A=09=09=09=09<!-- =
+MODULE ROW // -->=0A=0A=0A=0A=09=09=09=09<table class=3D"flexibleFull" cell=
+padding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"600">=0A=0A=09=09=09=
+=09=09<tbody>=0A=0A=09=09=09=09=09=09<tr>=0A=0A=09=09=09=09=09=09=09<td ali=
+gn=3D"center" valign=3D"top">=0A=0A=09=09=09=09=09=09=09=09<table class=3D"=
+flexibleFullContainer" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" wid=
+th=3D"600">=0A=0A=09=09=09=09=09=09=09=09=09<tbody>=0A=0A=09=09=09=09=09=09=
+=09=09=09=09<tr>=0A=0A=09=09=09=09=09=09=09=09=09=09=09<td style=3D"padding=
+:10px;" valign=3D"top">=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09<!-- CONTE=
+NT TABLE // -->=0A=0A=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09<table cellp=
+adding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%">=0A=0A=09=09=09=
+=09=09=09=09=09=09=09=09=09=09<tbody>=0A=0A=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09<tr>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td clas=
+s=3D"templateColumnContainer" align=3D"center" valign=3D"top" width=3D"180"=
+>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<table class=3D"flex=
+ibleContainerCell" width=3D"180" style=3D"background: rgb(255, 255, 255);" =
+cellpadding=3D"0" cellspacing=3D"0" align=3D"left" border=3D"0">=0A=0A=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tbody>=0A=0A=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>=0A=0A=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09<td class=3D"imageContent" align=3D"lef=
+t" valign=3D"top">=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09<a href=3D"http://client.campaignsender.ro/tl.php?p=3D3op/3em/rs/2=
+bqqj/1g6/rs//http%3A%2F%2Fwww.layout.vision-webdesign.com%2Fcategory%2Fcate=
+gorii%2Fagentii-turism%2F">=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09<img src=3D"http://baza.laprint.ro/web/estate.png" alt=3D=
+"" width=3D"180" class=3D"flexibleImage"></a>=0A=0A=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09</td>=0A=0A=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09</tr>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09<tr>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09<td valign=3D"top" height=3D"10">=0A=0A=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09</td>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09</tr>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09<tr>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09<td style=3D"font-family: Arial; font-size:14px; padding:10px;" valig=
+n=3D"top">=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09<div style=3D"font-size: 18px; color: rgb(228, 28, 54); font-weight: bol=
+d; text-align: left; position: relative;" class=3D"txt-headColor">=0A=0A=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<p style=3D"pad=
+ding: 0px; margin: 0px;">=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09<span style=3D"font-size: 16px;">Agentii de turism<=
+/span>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+</p>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</div=
+>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</td>=0A=0A=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=0A=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>=0A=0A=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09<td align=3D"left" valign=3D"top" st=
+yle=3D"border-bottom-width: 5px; border-color: rgb(20, 117, 0); border-bott=
+om-style: solid;">=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09<table width=3D"100%" align=3D"left" cellpadding=3D"10" cellspacin=
+g=3D"0" border=3D"0">=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09<tbody>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09<tr>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09<td align=3D"left" valign=3D"middle">=0A=0A=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<div c=
+lass=3D"txt-PriceColor" style=3D"color: rgb(228, 28, 54); font-family: Aria=
+l; font-weight: bold; position: relative;">=0A=0A=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<p style=3D"padding: 0px=
+; margin: 0px;">=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09199 EUR=0A=0A=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09</p>=0A=0A=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</div>=0A=0A=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</td>=0A=0A=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td align=3D=
+"right" valign=3D"middle" width=3D"60">=0A=0A=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<table style=3D"border-top-left-r=
+adius: 3px; border-top-right-radius: 3px; border-bottom-right-radius: 3px; =
+border-bottom-left-radius: 3px; background: rgb(20, 117, 0);" cellpadding=
+=3D"0" cellspacing=3D"0" border=3D"0">=0A=0A=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tbody>=0A=0A=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>=0A=0A=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09<td align=3D"center" valign=3D"middle" height=3D"35" width=3D"50" sty=
+le=3D"text-align:center;">=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09 <a href=3D"http://client.campaig=
+nsender.ro/tl.php?p=3D3op/3em/rs/2bqqj/1g6/rs//http%3A%2F%2Fwww.layout.visi=
+on-webdesign.com%2Fcategory%2Fcategorii%2Fagentii-turism%2F"><img src=3D"ht=
+tp://www.themenaja.com/assets/estore/shop.png" width=3D"24" height=3D"24" a=
+lign=3D"middle" alt=3D""></a>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09</td>=0A=0A=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=0A=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tbod=
+y>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09</table>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09</td>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09</tr>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09</tbody>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09</table>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09</td>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09</tr>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tbody=
+>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</table>=0A=0A=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09</td>=0A=0A=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09<td class=3D"templateColumnContainer" align=3D"center"=
+ valign=3D"top" width=3D"180">=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09<table class=3D"flexibleContainerCell" width=3D"180" style=3D"back=
+ground: rgb(255, 255, 255);" cellpadding=3D"0" cellspacing=3D"0" align=3D"c=
+enter" border=3D"0">=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09<tbody>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>=
+=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td class=3D=
+"imageContent" align=3D"left" valign=3D"top">=0A=0A=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09<a href=3D"http://client.campaignsender=
+.ro/tl.php?p=3D3op/3em/rs/2bqqj/1g6/rs//http%3A%2F%2Fwww.layout.vision-webd=
+esign.com%2Fcategory%2Fcategorii%2Fagentii-imobiliare%2F">=0A=0A=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<img src=3D"http://baza.=
+laprint.ro/web/travel.png" alt=3D"" width=3D"180" class=3D"flexibleImage"><=
+/a>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</td>=0A=
+=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=0A=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>=0A=0A=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td valign=3D"top" height=3D"10">=
+=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</td>=0A=0A=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=0A=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>=0A=0A=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09<td style=3D"font-family: Arial; fon=
+t-size:14px; padding:10px;" valign=3D"top">=0A=0A=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09<div style=3D"font-size: 18px; color: r=
+gb(228, 28, 54); font-weight: bold; text-align: left; position: relative;" =
+class=3D"txt-headColor">=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09<p style=3D"padding: 0px; margin: 0px;">=0A=0A=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<span style=3D"fon=
+t-size: 16px;">Agentii imobiliare</span>=0A=0A=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09</p>=0A=0A=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09</div>=0A=0A=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09</td>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09</tr>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09<tr>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09<td align=3D"left" valign=3D"top" style=3D"border-bottom-width: 5px; bor=
+der-color: rgb(20, 117, 0); border-bottom-style: solid;">=0A=0A=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<table width=3D"100%" align=
+=3D"left" cellpadding=3D"10" cellspacing=3D"0" border=3D"0">=0A=0A=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tbody>=0A=0A=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>=0A=0A=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td align=
+=3D"left" valign=3D"middle">=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09<div class=3D"txt-PriceColor" style=3D"col=
+or: rgb(228, 28, 54); font-family: Arial; font-weight: bold; position: rela=
+tive;">=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09<p style=3D"padding: 0px; margin: 0px;">=0A=0A=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09199 EUR=
+=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09</p>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09</div>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09</td>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09<td align=3D"right" valign=3D"middle" width=3D"6=
+0">=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09<table style=3D"border-top-left-radius: 3px; border-top-right-radius:=
+ 3px; border-bottom-right-radius: 3px; border-bottom-left-radius: 3px; back=
+ground: rgb(20, 117, 0);" cellpadding=3D"0" cellspacing=3D"0" border=3D"0">=
+=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09<tbody>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09<tr>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td align=3D"center" valign=3D"mi=
+ddle" height=3D"35" width=3D"50" style=3D"text-align:center;">=0A=0A=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09 <a href=3D"http://client.campaignsender.ro/tl.php?p=3D3op/3em/rs/2bqqj/=
+1g6/rs//http%3A%2F%2Fwww.layout.vision-webdesign.com%2Fcategory%2Fcategorii=
+%2Fagentii-imobiliare%2F"><img src=3D"http://www.themenaja.com/assets/estor=
+e/shop.png" width=3D"24" height=3D"24" align=3D"middle" alt=3D""></a>=0A=0A=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09</td>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09</tr>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09</tbody>=0A=0A=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</table>=0A=0A=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</td>=0A=0A=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=0A=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tbody>=0A=0A=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</table>=0A=0A=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</td>=0A=0A=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=0A=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09</tbody>=0A=0A=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09</table>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09</td>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td class=3D"=
+templateColumnContainer" align=3D"center" valign=3D"top" width=3D"180">=0A=
+=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<table class=3D"flexible=
+ContainerCell" width=3D"180" style=3D"background: rgb(255, 255, 255);" cell=
+padding=3D"0" cellspacing=3D"0" align=3D"right" border=3D"0">=0A=0A=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tbody>=0A=0A=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>=0A=0A=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09<td class=3D"imageContent" align=3D"left" =
+valign=3D"top">=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09<a href=3D"http://client.campaignsender.ro/tl.php?p=3D3op/3em/rs/2bqq=
+j/1g6/rs//http%3A%2F%2Fwww.layout.vision-webdesign.com%2Fcategory%2Fcategor=
+ii%2Farta-si-fotografie%2F">=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09<img src=3D"http://baza.laprint.ro/web/foto.png" alt=
+=3D"" width=3D"180" class=3D"flexibleImage"></a>=0A=0A=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09</td>=0A=0A=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09</tr>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09<tr>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09<td valign=3D"top" height=3D"10">=0A=0A=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09</td>=0A=0A=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09</tr>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09<tr>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09<td style=3D"font-family: Arial; font-size:14px; padding:10px;" va=
+lign=3D"top">=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09<div style=3D"font-size: 18px; color: rgb(228, 28, 54); font-weight: =
+bold; text-align: left; position: relative;" class=3D"txt-headColor">=0A=0A=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<p style=3D"=
+padding: 0px; margin: 0px;">=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09<span style=3D"font-size: 16px;">Arta si Fotogra=
+fie</span>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09</p>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09</div>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</t=
+d>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=0A=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>=0A=0A=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td align=3D"left" valign=
+=3D"top" style=3D"border-bottom-width: 5px; border-color: rgb(20, 117, 0); =
+border-bottom-style: solid;">=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09<table width=3D"100%" align=3D"left" cellpadding=3D"10=
+" cellspacing=3D"0" border=3D"0">=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09<tbody>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09<tr>=0A=0A=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09<td align=3D"left" valign=3D"middle"=
+>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09<div class=3D"txt-PriceColor" style=3D"color: rgb(228, 28, 54); font-=
+family: Arial; font-weight: bold; position: relative;">=0A=0A=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<p style=3D"=
+padding: 0px; margin: 0px;">=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09149 EUR=0A=0A=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</p>=0A=0A=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</div>=0A=0A=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</td>=
+=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+<td align=3D"right" valign=3D"middle" width=3D"60">=0A=0A=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<table style=3D"borde=
+r-top-left-radius: 3px; border-top-right-radius: 3px; border-bottom-right-r=
+adius: 3px; border-bottom-left-radius: 3px; background: rgb(20, 117, 0);" c=
+ellpadding=3D"0" cellspacing=3D"0" border=3D"0">=0A=0A=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tbody>=0A=0A=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr=
+>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09<td align=3D"center" valign=3D"middle" height=3D"35" width=
+=3D"50" style=3D"text-align:center;">=0A=0A=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09 <a href=3D"http://cl=
+ient.campaignsender.ro/tl.php?p=3D3op/3em/rs/2bqqj/1g6/rs//http%3A%2F%2Fwww=
+.layout.vision-webdesign.com%2Fcategory%2Fcategorii%2Farta-si-fotografie%2F=
+" style=3D"text-decoration: none;"><img src=3D"http://www.themenaja.com/ass=
+ets/estore/shop.png" width=3D"24" height=3D"24" align=3D"middle" alt=3D""><=
+/a>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09</td>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09</tr>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tbody>=0A=0A=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</table>=0A=0A=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</td>=0A=0A=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=
+=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tbody>=
+=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</table>=
+=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</td>=0A=0A=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=0A=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tbody>=0A=0A=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09</table>=0A=0A=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09</td>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>=
+=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09</tbody>=0A=0A=09=09=09=09=09=
+=09=09=09=09=09=09=09</table>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09<!--=
+ // CONTENT TABLE -->=0A=0A=0A=0A=09=09=09=09=09=09=09=09=09=09=09</td>=0A=
+=0A=09=09=09=09=09=09=09=09=09=09</tr>=0A=0A=09=09=09=09=09=09=09=09=09</tb=
+ody>=0A=0A=09=09=09=09=09=09=09=09</table>=0A=0A=09=09=09=09=09=09=09</td>=
+=0A=0A=09=09=09=09=09=09</tr>=0A=0A=09=09=09=09=09</tbody>=0A=0A=09=09=09=
+=09</table>=0A=0A=09=09=09=09<!-- // MODULE ROW -->=0A=0A=0A=0A=09=09=09</t=
+d>=0A=0A=09=09</tr>=0A=0A=09</tbody>=0A=0A</table>=0A=0A<!-- // TABLE MODUL=
+E END -->=0A=0A=0A=0A<!-- TABLE MODULE START // -->=0A=0A=0A=0A<table style=
+=3D"background: rgb(224, 224, 224);" cellpadding=3D"0" cellspacing=3D"0" bo=
+rder=3D"0" width=3D"100%" modules=3D"banner">=0A=0A=09<tbody>=0A=0A=09=09<t=
+r>=0A=0A=09=09=09<td align=3D"center" valign=3D"top">=0A=0A=09=09=09=09<!--=
+ MODULE ROW // -->=0A=0A=0A=0A=09=09=09=09<table class=3D"flexibleFull" cel=
+lpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"600">=0A=0A=09=09=09=
+=09=09<tbody>=0A=0A=09=09=09=09=09=09<tr>=0A=0A=09=09=09=09=09=09=09<td ali=
+gn=3D"center" valign=3D"top">=0A=0A=09=09=09=09=09=09=09=09<table class=3D"=
+flexibleFullContainer" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" wid=
+th=3D"600">=0A=0A=09=09=09=09=09=09=09=09=09<tbody>=0A=0A=09=09=09=09=09=09=
+=09=09=09=09<tr>=0A=0A=09=09=09=09=09=09=09=09=09=09=09<td valign=3D"top" w=
+idth=3D"600">=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09<!-- CONTENT TABLE /=
+/ -->=0A=0A=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09<table class=3D"flexib=
+leContainer" cellpadding=3D"10" cellspacing=3D"0" align=3D"left" border=3D"=
+0" width=3D"100%">=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09<tbody>=0A=
+=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>=0A=0A=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09<td class=3D"imageContent" align=3D"center" vali=
+gn=3D"top">=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09 <a href=
+=3D"http://client.campaignsender.ro/tl.php?p=3D3op/3em/rs/2bqqj/1g6/rs//htt=
+p%3A%2F%2Fwww.layout.vision-webdesign.com%2F" style=3D"text-decoration: non=
+e;">=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<img src=3D"http:=
+//baza.laprint.ro/web/3.jpg" alt=3D"" width=3D"580" height=3D"110" class=3D=
+"flexibleImage"></a>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</td=
+>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=0A=09=09=09=09=09=
+=09=09=09=09=09=09=09=09</tbody>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09<=
+/table>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09<!-- // CONTENT TABLE -->=
+=0A=0A=0A=0A=09=09=09=09=09=09=09=09=09=09=09</td>=0A=0A=09=09=09=09=09=09=
+=09=09=09=09</tr>=0A=0A=09=09=09=09=09=09=09=09=09</tbody>=0A=0A=09=09=09=
+=09=09=09=09=09</table>=0A=0A=09=09=09=09=09=09=09</td>=0A=0A=09=09=09=09=
+=09=09</tr>=0A=0A=09=09=09=09=09</tbody>=0A=0A=09=09=09=09</table>=0A=0A=09=
+=09=09=09<!-- // MODULE ROW -->=0A=0A=0A=0A=09=09=09</td>=0A=0A=09=09</tr>=
+=0A=0A=09</tbody>=0A=0A</table>=0A=0A<!-- // TABLE MODULE END -->=0A=0A=0A=
+=0A<!-- TABLE MODULE START // -->=0A=0A=0A=0A<table style=3D"background: rg=
+b(224, 224, 224);" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=
+=3D"100%" modules=3D"grid3">=0A=0A=09<tbody>=0A=0A=09=09<tr>=0A=0A=09=09=09=
+<td align=3D"center" valign=3D"top">=0A=0A=09=09=09=09<!-- MODULE ROW // --=
+>=0A=0A=0A=0A=09=09=09=09<table class=3D"flexibleFull" cellpadding=3D"0" ce=
+llspacing=3D"0" border=3D"0" width=3D"600">=0A=0A=09=09=09=09=09<tbody>=0A=
+=0A=09=09=09=09=09=09<tr>=0A=0A=09=09=09=09=09=09=09<td align=3D"center" va=
+lign=3D"top">=0A=0A=09=09=09=09=09=09=09=09<table class=3D"flexibleFullCont=
+ainer" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"600">=0A=
+=0A=09=09=09=09=09=09=09=09=09<tbody>=0A=0A=09=09=09=09=09=09=09=09=09=09<t=
+r>=0A=0A=09=09=09=09=09=09=09=09=09=09=09<td style=3D"padding:10px;" valign=
+=3D"top">=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09<!-- CONTENT TABLE // --=
+>=0A=0A=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09<table cellpadding=3D"0" c=
+ellspacing=3D"0" border=3D"0" width=3D"100%">=0A=0A=09=09=09=09=09=09=09=09=
+=09=09=09=09=09<tbody>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>=
+=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td class=3D"templateCol=
+umnContainer" align=3D"center" valign=3D"top" width=3D"180">=0A=0A=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09<table class=3D"flexibleContainerCel=
+l" width=3D"180" style=3D"background: rgb(255, 255, 255); height: 215px;" c=
+ellpadding=3D"0" cellspacing=3D"0" align=3D"left" border=3D"0">=0A=0A=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tbody>=0A=0A=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>=0A=0A=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09<td class=3D"imageContent" align=3D"left" =
+valign=3D"top">=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09<a href=3D"http://client.campaignsender.ro/tl.php?p=3D3op/3em/rs/2bqq=
+j/1g6/rs//http%3A%2F%2Fwww.layout.vision-webdesign.com%2Fcategory%2Fcategor=
+ii%2Fhoteluri-si-pensiuni%2F">=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09<img src=3D"http://baza.laprint.ro/web/hotel.png" alt=
+=3D"" width=3D"180" class=3D"flexibleImage" height=3D"101"></a>=0A=0A=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</td>=0A=0A=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=0A=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09<tr>=0A=0A=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09<td style=3D"font-family: Arial; font-size:14px;=
+ padding:10px; height: 41px;" valign=3D"top">=0A=0A=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09<div style=3D"font-size: 18px; color: r=
+gb(228, 28, 54); font-weight: bold; text-align: left; position: relative;" =
+class=3D"txt-headColor">=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09<p style=3D"padding: 0px; margin: 0px;">=0A=0A=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<span style=3D"fon=
+t-size: 16px;">Hoteluri, Pensiuni</span></p>=0A=0A=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09</div>=0A=0A=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09</td>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09</tr>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09<tr>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09<td align=3D"left" valign=3D"top" style=3D"border-bottom-width: 5px; =
+border-color: rgb(20, 117, 0); border-bottom-style: solid;">=0A=0A=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<table width=3D"100%" al=
+ign=3D"left" cellpadding=3D"10" cellspacing=3D"0" border=3D"0">=0A=0A=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tbody>=0A=0A=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>=0A=0A=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td al=
+ign=3D"left" valign=3D"middle">=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09<div class=3D"txt-PriceColor" style=3D"=
+color: rgb(228, 28, 54); font-family: Arial; font-weight: bold; position: r=
+elative;">=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09<p style=3D"padding: 0px; margin: 0px;">=0A=0A=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09149 EU=
+R=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09</p>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09</div>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09</td>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09<td align=3D"right" valign=3D"middle" width=
+=3D"60">=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09<table style=3D"border-top-left-radius: 3px; border-top-right-r=
+adius: 3px; border-bottom-right-radius: 3px; border-bottom-left-radius: 3px=
+; background: rgb(20, 117, 0);" cellpadding=3D"0" cellspacing=3D"0" border=
+=3D"0">=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09<tbody>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09<tr>=0A=0A=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td align=3D"center" val=
+ign=3D"middle" height=3D"35" width=3D"50" style=3D"text-align:center;">=0A=
+=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09 <a href=3D"http://client.campaignsender.ro/tl.php?p=3D3op/3em/=
+rs/2bqqj/1g6/rs//http%3A%2F%2Fwww.layout.vision-webdesign.com%2Fcategory%2F=
+categorii%2Fhoteluri-si-pensiuni%2F" style=3D"text-decoration: none;"><img =
+src=3D"http://www.themenaja.com/assets/estore/shop.png" width=3D"24" height=
+=3D"24" align=3D"middle" alt=3D""></a>=0A=0A=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</td>=0A=0A=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=
+=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09</tbody>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09</table>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09</td>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09</tr>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09</tbody>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09</table>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09</td>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09</tr>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09</tbody>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</table>=
+=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</td>=0A=0A=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09<td class=3D"templateColumnContainer" alig=
+n=3D"center" valign=3D"top" width=3D"180">=0A=0A=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09<table class=3D"flexibleContainerCell" width=3D"180" s=
+tyle=3D"background: rgb(255, 255, 255);" cellpadding=3D"0" cellspacing=3D"0=
+" align=3D"center" border=3D"0">=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09<tbody>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09<tr>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09<td class=3D"imageContent" align=3D"left" valign=3D"top">=0A=0A=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<a href=3D"http://client=
+.campaignsender.ro/tl.php?p=3D3op/3em/rs/2bqqj/1g6/rs//http%3A%2F%2Fwww.lay=
+out.vision-webdesign.com%2Fcategory%2Fcategorii%2Fspitale-si-clinici%2F">=
+=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<img src=
+=3D"http://baza.laprint.ro/web/spitale.png" alt=3D"" width=3D"180" class=3D=
+"flexibleImage"></a>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09</td>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<=
+/tr>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>=0A=0A=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td style=3D"font-=
+family: Arial; font-size:14px; padding:10px;" valign=3D"top">=0A=0A=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<div style=3D"font-si=
+ze: 18px; color: rgb(228, 28, 54); font-weight: bold; text-align: left; pos=
+ition: relative;" class=3D"txt-headColor">=0A=0A=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09<p style=3D"padding: 0px; margin: 0px;"=
+>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<s=
+pan style=3D"font-size: 16px;">Spitale, Clinici</span>=0A=0A=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</p>=0A=0A=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</div>=0A=0A=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09</td>=0A=0A=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09</tr>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09<tr>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09<td align=3D"left" valign=3D"top" style=3D"border-bottom-wid=
+th: 5px; border-color: rgb(20, 117, 0); border-bottom-style: solid;">=0A=0A=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<table width=3D=
+"100%" align=3D"left" cellpadding=3D"10" cellspacing=3D"0" border=3D"0">=0A=
+=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tbody>=
+=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr=
+>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09<td align=3D"left" valign=3D"middle">=0A=0A=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<div class=3D"txt-PriceColor" =
+style=3D"color: rgb(228, 28, 54); font-family: Arial; font-weight: bold; po=
+sition: relative;">=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09<p style=3D"padding: 0px; margin: 0px;">=0A=0A=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09149 EUR=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09</p>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09</div>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09</td>=0A=0A=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09<td align=3D"right" valign=3D"middle=
+" width=3D"60">=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09<table style=3D"border-top-left-radius: 3px; border-top-r=
+ight-radius: 3px; border-bottom-right-radius: 3px; border-bottom-left-radiu=
+s: 3px; background: rgb(20, 117, 0);" cellpadding=3D"0" cellspacing=3D"0" b=
+order=3D"0">=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09<tbody>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09<tr>=0A=0A=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td align=3D"center" =
+valign=3D"middle" height=3D"35" width=3D"50" style=3D"text-align:center;">=
+=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09 <a href=3D"http://client.campaignsender.ro/tl.php?p=3D3op/3=
+em/rs/2bqqj/1g6/rs//http%3A%2F%2Fwww.layout.vision-webdesign.com%2Fcategory=
+%2Fcategorii%2Fspitale-si-clinici%2F" style=3D"text-decoration: none;"><img=
+ src=3D"http://www.themenaja.com/assets/estore/shop.png" width=3D"24" heigh=
+t=3D"24" align=3D"middle" alt=3D""></a>=0A=0A=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</td>=0A=0A=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=
+=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09</tbody>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09</table>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09</td>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09</tr>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09</tbody>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09</table>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09</td>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09</tr>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09</tbody>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</table>=
+=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</td>=0A=0A=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09<td class=3D"templateColumnContainer" alig=
+n=3D"center" valign=3D"top" width=3D"180">=0A=0A=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09<table class=3D"flexibleContainerCell" width=3D"180" s=
+tyle=3D"background: rgb(255, 255, 255);" cellpadding=3D"0" cellspacing=3D"0=
+" align=3D"right" border=3D"0">=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09<tbody>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09<tr>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09<td class=3D"imageContent" align=3D"left" valign=3D"top">=0A=0A=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<a href=3D"http://client=
+.campaignsender.ro/tl.php?p=3D3op/3em/rs/2bqqj/1g6/rs//http%3A%2F%2Fwww.lay=
+out.vision-webdesign.com%2Fcategory%2Fcategorii%2Favocatura-juridic%2F">=0A=
+=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<img src=3D"=
+http://baza.laprint.ro/web/avocat.png" alt=3D"" width=3D"180" class=3D"flex=
+ibleImage"></a>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09</td>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>=
+=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>=0A=0A=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td style=3D"font-fam=
+ily: Arial; font-size:14px; padding:10px;" valign=3D"top">=0A=0A=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<div style=3D"font-size:=
+ 18px; color: rgb(228, 28, 54); font-weight: bold; text-align: left; positi=
+on: relative;" class=3D"txt-headColor">=0A=0A=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09<p style=3D"padding: 0px; margin: 0px;">=
+=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<sp=
+an style=3D"font-size: 16px;">Avocatura, Juridic</span>=0A=0A=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</p>=0A=0A=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</div>=0A=0A=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09</td>=0A=0A=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=0A=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09<tr>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09<td align=3D"left" valign=3D"top" style=3D"border-bottom-=
+width: 5px; border-color: rgb(20, 117, 0); border-bottom-style: solid;">=0A=
+=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<table width=
+=3D"100%" align=3D"left" cellpadding=3D"10" cellspacing=3D"0" border=3D"0">=
+=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tbody=
+>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<t=
+r>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09<td align=3D"left" valign=3D"middle">=0A=0A=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<div class=3D"txt-PriceColor" =
+style=3D"color: rgb(228, 28, 54); font-family: Arial; font-weight: bold; po=
+sition: relative;">=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09<p style=3D"padding: 0px; margin: 0px;">=0A=0A=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09149 EUR=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09</p>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09</div>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09</td>=0A=0A=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09<td align=3D"right" valign=3D"middle=
+" width=3D"60">=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09<table style=3D"border-top-left-radius: 3px; border-top-r=
+ight-radius: 3px; border-bottom-right-radius: 3px; border-bottom-left-radiu=
+s: 3px; background: rgb(20, 117, 0);" cellpadding=3D"0" cellspacing=3D"0" b=
+order=3D"0">=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09<tbody>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09<tr>=0A=0A=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td align=3D"center" =
+valign=3D"middle" height=3D"35" width=3D"50" style=3D"text-align:center;">=
+=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09 <a href=3D"http://client.campaignsender.ro/tl.php?p=3D3op/3=
+em/rs/2bqqj/1g6/rs//http%3A%2F%2Fwww.layout.vision-webdesign.com%2Fcategory=
+%2Fcategorii%2Favocatura-juridic%2F" style=3D"text-decoration: none;"><img =
+src=3D"http://www.themenaja.com/assets/estore/shop.png" width=3D"24" height=
+=3D"24" align=3D"middle" alt=3D""></a>=0A=0A=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</td>=0A=0A=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=
+=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09</tbody>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09</table>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09</td>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09</tr>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09</tbody>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09</table>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09</td>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09</tr>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09</tbody>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</table>=
+=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</td>=0A=0A=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09</tr>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=
+=09=09</tbody>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09</table>=0A=0A=09=
+=09=09=09=09=09=09=09=09=09=09=09<!-- // CONTENT TABLE -->=0A=0A=0A=0A=09=
+=09=09=09=09=09=09=09=09=09=09</td>=0A=0A=09=09=09=09=09=09=09=09=09=09</tr=
+>=0A=0A=09=09=09=09=09=09=09=09=09</tbody>=0A=0A=09=09=09=09=09=09=09=09</t=
+able>=0A=0A=09=09=09=09=09=09=09</td>=0A=0A=09=09=09=09=09=09</tr>=0A=0A=09=
+=09=09=09=09</tbody>=0A=0A=09=09=09=09</table>=0A=0A=09=09=09=09<!-- // MOD=
+ULE ROW -->=0A=0A=0A=0A=09=09=09</td>=0A=0A=09=09</tr>=0A=0A=09</tbody>=0A=
+=0A</table>=0A=0A<!-- // TABLE MODULE END -->=0A=0A=0A=0A<!-- TABLE MODULE =
+START // -->=0A=0A=0A=0A<table style=3D"background: rgb(224, 224, 224);" ce=
+llpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%" modules=3D"sp=
+ace">=0A=0A=09<tbody>=0A=0A=09=09<tr>=0A=0A=09=09=09<td align=3D"center" va=
+lign=3D"top">=0A=0A=09=09=09=09<!-- MODULE ROW // -->=0A=0A=0A=0A=09=09=09=
+=09<table class=3D"flexibleFull" cellpadding=3D"0" cellspacing=3D"0" border=
+=3D"0" width=3D"600">=0A=0A=09=09=09=09=09<tbody>=0A=0A=09=09=09=09=09=09<t=
+r>=0A=0A=09=09=09=09=09=09=09<td align=3D"center" valign=3D"top">=0A=0A=09=
+=09=09=09=09=09=09=09<table class=3D"flexibleFullContainer" cellpadding=3D"=
+0" cellspacing=3D"0" border=3D"0" width=3D"600">=0A=0A=09=09=09=09=09=09=09=
+=09=09<tbody>=0A=0A=09=09=09=09=09=09=09=09=09=09<tr>=0A=0A=09=09=09=09=09=
+=09=09=09=09=09=09<td align=3D"left" height=3D"25" valign=3D"top">=0A=0A=0A=
+=0A=09=09=09=09=09=09=09=09=09=09=09=09<table class=3D"flexibleContainer" c=
+ellpadding=3D"10" cellspacing=3D"0" align=3D"left" border=3D"0" width=3D"10=
+0%">=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09<tbody>=0A=0A=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09<tr>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09<td class=3D"imageContent" align=3D"center" valign=3D"top">=0A=
+=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09 <a href=3D"http://clien=
+t.campaignsender.ro/tl.php?p=3D3op/3em/rs/2bqqj/1g6/rs//http%3A%2F%2Fwww.la=
+yout.vision-webdesign.com%2F" style=3D"text-decoration: none;">=0A=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<img src=3D"http://baza.laprint.r=
+o/web/4.jpg" alt=3D"" width=3D"580" height=3D"110" class=3D"flexibleImage">=
+</a>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</td>=0A=0A=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=0A=09=09=09=09=09=09=09=09=09=09=
+=09=09=09</tbody>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09</table>=0A=0A=
+=09=09=09=09=09=09=09=09=09=09=09</td>=0A=0A=09=09=09=09=09=09=09=09=09=09<=
+/tr>=0A=0A=09=09=09=09=09=09=09=09=09</tbody>=0A=0A=09=09=09=09=09=09=09=09=
+</table>=0A=0A=09=09=09=09=09=09=09</td>=0A=0A=09=09=09=09=09=09</tr>=0A=0A=
+=09=09=09=09=09</tbody>=0A=0A=09=09=09=09</table>=0A=0A=09=09=09=09<!-- // =
+MODULE ROW -->=0A=0A=0A=0A=09=09=09</td>=0A=0A=09=09</tr>=0A=0A=09</tbody>=
+=0A=0A</table>=0A=0A<!-- // TABLE MODULE END -->=0A=0A=0A=0A<!-- TABLE MODU=
+LE START // -->=0A=0A=0A=0A<table style=3D"background:#fafafa;" cellpadding=
+=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%" modules=3D"fulltext">=
+=0A=0A=09<tbody>=0A=0A=09=09<tr>=0A=0A=09=09=09<td align=3D"center" valign=
+=3D"top">=0A=0A=09=09=09=09<!-- MODULE ROW // -->=0A=0A=0A=0A=09=09=09=09<t=
+able class=3D"flexibleFull" style=3D"background:#fff;" cellpadding=3D"0" ce=
+llspacing=3D"0" border=3D"0" width=3D"600">=0A=0A=09=09=09=09=09<tbody>=0A=
+=0A=09=09=09=09=09=09<tr>=0A=0A=09=09=09=09=09=09=09<td align=3D"center" va=
+lign=3D"top">=0A=0A=09=09=09=09=09=09=09=09<table class=3D"flexibleFullCont=
+ainer" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"600">=0A=
+=0A=09=09=09=09=09=09=09=09=09<tbody>=0A=0A=09=09=09=09=09=09=09=09=09=09<t=
+r>=0A=0A=09=09=09=09=09=09=09=09=09=09=09<td style=3D"padding:10px;" align=
+=3D"center" valign=3D"top">=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09<!-- C=
+ONTENT TABLE // -->=0A=0A=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09<table c=
+ellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%">=0A=0A=09=09=
+=09=09=09=09=09=09=09=09=09=09=09<tbody>=0A=0A=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09<tr>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td v=
+align=3D"top" style=3D"font-family: Arial;" colspan=3D"4">=0A=0A=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09<div style=3D"font-size: 18px; font-=
+weight: bold; color: rgb(228, 28, 54); text-align: center; position: relati=
+ve;" class=3D"txt-headColor">=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09<p style=3D"padding: 0px; margin: 0px;" class=3D"style2">=0A=0A=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09MODELE =0A=0A=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09DE =0A=0A=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09SITE-URI =0A=0A=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09PE =0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09DOMENII</p>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09</div>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</td>=0A=
+=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=0A=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09<tr>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09<td valign=3D"top" height=3D"10" colspan=3D"4">=0A=0A=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09</td>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09</tr>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>=0A=0A=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td valign=3D"top" style=3D"font-=
+family: Arial; font-size:14px;" colspan=3D"2">=0A=0A=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09<ul style=3D"color: rgb(0, 149, 255); font-famil=
+y: Arial; font-size: 14px; font-style: normal; font-variant: normal; font-w=
+eight: normal; letter-spacing: normal; line-height: normal; orphans: auto; =
+text-align: start; text-indent: 0px; text-transform: none; white-space: nor=
+mal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; backg=
+round-color: rgb(255, 255, 255);">=0A=0A=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09<li class=3D"style1" style=3D"text-align: left;">=0A=0A=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<span style=3D"color: rg=
+b(0, 0, 255);">=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<a =
+style=3D"color: rgb(255, 255, 255); text-decoration: none;" href=3D"http://=
+client.campaignsender.ro/tl.php?p=3D3op/3em/rs/2bqqj/1g6/rs//http%3A%2F%2Fw=
+ww.layout.vision-webdesign.com%2Fcategory%2Fcategorii%2Fagentii-imobiliare%=
+2F">=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<span class=3D=
+"style2" style=3D"color: rgb(0, 0, 255);">=0A=0A=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09Agentii =0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09Imobiliare</span></a></span><span class=3D"style2" style=3D"=
+color: rgb(0, 0, 255);"></span></li>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09<li class=3D"style1" style=3D"text-align: left;">=0A=0A=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<a class=3D"style2" styl=
+e=3D"color: rgb(0, 0, 255); text-decoration: none;" href=3D"http://client.c=
+ampaignsender.ro/tl.php?p=3D3op/3em/rs/2bqqj/1g6/rs//http%3A%2F%2Fwww.layou=
+t.vision-webdesign.com%2Fcategory%2Fcategorii%2Fagentii-turism%2F">=0A=0A=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09Agentii de =0A=0A=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09Turism</a><span class=3D"style=
+2" style=3D"color: rgb(0, 0, 255);"></span></li>=0A=0A=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09<li class=3D"style1" style=3D"text-align: lef=
+t;">=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<a class=3D"st=
+yle2" style=3D"color: rgb(0, 0, 255); text-decoration: none;" href=3D"http:=
+//client.campaignsender.ro/tl.php?p=3D3op/3em/rs/2bqqj/1g6/rs//http%3A%2F%2=
+Fwww.layout.vision-webdesign.com%2Fcategory%2Fcategorii%2Farta-si-fotografi=
+e%2F">=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09Arta si =0A=
+=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09Fotografie</a><span c=
+lass=3D"style2" style=3D"color: rgb(0, 0, 255);"></span></li>=0A=0A=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<li class=3D"style1" style=3D"=
+text-align: left;">=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09<a class=3D"style2" style=3D"color: rgb(0, 0, 255); text-decoration: non=
+e;" href=3D"http://client.campaignsender.ro/tl.php?p=3D3op/3em/rs/2bqqj/1g6=
+/rs//http%3A%2F%2Fwww.layout.vision-webdesign.com%2Fcategory%2Fcategorii%2F=
+asociatii-ong%2F">=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+Asociatii, =0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09ONG-uri=
+</a><span class=3D"style2" style=3D"color: rgb(0, 0, 255);"></span></li>=0A=
+=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<li class=3D"style1" =
+style=3D"text-align: left;">=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09<a class=3D"style2" style=3D"color: rgb(0, 0, 255); text-decora=
+tion: none;" href=3D"http://client.campaignsender.ro/tl.php?p=3D3op/3em/rs/=
+2bqqj/1g6/rs//http%3A%2F%2Fwww.layout.vision-webdesign.com%2Fcategory%2Fcat=
+egorii%2Favocatura-juridic%2F">=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09Avocatura, =0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09Juridic</a><span class=3D"style2" style=3D"color: rgb(0, 0, 255);"=
+></span></li>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<li c=
+lass=3D"style1" style=3D"text-align: left;">=0A=0A=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09<a class=3D"style2" style=3D"color: rgb(0, 0, 25=
+5); text-decoration: none;" href=3D"http://client.campaignsender.ro/tl.php?=
+p=3D3op/3em/rs/2bqqj/1g6/rs//http%3A%2F%2Fwww.layout.vision-webdesign.com%2=
+Fcategory%2Fcategorii%2Fsaloane%2F">=0A=0A=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09Beauty =0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09Salon, =0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09Co=
+smetica</a><span class=3D"style2" style=3D"color: rgb(0, 0, 255);"></span><=
+/li>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<li class=3D"s=
+tyle1" style=3D"text-align: left;">=0A=0A=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09<a class=3D"style2" style=3D"color: rgb(0, 0, 255); text-=
+decoration: none;" href=3D"http://client.campaignsender.ro/tl.php?p=3D3op/3=
+em/rs/2bqqj/1g6/rs//http%3A%2F%2Fwww.layout.vision-webdesign.com%2Fcategory=
+%2Fcategorii%2Fcatering%2F">=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09Catering</a><span class=3D"style2" style=3D"color: rgb(0, 0, 25=
+5);"></span></li>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<=
+li class=3D"style1" style=3D"text-align: left;">=0A=0A=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09<a class=3D"style2" style=3D"color: rgb(0, 0,=
+ 255); text-decoration: none;" href=3D"http://client.campaignsender.ro/tl.p=
+hp?p=3D3op/3em/rs/2bqqj/1g6/rs//http%3A%2F%2Fwww.layout.vision-webdesign.co=
+m%2Fcategory%2Fcategorii%2Fcluburi-muzica%2F">=0A=0A=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09Cluburi, =0A=0A=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09Muzica</a><span class=3D"style2" style=3D"color: rgb(0=
+, 0, 255);"></span></li>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09<li class=3D"style1" style=3D"text-align: left;">=0A=0A=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09<a class=3D"style2" style=3D"color: =
+rgb(0, 0, 255); text-decoration: none;" href=3D"http://client.campaignsende=
+r.ro/tl.php?p=3D3op/3em/rs/2bqqj/1g6/rs//http%3A%2F%2Fwww.layout.vision-web=
+design.com%2Fcategory%2Fcategorii%2Fcursuri-educatie%2F">=0A=0A=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09Cursuri, =0A=0A=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09Educatie</a></li>=0A=0A=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09</ul>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09</td>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td valign=
+=3D"top" style=3D"font-family: Arial; font-size:14px;" colspan=3D"2">=0A=0A=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<ul style=3D"color: rgb(0, =
+149, 255); font-family: Arial; font-size: 14px; font-style: normal; font-va=
+riant: normal; font-weight: normal; letter-spacing: normal; line-height: no=
+rmal; orphans: auto; text-align: start; text-indent: 0px; text-transform: n=
+one; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-str=
+oke-width: 0px; background-color: rgb(255, 255, 255);">=0A=0A=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09<li class=3D"style1" style=3D"text-a=
+lign: left;">=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<a cl=
+ass=3D"style2" style=3D"color: rgb(0, 0, 255); text-decoration: none;" href=
+=3D"http://client.campaignsender.ro/tl.php?p=3D3op/3em/rs/2bqqj/1g6/rs//htt=
+p%3A%2F%2Fwww.layout.vision-webdesign.com%2Fcategory%2Fcategorii%2Ffashion%=
+2F">=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09Fashion</a><sp=
+an class=3D"style2" style=3D"color: rgb(0, 0, 255);"></span></li>=0A=0A=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<li class=3D"style1" style=
+=3D"text-align: left;">=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09<a class=3D"style2" style=3D"color: rgb(0, 0, 255); text-decoration: =
+none;" href=3D"http://client.campaignsender.ro/tl.php?p=3D3op/3em/rs/2bqqj/=
+1g6/rs//http%3A%2F%2Fwww.layout.vision-webdesign.com%2Fcategory%2Fcategorii=
+%2Fhaine%2F">=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09Haine=
+</a><span class=3D"style2" style=3D"color: rgb(0, 0, 255);"></span></li>=0A=
+=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<li class=3D"style1" =
+style=3D"text-align: left;">=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09<a class=3D"style2" style=3D"color: rgb(0, 0, 255); text-decora=
+tion: none;" href=3D"http://client.campaignsender.ro/tl.php?p=3D3op/3em/rs/=
+2bqqj/1g6/rs//http%3A%2F%2Fwww.layout.vision-webdesign.com%2Fcategory%2Fcat=
+egorii%2Fhoteluri-si-pensiuni%2F">=0A=0A=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09Hoteluri si =0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09Pensiuni</a><span class=3D"style2" style=3D"color: rgb(0, 0, 25=
+5);"></span></li>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<=
+li class=3D"style1" style=3D"text-align: left;">=0A=0A=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09<a class=3D"style2" style=3D"color: rgb(0, 0,=
+ 255); text-decoration: none;" href=3D"http://client.campaignsender.ro/tl.p=
+hp?p=3D3op/3em/rs/2bqqj/1g6/rs//http%3A%2F%2Fwww.layout.vision-webdesign.co=
+m%2Fcategory%2Fcategorii%2Fpagini-personale%2F">=0A=0A=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09Pagini =0A=0A=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09Personale</a><span class=3D"style2" style=3D"color: rg=
+b(0, 0, 255);"></span></li>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09<li class=3D"style1" style=3D"text-align: left;">=0A=0A=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<a class=3D"style2" style=3D"colo=
+r: rgb(0, 0, 255); text-decoration: none;" href=3D"http://client.campaignse=
+nder.ro/tl.php?p=3D3op/3em/rs/2bqqj/1g6/rs//http%3A%2F%2Fwww.layout.vision-=
+webdesign.com%2Fcategory%2Fcategorii%2Fpolitica%2F">=0A=0A=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09Politica</a><span class=3D"style2" styl=
+e=3D"color: rgb(0, 0, 255);"></span></li>=0A=0A=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09<li class=3D"style1" style=3D"text-align: left;">=
+=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<a class=3D"style2=
+" style=3D"color: rgb(0, 0, 255); text-decoration: none;" href=3D"http://cl=
+ient.campaignsender.ro/tl.php?p=3D3op/3em/rs/2bqqj/1g6/rs//http%3A%2F%2Fwww=
+.layout.vision-webdesign.com%2Fcategory%2Fcategorii%2Fportaluri%2F">=0A=0A=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09Portaluri</a><span class=
+=3D"style2" style=3D"color: rgb(0, 0, 255);"></span></li>=0A=0A=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09<li class=3D"style1" style=3D"text-a=
+lign: left;">=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<a cl=
+ass=3D"style2" style=3D"color: rgb(0, 0, 255); text-decoration: none;" href=
+=3D"http://client.campaignsender.ro/tl.php?p=3D3op/3em/rs/2bqqj/1g6/rs//htt=
+p%3A%2F%2Fwww.layout.vision-webdesign.com%2Fcategory%2Fcategorii%2Freligioa=
+se%2F">=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09Religioase<=
+/a><span class=3D"style2" style=3D"color: rgb(0, 0, 255);"></span></li>=0A=
+=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<li class=3D"style1" =
+style=3D"text-align: left;">=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09<a class=3D"style2" style=3D"color: rgb(0, 0, 255); text-decora=
+tion: none;" href=3D"http://client.campaignsender.ro/tl.php?p=3D3op/3em/rs/=
+2bqqj/1g6/rs//http%3A%2F%2Fwww.layout.vision-webdesign.com%2Fcategory%2Fcat=
+egorii%2Frestaurant-cafenea%2F">=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09Restaurant, =0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09Cafenea</a><span class=3D"style2" style=3D"color: rgb(0, 0, 255);"=
+></span></li>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<li c=
+lass=3D"style1" style=3D"text-align: left;">=0A=0A=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09<span style=3D"color: rgb(0, 0, 255);">=0A=0A=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<a class=3D"style2" style=
+=3D"color: rgb(0, 0, 255); text-decoration: none;" href=3D"http://client.ca=
+mpaignsender.ro/tl.php?p=3D3op/3em/rs/2bqqj/1g6/rs//http%3A%2F%2Fwww.layout=
+.vision-webdesign.com%2Fcategory%2Fcategorii%2Fspitale-si-clinici%2F">=0A=
+=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09Spitale si =0A=0A=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09Clinici</a></span></li>=0A=
+=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</ul>=0A=0A=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09</td>=0A=0A=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09</tr>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>=0A=0A=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td height=3D"10" class=3D"sty=
+le3">=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<strong>=0A=0A=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<a href=3D"http://client.campaign=
+sender.ro/tl.php?p=3D3op/3em/rs/2bqqj/1g6/rs//http%3A%2F%2Fwww.layout.visio=
+n-webdesign.com%2Fcategory%2Fshop%2F">=0A=0A=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09<span class=3D"style4">=0A=0A=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09MAGAZINE ONLINE</span></a></strong></td>=0A=0A=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09<td height=3D"10" colspan=3D"2" class=3D"s=
+tyle3" style=3D"width: 181px">=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09<strong>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<a href=3D=
+"http://client.campaignsender.ro/tl.php?p=3D3op/3em/rs/2bqqj/1g6/rs//http%3=
+A%2F%2Fwww.layout.vision-webdesign.com%2Fcategory%2Fcategorii%2Fnew-paralla=
+x%2F">=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<span class=3D"sty=
+le4">=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09NOU! SITE-URI =0A=
+=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09PARALLAX!</span></a></stron=
+g></td>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td height=3D"10"=
+ class=3D"style3">=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<stron=
+g>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<a href=3D"http://clie=
+nt.campaignsender.ro/tl.php?p=3D3op/3em/rs/2bqqj/1g6/rs//http%3A%2F%2Fwww.l=
+ayout.vision-webdesign.com%2Fcategory%2Fsite-prezentare%2F">=0A=0A=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09<span class=3D"style4">=0A=0A=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09SITE-URI DE =0A=0A=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09PREZENTARE</span></a></strong></td>=0A=0A=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=0A=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09<tr>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td alig=
+n=3D"center" valign=3D"top" colspan=3D"4">=0A=0A=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09&nbsp;</td>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09</tr>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09</tbody>=0A=0A=09=
+=09=09=09=09=09=09=09=09=09=09=09</table>=0A=0A=09=09=09=09=09=09=09=09=09=
+=09=09=09<!-- // CONTENT TABLE -->=0A=0A=0A=0A=09=09=09=09=09=09=09=09=09=
+=09=09</td>=0A=0A=09=09=09=09=09=09=09=09=09=09</tr>=0A=0A=09=09=09=09=09=
+=09=09=09=09</tbody>=0A=0A=09=09=09=09=09=09=09=09</table>=0A=0A=09=09=09=
+=09=09=09=09</td>=0A=0A=09=09=09=09=09=09</tr>=0A=0A=09=09=09=09=09</tbody>=
+=0A=0A=09=09=09=09</table>=0A=0A=09=09=09=09<!-- // MODULE ROW -->=0A=0A=0A=
+=0A=09=09=09</td>=0A=0A=09=09</tr>=0A=0A=09</tbody>=0A=0A</table>=0A=0A<!--=
+ // TABLE MODULE END -->=0A=0A=0A=0A<!-- TABLE MODULE START // -->=0A=0A=0A=
+=0A<table style=3D"background:#fafafa;" cellpadding=3D"0" cellspacing=3D"0"=
+ border=3D"0" width=3D"100%" modules=3D"space">=0A=0A=09<tbody>=0A=0A=09=09=
+<tr>=0A=0A=09=09=09<td align=3D"center" valign=3D"top">=0A=0A=09=09=09=09<!=
+-- MODULE ROW // -->=0A=0A=0A=0A=09=09=09=09<table class=3D"flexibleFull" c=
+ellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"600">=0A=0A=09=09=
+=09=09=09<tbody>=0A=0A=09=09=09=09=09=09<tr>=0A=0A=09=09=09=09=09=09=09<td =
+align=3D"center" valign=3D"top">=0A=0A=09=09=09=09=09=09=09=09<table class=
+=3D"flexibleFullContainer" cellpadding=3D"0" cellspacing=3D"0" border=3D"0"=
+ width=3D"600">=0A=0A=09=09=09=09=09=09=09=09=09<tbody>=0A=0A=09=09=09=09=
+=09=09=09=09=09=09<tr>=0A=0A=09=09=09=09=09=09=09=09=09=09=09<td align=3D"l=
+eft" height=3D"25" valign=3D"top">=0A=0A=09=09=09=09=09=09=09=09=09=09=09</=
+td>=0A=0A=09=09=09=09=09=09=09=09=09=09</tr>=0A=0A=09=09=09=09=09=09=09=09=
+=09</tbody>=0A=0A=09=09=09=09=09=09=09=09</table>=0A=0A=09=09=09=09=09=09=
+=09</td>=0A=0A=09=09=09=09=09=09</tr>=0A=0A=09=09=09=09=09</tbody>=0A=0A=09=
+=09=09=09</table>=0A=0A=09=09=09=09<!-- // MODULE ROW -->=0A=0A=0A=0A=09=09=
+=09</td>=0A=0A=09=09</tr>=0A=0A=09</tbody>=0A=0A</table>=0A=0A<!-- // TABLE=
+ MODULE END -->=0A=0A=0A=0A<!-- TABLE MODULE START // -->=0A=0A=0A=0A<table=
+ style=3D"background: rgb(20, 117, 0);" cellpadding=3D"0" cellspacing=3D"0"=
+ border=3D"0" width=3D"100%" modules=3D"footer">=0A=0A=09<tbody>=0A=0A=09=
+=09<tr>=0A=0A=09=09=09<td align=3D"center" valign=3D"top">=0A=0A=09=09=09=
+=09<!-- MODULE ROW // -->=0A=0A=0A=0A=09=09=09=09<table class=3D"flexibleFu=
+ll" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"600">=0A=0A=
+=09=09=09=09=09<tbody>=0A=0A=09=09=09=09=09=09<tr>=0A=0A=09=09=09=09=09=09=
+=09<td align=3D"center" valign=3D"top">=0A=0A=09=09=09=09=09=09=09=09<table=
+ class=3D"flexibleFullContainer" cellpadding=3D"0" cellspacing=3D"0" border=
+=3D"0" width=3D"600">=0A=0A=09=09=09=09=09=09=09=09=09<tbody>=0A=0A=09=09=
+=09=09=09=09=09=09=09=09<tr>=0A=0A=09=09=09=09=09=09=09=09=09=09=09<td alig=
+n=3D"center" valign=3D"top" style=3D"padding:10px;">=0A=0A=09=09=09=09=09=
+=09=09=09=09=09=09=09<!-- CONTENT TABLE // -->=0A=0A=0A=0A=09=09=09=09=09=
+=09=09=09=09=09=09=09<table cellpadding=3D"0" cellspacing=3D"0" align=3D"ce=
+nter" border=3D"0" width=3D"100%">=0A=0A=09=09=09=09=09=09=09=09=09=09=09=
+=09=09<tbody>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>=0A=0A=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td class=3D"textlight" style=3D"=
+font-size: 13px; font-family: Arial; color: rgb(255, 255, 255); position: r=
+elative;" align=3D"center">=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09<strong>Vision Web Design - O marca Vision Design SRL</strong><br>Inf=
+ormatii si comenzi: 031.805.55.97 / 0760.652.676; email: <span style=3D"col=
+or: rgb(255, 255, 255);"><a style=3D"color: rgb(255, 255, 255); text-decora=
+tion: none;" href=3D"mailto:comenzi@vision-webdesign.com"><span style=3D"co=
+lor: rgb(255, 255, 255);">comenzi@vision-webdesign.com</span></a></span>=0A=
+=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</td>=0A=0A=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09</tr>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=
+=09</tbody>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09</table>=0A=0A=09=09=
+=09=09=09=09=09=09=09=09=09=09<!-- // CONTENT TABLE -->=0A=0A=0A=0A=09=09=
+=09=09=09=09=09=09=09=09=09</td>=0A=0A=09=09=09=09=09=09=09=09=09=09</tr>=
+=0A=0A=09=09=09=09=09=09=09=09=09</tbody>=0A=0A=09=09=09=09=09=09=09=09</ta=
+ble>=0A=0A=09=09=09=09=09=09=09</td>=0A=0A=09=09=09=09=09=09</tr>=0A=0A=09=
+=09=09=09=09</tbody>=0A=0A=09=09=09=09</table>=0A=0A=09=09=09=09<!-- // MOD=
+ULE ROW -->=0A=0A=0A=0A=09=09=09</td>=0A=0A=09=09</tr>=0A=0A=09</tbody>=0A=
+=0A</table>=0A=0A<!-- // TABLE MODULE END -->=0A=0A=0A=0A<!-- TABLE MODULE =
+START // -->=0A=0A=0A=0A<table style=3D"background: rgb(224, 224, 224);" ce=
+llpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%" modules=3D"li=
+nk-footer">=0A=0A=09<tbody>=0A=0A=09=09<tr>=0A=0A=09=09=09<td align=3D"cent=
+er" valign=3D"top">=0A=0A=09=09=09=09<!-- MODULE ROW // -->=0A=0A=0A=0A=09=
+=09=09=09<table class=3D"flexibleFull" cellpadding=3D"0" cellspacing=3D"0" =
+border=3D"0" width=3D"600">=0A=0A=09=09=09=09=09<tbody>=0A=0A=09=09=09=09=
+=09=09<tr>=0A=0A=09=09=09=09=09=09=09<td align=3D"center" valign=3D"top">=
+=0A=0A=09=09=09=09=09=09=09=09<table class=3D"flexibleFullContainer" cellpa=
+dding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"600">=0A=0A=09=09=09=09=
+=09=09=09=09=09<tbody>=0A=0A=09=09=09=09=09=09=09=09=09=09<tr>=0A=0A=09=09=
+=09=09=09=09=09=09=09=09=09<td align=3D"center" valign=3D"top" width=3D"600=
+">=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09<!-- CONTENT TABLE // -->=0A=0A=
+=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09<table cellpadding=3D"0" cellspac=
+ing=3D"0" align=3D"center" border=3D"0" width=3D"100%">=0A=0A=09=09=09=09=
+=09=09=09=09=09=09=09=09=09<tbody>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09<tr>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td align=
+=3D"center">=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<span>=0A=
+=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<a href=3D"http://client=
+.campaignsender.ro/u.php?p=3D3op/rs/2bqqj/1g6/3em/rs/rt" class=3D"style5">=
+=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<strong>Dezabonare</s=
+trong></a></span>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</td>=
+=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=0A=09=09=09=09=09=
+=09=09=09=09=09=09=09=09</tbody>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09<=
+/table>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09<!-- // CONTENT TABLE -->=
+=0A=0A=0A=0A=09=09=09=09=09=09=09=09=09=09=09</td>=0A=0A=09=09=09=09=09=09=
+=09=09=09=09</tr>=0A=0A=09=09=09=09=09=09=09=09=09</tbody>=0A=0A=09=09=09=
+=09=09=09=09=09</table>=0A=0A=09=09=09=09=09=09=09</td>=0A=0A=09=09=09=09=
+=09=09</tr>=0A=0A=09=09=09=09=09</tbody>=0A=0A=09=09=09=09</table>=0A=0A=09=
+=09=09=09<!-- // MODULE ROW -->=0A=0A=0A=0A=09=09=09</td>=0A=0A=09=09</tr>=
+=0A=0A=09</tbody>=0A=0A</table>=0A=0A<!-- // TABLE MODULE END -->=0A=0A    =
+=0A<img src=3D"http://client.campaignsender.ro/to.php?p=3D3op/3em/rs/2bqqj/=
+1g6/rs" width=3D"5" height=3D"2" alt=3D".">=0A=0A</body>=0A=0A</html>

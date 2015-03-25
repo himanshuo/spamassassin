@@ -1,9 +1,3 @@
-  by bruce-guenter.dyndns.org ([192.168.1.2]); 19 Mar 2015 07:24:23 -0000
-  by localhost ([127.0.0.1])
-  with SMTP via TCP; 19 Mar 2015 07:24:23 -0000
-  by zak.futurequest.net ([69.5.6.152])
-  with ESMTP via TCP; 19 Mar 2015 07:24:21 -0000
-  with SMTP id 4C51F510; Thu, 19 Mar 2015 15:24:16 +0800
 From: =?GB2312?B?0+DX3A==?= <mwtvm@3goodtong.com.hk>
 Subject: =?GB2312?B?xvPStcjnus7TprbUt6jCybeoueY=?=
 To: "cvs" <cvs@bruce-guenter.dyndns.org>
@@ -236,3 +230,4 @@ B单元内容（共2天，15个以上经典案例）
 11.部分劳务公司很可能面临关闭停业，原来的派遣工的劳动关系如何处理？
 12.业务外包与劳务派遣的本质区别有哪些？
 13.如何筛选承包方，需考察哪些细节要点？
+14.用工单位如何应对派遣合作争议和劳动争议？

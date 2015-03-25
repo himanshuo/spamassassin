@@ -1,8 +1,3 @@
-  by bruce-guenter.dyndns.org ([192.168.1.2]); 16 Mar 2015 05:56:37 -0000
-  by localhost ([127.0.0.1])
-  with SMTP via TCP; 16 Mar 2015 05:56:37 -0000
-  by zak.futurequest.net ([69.5.6.152])
-  with SMTP via TCP; 16 Mar 2015 05:56:36 -0000
 X-76D483CB7E7BEACD: SE163696305DC4A109C454A21B79EF91B
 To: bruce@bruce-guenter.dyndns.org
 Message-ID: <789255327756212b71a44f17e7ffee64@wonderfuljapanf4.org>
@@ -23,3 +18,4 @@ LS0tLS0NCg0KgaWI6i6Xl4GlDQpodHRwOi8vd3d3LndvbmRlcmZ1bGphcGFuZjQub3JnL3JlY2Vw
 Ym94L2luZGV4LnBocD91az00ZGExNWRiNzIxZjQ5MDc5MDk0OWNmOGE4NTJjNWNmMw0KLS0tLS0t
 LS0tLS0tLS0tLS0tLS0NCg0KgqiSbYLngrlfkuJfjn4NCmh0dHA6Ly93d3cud29uZGVyZnVsamFw
 YW5mNC5vcmcvdG9wL2luZGV4LnBocD91az00ZGExNWRiNzIxZjQ5MDc5MDk0OWNmOGE4NTJjNWNm
+Mw0KgaGBoYGhgaGBoYGhDQoxOCCNziCWoiCWng0Kl5ggl3Agi9Ygjn4NCoGhgaGBoYGhgaGBoQ==

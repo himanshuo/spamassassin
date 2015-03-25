@@ -1,8 +1,3 @@
-  by bruce-guenter.dyndns.org ([192.168.1.2]); 11 Mar 2015 20:06:44 -0000
-  by localhost ([127.0.0.1])
-  with SMTP via TCP; 11 Mar 2015 20:06:44 -0000
-  by zak.futurequest.net ([69.5.6.152])
-  with ESMTP via TCP; 11 Mar 2015 20:06:42 -0000
 	by gkvuqehuxq.edoikntu.net (Postfix) with ESMTP id BC809103F384
 	for <lists-linux-xfs@bruce-guenter.dyndns.org>; Thu, 12 Mar 2015 05:06:31 +0900 (JST)
 	by fdfedcvnto.edoikntu.net (Postfix) with ESMTP id 9A2E01001518
@@ -34,3 +29,6 @@ gsmJ74j1g4mDk4NOgqqCUFVQgZkNCjMuguaC6IKok76CyI/ulfGC8IKokZeC6IKzgrmC
 xJK4gquC3IK3gZkNCoSqhKqEqoSqhKqEqoSqhKqEqg0KDQoNCoFegV+BXoFfgV6BX4Fe
 gV+BXoFfgV6BXw0KgZ+UeiCQTSCMs4GfDQqEpIqUII6uIInvII7QIINBIINoIINvIIOT
 IINYDQoNCoGfg1Qgg0Mgg2eBnw0KhKSDRyCDkyCDVyCDRiCDiyCDiSCDQyCDkw0KDQqB
+n5biII2HIIK5gZ8NCoSkgomCjoKGgo+Bl4KBgo6Ch4KFgoyBfIKMgomCjoKFglSCVC6C
+ioKQDQqBX4FegV+BXoFfgV6BX4FegV+BXoFfgV4=
+

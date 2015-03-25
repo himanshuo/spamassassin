@@ -1,8 +1,3 @@
-  by bruce-guenter.dyndns.org ([192.168.1.2]); 20 Mar 2015 14:37:56 -0000
-  by localhost ([127.0.0.1])
-  with SMTP via TCP; 20 Mar 2015 14:37:56 -0000
-  by zak.futurequest.net ([69.5.6.152])
-  with ESMTP via TCP; 20 Mar 2015 14:37:55 -0000
 	id CFF38148F267; Fri, 20 Mar 2015 23:37:54 +0900 (JST)
 	by localhost (Postfix) with ESMTP id 6A22F148F2AB
 	for <lists-djb-ezmlm@bruce-guenter.dyndns.org>; Fri, 20 Mar 2015 23:37:54 +0900 (JST)
@@ -29,3 +24,4 @@ Content-Transfer-Encoding: 7bit
 http://fme5n.e2v2ambnt3p7.com/Ru1S/z40/z1Gw5/SD9Uf91zaUmw
 
 又、このメールはお客様の大事な個人情報となっておりますので、紛失なさらないように大切に保管下さい。
+

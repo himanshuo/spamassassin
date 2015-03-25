@@ -1,8 +1,3 @@
-  by bruce-guenter.dyndns.org ([192.168.1.2]); 13 Mar 2015 10:17:52 -0000
-  by localhost ([127.0.0.1])
-  with SMTP via TCP; 13 Mar 2015 10:17:52 -0000
-  by zak.futurequest.net ([69.5.6.152])
-  with ESMTP via TCP; 13 Mar 2015 10:17:51 -0000
 	id DD384DC18D; Fri, 13 Mar 2015 19:17:16 +0900 (JST)
 	by localhost (Postfix) with ESMTP id C5B351048CE8
 	for <lists-djb-ezmlm@bruce-guenter.dyndns.org>; Fri, 13 Mar 2015 19:17:08 +0900 (JST)
@@ -99,3 +94,4 @@ http://ymgdwm.swvksxhwehw.com/reg/sb01x.php?gs=t0oc8QJ38hyw8mru70nM8mFm8Qp5zMLm8
 
 
 
+ストップメール

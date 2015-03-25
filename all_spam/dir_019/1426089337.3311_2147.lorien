@@ -1,8 +1,3 @@
-  by bruce-guenter.dyndns.org ([192.168.1.2]); 11 Mar 2015 10:06:51 -0000
-  by localhost ([127.0.0.1])
-  with SMTP via TCP; 11 Mar 2015 10:06:51 -0000
-  by zak.futurequest.net ([69.5.6.152])
-  with SMTP via TCP; 11 Mar 2015 10:06:49 -0000
 	by localhost (Postfix)
 	with ESMTP 20140710 S6361058FC5334875A9044014C334B34A id 43F9C962
 	for <lists-bikini@bruce-guenter.dyndns.org> from <rtn-lists-bikini=bruce-guenter.dyndns.org@w-t-k.net>;
@@ -162,3 +157,6 @@ nfo@w-t-k.net">info@w-t-k.net</a>=82=C9=82=DC=82=C5=81u=94z=90M=92=E2=8E~=
 =2Enet</a><br>[C]WILD TURKEY <br>=82=B1=82=CC=83T=83C=83g=82=C9=8Cf=8D=DA=
 =82=CC=8BL=8E=96=81E=8E=CA=90^=81E=89f=91=9C=82=C8=82=C7=82=CC=96=B3=92f=95=
 =A1=90=BB=81A=93]=8D=DA=82=F0=8B=D6=82=B6=82=DC=82=B7=81B<br>=82=B7=82=D7=
+=82=C4=82=CC=92=98=8D=EC=8C=A0=82=CDWILD TURKEY=82=C9=8BA=91=AE=82=B5=82=DC=
+=82=B7=81B</BODY></HTML>
+--=_e51d1813675c6280c04781e6b77f7834--

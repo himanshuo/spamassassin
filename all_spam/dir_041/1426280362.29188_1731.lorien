@@ -1,8 +1,3 @@
-  by bruce-guenter.dyndns.org ([192.168.1.2]); 12 Mar 2015 09:04:36 -0000
-  by localhost ([127.0.0.1])
-  with SMTP via TCP; 12 Mar 2015 09:04:36 -0000
-  by zak.futurequest.net ([69.5.6.152])
-  with ESMTP via TCP; 12 Mar 2015 09:04:35 -0000
 Return-Path: <mail002400000094371@mail1.proche-s.jp>
 DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/simple; d=bhgr1mf4y.mobi; s=sel; q=dns/txt; l=1; bh=E/vXnD05Dl1lhaIeEf9ewZcM/ww=; h=From; b=eV0DnIpTT8p9LraPRuViXb17JMp7+OrnKut9XTrThIzgM4iQMJDlUt/Zk9tu8uObgU6jsjd0DzgGjHDtULgXtajBLv63AGQI0AvbvGvq1rmh1Yd2fsgC+OcCBnhOv28Rlw1GKGQvgJ60Mg5WvncX6VjPEz3VF3m39NuxcFM+i2o=
 Date: Thu, 12 Mar 2015 18:04:34 +0900
@@ -27,5 +22,6 @@ PT09PT09PT09PQ0KIyMgkd4gie8giLYgkOYgDQppbmZvQHByb2NoZS1zLmpwDQojIyCR3iCJ7yCD
 dCCDSCCBWyCDgCANCmh0dHA6Ly9iaGdyMW1mNHkubW9iaS8lN2Vwby9pbnF1aXJ5L1BDOjQyMjEz
 NDQ1NGZhMThlNTAwNmI0L01DOjE2MWE1NGQyZGU0MTk4YjZiYjNlYjUyMGI2ZjUzMzMwLz9ndWlk
 PU9ODQoNCjQzOTE2Mw==
+
 
 

@@ -1,8 +1,3 @@
-  by bruce-guenter.dyndns.org ([192.168.1.2]); 17 Mar 2015 16:21:20 -0000
-  by localhost ([127.0.0.1])
-  with SMTP via TCP; 17 Mar 2015 16:21:20 -0000
-  by zak.futurequest.net ([69.5.6.152])
-  with ESMTP via TCP; 17 Mar 2015 16:21:19 -0000
 	by lpbdjeofme.ttvng.com (Postfix) with ESMTP id C6E74261EE0
 	for <lists-linux-kernel@bruce-guenter.dyndns.org>; Wed, 18 Mar 2015 01:16:16 +0900 (JST)
 	by zmyxbygfal.ttvng.com (Postfix) with ESMTP id BCCE3240154
@@ -61,3 +56,4 @@ Date: Wed, 18 Mar 2015 01:16:16 +0900 (JST)
 <a href=3D"http://donfin.in/support.php?id=3D29837&amp;pass=3DSgel" >=1B$B!TG[?.Dd;_$O%3%A%i$+$iB`2q$H$*EA$(2<$5$$=1B(BSgel=1B$B!U=1B(B</a><br><br />
 <font color=3D"#c0c0c0" size=3D"1">=1B$B!Z1?1D2q<R!'%(%$%H=1B(B/=1B$B1?1D<1JLHV9f!'=1B(B29837=1B$B![=1B(B</font><br></p><br />
 </body><br />
+</html>

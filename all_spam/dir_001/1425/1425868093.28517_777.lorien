@@ -1,0 +1,37 @@
+Delivered-To: bruce@bruce-guenter.dyndns.org
+Received: (qmail 7113 invoked from network); 8 Mar 2015 14:25:25 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 08 Mar 2015 14:25:25 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 08 Mar 2015 14:25:25 -0000
+Received: (qmail 21590 invoked from network); 8 Mar 2015 14:25:24 -0000
+Received: from qnj55884562.3.4.6 ([180.214.53.37])
+  by zak.futurequest.net ([69.5.6.152])
+  with ESMTP via TCP; 08 Mar 2015 14:25:24 -0000
+Return-Path: <mail002200000160921@mail2.proche-s.jp>
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/simple; d=pn9fvjyt.link; s=sel; q=dns/txt; l=1; bh=VP0XESCfscB4EJI3QTLGbnniJBs=; h=From; b=MW5y2zDyXRuPi/qUOizUi9ZLHZO/xN76g8Yt52JzqG8JanP2GKLJnc3HvYnl3AQFqRZtxHrJcHFVBUO7AyUFLa/NnzNlHlXYFiKGIS9Cjt6D3cxeW89u0cJWEbPEkrZqqTFVjTSkXHOb7s13f/n4CtesWw8mg++I6SIZsr38B4M=
+Date: Sun, 08 Mar 2015 23:25:23 +0900
+MIME-Version: 1.0
+From: mail@pn9fvjyt.link
+To: bruce@bruce-guenter.dyndns.org
+Message-Id: 366175886_296164554fa18e4ebc7b@pn9fvjyt.link
+Content-Type: text/plain; charset="Shift_JIS"
+Content-Transfer-Encoding: base64
+Subject: =?ISO-2022-JP?B?GyRCSH5MIyQ3JCROQU19QnQ7MzpuJGokXiQ5IXklRyU2ITwlSCRPIUQ7ZCRHJGIkJCQkJGgbKEIoGyRCPlAbKEIp?=
+
+gtyCooLcgqINCg0KlPyWoYK1gqKXv5edkfKOUo3sguiC3IK3gZmDZoNVgVuDZ4LNgWOOhILFguCC
+ooKiguYoj84pDQoNCiCJeyCXlyAolrMgl78pIA0KaHR0cDovL3BuOWZ2anl0LmxpbmsvJTdlcG8v
+bWFpbGJveC9QQzoxMTk5OTQzNTRmYTE4ZTRlYWYxNC9NQzowOTBkYmY5ZWRhM2E4ODg0NTk0NTI0
+MThmOWM5MjE5OS8/Z3VpZD1PTg0KDQoNCoGfIFAgciBvIGMgaCBlIHMgkYsgjPsgDQoggaYggqgg
+kFMgk5Yggr0ggugggswggsgggqIglfsggtYgDQogkd4gie8ggUUgg0kgg3Ygg2cgg0Egg0Ugg2cg
+gswggrIgmEEgl40ggs0ggqggkJQggsUggrcggqogibogi0wggqIggrggguoggqkggswgkYsgjPsg
+gtYggXUgkd4gie8givMgll0ggXYggsYggrIgldQgkE0ggvAggqggiugggqIgknYggrUggtwggrcg
+gUIgDQo9PT09PT09PT09PT09DQojIyCR3iCJ7yCItiCQ5iANCmluZm9AcHJvY2hlLXMuanANCiMj
+IJHeIInvIIN0IINIIIFbIIOAIA0KaHR0cDovL3BuOWZ2anl0LmxpbmsvJTdlcG8vaW5xdWlyeS9Q
+QzoxMTk5OTQzNTRmYTE4ZTRlYWYxNC9NQzowOTBkYmY5ZWRhM2E4ODg0NTk0NTI0MThmOWM5MjE5
+OS8/Z3VpZD1PTg0KDQo0MzkxNjI=
+
+
+
+

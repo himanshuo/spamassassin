@@ -1,9 +1,3 @@
-  by bruce-guenter.dyndns.org ([192.168.1.2]); 18 Mar 2015 03:27:54 -0000
-  by localhost ([127.0.0.1])
-  with SMTP via TCP; 18 Mar 2015 03:27:54 -0000
-  by zak.futurequest.net ([69.5.6.152])
-  with SMTP via TCP; 18 Mar 2015 03:27:53 -0000
-          by 127.0.0.1 with SMTP ID 69
           for <lists-reiserfs-list@bruce-guenter.dyndns.org>;
           Wed, 18 Mar 2015 12:18:35 +0900 (JST)
 Date: Wed, 18 Mar 2015 12:18:35 +0900 (JST)
@@ -23,3 +17,6 @@ aHR0cDovL2hvemEtaC1pb2tybWVvbm8tcGktaS1waS1uLW4tZS1zci1zcy5wdy9wYy9tZW1iZXIv
 c2VuZE1haWwucGhwP2RpcmVjdF91c2VyX2NkPTg3OTg0NDQwJmRpcmVjdF9wYXNzd29yZD0yMzk4
 Jk1fTUFJTF9TRVE9NzMyNjc1NDY1CgpodHRwOi8vaG96YS1oLWlva3JtZW9uby1waS1pLXBpLW4t
 bi1lLXNyLXNzLnB3L3BjL21lbWJlci9pbmRleC5waHA/ZGlyZWN0X3VzZXJfY2Q9ODc5ODQ0NDAm
+ZGlyZWN0X3Bhc3N3b3JkPTIzOTgKCuKAuyDljYHjgIDlhavjgIDmiY3jgIDmnKrjgIDmuoAg4oC7
+CgrjgJDjgIDvvKjjgIDvvKHjgIDvvLDjgIDvvLDjgIDvvKnjgIDvvK7jgIDvvKXjgIDvvLPjgIDv
+vLPjgIDjgJEKCuKAuyDjgZTjgIDliKnjgIDnlKjjgIDnpoHjgIDmraIg4oC7

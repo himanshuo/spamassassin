@@ -1,8 +1,3 @@
-  by bruce-guenter.dyndns.org ([192.168.1.2]); 18 Mar 2015 06:58:28 -0000
-  by localhost ([127.0.0.1])
-  with SMTP via TCP; 18 Mar 2015 06:58:28 -0000
-  by zak.futurequest.net ([69.5.6.152])
-  with ESMTP via TCP; 18 Mar 2015 06:58:26 -0000
 	by pool-5-79-150-247.is74.ru (CommuniGate Pro SMTP 5.2.3)
 	with ESMTPA id 223083546 for cvs@bruce-guenter.dyndns.org; Wed, 18 Mar 2015 11:58:26 +0500
 Date:	Wed, 18 Mar 2015 11:58:26 +0500
@@ -25,3 +20,4 @@ Content-Transfer-Encoding: 8bit
 - личный кабинет
 - статистику звонков
 - автосекретарь
+

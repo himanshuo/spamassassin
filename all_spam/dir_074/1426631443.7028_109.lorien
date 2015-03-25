@@ -1,9 +1,3 @@
-  by bruce-guenter.dyndns.org ([192.168.1.2]); 17 Mar 2015 16:20:48 -0000
-  by localhost ([127.0.0.1])
-  with SMTP via TCP; 17 Mar 2015 16:20:48 -0000
-  by zak.futurequest.net ([69.5.6.152])
-  with ESMTP via TCP; 17 Mar 2015 16:20:47 -0000
-       by mail.encontroescondido.com.br (Live SMTP 2.11) with ASMTP id 7a0wNmJ;
        Tue, 17 Mar 2015 12:24:53 -0300
 From: "Hernan Baeza" <meia43@meia43.com.br>
 To: cvs@bruce-guenter.dyndns.org
@@ -143,4 +137,5 @@ Content-Type: text/html
 </table>
 </body>
 </html>
+
 

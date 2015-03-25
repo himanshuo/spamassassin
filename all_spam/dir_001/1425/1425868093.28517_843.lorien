@@ -1,0 +1,67 @@
+Delivered-To: bruce@untroubled.org
+Received: (fqmail 3909 invoked from network); 06 Mar 2015 21:55:43 -0000
+Received: (qmail 25740 invoked from network); 6 Mar 2015 21:55:42 -0000
+Received: from rip.mx06.futurequest.net (rip.mx06.futurequest.net [10.2.1.177])
+  by mx06.futurequest.net ([69.5.6.177]); 06 Mar 2015 21:55:42 -0000
+Received: from vger.kernel.org (vger.kernel.org [209.132.180.67])
+  by rip.mx06.futurequest.net ([10.2.1.177])
+  with ESMTP via TCP; 06 Mar 2015 21:55:42 -0000
+Received: (majordomo@vger.kernel.org) by vger.kernel.org via listexpand
+	id S1754961AbbCFVzd (ORCPT <rfc822;bruce@untroubled.org>);
+	Fri, 6 Mar 2015 16:55:33 -0500
+Received: from mh01c.univ-avignon.fr ([195.83.163.162]:47114 "EHLO
+	mh01c.univ-avignon.fr" rhost-flags-OK-OK-OK-OK) by vger.kernel.org
+	with ESMTP id S1753170AbbCFVzc (ORCPT
+	<rfc822;linux-kernel@vger.kernel.org>);
+	Fri, 6 Mar 2015 16:55:32 -0500
+X-Greylist: delayed 428 seconds by postgrey-1.27 at vger.kernel.org; Fri, 06 Mar 2015 16:55:32 EST
+Received: from localhost (localhost [127.0.0.1])
+	by mh01c.univ-avignon.fr (Postfix) with ESMTP id 9F1B31B84C8;
+	Fri,  6 Mar 2015 22:48:21 +0100 (CET)
+X-Virus-Scanned: mh01c.univ-avignon.fr
+Received: from mh01c.univ-avignon.fr ([127.0.0.1])
+	by localhost (mh01c.univ-avignon.fr [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id T376m6aJIW29; Fri,  6 Mar 2015 22:48:21 +0100 (CET)
+Received: from User (unknown [41.203.67.165])
+	by mh01c.univ-avignon.fr (Postfix) with ESMTPSA id D11201B8418;
+	Fri,  6 Mar 2015 22:48:04 +0100 (CET)
+Reply-To: <mr.nobuyukihirano@foxmail.com>
+From:	"Mr Nobuyuki Hirano" <delphine.le_guillou@upmc.fr>
+Subject: Please Accept My Proposal With Open Mind
+Date:	Fri, 6 Mar 2015 22:48:22 +0100
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+X-Antivirus: avast! (VPS 150306-1, 03/06/2015), Outbound message
+X-Antivirus-Status: Clean
+Message-Id: <20150306214804.D11201B8418@mh01c.univ-avignon.fr>
+To:	undisclosed-recipients:;
+Sender:	linux-kernel-owner@vger.kernel.org
+Precedence: bulk
+List-ID: <linux-kernel.vger.kernel.org>
+X-Mailing-List:	linux-kernel@vger.kernel.org
+
+Dear friend,
+
+I hope this proposal meets you in a good state of health.
+
+Please can you help me re-profile fund? I am Mr Nobuyuki Hirano, President and CEO of The Bank of Tokyo-Mitsubishi UFJ. You can read about my Biography here: http://www.4-traders.com/business-leaders/Nobuyuki-Hirano-0676SZ-E/biography/
+ 
+A sum of $23,200,000.00 USD (Twenty three million, two Hundred Thousand dollars)  was deposited by my Late customer (Fadel Ahmed) who died without declaring any next of kin before his death in 2009.
+
+My suggestion to you is to stand as the next of kin to Fadel Ahmed. We shall share in the ratio of 50% for me, 50% for you. Contact me via this e- mail: mr.nobuyukihirano@foxmail.com
+
+Please let me know your interest on this subject matter
+
+Sincerely,
+Mr.Nobuyuki Hirano
+--
+To unsubscribe from this list: send the line "unsubscribe linux-kernel" in
+the body of a message to majordomo@vger.kernel.org
+More majordomo info at  http://vger.kernel.org/majordomo-info.html
+Please read the FAQ at  http://www.tux.org/lkml/

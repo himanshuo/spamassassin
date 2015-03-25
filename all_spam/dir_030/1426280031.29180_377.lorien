@@ -1,8 +1,3 @@
-  by bruce-guenter.dyndns.org ([192.168.1.2]); 13 Mar 2015 07:27:10 -0000
-  by localhost ([127.0.0.1])
-  with SMTP via TCP; 13 Mar 2015 07:27:10 -0000
-  by zak.futurequest.net ([69.5.6.152])
-  with SMTP via TCP; 13 Mar 2015 07:27:09 -0000
 	by localhost (Postfix)
 	with ESMTP 20141217 S75D778C8404A48629D4003219B1F02DF id 5149403A
 	for <bruce@bruce-guenter.dyndns.org> from <waewtt.mail.1358240@smashvent.me>;
@@ -31,3 +26,4 @@ ZGRmYzFlYmViZTEzNGE4NmVmYjQxNjJhYWQzDQotLS0tLS0tLS0tLS0tLS0tLS0tLQ0KgaGCsYLM
 gsSCqJbijYeC7YK5ibqCs4KioQ0KaHR0cDovL3d3dy5zbWFzaHZlbnQubWUvcHQvaW5kZXgucGhw
 P3VrPWZhZjY2ZGRmYzFlYmViZTEzNGE4NmVmYjQxNjJhYWQzDQoNCkmUqoNUg0OIyIm6gsyOZ5dw
 gs2CsomTl7aJuoKzgqI=
+

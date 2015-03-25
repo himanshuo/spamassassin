@@ -1,8 +1,3 @@
-  by bruce-guenter.dyndns.org ([192.168.1.2]); 16 Mar 2015 06:24:38 -0000
-  by localhost ([127.0.0.1])
-  with SMTP via TCP; 16 Mar 2015 06:24:38 -0000
-  by zak.futurequest.net ([69.5.6.152])
-  with ESMTP via TCP; 16 Mar 2015 06:24:37 -0000
 	by vrzttxtqic.qpalzmxn.com (Postfix) with ESMTP id E5DAF48470
 	for <bruce@bruce-guenter.dyndns.org>; Mon, 16 Mar 2015 15:22:36 +0900 (JST)
 	by oimkqgueuw.qpalzmxn.com (Postfix) with SMTP id C59564861E
@@ -22,3 +17,4 @@ ZYKpgueRl5BNDQo4ODQ0NDA5DQoNCg0KgV6BX4FegV+BXoFfgV6BX4FegV+BXoFfDQqB
 n5R6IJBNIIyzgZ8NCoSkipQgjq4gie8gjtAgg0Egg2ggg28gg5Mgg1gNCg0KgZ+W4iCN
 hyCCuYGfDQqEpIKJgo6ChoKPgZeCgYKOgoeChYKMgXyCjIKJgo6ChYJUglQugoqCkA0K
 gV+BXoFfgV6BX4FegV+BXoFfgV6BX4Fe
+

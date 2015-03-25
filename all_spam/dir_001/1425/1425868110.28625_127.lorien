@@ -1,0 +1,109 @@
+Delivered-To: cvs@bruce-guenter.dyndns.org
+Received: (qmail 10224 invoked from network); 8 Mar 2015 16:10:55 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 08 Mar 2015 16:10:55 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 08 Mar 2015 16:10:55 -0000
+Received: (qmail 23467 invoked from network); 8 Mar 2015 16:10:54 -0000
+Received: from mixl5.mixl.mixlegais.com.br ([88.150.142.116])
+  by zak.futurequest.net ([69.5.6.152])
+  with ESMTP via TCP; 08 Mar 2015 16:10:54 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=app; d=mixl.mixlegais.com.br;
+ h=From:Subject:To:Date:Message-ID:MIME-Version:Content-Type; i=lucas@mixl.mixlegais.com.br;
+ bh=bI8uVUdck+AMnfqwrv1l0jt3VLQ=;
+ b=IS22AXO32/HEKpaxglkdHW24O8eofAm5LnJ354PySqqB8C7lS1c9x+GrrWjsQ7F+M3tDaUJLhBvN
+   eFFwdrFrRo+Hyw/knF5eUqWY5aVNyfix0yDHZwdXB0WaZDHFi1Ktk1X/pIHX2Zz6aJXhJlKOAcUf
+   GdYW34GHKo62IsywwaI=
+From: =?UTF-8?Q?UOL=20WiFi=20-=20Parceiro?==?UTF-8?Q?=20Getma?=
+ =?UTF-8?Q?il?= <lucas@mixl.mixlegais.com.br>
+Subject: =?UTF-8?Q?Tenha=20internet=20sem?==?UTF-8?Q?=20fio=20i?=
+ =?UTF-8?Q?limitada=20e=20com=20pre=C3=A7?==?UTF-8?Q?o=20fixo?=
+ =?UTF-8?Q?!?=
+To: cvs@bruce-guenter.dyndns.org
+Date: Sun, 08 Mar 2015 13:10:30 -0300
+Message-ID: <659d7f014cd3caf136a7f04762dc70de@mixl.mixlegais.com.br>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="content"
+
+
+--content
+Content-Type: text/plain; charset = "UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Caso n=C3=A3o esteja visualizando, acesse aqui=0A[http://sis.mixl.mixlegais=
+.com.br/v.php?129904.90.691.3]. =0A=0A =09=09 [http://sis.mixl.mixlegais.co=
+m.br/l.php?129904.90.691.3.0]=0A=0A =09=09 [http://sis.mixl.mixlegais.com.b=
+r/l.php?129904.90.691.3.1]=0A=0A =09=09 [http://sis.mixl.mixlegais.com.br/l=
+.php?129904.90.691.3.2]=0A=0A =09=09 [http://sis.mixl.mixlegais.com.br/l.ph=
+p?129904.90.691.3.3]=0A=0A =09=09 [http://sis.mixl.mixlegais.com.br/l.php?1=
+29904.90.691.3.4]=0A=0ACaso voc=C3=AA n=C3=A3o queira mais receber, acesse =
+aqui para sair da lista=0A[http://sis.mixl.mixlegais.com.br/s.php?129904.90=
+.691.3].
+--content
+Content-Type: text/html; charset = "UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>=
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">
+<title>UOL Wi-Fi</title>
+</head><body><center><p>Caso n&atilde;o esteja visualizando, <a href=3D"htt=
+p://sis.mixl.mixlegais.com.br/v.php?129904.90.691.3" target=3D"_blank">aces=
+se aqui</a>.</p></center>
+<div style=3D"text-align: center;">
+<table align=3D"center" width=3D"600" border=3D"0" cellspacing=3D"0" cellpa=
+dding=3D"0">
+<tbody>
+<tr>
+<td><a href=3D"http://sis.mixl.mixlegais.com.br/l.php?129904.90.691.3.0" ta=
+rget=3D"_blank"> <img src=3D"http://imguol.com/base/2015/wifi/001_ajustesde=
+pecas/email2/emkt-wifi-assinantes_01.jpg" width=3D"600" height=3D"80" borde=
+r=3D"0" style=3D"display: block;" /> </a></td>
+</tr>
+<tr>
+<td><a href=3D"http://sis.mixl.mixlegais.com.br/l.php?129904.90.691.3.1" ta=
+rget=3D"_blank"> <img src=3D"http://imguol.com/base/2015/wifi/001_ajustesde=
+pecas/email2/emkt-wifi-assinantes_02.jpg" width=3D"600" height=3D"276" bord=
+er=3D"0" style=3D"display: block;" /> </a></td>
+</tr>
+<tr>
+<td><a href=3D"http://sis.mixl.mixlegais.com.br/l.php?129904.90.691.3.2" ta=
+rget=3D"_blank"> <img src=3D"http://imguol.com/base/2015/wifi/001_ajustesde=
+pecas/email2/emkt-wifi-assinantes_03.jpg" width=3D"600" height=3D"92" borde=
+r=3D"0" style=3D"display: block;" /> </a></td>
+</tr>
+<tr>
+<td><a href=3D"http://sis.mixl.mixlegais.com.br/l.php?129904.90.691.3.3" ta=
+rget=3D"_blank"> <img src=3D"http://imguol.com/base/2015/wifi/001_ajustesde=
+pecas/email2/emkt-wifi-assinantes_04.jpg" width=3D"600" height=3D"239" bord=
+er=3D"0" style=3D"display: block;" /> </a></td>
+</tr>
+<tr>
+<td><a href=3D"http://sis.mixl.mixlegais.com.br/l.php?129904.90.691.3.4" ta=
+rget=3D"_blank"> <img src=3D"http://imguol.com/base/2015/wifi/001_ajustesde=
+pecas/email2/emkt-wifi-assinantes_05.jpg" width=3D"600" height=3D"252" bord=
+er=3D"0" style=3D"display: block;" /> </a></td>
+</tr>
+<tr>
+<td width=3D"600" height=3D"3"></td>
+</tr>
+<tr>
+<td height=3D"51" align=3D"center" valign=3D"top"><img src=3D"http://cb.i.u=
+ol.com.br/e/uol/logo-UOL.gif" width=3D"96" border=3D"0" alt=3D"UOL" /></td>
+</tr>
+<tr>
+<td height=3D"20"></td>
+</tr>
+<tr>
+<td align=3D"center"><span face=3D"Arial" color=3D"#333333" size=3D"1" styl=
+e=3D"color: #333333; font-family: Arial; font-size: xx-small;">&nbsp;</span=
+></td>
+</tr>
+</tbody>
+</table>
+</div>
+<img src=3D"http://sis.mixl.mixlegais.com.br/a.php?129904.90.691.3"><center=
+><p>Caso voc&ecirc; n&atilde;o queira mais receber, <a href=3D"http://sis.m=
+ixl.mixlegais.com.br/s.php?129904.90.691.3" target=3D"_blank">acesse aqui p=
+ara sair da lista</a>.</p></center></body></html>
+--content--

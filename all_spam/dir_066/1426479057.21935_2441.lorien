@@ -1,8 +1,3 @@
-  by bruce-guenter.dyndns.org ([192.168.1.2]); 15 Mar 2015 03:07:21 -0000
-  by localhost ([127.0.0.1])
-  with SMTP via TCP; 15 Mar 2015 03:07:21 -0000
-  by zak.futurequest.net ([69.5.6.152])
-  with ESMTP via TCP; 15 Mar 2015 03:07:20 -0000
 	id A7FA8D8FE8; Sun, 15 Mar 2015 12:07:14 +0900 (JST)
 	by localhost (Postfix) with ESMTP id EF79310499B9
 	for <lists-linux-kernel@bruce-guenter.dyndns.org>; Sun, 15 Mar 2015 12:00:41 +0900 (JST)
@@ -77,3 +72,4 @@ Date: Sun, 15 Mar 2015 12:00:41 +0900 (JST)
 
 
 äÆëS
+ÅyÅ@í‚Å@é~Å@Åz

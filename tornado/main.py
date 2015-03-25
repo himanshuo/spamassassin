@@ -172,7 +172,7 @@ class MainHandler(tornado.web.RequestHandler):
 
     def _handle_result(self, res):
         str_result = bytes.decode(res)
-        print(str_result)
+
         result_val = eval(str_result.strip())
 
         if result_val<1:
@@ -180,34 +180,65 @@ class MainHandler(tornado.web.RequestHandler):
         else:
             return "SPAM"
 
+
+    def _file_to_data(self, file_contents):
+
+        data = {}
+        lineno = 0
+
+        lines = file_contents.splitlines()
+
+        for l in lines:
+            lineno+=1
+            if l=="\n" or l=="":
+                break
+            parts = l.split(":")
+            if len(parts)>1:
+                key = parts[0].rstrip('\n')
+                key = key.lower()
+                value = parts[1].rstrip('\n')
+                data[key] = value
+
+        message= '\n'.join(lines[lineno:])
+        message = message.rstrip('\n')
+        data['message'] = message
+        return data
+
     @gen.coroutine
     def post(self):
+        try:
+
+            data = None
+
+            if self.get_argument('is_file', False):
+                file_contents = self.request.files['file'][0]['body']
+                file_contents = file_contents.decode('utf-8','ignore')
+                import pdb;pdb.set_trace()
+                data= self._file_to_data(file_contents)
 
 
-
-        data = json.loads(self.request.body.decode('utf-8'))
-        print(data)
-        if 'message' in data:
-
-            #this is just for testing purposes. delete once done testing.
-            # if email_bytes.decode('utf-8') == "data=1":
-            #     #print("long called")
-            #     f=open('too_long.txt')
-            #     result, error = yield gen.Task(self.call_spamassassin,str.encode(f.read()))
-            # else:
-            #     result, error = yield gen.Task(self.call_spamassassin,email_bytes)
-            # print(result)
-
-            if 'full_report' in data and data.get('full_report'):
-                result,error = yield gen.Task(self.call_spamassassin,data,full_report=True )
             else:
-                result,error = yield gen.Task(self.call_spamassassin,data,full_report=False )
+                data = json.loads(self.request.body.decode('utf-8', 'ignore'))
 
-            self.write(self._handle_result(result))
-            self.finish()
-        else:
-            self.write("No Message Given\n")
-            self.finish()
+
+
+            if 'message' in data or self.get_argument('is_file',False):
+
+                if self.get_argument('full_report',False):
+                    result,error = yield gen.Task(self.call_spamassassin,data,full_report=True )
+                    self.write(result)
+                else:
+                    result,error = yield gen.Task(self.call_spamassassin,data,full_report=False )
+                    self.write(self._handle_result(result))
+
+
+                self.finish()
+            else:
+                self.write("No Message Given\n")
+                self.finish()
+        except:
+            self.set_status(400)
+            self.finish("Malformed Request")
 
 
 
@@ -215,23 +246,23 @@ class TeacherHandler(MainHandler):
 
     def prepare(self):
 
-
-
-        command = "sa-learn"
-
+        command = "sudo ./call_sa-learn.sh"
 
         self.STREAM = tornado.process.Subprocess.STREAM
+        print(1)
         self.teaching_spam_proc = tornado.process.Subprocess(
             shlex.split(command+" --spam"), stdin=self.STREAM, stdout=self.STREAM, stderr=self.STREAM
         )
+        print(2)
         self.teaching_ham_proc = tornado.process.Subprocess(
             shlex.split(command+" --ham"), stdin=self.STREAM, stdout=self.STREAM, stderr=self.STREAM
         )
-
+        print(3)
         self.PREDEFINED_HEADERS = {
             'Content-Type': 'text/plain; charset=UTF-8',
             'MIME-Version': 1.0
         }
+        print(4)
 
 
     @coroutine
@@ -244,37 +275,47 @@ class TeacherHandler(MainHandler):
         :param data:
         :return:
         """
+        print(7.1)
         cur_proc = None
         if data.get('spam'):
+            print("7.2 spam")
             cur_proc = self.teaching_spam_proc
         else:
+            print("7.2 ham")
             cur_proc = self.teaching_ham_proc
-
+        print(7.3)
         message_with_header = self._get_custom_headers(data) +"\n" + data['message']
+        print(7.4)
         stdin_data = str.encode(message_with_header)
-
+        print(7.5)
         yield Task(cur_proc.stdin.write, stdin_data)
-
+        print(7.6)
         cur_proc.stdin.close()
+        print(7.7)
         result, error = yield [
             Task(cur_proc.stdout.read_until_close),
             Task(cur_proc.stderr.read_until_close)
         ]
-
+        print(7.8)
         return result, error
 
 
     @gen.coroutine
     def post(self):
+        print(5)
         data = json.loads(self.request.body.decode('utf-8'))
+        print(6)
         print(data)
+        print(7)
         if 'message' in data:
             result,error = yield gen.Task(self.teach_spamassassin,data )
 
             print("-----------------------------------")
             print(error)
             print("-----------------------------------")
+            print(8)
             if not error:
+                print(9)
                 self.write("Learned")
                 self.finish()
             else:

@@ -1,0 +1,44 @@
+Delivered-To: bruce@bruce-guenter.dyndns.org
+Received: (qmail 4636 invoked from network); 4 Mar 2015 01:46:43 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 04 Mar 2015 01:46:43 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 04 Mar 2015 01:46:43 -0000
+Received: (qmail 5455 invoked from network); 4 Mar 2015 01:46:42 -0000
+Received: from stc-k002.3w3ymq9n ([103.235.13.100])
+  by zak.futurequest.net ([69.5.6.152])
+  with ESMTP via TCP; 04 Mar 2015 01:46:42 -0000
+Received: by stc-k002.3w3ymq9n (Postfix, from userid 1002)
+	id 6D78948428E; Wed,  4 Mar 2015 10:46:41 +0900 (JST)
+Received: from yttuald.btosdsvmo (unknown [10.208.24.202])
+	by localhost (Postfix) with ESMTP id CA9C1B8082
+	for <bruce@bruce-guenter.dyndns.org>; Wed,  4 Mar 2015 10:46:39 +0900 (JST)
+Received: by dwk001.localhost (Postfix, from userid 1002)
+	id 00B86B8092; Wed,  4 Mar 2015 10:46:39 +0900 (JST)
+Received: from localhost (unknown [10.131.225.165])
+	by localhost (Postfix) with ESMTP id CA9C1B8082
+	for <bruce@bruce-guenter.dyndns.org>; Wed,  4 Mar 2015 10:46:39 +0900 (JST)
+Received: from localhost (unknown [58.80.109.22])
+	by dwk001.localhost (Postfix) with ESMTP id CA9C1B8082
+	for <bruce@bruce-guenter.dyndns.org>; Wed,  4 Mar 2015 10:46:39 +0900 (JST)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/simple; d=animalbath.org; s=sel; q=dns/txt; l=1; bh=VP0XESCfscB4EJI3QTLGbnniJBs=; h=From; b=nKpBI0hCMIrQTWd5f+2SMzv20czGedVhfo1205RVemd8IBLoitUsv51LW864cV6C2K/jPbGMMsHTCtqflx0xQ4g1cCPOHLX5Ez0TKMfbySfS+ispQ3SjdZ9MsyA/TEq16qRDCPYC9+w6QEA9CiJuWwwUrf3ykSY+orc67Ai/WSc=
+Date: Wed, 04 Mar 2015 10:46:39 +0900
+MIME-Version: 1.0
+From: =?ISO-2022-JP?B?U3VnYXIbJEIiQRsoQlNwaWNl?= <mail@officialdry.org>
+To: bruce@bruce-guenter.dyndns.org
+Message-Id: <2015030464102077.VMBCIHECQ2@wja43889rd5c6u9b>
+Content-Type: text/plain; charset="Shift_JIS"
+Content-Transfer-Encoding: base64
+Subject: =?ISO-2022-JP?B?GyRCQTBFRCFWRjFBazJxJE4kNDBGRmIhVxsoQg==?=
+
+gZmDgYFbg4uBmYqukVOWs5e/gZkNCoGZNTAwcHSDdoOMg1uDk4NnkoaBmQ0KDQqRT5Njl2yC
+qYLng4GBW4OLgqqTzYKigsSC3IK3gUINCg0KgauCqJXUjpaCzYNSg2CDiYKpgueBqw0KaHR0
+cDovL2Y0YzJwM244YmEub2ZmaWNpYWxkcnkub3JnL3ZjdW9sZnF4L3dtbGJvcGhocTozMjE4
+MzMwNTRmNDRhYzliNjdmNy9jenNzdjo5NWJlNjcwN2M1NWM0OTg4OGFjOGEwNTlhOWNkMzAz
+ZQ0KDQotLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQ0KDQqBq4KoluKCoo2Hgu2CuYLNg1KDYIOJ
+gasNCmh0dHA6Ly9mNGMycDNuOGJhLm9mZmljaWFsZHJ5Lm9yZy9xanNiaHNvcmUvd21sYm9w
+aGhxOjMyMTgzMzA1NGY0NGFjOWI2N2Y3L2N6c3N2Ojk1YmU2NzA3YzU1YzQ5ODg4YWM4YTA1
+OWE5Y2QzMDNlDQoNCj09PT09PT09PT09DQqBoZStjXMviV6JYw0KU3VnYXKBv1NwaWNlg0qD
+WINeg32BW4Nag5ODXoFbDQo9PT09PT09PT09PQ0KgaYxOI3OlqKWnoLMlfuCzYKyl5iXcILw
+i9aOfpJ2grWCxIKoguiC3IK3DQo=

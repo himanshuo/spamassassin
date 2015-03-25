@@ -1,0 +1,18 @@
+Return-Path: <mail007200014328171@time-z.jp>
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/simple; d=65txvs9w.xyz; s=sel; q=dns/txt; l=1; bh=BC3EUS+j05HFFwzzqmHmpjj4Q0I=; h=From; b=ghBd/Z4qDiHu3frM3ve3U1xmznNwVJr+/hb3q5umfS8H3JoI07SZUZ4i/i5bEUcWf3tF89DQkBRDHu9awhiW/JpFhzpJdpl+fgBgd8lu6zi5gjrqS59+BbzPjWEKGrw67ldn/IwkjHAAnonoTB8zBko1o7RYEgbootXZHPxlvN8=
+Date: Tue, 10 Mar 2015 22:32:03 +0900
+MIME-Version: 1.0
+From: mail@65txvs9w.xyz
+To: lists-linux-xfs@bruce-guenter.dyndns.org
+Message-Id: 616019164_943815054fdfbc7eaa47@65txvs9w.xyz
+Content-Type: text/plain; charset="Shift_JIS"
+Content-Transfer-Encoding: base64
+Subject: =?ISO-2022-JP?B?ZG9jb21vGyRCISYbKEJhdRskQiEmGyhCc29mdGJhbmsbJEIkNE14TVEkTkp9JFgbKEI=?=
+
+imWTZJhiie+O0JaIjvOQTZDdkuiCzIKoiuiCog0KaHR0cDovLzY1dHh2czl3Lnh5ei8lN2V0aS9t
+eXBhZ2UvUEM6NzI3MTc3NDU0ZmRmYmM3ZWExODYvSUM6TTdFcWRJMlNGREhwVHpqUXI2WW4vP2d1
+aWQ9T04NCipQQ4OBgVuDi4LJguCRzomeDQoNCg0KDQoNCg0KDQoNCg0KDQoNCiggk68gKSBOIEUg
+WCBU
+
+
+

@@ -1,8 +1,3 @@
-  by bruce-guenter.dyndns.org ([192.168.1.2]); 13 Mar 2015 11:26:17 -0000
-  by localhost ([127.0.0.1])
-  with SMTP via TCP; 13 Mar 2015 11:26:17 -0000
-  by zak.futurequest.net ([69.5.6.152])
-  with SMTP via TCP; 13 Mar 2015 11:26:16 -0000
 	by localhost (Postfix)
 	with ESMTP 20141217 S3B672C98D28F4B0EBF09FF0EC4E5D594 id 4741FB8C
 	for <bruce@bruce-guenter.dyndns.org> from <return-mail-49857@cradlejapan.co>;
@@ -29,3 +24,4 @@ MDc5MDk0OWNmOGE4NTJjNWNmMw0KLS0tLS0tLS0tLS0tLS0tLS0tLS0NCg0KgqiSbYLngrlfkuJf
 jn4NCmh0dHA6Ly93d3cuY3JhZGxlamFwYW4uY28vdG9wL2luZGV4LnBocD91az00ZGExNWRiNzIx
 ZjQ5MDc5MDk0OWNmOGE4NTJjNWNmMw0KgaGBoYGhgaGBoYGhDQoxOCCNziCWoiCWng0Kl5ggl3Ag
 i9Ygjn4NCoGhgaGBoYGhgaGBoQ==
+

@@ -1,8 +1,3 @@
-  by bruce-guenter.dyndns.org ([192.168.1.2]); 12 Mar 2015 15:28:53 -0000
-  by localhost ([127.0.0.1])
-  with SMTP via TCP; 12 Mar 2015 15:28:53 -0000
-  by zak.futurequest.net ([69.5.6.152])
-  with ESMTP via TCP; 12 Mar 2015 15:28:52 -0000
 	id 080EDDA5E3; Fri, 13 Mar 2015 00:28:27 +0900 (JST)
 	by localhost (Postfix) with ESMTP id E13F71048C36
 	for <lists-djb-ezmlm@bruce-guenter.dyndns.org>; Fri, 13 Mar 2015 00:28:08 +0900 (JST)
@@ -76,3 +71,6 @@ Date: Fri, 13 Mar 2015 00:28:08 +0900 (JST)
 
 DM
 ス
+ト
+ッ
+プ

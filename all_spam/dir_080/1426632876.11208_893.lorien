@@ -1,8 +1,3 @@
-  by bruce-guenter.dyndns.org ([192.168.1.2]); 17 Mar 2015 18:22:40 -0000
-  by localhost ([127.0.0.1])
-  with SMTP via TCP; 17 Mar 2015 18:22:40 -0000
-  by zak.futurequest.net ([69.5.6.152])
-  with ESMTP via TCP; 17 Mar 2015 18:22:39 -0000
 	id C90A6148DD1A; Wed, 18 Mar 2015 03:06:03 +0900 (JST)
 	by localhost (Postfix) with ESMTP id 58208148E460
 	for <lists-djb-ezmlm@bruce-guenter.dyndns.org>; Wed, 18 Mar 2015 03:06:03 +0900 (JST)
@@ -29,3 +24,4 @@ http://rg3vj.itftxsqpuqxibkdhul0161.net/yAkz/FmFHr/nCozJ/sBlsIFtRdtMC
  . ┗━lists-djb-ezmlm@bruce-guenter.dyndns.org
 
 ●パスワード●
+　┗━8838

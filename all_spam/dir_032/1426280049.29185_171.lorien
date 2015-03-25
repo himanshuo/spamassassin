@@ -1,9 +1,3 @@
-  by bruce-guenter.dyndns.org ([192.168.1.2]); 12 Mar 2015 08:01:05 -0000
-  by localhost ([127.0.0.1])
-  with SMTP via TCP; 12 Mar 2015 08:01:05 -0000
-  by zak.futurequest.net ([69.5.6.152])
-  with ESMTP via TCP; 12 Mar 2015 08:01:03 -0000
-	by  with esmtpa (Exim 4.69)
 	(envelope-from )
 	id 1MM711-6330ta-0X
 	for cvs@bruce-guenter.dyndns.org; Thu, 12 Mar 2015 11:01:09 +0300
@@ -67,3 +61,6 @@ Content-Transfer-Encoding: 8bit
 <p align="left"><font size="3" face="Times New Roman, Times, serif">С уважением,<br />
   Виктор Гавриленко</font></p>
 
+
+</BODY></HTML>
+------------D7A57B750CAC9F--

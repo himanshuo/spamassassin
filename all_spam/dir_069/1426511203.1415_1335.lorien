@@ -1,6 +1,3 @@
-  by mx06.futurequest.net ([69.5.6.177]); 16 Mar 2015 07:57:57 -0000
-  by rip.mx06.futurequest.net ([10.2.1.177])
-  with ESMTP via TCP; 16 Mar 2015 07:57:57 -0000
         for <bruce@untroubled.org>; Mon, 16 Mar 2015 00:57:57 -0700 (PDT)
 DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
         d=gmail.com; s=20120113;
@@ -29,7 +26,6 @@ Hi,
 
 
 We specialise in socia-media-management and work with many companies like  
-yours by taking care of their Facebook, Twitter, Linkedin and other  
 relevant social media sites.
 
 
@@ -39,7 +35,6 @@ from the thousands of visitors to these sites.
 
 
 We'd like to talk to you to listen to your needs to see if we can become a  
-vital asset to your company by managing your social media campaign. We have  
 very affordable packages in place which are designed to take care of all  
 your web needs and create more enquiries,sales&profit.
 
@@ -84,7 +79,6 @@ sans-serif; font-size: small; line-height: normal;">
 <div>&nbsp;</div>
 
 <div><font face="arial, helvetica, sans-serif">We specialise in 
-socia-media-management and work with many companies like yours by taking 
 care of their Facebook, Twitter, Linkedin and other relevant social media 
 sites.</font></div>
 
@@ -99,7 +93,6 @@ visitors to these sites.&nbsp;</font></div>
 
 <div><font face="arial, helvetica, sans-serif">We&#39;d like to talk to you 
 to listen to your needs to see if we can become a vital asset to your 
-company by managing your social media campaign. We have very affordable 
 packages in place which are designed to take care of all your web needs and 
 create more enquiries,sales&amp;profit.</font></div>
 
@@ -155,4 +148,5 @@ HongKong</span></span></td>
 &nbsp;</p>
 </div>
 </div>
+
 

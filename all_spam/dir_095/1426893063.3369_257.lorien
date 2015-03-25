@@ -1,9 +1,3 @@
-  by bruce-guenter.dyndns.org ([192.168.1.2]); 19 Mar 2015 07:23:05 -0000
-  by localhost ([127.0.0.1])
-  with SMTP via TCP; 19 Mar 2015 07:23:05 -0000
-  by zak.futurequest.net ([69.5.6.152])
-  with ESMTP via TCP; 19 Mar 2015 07:23:00 -0000
-  with SMTP id 166C821F; Thu, 19 Mar 2015 15:23:16 +0800
 From: =?GB2312?B?wt6+rcDt?= <qglko@mapbt.com>
 Subject: =?GB2312?B?0NDV/sjL1LEsw9jK6aGi1vrA7dawxNzRtcG3?=
 To: "cvs" <cvs@bruce-guenter.dyndns.org>
@@ -230,3 +224,4 @@ X-Mailer: Microsoft Outlook Express 5.00.2919.6700
 学会列事务清单
 用项目计划管理工作
 ★ 沙盘演练：如何设计大型接待计划并实施
+

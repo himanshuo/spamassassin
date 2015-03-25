@@ -1,8 +1,3 @@
-  by bruce-guenter.dyndns.org ([192.168.1.2]); 20 Mar 2015 15:18:45 -0000
-  by localhost ([127.0.0.1])
-  with SMTP via TCP; 20 Mar 2015 15:18:45 -0000
-  by zak.futurequest.net ([69.5.6.152])
-  with ESMTP via TCP; 20 Mar 2015 15:18:44 -0000
 	by lpbdjeofme.ttvng.com (Postfix) with ESMTP id E8F36261F44
 	for <lists-reiserfs-list@bruce-guenter.dyndns.org>; Sat, 21 Mar 2015 00:17:44 +0900 (JST)
 	by zmyxbygfal.ttvng.com (Postfix) with ESMTP id D36D1240130
@@ -79,3 +74,4 @@ Content-Id: <id_f9abgif_@_1155121199_infodonfinin>
 Content-Disposition: inline;
  filename="f9ab.gif"
 
+--__Next-34-LTUWRtYWlsIEFHUEx2Mw==XVA=__--

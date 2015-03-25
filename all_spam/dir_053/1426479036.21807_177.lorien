@@ -1,8 +1,3 @@
-  by bruce-guenter.dyndns.org ([192.168.1.2]); 15 Mar 2015 01:22:45 -0000
-  by localhost ([127.0.0.1])
-  with SMTP via TCP; 15 Mar 2015 01:22:45 -0000
-  by zak.futurequest.net ([69.5.6.152])
-  with SMTP via TCP; 15 Mar 2015 01:22:43 -0000
 From: =?utf-8?B?0JHQuNC30L3QtdGBINGG0LXQvdGC0YAg0YDRj9C00L7QvCDRgSDQktCw0LzQuA==?= <uOZCIerIR@qip.ru>
 To: cvs@bruce-guenter.dyndns.org
 Subject: =?utf-8?B?0J/QviDQv9C+0LLQvtC00YMg0LDRgNC10L3QtNGLINC+0YTQuNGB0LA=?=
@@ -57,3 +52,4 @@ Content-Length: 3453
 </ul>
 <p align="center">
 	<font face="Helvetica" size="5"><strong>Звоните сейчас:</strong></font></p>
+<p align="center">

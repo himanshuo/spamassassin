@@ -1,8 +1,3 @@
-  by bruce-guenter.dyndns.org ([192.168.1.2]); 16 Mar 2015 09:27:31 -0000
-  by localhost ([127.0.0.1])
-  with SMTP via TCP; 16 Mar 2015 09:27:31 -0000
-  by zak.futurequest.net ([69.5.6.152])
-  with ESMTP via TCP; 16 Mar 2015 09:27:24 -0000
 	by yn with SMTP id FxqEJCOqCRAuLgA0.1
 	for <bruce@bruce-guenter.dyndns.org>; Tue, 15 Mar 2016 17:36:29 +0800
 Sender: xx@yn.net
@@ -57,3 +52,4 @@ Content-Transfer-Encoding: base64
 Content-Disposition: attachment;
 	filename="=?gb2312?B?w/ew18/6ytu5/bPMudzA7bXE1K3A7dPrt723qGsxLnhsc3g=?="
 
+------=_NextPart_000_0CBB_01BFFDDF.15138B40--

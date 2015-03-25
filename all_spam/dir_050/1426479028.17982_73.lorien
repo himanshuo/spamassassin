@@ -1,9 +1,5 @@
-  by mx08.futurequest.net ([69.5.6.180]); 15 Mar 2015 13:11:09 -0000
-  by rip.mx08.futurequest.net ([10.2.1.180])
-  with ESMTP via TCP; 15 Mar 2015 13:11:09 -0000
 	id S1752191AbbCONLA (ORCPT <rfc822;bruce@untroubled.org>);
 	Sun, 15 Mar 2015 09:11:00 -0400
-	mail-la0-f68.google.com" rhost-flags-OK-OK-OK-OK) by vger.kernel.org
 	with ESMTP id S1752308AbbCONK7 convert rfc822-to-8bit (ORCPT
 	<rfc822;linux-kernel@vger.kernel.org>);
 	Sun, 15 Mar 2015 09:10:59 -0400
@@ -44,7 +40,6 @@ will never let me down,if I transfer this money to your account.
 During one of our periodic auditing I discovered a dormant accounts
 with holding balance of £25,000.000.00 (Twenty Five Million British
 Pounds) this account has not been operated for the past years. The
-owner of this dormant account is a foreigner by name "Ed Swingle" who
 died on 4th Jan 2002. in a plane crash in Birmingham.you can view this
 CNN or BBC website for his true details.
 
@@ -69,3 +64,4 @@ Dr. Collins Baron.
 --
 To unsubscribe from this list: send the line "unsubscribe linux-kernel" in
 the body of a message to majordomo@vger.kernel.org
+More majordomo info at  http://vger.kernel.org/majordomo-info.html

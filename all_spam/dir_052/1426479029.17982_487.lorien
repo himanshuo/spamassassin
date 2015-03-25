@@ -1,8 +1,3 @@
-  by bruce-guenter.dyndns.org ([192.168.1.2]); 13 Mar 2015 23:47:57 -0000
-  by localhost ([127.0.0.1])
-  with SMTP via TCP; 13 Mar 2015 23:47:57 -0000
-  by zak.futurequest.net ([69.5.6.152])
-  with SMTP via TCP; 13 Mar 2015 23:47:56 -0000
 	by localhost (Postfix)
 	with ESMTP 20141217 S9A627C157FE44963B07F25EA4E6CE111 id 5386312B
 	for <bruce@bruce-guenter.dyndns.org> from <oegyaee.mail.1358443@smashvague.me>;
@@ -28,3 +23,6 @@ MTM0YTg2ZWZiNDE2MmFhZDMNCi0tLS0tLS0tLS0tLS0tLS0tLS0tDQqBoYKxgszSsNmCzYnviPWT
 b5hegrOC6oK9gqiLcZdsgtaRl4LogrWCxILcgrehib2CqYzkjcCCooLcgrWCvY/qjYeCzaSNsY3X
 gsiOloLFguCCqItDjHmCybuyxJPggXmCqJbijYeC7YK5gXqC3ILFg4GBW4OLgsmCxIKoluKNh4Lt
 grmJuoKzgqKhDQpodHRwOi8vd3d3LnNtYXNodmFndWUubWUvcHQvaW5kZXgucGhwP3VrPWZhZjY2
+ZGRmYzFlYmViZTEzNGE4NmVmYjQxNjJhYWQzDQoNCkmUqoNUg0OIyIm6gsyOZ5dwgs2CsomTl7aJ
+uoKzgqI=
+

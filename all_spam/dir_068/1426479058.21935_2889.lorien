@@ -1,8 +1,3 @@
-  by bruce-guenter.dyndns.org ([192.168.1.2]); 14 Mar 2015 04:48:50 -0000
-  by localhost ([127.0.0.1])
-  with SMTP via TCP; 14 Mar 2015 04:48:50 -0000
-  by zak.futurequest.net ([69.5.6.152])
-  with ESMTP via TCP; 14 Mar 2015 04:48:49 -0000
 	by flznuugnkf.px4wnidq.net (Postfix) with ESMTP id 032A256393D
 	for <lists-linux-xfs@bruce-guenter.dyndns.org>; Sat, 14 Mar 2015 13:48:06 +0900 (JST)
 	by eywuhcysmv.px4wnidq.net (Postfix) with ESMTP id D631F5401AF
@@ -41,3 +36,4 @@ http://fy5y.carvingpass.com/V3s7/8x28yVczGfG3hv
 info@fy5y.carvingpass.com
 
 Å¶1Å¶8Å¶çŒÅ¶ñ¢Å¶ñûÅ¶óòÅ¶ópÅ¶ã÷Å¶é~Å¶
+

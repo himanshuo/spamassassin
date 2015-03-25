@@ -1,8 +1,3 @@
-  by bruce-guenter.dyndns.org ([192.168.1.2]); 12 Mar 2015 09:20:50 -0000
-  by localhost ([127.0.0.1])
-  with SMTP via TCP; 12 Mar 2015 09:20:50 -0000
-  by zak.futurequest.net ([69.5.6.152])
-  with ESMTP via TCP; 12 Mar 2015 09:20:49 -0000
 DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=app; d=aqui.aquitemmuito.com.br;
  h=From:Subject:To:Date:Message-ID:MIME-Version:Content-Type; i=beatriz@aqui.aquitemmuito.com.br;
  bh=lyJKpM1D1xvOoz1HY2uLaHFWny4=;
@@ -782,3 +777,6 @@ emmuito.com.br/l.php?129904.90.809.8.51" target=3D"_blank" />
 ght=3D"1" /></p>
 <img src=3D"http://sis.aqui.aquitemmuito.com.br/a.php?129904.90.809.8"><cen=
 ter><p>Caso voc&ecirc; n&atilde;o queira mais receber, <a href=3D"http://si=
+s.aqui.aquitemmuito.com.br/s.php?129904.90.809.8" target=3D"_blank">acesse =
+aqui para sair da lista</a>.</p></center></body>
+</html>

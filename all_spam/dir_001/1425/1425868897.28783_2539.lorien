@@ -1,0 +1,30 @@
+Delivered-To: lists-linux-xfs@bruce-guenter.dyndns.org
+Received: (qmail 23805 invoked from network); 9 Mar 2015 00:55:21 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 09 Mar 2015 00:55:21 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 09 Mar 2015 00:55:21 -0000
+Received: (qmail 32723 invoked from network); 9 Mar 2015 00:55:20 -0000
+Received: from kvj00648406.5.5.2 ([180.214.53.42])
+  by zak.futurequest.net ([69.5.6.152])
+  with ESMTP via TCP; 09 Mar 2015 00:55:20 -0000
+Return-Path: <mail002200000165281@mail2.proche-s.jp>
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/simple; d=1o23q7lp.link; s=sel; q=dns/txt; l=1; bh=E/vXnD05Dl1lhaIeEf9ewZcM/ww=; h=From; b=QCDCIYMpwcp973bmCuD/0fIWF0Yvwh/mY1M8Ds0+FeiNv66uencz3oflQ6c/TdI4Ia8ulrFNSJsNtlxtI+C3VcrHL6z9xRGCWb9P6xX8g1juG27DS8NDMYuMOme3cjVUwtFyK4xhlwAfuEne7zAmPk9GmdumOTZFpmNXVr0WBx4=
+Date: Mon, 09 Mar 2015 09:55:19 +0900
+MIME-Version: 1.0
+From: mail@1o23q7lp.link
+To: lists-linux-xfs@bruce-guenter.dyndns.org
+Message-Id: 421017029_892068354fa18e501416@1o23q7lp.link
+Content-Type: text/plain; charset="Shift_JIS"
+Content-Transfer-Encoding: base64
+Subject: =?ISO-2022-JP?B?GyRCQD4xYDt7PlQzd01NJGgkaiEiJV0lJCVzJUgkTkRJMkMkLCQiJGokXiQ3JD8idhsoQg==?=
+
+kLyJgI6bj9KKl5dsguaC6IFBMjCWnHB0gqqSx4nBgrOC6oLEgqKC3IK3gfQNCg0KgaWBeZC8iYCO
+m4/SipeBepdsgqmC54LMg4GBW4OLgs2CsYK/gueBpQ0KaHR0cDovLzFvMjNxN2xwLmxpbmsvJTdl
+cG8vbWFpbGJveC9QQzo0MjIxMzQ0NTRmYTE4ZTUwMDZiNC9JQzpKVFEzMFZka3lhWHpsS0FJRDhj
+Zy8/Z3VpZD1PTg==
+
+
+
+

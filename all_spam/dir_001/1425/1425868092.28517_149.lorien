@@ -1,0 +1,38 @@
+Delivered-To: bruce@bruce-guenter.dyndns.org
+Received: (qmail 24248 invoked from network); 7 Mar 2015 11:15:53 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 07 Mar 2015 11:15:53 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 07 Mar 2015 11:15:53 -0000
+Received: (qmail 9472 invoked from network); 7 Mar 2015 11:15:52 -0000
+Received: from srg17609455.5.8.4 ([180.214.53.40])
+  by zak.futurequest.net ([69.5.6.152])
+  with ESMTP via TCP; 07 Mar 2015 11:15:52 -0000
+Return-Path: <mail002200000141771@mail1.proche-s.jp>
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/simple; d=3wmj5swf.link; s=sel; q=dns/txt; l=1; bh=E/vXnD05Dl1lhaIeEf9ewZcM/ww=; h=From; b=lTp6bcpQtQu8gbiiAvOsweeQcczcTCp9lL2sfiR4KQ5qgj4HwwTHHjMo7JmJgheflt7/i2WDm/RZZ5rSUPyDAOIogg9WnC/AGgsl3aPldrCXqJqAIix9aO7eKrusY6ihyhVn4VUKUjdX4cUHI2M2Cg/v3ejV11unv+184mU4LN4=
+Date: Sat, 07 Mar 2015 20:15:34 +0900
+MIME-Version: 1.0
+From: mail@3wmj5swf.link
+To: bruce@bruce-guenter.dyndns.org
+Message-Id: 54754556_296164554fa18e4ebc7b@3wmj5swf.link
+Content-Type: text/plain; charset="Shift_JIS"
+Content-Transfer-Encoding: base64
+Subject: =?ISO-2022-JP?B?GyRCQD4xYDt7JEckOSEjO2QkSyRPNztEbyEiMkhCMiEiP0ZATCRPJCokaiReJDskcyFESVckTzhyREw7djhOJEdLNCQvJEokaiReJDckPyEjOkc4ZSRLO2QkSztITD8kcjJMJD8kNSQ7JEYkYiRpJCgkSiQkJEckNyRnJCYkKyEpGyhC?=
+
+kLyJgI6bj9KKlw0KDQqQvImAjpuCxYK3gUKOhILJgs2MWpLtgUGJxpGwgUGQZZDKgs2CqILogtyC
+uYLxgWOVdoLNjPCSyo6WjMyCxZZTgq2CyILogtyCtYK9gUKNxYzjgsmOhILJjmeWvYLwicqCvYKz
+grmCxILggueCpoLIgqKCxYK1guWCpIKpgUgNCg0KIIl7IJeXICiWsyCXvykgDQpodHRwOi8vM3dt
+ajVzd2YubGluay8lN2Vwby9tYWlsYm94L1BDOjExOTk5NDM1NGZhMThlNGVhZjE0L01DOjAwZGIz
+YTM4MmY4YmUzNjFhZDBhYjI1ZGM4Y2RiZDNkLz9ndWlkPU9ODQoNCg0KgZ8gUCByIG8gYyBoIGUg
+cyCRiyCM+yANCiCBpiCCqCCQUyCTliCCvSCC6CCCzCCCyCCCoiCV+yCC1iANCiCR3iCJ7yCBRSCD
+SSCDdiCDZyCDQSCDRSCDZyCCzCCCsiCYQSCXjSCCzSCCqCCQlCCCxSCCtyCCqiCJuiCLTCCCoiCC
+uCCC6iCCqSCCzCCRiyCM+yCC1iCBdSCR3iCJ7yCK8yCWXSCBdiCCxiCCsiCV1CCQTSCC8CCCqCCK
+6CCCoiCSdiCCtSCC3CCCtyCBQiANCj09PT09PT09PT09PT0NCiMjIJHeIInvIIi2IJDmIA0KaW5m
+b0Bwcm9jaGUtcy5qcA0KIyMgkd4gie8gg3Qgg0gggVsgg4AgDQpodHRwOi8vM3dtajVzd2YubGlu
+ay8lN2Vwby9pbnF1aXJ5L1BDOjExOTk5NDM1NGZhMThlNGVhZjE0L01DOjAwZGIzYTM4MmY4YmUz
+NjFhZDBhYjI1ZGM4Y2RiZDNkLz9ndWlkPU9ODQoNCjQzOTE2Mg==
+
+
+
+

@@ -1,8 +1,3 @@
-  by bruce-guenter.dyndns.org ([192.168.1.2]); 19 Mar 2015 19:03:24 -0000
-  by localhost ([127.0.0.1])
-  with SMTP via TCP; 19 Mar 2015 19:03:24 -0000
-  by zak.futurequest.net ([69.5.6.152])
-  with ESMTP via TCP; 19 Mar 2015 19:03:21 -0000
 X-Authentication-Warning: bk.ru: pragmatismiz5 set sender to critter68@mail.ru using -f
 Subject: =?koi8-r?B?UH5BfvN+Q375fux+637p?=
 To: cvs <<cvs@bruce-guenter.dyndns.org>>
@@ -107,3 +102,4 @@ Content-Type: text/html; charset=koi8-r
       </table></td>
     </tr>
   </table>
+

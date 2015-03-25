@@ -1,8 +1,3 @@
-  by bruce-guenter.dyndns.org ([192.168.1.2]); 19 Mar 2015 16:07:55 -0000
-  by localhost ([127.0.0.1])
-  with SMTP via TCP; 19 Mar 2015 16:07:55 -0000
-  by zak.futurequest.net ([69.5.6.152])
-  with ESMTP via TCP; 19 Mar 2015 16:07:54 -0000
 	id B9EE7BA612; Fri, 20 Mar 2015 01:07:28 +0900 (JST)
 	by localhost (Postfix) with SMTP id E9095BA32A
 	for <bruce@bruce-guenter.dyndns.org>; Fri, 20 Mar 2015 01:07:20 +0900 (JST)
@@ -16,7 +11,6 @@ Subject: =?ISO-2022-JP?B?WyA3LmNvbSBdIBskQiJkImQ4QkRqRkNKcyJjGyhCMQ==?=
  =?ISO-2022-JP?B?GyRCQGkxXzhCRGoiKhsoQjUbJEJHXBsoQiEhIRskQiJkQGRCUCRLGyhC?=
  =?ISO-2022-JP?B?GyRCOCtGKCQ3ODc2WBsoQiEh?=
 MIME-Version: 1.0
-X-Mail-Agent: BSMTP DLL  Feb 11 2003  by Tatsuo Baba
 Content-Type: text/plain; charset="ISO-2022-JP"
 
 【ゲスト】様宛　特別連絡
@@ -58,3 +52,6 @@ http://nanacom.tv/wds/login/login.asp?LOGINID=12232455&PASS=1234
 ［7.com］はお客様にご利用を強制したり架空請求などを含めた不正な請求を行うことは一切ございません。ご利用にならない場合は下記お問い合わせから退会のご連絡をお願い致します。
 
 ＜お問合わせ/事務局＞
+→　info@nanacom.tv
+
+[ 7.com 〜ナナコム〜 ]

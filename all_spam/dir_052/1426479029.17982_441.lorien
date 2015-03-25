@@ -1,8 +1,3 @@
-  by bruce-guenter.dyndns.org ([192.168.1.2]); 14 Mar 2015 20:08:43 -0000
-  by localhost ([127.0.0.1])
-  with SMTP via TCP; 14 Mar 2015 20:08:43 -0000
-  by zak.futurequest.net ([69.5.6.152])
-  with SMTP via TCP; 14 Mar 2015 20:08:41 -0000
 	by localhost (Postfix)
 	with ESMTP 20141217 SBBD2991474B747FFA8279C7E43562B41 id 43F2F59A
 	for <bruce@bruce-guenter.dyndns.org> from <eehaeyoeij.mail.1358595@smashvague.me>;
@@ -27,3 +22,6 @@ b3gvaW5kZXgucGhwP3VrPWZhZjY2ZGRmYzFlYmViZTEzNGE4NmVmYjQxNjJhYWQzDQotLS0tLS0t
 LS0tLS0tLS0tLS0tLQ0KgaGCsYLM0rDZgs2J74j1k2+YXoKzguqCvYKoi3GXbILWkZeC6IK1gsSC
 3IK3oYm9gqmM5I3AgqKC3IK1gr2P6o2Hgs2kjbGN14LIjpaCxYLggqiLQ4x5gsm7ssST4IF5gqiW
 4o2Hgu2CuYF6gtyCxYOBgVuDi4LJgsSCqJbijYeC7YK5ibqCs4KioQ0KaHR0cDovL3d3dy5zbWFz
+aHZhZ3VlLm1lL3B0L2luZGV4LnBocD91az1mYWY2NmRkZmMxZWJlYmUxMzRhODZlZmI0MTYyYWFk
+Mw0KDQpJlKqDVINDiMiJuoLMjmeXcILNgrKJk5e2ibqCs4Ki
+

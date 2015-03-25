@@ -1,8 +1,3 @@
-  by bruce-guenter.dyndns.org ([192.168.1.2]); 15 Mar 2015 08:05:14 -0000
-  by localhost ([127.0.0.1])
-  with SMTP via TCP; 15 Mar 2015 08:05:14 -0000
-  by zak.futurequest.net ([69.5.6.152])
-  with ESMTP via TCP; 15 Mar 2015 08:05:13 -0000
 From: "Bessie" <cvsfsrg@folha.art.br>
 To: cvs@bruce-guenter.dyndns.org
 Subject: hi dear
@@ -46,3 +41,4 @@ href=3D"http://memreduxx.com/backup.html" title=3D"I'm waiting">
 here</span></a></p>
 </body>
 
+</html>

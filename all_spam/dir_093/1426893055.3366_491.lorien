@@ -1,8 +1,3 @@
-  by bruce-guenter.dyndns.org ([192.168.1.2]); 20 Mar 2015 07:40:47 -0000
-  by localhost ([127.0.0.1])
-  with SMTP via TCP; 20 Mar 2015 07:40:47 -0000
-  by zak.futurequest.net ([69.5.6.152])
-  with ESMTP via TCP; 20 Mar 2015 07:40:34 -0000
 DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; d=servicewebpostal51.ru; s=dkim;
 	h=Sender:Content-Type:MIME-Version:Date:Subject:From:Message-ID; bh=duoqSGa/kstW4Tt44AzG6bB5nm/5/MVgXwiaIVxbZ38=;
 	b=cMU/GYKq0HZ/e5jWjljC1POewYewH9RhWpahUK/eobS0TIL++9OMeeGPnQk+DzIUYlEkp0xMcTOYhkmfg0sePY9eE6phbX+CMva25343KPU3ibknnIjp0YLp5I5MtnjHiFVRPMsh8Pq8EVPbOTyggY4sYOmfoCdmUDolgpr4E34=;
@@ -98,3 +93,6 @@ href=3D"mailto:info@mail-project-ru.ru?subject=3D=CD=E0=E6=EC=E8=F2=E5 =EE=
 =F2=EF=F0=E0=E2=E8=F2=FC =F1=EE=EE=E1=F9=E5=ED=E8=E5 =F7=F2=EE =E1=FB =CE=
 =F2=EF=E8=F1=E0=F2=FC=F1=FF ( Unsubscribe me now )"><FONT=20
 color=3D#333df0 face=3DTahoma>Unsubscribe - =CE=F2=EF=E8=F1=E0=F2=FC=F1=FF=
+ =EE=F2=20
+=F0=E0=F1=F1=FB=EB=EA=E8</FONT></A></DIV></BODY></HTML>
+

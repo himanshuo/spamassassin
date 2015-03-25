@@ -1,0 +1,85 @@
+Delivered-To: lists-reiserfs-list@bruce-guenter.dyndns.org
+Received: (qmail 32162 invoked from network); 8 Mar 2015 10:52:52 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 08 Mar 2015 10:52:52 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 08 Mar 2015 10:52:52 -0000
+Received: (qmail 17055 invoked from network); 8 Mar 2015 10:52:50 -0000
+Received: from r002-fai001.localhost ([103.240.117.238])
+  by zak.futurequest.net ([69.5.6.152])
+  with ESMTP via TCP; 08 Mar 2015 10:52:50 -0000
+Received: by r002-fai001.localhost (Postfix, from userid 1002)
+	id B6BB31494DD0; Sun,  8 Mar 2015 19:52:49 +0900 (JST)
+Received: from localhost (unknown [10.68.111.49])
+	by localhost (Postfix) with ESMTP id 653E21048C41
+	for <lists-reiserfs-list@bruce-guenter.dyndns.org>; Sun,  8 Mar 2015 19:52:48 +0900 (JST)
+MIME-Version: 1.0
+Content-Type: multipart/related;
+ boundary="=_5df9f2b10aaa37ff51815ff47455dc32"
+To: <lists-reiserfs-list@bruce-guenter.dyndns.org>
+From: =?Shift_JIS?B?ia2WnJK3jtKUrZC2kZWSdQ==?=<mail@byeesparp.com>
+Subject: =?Shift_JIS?B?loiPVImtlpySt47SgqqQtoLcguqCxIKigtyCtw==?=
+Message-Id: <20150308105248.653E21048C41@bvrjgxpa.ejxtrpwzqf>
+Date: Sun,  8 Mar 2015 19:52:48 +0900 (JST)
+
+--=_5df9f2b10aaa37ff51815ff47455dc32
+Content-Type: multipart/alternative;
+ boundary="=_2812c9d7011b63bea5b7fc61cadf3124"
+
+--=_2812c9d7011b63bea5b7fc61cadf3124
+Content-Transfer-Encoding: 7bit
+Content-Type: text/plain; charset=Shift_JIS
+
+
+--=_2812c9d7011b63bea5b7fc61cadf3124
+Content-Transfer-Encoding: base64
+Content-Type: text/html; charset=Shift_JIS
+
+PCFET0NUWVBFIGh0bWwgUFVCTElDICItLy9XM0MvL0RURCBYSFRNTCAxLjEvL0VOIiAiaHR0cDov
+L3d3dy53My5vcmcvVFIveGh0bWwxMS9EVEQveGh0bWwxMS5kdGQiPgo8aHRtbD4NCjxib2R5Pjxk
+aXYgc3R5bGU9J2JvcmRlcjogMXB4IHNvbGlkIGJsYWNrOyBtYXJnaW4tbGVmdDogYXV0bzsgbWFy
+Z2luLXJpZ2h0OiBhdXRvOyB3aWR0aDogMjUwcHg7IGJhY2tncm91bmQtY29sb3I6ICc+PGltZyBz
+cmM9J2NpZDptYWlsX3RvcCcgc3R5bGU9J3dpZHRoOiAyNTBweDsnPjxicj4NCg0KDQo8YnI+DQqR
+/I2hjMCS6JXlj1eC8I1zgsGCxIKoguiBQYK7gvGCyJPBlcqCyI/ulfGJ747QgvCCoILIgr2CvoKv
+gsmCqJNggqaCtYLcgreBQjxicj4NCjxicj4NCoyIgrWCxIpGgrOC8YLJgs2BeYz2lVyBeoK1gsiC
+ooLFibqCs4KigUI8YnI+DQo8YnI+DQo8YnI+DQqCsYLMkbaN3YKqlaqCqYLBgr2C54FBguCCtYKp
+grWCvYLngUGDjYNnglWCxoKigqSV84KtgraCqpazgq2CyILpgqmC4IFjPGJyPg0KPGJyPg0Ki7qI
+0ILMjYKKbZemgsWCzJOWkUmXpoFBgrGCzI/ulfGC8I7ogsmCtYLEgXmMi4nKgXqC8ILdgr2C5zxi
+cj4NCjxicj4NCoLggqSRvI7QgsyP7pXxguKXXJF6g1yDdINngsiCx4LNkE2XcILFgquCyIKigsaO
+doKigtyCtyEhPGJyPg0KPGJyPg0KPGJyPg0KgqCCyIK9guCC4INyg2KDToOKgreC6YLZgseCzI3F
+keWNxY2Ci4mCzI/ulfGCyYLEPGJyPg0Ki1CCqYK1gqKWopeIgqqR0oLBgsSCqILogtyCtyGBSTxi
+cj4NCjxicj4NCo2hgUGCoILIgr2CzJBskLaC8JHlgquCrY22iUWCt4LpgXmMiJJmgXqC8IK3gumO
+noLFgreBQjxicj4NCjxhIGhyZWY9Imh0dHA6Ly9mMjIucGxvcmRyb3JjcmVvLmNvbS9hMzgvem1o
+ZG0ucGhwP2IwPXQwb2d6TTZNOG1GUjhNRmM3UUxjN09rd0pRa2c4MEZ1Ij5odHRwOi8vZjIyLnBs
+b3Jkcm9yY3Jlby5jb20vYTM4L3ptaGRtLnBocD9iMD10MG9nek02TThtRlI4TUZjN1FMYzdPa3dK
+UWtnODBGdTwvYT48YnI+DQo8YnI+DQoNCjxicj4NCjxicj4NCjxicj4NCjxicj4NCjxicj4NCjxi
+cj4NCjxicj4NCjxicj4NCjxicj4NCjxicj4NCjxicj4NCjxicj4NCjxicj4NCjxicj4NCjxicj4N
+Cjxicj4NCjxicj4NCjxicj4NCjxicj4NCjxicj4NCjxicj4NCjxicj4NCjxicj4NCjxicj4NCoGl
+IILHgrGC5oLoguCQUo24gqqC5ILpgq2S4Yvgl5iCxZGmk/qXWo6RgqqJwpRcPGJyPg0KICA8YSBo
+cmVmPSJodHRwOi8vZjIyLnBsb3Jkcm9yY3Jlby5jb20vYTM4L3ptaGRtLnBocD9iMD1KUWtnODBG
+dUxta1I3UWt3OE1vYzgwM056bW9FOE9rdSI+gqiL4ILJgqiNooLogsyV+4LNg1KDYIOJgqmC5zwv
+YT48YnI+DQo8YnI+DQqBpSCPiZBTjtKMwJLogsyKyJJQgsmJ0oKwgumVm4vGg4KDaoNegVuV5Y9X
+gXmQbJCUkKeMwIKgguiBejxicj4NCjxhIGhyZWY9Imh0dHA6Ly9mMjIucGxvcmRyb3JjcmVvLmNv
+bS9hMzgvem1oZG0ucGhwP2IwPUwwenA4MG93OE1ITXptcG16bXJjOG1rRXQwb2d6TXJiIj6KyJJQ
+lZuLxoNYg2WBW4NXPC9hPjxicj4NCjxicj4NCoGlII9UgsmCUInxMTAwiX6DVoOHg2KDdoLJkJSV
+qpLKgqSCvoKvgsyVm4vGgvCK+orUjMCS6ILFj9CJ7jxicj4NCiAgPGEgaHJlZj0iaHR0cDovL2Yy
+Mi5wbG9yZHJvcmNyZW8uY29tL2EzOC96bWhkbS5waHA/YjA9TG1GR3ptRlI4TUZjelFacDgwb3c4
+TUhOem1vRThPa1IiPoNfg0ODXIFbivGC6JO5g3KDV4Nsg1g8L2E+PGJyPg0KPGJyPg0KPGJyPg0K
+PGJyPg0KPGJyPg0KPGJyPg0KPGJyPg0KPGJyPg0KPGJyPg0KPGJyPg0KgaaUepBNkuKOfoLNPGEg
+aHJlZj0iaHR0cDovL2YyMi5wbG9yZHJvcmNyZW8uY29tL2EzOC9jaDcucGhwP2IwPUxtb2M3MG8x
+OG15RXpoUmd6bUwxSlFrZzgwRnUiPoKxgr+C5zwvYT48YnI+DQo8YnI+DQo8YnI+DQoNCjwvZGl2
+PjwvYm9keT4NCjwvaHRtbD4=
+--=_2812c9d7011b63bea5b7fc61cadf3124--
+
+--=_5df9f2b10aaa37ff51815ff47455dc32
+Content-Type: message/external-body; access-type=x-deleted; length=1702
+
+
+Content-Transfer-Encoding: base64
+Content-ID: <mail_top>
+Content-Type: image/gif;
+ name="mail_top.gif"
+
+--=_5df9f2b10aaa37ff51815ff47455dc32--
+

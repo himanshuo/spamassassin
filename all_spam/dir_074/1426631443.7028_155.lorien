@@ -1,8 +1,3 @@
-  by bruce-guenter.dyndns.org ([192.168.1.2]); 17 Mar 2015 04:02:42 -0000
-  by localhost ([127.0.0.1])
-  with SMTP via TCP; 17 Mar 2015 04:02:42 -0000
-  by zak.futurequest.net ([69.5.6.152])
-  with ESMTP via TCP; 17 Mar 2015 04:02:39 -0000
 	by lfmfjw with SMTP id Z0IDkte24kJcrBhF.1
 	for <cvs@bruce-guenter.dyndns.org>; Wed, 16 Mar 2016 12:33:31 +0800
 Sender: tzcxjb@lfmfjw.org
@@ -57,3 +52,4 @@ Content-Transfer-Encoding: base64
 Content-Disposition: attachment;
 	filename="=?gb2312?B?yrLDtNH5tcS53MDtysfX7srKus/G89K1tcS53MDtMi54bHN4?="
 
+------=_NextPart_000_01D1_017B5B32.19D94C90--

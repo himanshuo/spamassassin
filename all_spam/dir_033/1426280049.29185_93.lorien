@@ -1,8 +1,3 @@
-  by bruce-guenter.dyndns.org ([192.168.1.2]); 12 Mar 2015 11:48:06 -0000
-  by localhost ([127.0.0.1])
-  with SMTP via TCP; 12 Mar 2015 11:48:06 -0000
-  by zak.futurequest.net ([69.5.6.152])
-  with ESMTP via TCP; 12 Mar 2015 11:48:05 -0000
 	(envelope-from <stapled629@inbox.ru>)
 	id V0S6AL-8MLYTC-AI
 	for <cvs@bruce-guenter.dyndns.org>; Thu, 12 Mar 2015 18:48:10 +0700
@@ -14,3 +9,6 @@ Message-ID: <90CC112155B6B56CF1C3F0AA4E0E266B@mail.ru>
 X-Priority: 3
 X-Mailer: PHPMailer 5.1 (phpmailer.sourceforge.net)
 MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+Content-Type: text/plain; charset="koi8-r"
+

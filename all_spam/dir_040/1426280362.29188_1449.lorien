@@ -1,8 +1,3 @@
-  by bruce-guenter.dyndns.org ([192.168.1.2]); 13 Mar 2015 08:35:44 -0000
-  by localhost ([127.0.0.1])
-  with SMTP via TCP; 13 Mar 2015 08:35:44 -0000
-  by zak.futurequest.net ([69.5.6.152])
-  with SMTP via TCP; 13 Mar 2015 08:35:43 -0000
 	by i8easPUUhxrzg7U.7e6rgupeT with SMTP; Fri,13 Mar 2015 17:35:07 +0900 (JST)
 	by sn2sgZNQ3d1ZQSRJoL98 (Postfix) with ESMTP id O5A1R2S28YP
 	for <lists-linux-xfs@bruce-guenter.dyndns.org>; Fri, 13 Mar 2015 17:35:07 +0900 (JST)
@@ -46,5 +41,6 @@ http://qtlje.6h9mz8n.pink/as/member/main/Top.html?pp=icfO4ov1DRbH9yY1dHbHig==
 
 
 285448318122015033617
+
 
 

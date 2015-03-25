@@ -1,8 +1,3 @@
-  by bruce-guenter.dyndns.org ([192.168.1.2]); 17 Mar 2015 23:16:48 -0000
-  by localhost ([127.0.0.1])
-  with SMTP via TCP; 17 Mar 2015 23:16:48 -0000
-  by zak.futurequest.net ([69.5.6.152])
-  with ESMTP via TCP; 17 Mar 2015 23:16:46 -0000
 	id 02E601506022; Wed, 18 Mar 2015 08:16:46 +0900 (JST)
 	by localhost (Postfix) with ESMTP id D44591048C41
 	for <lists-linux-xfs@bruce-guenter.dyndns.org>; Wed, 18 Mar 2015 08:16:45 +0900 (JST)
@@ -63,3 +58,4 @@ Content-ID: <mail_top>
 Content-Type: image/gif;
  name="mail_top.gif"
 
+--=_49f6b5f9ba119666cf8da089f8ea9c82--

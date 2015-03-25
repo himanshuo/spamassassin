@@ -1,8 +1,3 @@
-  by bruce-guenter.dyndns.org ([192.168.1.2]); 13 Mar 2015 22:09:51 -0000
-  by localhost ([127.0.0.1])
-  with SMTP via TCP; 13 Mar 2015 22:09:51 -0000
-  by zak.futurequest.net ([69.5.6.152])
-  with ESMTP via TCP; 13 Mar 2015 22:09:50 -0000
 	by flznuugnkf.px4wnidq.net (Postfix) with ESMTP id 17DC4563ACF
 	for <lists-linux-xfs@bruce-guenter.dyndns.org>; Sat, 14 Mar 2015 07:07:51 +0900 (JST)
 	by eywuhcysmv.px4wnidq.net (Postfix) with ESMTP id CC127542EB6
@@ -45,3 +40,4 @@ http://t58l.garasumasquerade.com/4C5gHa/bHb4LcPOjcQ
 info@t58l.garasumasquerade.com
 
 Å¶1Å¶8Å¶çŒÅ¶ñ¢Å¶ñûÅ¶óòÅ¶ópÅ¶ã÷Å¶é~Å¶
+

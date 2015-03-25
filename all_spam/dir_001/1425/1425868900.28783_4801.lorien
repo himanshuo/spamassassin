@@ -1,0 +1,37 @@
+Delivered-To: lists-linux-xfs@bruce-guenter.dyndns.org
+Received: (qmail 25553 invoked from network); 8 Mar 2015 07:25:28 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 08 Mar 2015 07:25:28 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 08 Mar 2015 07:25:28 -0000
+Received: (qmail 7004 invoked from network); 8 Mar 2015 07:25:27 -0000
+Received: from hfx53755783.8.2.1 ([180.214.53.40])
+  by zak.futurequest.net ([69.5.6.152])
+  with ESMTP via TCP; 08 Mar 2015 07:25:27 -0000
+Return-Path: <mail002200000154211@mail1.proche-s.jp>
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/simple; d=08bk9gab.link; s=sel; q=dns/txt; l=1; bh=E/vXnD05Dl1lhaIeEf9ewZcM/ww=; h=From; b=dSOy4jaJ7siFwbZIGKJNegl0f+nQT65VRwRU99wg/eMA0H3cWlTZvzmUl78M3g70E/vfihelWqNXELaBytKDsIPrznHycFadCnA3Walf9SZloJXdwM68QL96JsIVNFiMcKG5vEsLLgHYiJ15l9lYps3eh7FKXId7tnekBzwbpJ0=
+Date: Sun, 08 Mar 2015 16:25:26 +0900
+MIME-Version: 1.0
+From: mail@08bk9gab.link
+To: lists-linux-xfs@bruce-guenter.dyndns.org
+Message-Id: 877789856_892068354fa18e501416@08bk9gab.link
+Content-Type: text/plain; charset="Shift_JIS"
+Content-Transfer-Encoding: base64
+Subject: =?ISO-2022-JP?B?GyRCS1xFdiRLTFkkMSRpJGwkayRoISk7ZCEiSWFDSiRPJTkhPCVRITwkTiVsJThFOTB3JEckOSJ2JEckYiEiRy88fSRPIUQbKEI=?=
+
+kOeJwA0KDQqWe5OWgsmW14KvgueC6oLpguaBSI6EgUGVgZJpgs2DWIFbg3CBW4LMg4yDV5NYiPWC
+xYK3gfSCxYLggUGUTo77gs2BYw0KDQogiXsgl5cgKJazIJe/KSANCmh0dHA6Ly8wOGJrOWdhYi5s
+aW5rLyU3ZXBvL21haWxib3gvUEM6NDIyMTM0NDU0ZmExOGU1MDA2YjQvTUM6Y2U0N2RlZTY3MWJh
+ZWIyMzMyOWM3YTM0ZWFlODVhMjgvP2d1aWQ9T04NCg0KDQqBnyBQIHIgbyBjIGggZSBzIJGLIIz7
+IA0KIIGmIIKoIJBTIJOWIIK9IILoIILMIILIIIKiIJX7IILWIA0KIJHeIInvIIFFIINJIIN2IINn
+IINBIINFIINnIILMIIKyIJhBIJeNIILNIIKoIJCUIILFIIK3IIKqIIm6IItMIIKiIIK4IILqIIKp
+IILMIJGLIIz7IILWIIF1IJHeIInvIIrzIJZdIIF2IILGIIKyIJXUIJBNIILwIIKoIIroIIKiIJJ2
+IIK1IILcIIK3IIFCIA0KPT09PT09PT09PT09PQ0KIyMgkd4gie8giLYgkOYgDQppbmZvQHByb2No
+ZS1zLmpwDQojIyCR3iCJ7yCDdCCDSCCBWyCDgCANCmh0dHA6Ly8wOGJrOWdhYi5saW5rLyU3ZXBv
+L2lucXVpcnkvUEM6NDIyMTM0NDU0ZmExOGU1MDA2YjQvTUM6Y2U0N2RlZTY3MWJhZWIyMzMyOWM3
+YTM0ZWFlODVhMjgvP2d1aWQ9T04NCg0KNDM5MTYz
+
+
+
+

@@ -1,8 +1,3 @@
-  by bruce-guenter.dyndns.org ([192.168.1.2]); 15 Mar 2015 02:07:31 -0000
-  by localhost ([127.0.0.1])
-  with SMTP via TCP; 15 Mar 2015 02:07:31 -0000
-  by zak.futurequest.net ([69.5.6.152])
-  with ESMTP via TCP; 15 Mar 2015 02:07:31 -0000
 	by av-peach.com (8.14.5/8.14.5) with ESMTP id t2F27UdE018142
 	for <lists-djb-ezmlm@bruce-guenter.dyndns.org>; Sun, 15 Mar 2015 11:07:30 +0900
 	by av-peach.com (8.14.5/8.14.5/Submit) id t2F27UId018141;
@@ -178,3 +173,6 @@ info@av-peach.com
 ※上記メールアドレスは配信停止用ではございません。
 停止を希望される場合は、下記URLよりお願い致します。
 
+
+配信を解除する場合は下記URLをクリックしてください。
+http://av-peach.com/sp/rm/gktp_p/74cbd179be8ebbd2/90

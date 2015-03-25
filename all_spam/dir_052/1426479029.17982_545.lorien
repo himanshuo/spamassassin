@@ -1,8 +1,3 @@
-  by bruce-guenter.dyndns.org ([192.168.1.2]); 14 Mar 2015 05:56:37 -0000
-  by localhost ([127.0.0.1])
-  with SMTP via TCP; 14 Mar 2015 05:56:37 -0000
-  by zak.futurequest.net ([69.5.6.152])
-  with SMTP via TCP; 14 Mar 2015 05:56:36 -0000
 	by localhost (Postfix)
 	with ESMTP 20141217 S4D7F2B2C50F4492C90FC825F18248557 id CE5F00E9
 	for <bruce@bruce-guenter.dyndns.org> from <return-mail-50656@lilyjapan.co>;
@@ -26,3 +21,6 @@ NWNmMyZtaz04MjI2MzQ4YWNmNDcyNjIxOTc5ZGJiOWNlYjUyNGNjYg0KLS0tLS0tLS0tLS0tLS0t
 LS0tLS0NCg0KgaWI6i6Xl4GlDQpodHRwOi8vd3d3LmxpbHlqYXBhbi5jby9yZWNlcGJveC9pbmRl
 eC5waHA/dWs9NGRhMTVkYjcyMWY0OTA3OTA5NDljZjhhODUyYzVjZjMNCi0tLS0tLS0tLS0tLS0t
 LS0tLS0tDQoNCoKokm2C54K5X5LiX45+DQpodHRwOi8vd3d3LmxpbHlqYXBhbi5jby90b3AvaW5k
+ZXgucGhwP3VrPTRkYTE1ZGI3MjFmNDkwNzkwOTQ5Y2Y4YTg1MmM1Y2YzDQqBoYGhgaGBoYGhgaEN
+CjE4II3OIJaiIJaeDQqXmCCXcCCL1iCOfg0KgaGBoYGhgaGBoYGh
+

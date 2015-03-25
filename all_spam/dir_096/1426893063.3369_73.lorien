@@ -1,8 +1,3 @@
-  by bruce-guenter.dyndns.org ([192.168.1.2]); 18 Mar 2015 19:00:33 -0000
-  by localhost ([127.0.0.1])
-  with SMTP via TCP; 18 Mar 2015 19:00:33 -0000
-  by zak.futurequest.net ([69.5.6.152])
-  with ESMTP via TCP; 18 Mar 2015 19:00:32 -0000
 DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=default; d=ofertanto.info;
  h=To:Subject:Message-ID:Date:From:Reply-To:MIME-Version:List-Unsubscribe:Content-Type:Content-Transfer-Encoding; i=abuse@ofertanto.info;
  bh=AYSM4IjgpbiEW6MzceIM2rB9gkc=;
@@ -112,3 +107,4 @@ height="1" width="10"></body>
 </html>
 
 --b1_86a9d552b0e2df99514f6bcfbf281b71--
+

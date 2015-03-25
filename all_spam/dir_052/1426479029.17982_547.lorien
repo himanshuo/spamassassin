@@ -1,8 +1,3 @@
-  by bruce-guenter.dyndns.org ([192.168.1.2]); 15 Mar 2015 11:54:08 -0000
-  by localhost ([127.0.0.1])
-  with SMTP via TCP; 15 Mar 2015 11:54:08 -0000
-  by zak.futurequest.net ([69.5.6.152])
-  with SMTP via TCP; 15 Mar 2015 11:54:07 -0000
 	by localhost (Postfix)
 	with ESMTP 20141217 S989692FFF4A649D4B237AA9BAACCF6FB id A751E406
 	for <bruce@bruce-guenter.dyndns.org> from <damnsju.mail.1359309@smashvacances.me>;
@@ -28,3 +23,6 @@ MWViZWJlMTM0YTg2ZWZiNDE2MmFhZDMNCi0tLS0tLS0tLS0tLS0tLS0tLS0tDQqBoYKxgszSsNmC
 zYnviPWTb5hegrOC6oK9gqiLcZdsgtaRl4LogrWCxILcgrehib2CqYzkjcCCooLcgrWCvY/qjYeC
 zaSNsY3XgsiOloLFguCCqItDjHmCybuyxJPggXmCqJbijYeC7YK5gXqC3ILFg4GBW4OLgsmCxIKo
 luKNh4LtgrmJuoKzgqKhDQpodHRwOi8vd3d3LnNtYXNodmFjYW5jZXMubWUvcHQvaW5kZXgucGhw
+P3VrPWZhZjY2ZGRmYzFlYmViZTEzNGE4NmVmYjQxNjJhYWQzDQoNCkmUqoNUg0OIyIm6gsyOZ5dw
+gs2CsomTl7aJuoKzgqI=
+

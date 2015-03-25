@@ -1,8 +1,3 @@
-  by bruce-guenter.dyndns.org ([192.168.1.2]); 09 Mar 2015 14:27:10 -0000
-  by localhost ([127.0.0.1])
-  with SMTP via TCP; 09 Mar 2015 14:27:10 -0000
-  by zak.futurequest.net ([69.5.6.152])
-  with ESMTP via TCP; 09 Mar 2015 14:27:09 -0000
 	id 9FD49113E81; Mon,  9 Mar 2015 23:26:24 +0900 (JST)
 	by localhost (Postfix) with ESMTP id 6CAB21048CA2
 	for <lists-bikini@bruce-guenter.dyndns.org>; Mon,  9 Mar 2015 23:26:13 +0900 (JST)
@@ -85,3 +80,4 @@ DM
 Žæ
 ‚è
 ’â
+Ž~

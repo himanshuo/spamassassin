@@ -1,8 +1,3 @@
-  by bruce-guenter.dyndns.org ([192.168.1.2]); 13 Mar 2015 15:09:35 -0000
-  by localhost ([127.0.0.1])
-  with SMTP via TCP; 13 Mar 2015 15:09:35 -0000
-  by zak.futurequest.net ([69.5.6.152])
-  with ESMTP via TCP; 13 Mar 2015 15:09:33 -0000
 	id 2E35ADA59E; Sat, 14 Mar 2015 00:09:22 +0900 (JST)
 	by localhost (Postfix) with ESMTP id 243021048D4E
 	for <lists-linux-xfs@bruce-guenter.dyndns.org>; Sat, 14 Mar 2015 00:08:43 +0900 (JST)
@@ -110,3 +105,6 @@ DM
 Žó
 ‚¯
 Žæ
+‚è
+’â
+Ž~

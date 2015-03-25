@@ -1,0 +1,81 @@
+Delivered-To: bruce@untroubled.org
+Received: (fqmail 11781 invoked from network); 04 Mar 2015 04:28:03 -0000
+Received: (qmail 9426 invoked from network); 4 Mar 2015 04:28:03 -0000
+Received: from rip.mx06.futurequest.net (rip.mx06.futurequest.net [10.2.1.177])
+  by mx06.futurequest.net ([69.5.6.177]); 04 Mar 2015 04:28:03 -0000
+Received: from srv1.destacavox.com (srv1.destacavox.com [199.89.54.24])
+  by rip.mx06.futurequest.net ([10.2.1.177])
+  with ESMTP via TCP; 04 Mar 2015 04:28:03 -0000
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; d=destacavox.com; s=default;
+	h=Content-Transfer-Encoding:Content-Type:List-Unsubscribe:MIME-Version:Reply-To:From:Date:Message-ID:Subject:To; bh=1vBLQdZWLdiIZ98lprdUG8y1s4FDMyQoLqZuxIoPxSQ=;
+	b=Vt33a2A3I0S1dpUXRPuJ7rlpwPCEM1QqP3+oAGjXzSJ7kVUMGhxs+jqB1Gm0mj1RKUpTRMC2mIyuimt811KWnzsJOBiCu4iMngypsQlBxAaBIPp5YDdoh/RgaNdTOy2dJFwBGQTU4DqzlGlpEMdgKRMLBWafPZiW400xWMh6jHY=;
+Received: from srv1.destacavox.com ([199.89.54.24]:51173 helo=www.destacavox.com)
+	by srv1.destacavox.com with esmtpa (Exim 4.85)
+	(envelope-from <rebotes@destacavox.com>)
+	id 1YT0uv-00055C-QY
+	for bruce@untroubled.org; Wed, 04 Mar 2015 05:28:17 +0100
+To: bruce@untroubled.org
+Subject: re:Problemas con su contabilidad- contabilidad atrasada
+Message-ID: <0c531681a7bd259cd1b39604f3d71315@www.destacavox.com>
+Date: Tue, 03 Mar 2015 14:06:30 +0000
+From: "El Roble Consultores " <envios@destacavox.com>
+Reply-To: envios@destacavox.com
+MIME-Version: 1.0
+X-Mailer-LID: 36
+List-Unsubscribe: <http://www.destacavox.com/mailing/unsubscribe.php?M=3483384&C=5fb70a9fa44e739edca5cc91af88fbd7&L=36&N=82>
+X-Mailer-RecptId: 3483384
+X-Mailer-SID: 82
+X-Mailer-Sent-By: 1
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - srv1.destacavox.com
+X-AntiAbuse: Original Domain - untroubled.org
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - destacavox.com
+X-Get-Message-Sender-Via: srv1.destacavox.com: authenticated_id: envios@destacavox.com
+Content-Length: 1582
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8"
+/>
+        <title>Contabilidad</title>
+</head>
+
+    <body>
+<div align="center" class="style1">Si no puede ver el siguiente mensaje <a
+href="http://www.destacavox.com/mailing/link.php?M=3483384&N=82&L=31&F=H"
+target="_blank">Click Aqui</a></div>
+<div align="center">
+<table border="0" align="center" style="width: 460px;"><!-- IMAGEN
+mailto:MAIL-->
+<tbody>
+<tr><th width="" height="652" scope="row"><a
+href="http://www.destacavox.com/mailing/link.php?M=3483384&N=82&L=32&F=H"><img
+src="http://www.oficinacd.cl/clientes/contaroble1/aviso.jpg" width="800"
+height="652" /></a>
+<h1 align="center"></h1>
+</th></tr>
+<!-- FIN IMAGEN --></tbody>
+</table>
+<!-- COMIENZO LEYES -->
+<div align="center">
+<h4 align="center">Todos los Derechos de dise&ntilde;o e Imagen
+est&aacute;n registrados | Prohibida su reproducci&oacute;n</h4>
+<div>para desuscribir pinche aqui<a
+href="http://www.destacavox.com/mailing/unsubscribe.php?M=3483384&C=5fb70a9fa44e739edca5cc91af88fbd7&L=36&N=82">Unsubscribe
+me from this list</a></div>
+</div>
+<!-- FIN LEYES --></div>
+<img
+src="http://www.destacavox.com/mailing/open.php?M=3483384&L=36&N=82&F=H&image=.jpg"
+height="1" width="10"></body>
+</html>
+</noscript></a></noscript></a>
+    <img
+src="http://www.destacavox.com/mailing/open.php?M=3483384&L=36&N=82&F=H&image=.jpg"
+height="1" width="10"></body>
+</html>

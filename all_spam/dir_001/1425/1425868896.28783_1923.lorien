@@ -1,0 +1,39 @@
+Delivered-To: lists-linux-xfs@bruce-guenter.dyndns.org
+Received: (qmail 15309 invoked from network); 7 Mar 2015 08:15:55 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 07 Mar 2015 08:15:55 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 07 Mar 2015 08:15:55 -0000
+Received: (qmail 28769 invoked from network); 7 Mar 2015 08:15:54 -0000
+Received: from ufr40146481.0.0.3 ([180.214.53.48])
+  by zak.futurequest.net ([69.5.6.152])
+  with ESMTP via TCP; 07 Mar 2015 08:15:54 -0000
+Return-Path: <mail002200000139421@mail1.proche-s.jp>
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/simple; d=kgbfis7n.link; s=sel; q=dns/txt; l=1; bh=ye5WgdPFn3VBwno4tn7fRiWeGHs=; h=From; b=O5uVVqakHoHdlVrA+GQM3L8fiCFCFclwLr3+jR8MrxPTEmVtvOqTXaZc6dRaBtMrofvkWt44A63Www+FL09ktNv8BEO75+rvtg6KmbpO57qV3dzm+9B436OwYAe7qvP+/XQdv5Vz3EXZTkUNjjxYH108OaO9qFDZKGJddKVEXZ4=
+Date: Sat, 07 Mar 2015 17:15:48 +0900
+MIME-Version: 1.0
+From: mail@kgbfis7n.link
+To: lists-linux-xfs@bruce-guenter.dyndns.org
+Message-Id: 411669426_892068354fa18e501416@kgbfis7n.link
+Content-Type: text/plain; charset="Shift_JIS"
+Content-Transfer-Encoding: base64
+Subject: =?ISO-2022-JP?B?VGF4IEJpeiBJbm5vdmF0aW9uGyRCQmVJPSROOWROTyRHJDkhIzI/OE5APjFgO3tNTSRYTyJNbSRyJDUkbCRKJCQkTiRHJDckZyQmJCshKUA+MWA7e01NJE8kSSQmJDckRiRiNS5KfU1NJEsbKEIxGyRCMi8bKEI0MDAwGyRCS3wkcjx1JDE8aCRDJEZEOiQtJD8kJCRIQFokSztXJEMkRiQkJGkkQyQ3JGMkJCReJDkhIxsoQg==?=
+
+VGF4IEJpeiBJbm5vdmF0aW9uDQoNClRheCBCaXogSW5ub3ZhdGlvbpHjlVyCzI2El82CxYK3gUKJ
+vYzMkLyJgI6bl2yC1phBl42C8IKzguqCyIKigsyCxYK1guWCpIKpgUiQvImAjpuXbILNgseCpIK1
+gsSC4ItNlfuXbILJMYmtNDAwMJacgvCO84KvjuaCwYLEkriCq4K9gqKCxpDYgsmOdoLBgsSCooLn
+gsGCtYLhgqKC3IK3gUINCg0KIIl7IJeXICiWsyCXvykgDQpodHRwOi8va2diZmlzN24ubGluay8l
+N2Vwby9tYWlsYm94L1BDOjQyMjEzNDQ1NGZhMThlNTAwNmI0L01DOjRhM2JiYzAyMmY1ZWQzNDYy
+NzAwYzBhMzg2ZGFmZWYwLz9ndWlkPU9ODQoNCg0KgZ8gUCByIG8gYyBoIGUgcyCRiyCM+yANCiCB
+piCCqCCQUyCTliCCvSCC6CCCzCCCyCCCoiCV+yCC1iANCiCR3iCJ7yCBRSCDSSCDdiCDZyCDQSCD
+RSCDZyCCzCCCsiCYQSCXjSCCzSCCqCCQlCCCxSCCtyCCqiCJuiCLTCCCoiCCuCCC6iCCqSCCzCCR
+iyCM+yCC1iCBdSCR3iCJ7yCK8yCWXSCBdiCCxiCCsiCV1CCQTSCC8CCCqCCK6CCCoiCSdiCCtSCC
+3CCCtyCBQiANCj09PT09PT09PT09PT0NCiMjIJHeIInvIIi2IJDmIA0KaW5mb0Bwcm9jaGUtcy5q
+cA0KIyMgkd4gie8gg3Qgg0gggVsgg4AgDQpodHRwOi8va2diZmlzN24ubGluay8lN2Vwby9pbnF1
+aXJ5L1BDOjQyMjEzNDQ1NGZhMThlNTAwNmI0L01DOjRhM2JiYzAyMmY1ZWQzNDYyNzAwYzBhMzg2
+ZGFmZWYwLz9ndWlkPU9ODQoNCjQzOTE2Mw==
+
+
+
+

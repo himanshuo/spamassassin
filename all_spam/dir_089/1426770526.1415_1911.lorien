@@ -1,8 +1,3 @@
-  by bruce-guenter.dyndns.org ([192.168.1.2]); 19 Mar 2015 07:47:31 -0000
-  by localhost ([127.0.0.1])
-  with SMTP via TCP; 19 Mar 2015 07:47:31 -0000
-  by zak.futurequest.net ([69.5.6.152])
-  with ESMTP via TCP; 19 Mar 2015 07:47:29 -0000
 DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=DKIM1; d=probeens.com;
  h=To:Subject:Message-ID:Date:From:Reply-To:MIME-Version:Content-Type:Content-Transfer-Encoding; i=postmaster@probeens.com;
  bh=BSKRz/ofjgcH0hW6XxrfqoGKivI=;
@@ -520,3 +515,4 @@ src="http://track13199141.effimails5.com/servlet/effi.pixel?id_compteur=13199141
 <img
 src="http://probeens.com/open.php?M=2340159&L=58&N=1786&F=H&image=.jpg"
 height="1" width="10"></body></html>
+

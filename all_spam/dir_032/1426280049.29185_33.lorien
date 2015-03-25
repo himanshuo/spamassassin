@@ -1,8 +1,3 @@
-  by bruce-guenter.dyndns.org ([192.168.1.2]); 13 Mar 2015 15:19:54 -0000
-  by localhost ([127.0.0.1])
-  with SMTP via TCP; 13 Mar 2015 15:19:54 -0000
-  by zak.futurequest.net ([69.5.6.152])
-  with ESMTP via TCP; 13 Mar 2015 15:19:53 -0000
 DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=app; d=wowc.wowcompras.com.br;
  h=From:Subject:To:Date:Message-ID:MIME-Version:Content-Type; i=julia@wowc.wowcompras.com.br;
  bh=sLWyD2NtuVkycg3qS5zJEFqSIWQ=;
@@ -328,3 +323,6 @@ blank"><span color=3D"#000000" style=3D"color: #000000;">acesse aqui</span>=
 </table>
 </div>
 <img src=3D"http://sis.wowc.wowcompras.com.br/a.php?129904.90.853.2"><cente=
+r><p>Caso voc&ecirc; n&atilde;o queira mais receber, <a href=3D"http://sis.=
+wowc.wowcompras.com.br/s.php?129904.90.853.2" target=3D"_blank">acesse aqui=
+ para sair da lista</a>.</p></center></body></html>

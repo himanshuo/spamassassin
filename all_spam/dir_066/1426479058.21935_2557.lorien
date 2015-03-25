@@ -1,8 +1,3 @@
-  by bruce-guenter.dyndns.org ([192.168.1.2]); 14 Mar 2015 01:39:50 -0000
-  by localhost ([127.0.0.1])
-  with SMTP via TCP; 14 Mar 2015 01:39:50 -0000
-  by zak.futurequest.net ([69.5.6.152])
-  with ESMTP via TCP; 14 Mar 2015 01:39:49 -0000
 	by flznuugnkf.px4wnidq.net (Postfix) with ESMTP id 93F9C5642E9
 	for <lists-linux-xfs@bruce-guenter.dyndns.org>; Sat, 14 Mar 2015 10:39:39 +0900 (JST)
 	by eywuhcysmv.px4wnidq.net (Postfix) with ESMTP id 719355401BF
@@ -45,3 +40,4 @@ http://rbka.perceuren.com/TM35R8/0R9TVaEYh10
 info@rbka.perceuren.com
 
 Å¶1Å¶8Å¶çŒÅ¶ñ¢Å¶ñûÅ¶óòÅ¶ópÅ¶ã÷Å¶é~Å¶
+

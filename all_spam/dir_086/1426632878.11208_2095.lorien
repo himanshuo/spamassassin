@@ -1,9 +1,3 @@
-  by bruce-guenter.dyndns.org ([192.168.1.2]); 16 Mar 2015 07:08:01 -0000
-  by localhost ([127.0.0.1])
-  with SMTP via TCP; 16 Mar 2015 07:08:01 -0000
-  by zak.futurequest.net ([69.5.6.152])
-  with SMTP via TCP; 16 Mar 2015 07:08:01 -0000
-          by 127.0.0.1 with SMTP ID 429
           for <lists-linux-xfs@bruce-guenter.dyndns.org>;
           Mon, 16 Mar 2015 16:07:54 +0900 (JST)
 Date: Mon, 16 Mar 2015 16:07:54 +0900 (JST)
@@ -38,3 +32,4 @@ http://cz91.exceed-42-limits.com/5bFh/gKcgL5kMQnTdpYrO
 info@cz91.exceed-42-limits.com
 
 Å¶1Å¶8Å¶çŒÅ¶ñ¢Å¶ñûÅ¶óòÅ¶ópÅ¶ã÷Å¶é~Å¶
+

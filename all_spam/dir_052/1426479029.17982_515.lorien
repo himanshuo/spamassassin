@@ -1,8 +1,3 @@
-  by bruce-guenter.dyndns.org ([192.168.1.2]); 14 Mar 2015 19:01:51 -0000
-  by localhost ([127.0.0.1])
-  with SMTP via TCP; 14 Mar 2015 19:01:51 -0000
-  by zak.futurequest.net ([69.5.6.152])
-  with SMTP via TCP; 14 Mar 2015 19:01:50 -0000
 	by localhost (Postfix)
 	with ESMTP 20141217 S47C22769912B47EF8E30243F356C51FB id B60D9B39
 	for <bruce@bruce-guenter.dyndns.org> from <return-mail-50657@switzerlandjapan15.pink>;
@@ -27,3 +22,6 @@ LS0tLS0tLS0tLS0tLS0tLQ0KDQqBpYjqLpeXgaUNCmh0dHA6Ly93d3cuc3dpdHplcmxhbmRqYXBh
 bjE1LnBpbmsvcmVjZXBib3gvaW5kZXgucGhwP3VrPTRkYTE1ZGI3MjFmNDkwNzkwOTQ5Y2Y4YTg1
 MmM1Y2YzDQotLS0tLS0tLS0tLS0tLS0tLS0tLQ0KDQqCqJJtgueCuV+S4l+Ofg0KaHR0cDovL3d3
 dy5zd2l0emVybGFuZGphcGFuMTUucGluay90b3AvaW5kZXgucGhwP3VrPTRkYTE1ZGI3MjFmNDkw
+NzkwOTQ5Y2Y4YTg1MmM1Y2YzDQqBoYGhgaGBoYGhgaENCjE4II3OIJaiIJaeDQqXmCCXcCCL1iCO
+fg0KgaGBoYGhgaGBoYGh
+

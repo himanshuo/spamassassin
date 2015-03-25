@@ -1,11 +1,7 @@
-  by bruce-guenter.dyndns.org ([192.168.1.2]); 13 Mar 2015 21:56:21 -0000
-  by localhost ([127.0.0.1])
-  with SMTP via TCP; 13 Mar 2015 21:56:21 -0000
-  by zak.futurequest.net ([69.5.6.152])
-  with SMTP via TCP; 13 Mar 2015 21:56:20 -0000
 	by 187.112.20.80 with ESMTPA; Fri, 13 Mar 2015 18:59:19 -0300
 From: brandi@jedstock.com
 To: bruce@bruce-guenter.dyndns.org
 Subject: Dip into the love ocean
 Date: Fri, 13 Mar 2015 18:46:01 -0300
 Content-Length: 62
+

@@ -1,8 +1,3 @@
-  by bruce-guenter.dyndns.org ([192.168.1.2]); 18 Mar 2015 05:27:38 -0000
-  by localhost ([127.0.0.1])
-  with SMTP via TCP; 18 Mar 2015 05:27:38 -0000
-  by zak.futurequest.net ([69.5.6.152])
-  with ESMTP via TCP; 18 Mar 2015 05:27:37 -0000
 	id 46BFDC2617; Wed, 18 Mar 2015 14:27:24 +0900 (JST)
 	by localhost (Postfix) with ESMTP id DEB191048C4E
 	for <lists-bikini@bruce-guenter.dyndns.org>; Wed, 18 Mar 2015 14:27:15 +0900 (JST)
@@ -76,3 +71,6 @@ http://hybtys.ccidafragiz.com/reg/sb01x.php?gs=JQkm8ML18akwt0Lwz0zM80ku8mrR8Qo1z
 
 
 
+
+
+ストップ+メール

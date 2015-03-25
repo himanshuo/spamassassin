@@ -1,8 +1,3 @@
-  by bruce-guenter.dyndns.org ([192.168.1.2]); 19 Mar 2015 19:37:51 -0000
-  by localhost ([127.0.0.1])
-  with SMTP via TCP; 19 Mar 2015 19:37:51 -0000
-  by zak.futurequest.net ([69.5.6.152])
-  with ESMTP via TCP; 19 Mar 2015 19:37:38 -0000
 DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; d=servicemailpost2.ru; s=dkim;
 	h=Sender:Content-Type:MIME-Version:Date:Subject:From:Message-ID; bh=W9o134OMNlWJJFk7ngbTWuyvI8iucvQXsDqvzR/Yfao=;
 	b=DezkKFkgfY8AF6PVNdRxNiYlXXBRlHMeXe/Q6t+sp/97+NiMY9OSW8hXF3R6HFfAyIyyCyNqTh5Bq+FO19G/t8WwqFspVdb/PNunrcOQGS+hFBHYfR1y5fJ3jqP5lUDHJLs7/NQk/EtDEmipzz65i02FIsd2ULW2Pk48Bj8k1FA=;
@@ -100,3 +95,4 @@ href=3D"mailto:info@mail-project-ru.ru?subject=3D=CD=E0=E6=EC=E8=F2=E5 =EE=
 color=3D#333df0 face=3DTahoma>Unsubscribe - =CE=F2=EF=E8=F1=E0=F2=FC=F1=FF=
  =EE=F2=20
 =F0=E0=F1=F1=FB=EB=EA=E8</FONT></A></DIV></BODY></HTML>
+

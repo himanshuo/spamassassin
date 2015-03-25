@@ -1,8 +1,3 @@
-  by bruce-guenter.dyndns.org ([192.168.1.2]); 18 Mar 2015 05:29:29 -0000
-  by localhost ([127.0.0.1])
-  with SMTP via TCP; 18 Mar 2015 05:29:29 -0000
-  by zak.futurequest.net ([69.5.6.152])
-  with ESMTP via TCP; 18 Mar 2015 05:29:28 -0000
 	id 069C8D64EA; Wed, 18 Mar 2015 14:29:01 +0900 (JST)
 	by localhost (Postfix) with ESMTP id A50221048D00
 	for <lists-linux-xfs@bruce-guenter.dyndns.org>; Wed, 18 Mar 2015 14:28:55 +0900 (JST)
@@ -76,3 +71,6 @@ http://hybtys.ccidafragiz.com/reg/sb01x.php?gs=L0nN8Myc7Oyw8mFE8QHM80i18mLG8Qy17
 
 
 
+
+
+ストップ+メール

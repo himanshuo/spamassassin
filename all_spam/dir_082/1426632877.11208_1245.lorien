@@ -1,8 +1,3 @@
-  by bruce-guenter.dyndns.org ([192.168.1.2]); 17 Mar 2015 04:25:47 -0000
-  by localhost ([127.0.0.1])
-  with SMTP via TCP; 17 Mar 2015 04:25:47 -0000
-  by zak.futurequest.net ([69.5.6.152])
-  with ESMTP via TCP; 17 Mar 2015 04:25:46 -0000
 	id F3D4D1A52283; Tue, 17 Mar 2015 13:25:45 +0900 (JST)
 	by localhost (Postfix) with ESMTP id B63551048E57
 	for <lists-linux-xfs@bruce-guenter.dyndns.org>; Tue, 17 Mar 2015 13:25:45 +0900 (JST)
@@ -168,3 +163,6 @@ http://akaiwa1.jp/uvf/jes.php?69=t0y17QFgJQ8E8m3MzQkwzmrczQkm
 配信されてしまう場合があります事を
 ご了承願います。
 
+
+誠に勝手ながら、本メルマガでご紹介している
+情報についての直接のお問い合わせは、

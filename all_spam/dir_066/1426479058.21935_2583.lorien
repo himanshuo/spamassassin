@@ -1,8 +1,3 @@
-  by bruce-guenter.dyndns.org ([192.168.1.2]); 14 Mar 2015 11:41:17 -0000
-  by localhost ([127.0.0.1])
-  with SMTP via TCP; 14 Mar 2015 11:41:17 -0000
-  by zak.futurequest.net ([69.5.6.152])
-  with ESMTP via TCP; 14 Mar 2015 11:41:16 -0000
 	by flznuugnkf.px4wnidq.net (Postfix) with ESMTP id 5066A563CF8
 	for <lists-linux-xfs@bruce-guenter.dyndns.org>; Sat, 14 Mar 2015 20:41:03 +0900 (JST)
 	by eywuhcysmv.px4wnidq.net (Postfix) with ESMTP id 2C3E954043A
@@ -41,3 +36,4 @@ http://x1qp.perceuren.com/PJT1O/YWOZPS0AV7XX
 info@x1qp.perceuren.com
 
 Å¶1Å¶8Å¶çŒÅ¶ñ¢Å¶ñûÅ¶óòÅ¶ópÅ¶ã÷Å¶é~Å¶
+

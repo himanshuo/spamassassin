@@ -1,0 +1,70 @@
+Delivered-To: bruce@untroubled.org
+Received: (fqmail 17143 invoked from network); 02 Mar 2015 11:44:35 -0000
+Received: (qmail 32635 invoked from network); 2 Mar 2015 11:44:34 -0000
+Received: from rip.mx08.futurequest.net (rip.mx08.futurequest.net [10.2.1.180])
+  by mx08.futurequest.net ([69.5.6.180]); 02 Mar 2015 11:44:34 -0000
+Received: from mail-qg0-f65.google.com (mail-qg0-f65.google.com [209.85.192.65])
+  by rip.mx08.futurequest.net ([10.2.1.180])
+  with ESMTP via TCP; 02 Mar 2015 11:44:34 -0000
+Received: by mail-qg0-f65.google.com with SMTP id e89so3415709qgf.0
+        for <bruce@untroubled.org>; Mon, 02 Mar 2015 03:44:34 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=message-id:date:mime-version:from:to:reply-to:subject:content-type;
+        bh=X7a8OLC1NzHnJIzOrgUC8xCwZ/cvbMMJrMqiONLsUMY=;
+        b=gqkwcelvmd2dIBucwlXsJq9LpUAYWsXxwsCxrP4mrMK4xcIeWSCR8QEf+c8Gkf1abz
+         OBOlfXMjih79CW8utP2WPFZITLOLqm4/KD7M1AcXhx+7wf29qF4PSb8XuI2Uy1PVXJ44
+         WerYp9F6+8JYlvOkBEDEHMQDaqtZ1gWzxQYdN97Vz7R9JuPhqk0zKKNxMHoWKnjLsEym
+         Wpj5xD2U92uuVwqr9WOsZ4cDdodz2EU86jHIzMyZ+gRJ5wfFitj5tOa7KoJLeeoh8jGn
+         Lsm+1UQ5udWoO8veeDx7BSAClGUvmCM6XBjCp3eNs2nwU+bJCMJLrv8HfmadtbPzRyZn
+         oOMg==
+X-Received: by 10.140.96.55 with SMTP id j52mr48340691qge.92.1425296674264;
+        Mon, 02 Mar 2015 03:44:34 -0800 (PST)
+Return-Path: <bumpyjujigkmba@gmail.com>
+Received: from newtestermssqla ([104.46.97.106])
+        by mx.google.com with ESMTPSA id b14sm8222910qaq.46.2015.03.02.03.44.32
+        for <bruce@untroubled.org>
+        (version=TLSv1 cipher=ECDHE-RSA-AES128-SHA bits=128/128);
+        Mon, 02 Mar 2015 03:44:33 -0800 (PST)
+Message-ID: <54f44d21.ce71e00a.22ff.ffffb927@mx.google.com>
+Date: Mon, 02 Mar 2015 03:44:33 -0800 (PST)
+X-Google-Original-Date: 2 Mar 2015 11:44:29 +0000
+MIME-Version: 1.0
+From: =?utf-8?B?YWM=?= <bumpyjujigkmba@gmail.com>
+To: bruce@untroubled.org
+Reply-To: =?utf-8?B?YWM=?= <bumpyjujigkmba@gmail.com>
+Subject: =?utf-8?B?UmVkYnVsbCBFbmVyZ3kgRHJpbmsgTW9iaWxlIEFkdmVydGlzbWVudA==?=
+Content-Type: multipart/alternative;
+ boundary=--boundary_18579_9b685770-b6d0-4e4c-8bdd-3e910a370032
+Content-Length: 1758
+
+
+----boundary_18579_9b685770-b6d0-4e4c-8bdd-3e910a370032
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: base64
+
+SGkgR2V0ICQzNTAgd2Vla2x5IGZvciBkcml2aW5nIGFyb3VuZCB3aXRoIFJlZGJ1bGwgRW5l
+cmd5IERyaW5rIGNhciB3cmFwIGxvZ28gYWR2ZXJ0IGNvbXBhbnkgb24geW91ciBjYXIgb3Ig
+dHJ1Y2suSWYgeW91IGhhdmUgZ290IGEgY2FyLCB0cnVjayB5b3UgYXJlIHF1YWxpZmllZC4g
+VGhlIHdyYXAgZG9lc24ndCBkYW1hZ2UgQ2FyLkZvciBtb3JlIGRldGFpbHMgIHNlbmQgeW91
+ciBjb250YWN0IFBob25lLCYgTWFrZSBvZiBjYXIveWVhciAgaWYgeW91IGFyZSBpbnRlcmVz
+dGVkIHRvIFJlZ2lvbmFsIEFkdmVydCBDby1vcmRpbmF0b3IuDQoNCllvdSBjYW4gcmVhY2gg
+bWUgdmlhIGVtYWlsICAgcmVkYnVsbGRyaW5rYWR2ZXJ0aXNtZW50QGdtYWlsLmNvbQ0KDQpQ
+bGVhc2UgcmVwbHkgdG8gbXkgZW1haWwgYWJvdmUgb25seSBhcyB0aGUgQ3JhaWdzbGlzdCB3
+b3VsZCBub3Qgd29yay4NCg0KSGF2ZSBhIFdvbmRlcmZ1bCB3ZWVrZW5kLA0KTWljaGVsbGUg
+U2luZ2xldG9uDQpyZWRidWxsZHJpbmthZHZlcnRpc21lbnRAZ21haWwuY29t
+----boundary_18579_9b685770-b6d0-4e4c-8bdd-3e910a370032
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: base64
+
+SGkgR2V0ICQzNTAgd2Vla2x5IGZvciBkcml2aW5nIGFyb3VuZCB3aXRoIFJlZGJ1bGwgRW5l
+cmd5IERyaW5rIGNhciB3cmFwIGxvZ28gYWR2ZXJ0IGNvbXBhbnkgb24geW91ciBjYXIgb3Ig
+dHJ1Y2suSWYgeW91IGhhdmUgZ290IGEgY2FyLCB0cnVjayB5b3UgYXJlIHF1YWxpZmllZC4g
+VGhlIHdyYXAgZG9lc24ndCBkYW1hZ2UgQ2FyLkZvciBtb3JlIGRldGFpbHMgIHNlbmQgeW91
+ciBjb250YWN0IFBob25lLCYgTWFrZSBvZiBjYXIveWVhciAgaWYgeW91IGFyZSBpbnRlcmVz
+dGVkIHRvIFJlZ2lvbmFsIEFkdmVydCBDby1vcmRpbmF0b3IuDQoNCllvdSBjYW4gcmVhY2gg
+bWUgdmlhIGVtYWlsICAgcmVkYnVsbGRyaW5rYWR2ZXJ0aXNtZW50QGdtYWlsLmNvbQ0KDQpQ
+bGVhc2UgcmVwbHkgdG8gbXkgZW1haWwgYWJvdmUgb25seSBhcyB0aGUgQ3JhaWdzbGlzdCB3
+b3VsZCBub3Qgd29yay4NCg0KSGF2ZSBhIFdvbmRlcmZ1bCB3ZWVrZW5kLA0KTWljaGVsbGUg
+U2luZ2xldG9uDQpyZWRidWxsZHJpbmthZHZlcnRpc21lbnRAZ21haWwuY29t
+----boundary_18579_9b685770-b6d0-4e4c-8bdd-3e910a370032--

@@ -1,8 +1,3 @@
-  by bruce-guenter.dyndns.org ([192.168.1.2]); 18 Mar 2015 13:19:59 -0000
-  by localhost ([127.0.0.1])
-  with SMTP via TCP; 18 Mar 2015 13:19:59 -0000
-  by zak.futurequest.net ([69.5.6.152])
-  with ESMTP via TCP; 18 Mar 2015 13:19:56 -0000
 DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=163.com;
 	s=s110527; h=Date:From:Subject:MIME-Version:Message-ID; bh=ueL+a
 	6ZjufmzOrWqTXj9OEmgdg4tYEnwU3d6tYG1IqA=; b=YxTL35TB9GoxqQ0a8ujqd
@@ -5088,3 +5083,4 @@ YW4+t708c3BhbiBjbGFzcz0iR1VPMTYzIj7A0LvhwvCjv9TatPPCvaOsy/vG5Mv7yMu2vLK7yM+1
 wzwvc3Bhbj63qDxzcGFuIGNsYXNzPSJHVU8xNjMiPrz7wO7Q47b5tcTD5qOsvs3I/Lj4wO7Q47b5
 MTAwMDwvc3Bhbj48YnI+CjwvZGl2Pjxicj48YnI+PHNwYW4gdGl0bGU9Im5ldGVhc2Vmb290ZXIi
 PjxzcGFuIGlkPSJuZXRlYXNlX21haWxfZm9vdGVyIj48L3NwYW4+PC9zcGFuPg==
+------=_Part_494014_1953650631.1426684337589--

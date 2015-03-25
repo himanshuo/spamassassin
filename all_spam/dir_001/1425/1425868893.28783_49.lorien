@@ -1,0 +1,30 @@
+Delivered-To: lists-linux-xfs@bruce-guenter.dyndns.org
+Received: (qmail 24502 invoked from network); 8 Mar 2015 06:27:38 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 08 Mar 2015 06:27:38 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 08 Mar 2015 06:27:38 -0000
+Received: (qmail 5961 invoked from network); 8 Mar 2015 06:27:37 -0000
+Received: from upb29298164.7.3.1 ([180.214.53.36])
+  by zak.futurequest.net ([69.5.6.152])
+  with ESMTP via TCP; 08 Mar 2015 06:27:37 -0000
+Return-Path: <mail002200000153171@mail2.proche-s.jp>
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/simple; d=6ceipb8y.link; s=sel; q=dns/txt; l=1; bh=xjrm3U/J+d2maXDoJ9E/fHP+hBw=; h=From; b=iABckt+ECegwoNLv10C04Py6FqKVEBmA9KWIiqfiTHPagloRZ8+ZHgj02kryfv22SsT1djmbOUEpzbt1TcxVO39CtCy6Zh3pnEjtIv4g8akkw++KT91dPoWQN9f7PZSVCUayuLJGK7NXLREB1X/zXEyq+Zy7uG1gCp8t7mICxDQ=
+Date: Sun, 08 Mar 2015 15:27:35 +0900
+MIME-Version: 1.0
+From: mail@6ceipb8y.link
+To: lists-linux-xfs@bruce-guenter.dyndns.org
+Message-Id: 795620299_892068354fa18e501416@6ceipb8y.link
+Content-Type: text/plain; charset="Shift_JIS"
+Content-Transfer-Encoding: base64
+Subject: =?ISO-2022-JP?B?MjAbJEJLfCVdJSQlcyVIJCxESTJDJDUkbCRGJCQkXiQ5InYbKEI=?=
+
+MjCWnIN8g0ODk4Nngs0NCpC8iYCOm4/SipeXbILmguiSx4nBgrOC6oLEgqKC3IK3gfQNCg0KgaWB
+eZC8iYCOm4/SipeBepdsgqmC54LMg4GDYoNagVuDV4LNgrGCv4LngaUNCmh0dHA6Ly82Y2VpcGI4
+eS5saW5rLyU3ZXBvL21haWxib3gvUEM6NDIyMTM0NDU0ZmExOGU1MDA2YjQvSUM6TzhlU3VmWHlU
+Rlc3WTZwd1ZKMXIvP2d1aWQ9T04=
+
+
+
+

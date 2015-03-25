@@ -1,8 +1,3 @@
-  by bruce-guenter.dyndns.org ([192.168.1.2]); 10 Mar 2015 08:54:32 -0000
-  by localhost ([127.0.0.1])
-  with SMTP via TCP; 10 Mar 2015 08:54:32 -0000
-  by zak.futurequest.net ([69.5.6.152])
-  with ESMTP via TCP; 10 Mar 2015 08:54:30 -0000
 	by flznuugnkf.px4wnidq.net (Postfix) with ESMTP id A3A03561D3A
 	for <lists-linux-xfs@bruce-guenter.dyndns.org>; Tue, 10 Mar 2015 17:54:28 +0900 (JST)
 	by eywuhcysmv.px4wnidq.net (Postfix) with ESMTP id 836665401E4
@@ -41,3 +36,4 @@ http://e6r4.percgroundah.com/cLRo/QWjQXcUYXX5kZ
 info@e6r4.percgroundah.com
 
 Å¶1Å¶8Å¶çŒÅ¶ñ¢Å¶ñûÅ¶óòÅ¶ópÅ¶ã÷Å¶é~Å¶
+

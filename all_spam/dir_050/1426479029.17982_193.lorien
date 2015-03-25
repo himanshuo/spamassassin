@@ -1,14 +1,8 @@
-  by bruce-guenter.dyndns.org ([192.168.1.2]); 14 Mar 2015 14:07:36 -0000
-  by localhost ([127.0.0.1])
-  with SMTP via TCP; 14 Mar 2015 14:07:36 -0000
-  by zak.futurequest.net ([69.5.6.152])
-  with ESMTP via TCP; 14 Mar 2015 14:07:35 -0000
 X-Yahoo-Newman-Property: ymail-3
 X-Yahoo-Newman-Id: 663066.99410.bm@omp502.mail.kks.yahoo.co.jp
 DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
   s=yj20110701; d=yahoo.co.jp;
   b=u/z1Xq6mvGP7+aHmw4A2uZX+UYROONwTTrg3xN3BdfZWZXAqQi2RzejIac+5EqaHPPiDijljIQwRus4Hfqjeer5BFbczjYe6eFUkXl97tAlt77XujwG52Q1sEWe1/ydM/cdIueO8sqTEnyiXYKUs6sqwoKkZ9dsGGEJ9Bdjmi0k=  ;
-  by smtp526.mail.kks.yahoo.co.jp with SMTP; 14 Mar 2015 14:07:34 -0000
 X-YMail-JAS: WpDJQekVM1kKupUc_qJVPRFJ7yN02oDvA6S3_lssfmWhK396RZnHUM4poRg326DB76T0GyIlmxkFP.9wPEJihCZBd8l_z6cjPTwrwSDiLUe8QlxcIFAa6BCCOcxttpaQig--
 X-Apparently-From: <n2xentp4@yahoo.co.jp>
 X-YMail-OSG: .er1PJIVM1k7NjDGTxFUGqYK5p5SDnINK5WodfLRQj5fGy6
@@ -42,3 +36,4 @@ http://js.l.y23fg7gev.com/home/index.php?key=dc7927b8418d034ab5a3a09e013c1a8e&rm
 
 H lA lP P Y
  l  l   lN E X T
+

@@ -1,8 +1,3 @@
-  by bruce-guenter.dyndns.org ([192.168.1.2]); 20 Mar 2015 11:32:36 -0000
-  by localhost ([127.0.0.1])
-  with SMTP via TCP; 20 Mar 2015 11:32:36 -0000
-  by zak.futurequest.net ([69.5.6.152])
-  with ESMTP via TCP; 20 Mar 2015 11:32:35 -0000
 DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=DKIM1; d=probeens.com;
  h=To:Subject:Message-ID:Date:From:Reply-To:MIME-Version:Content-Type:Content-Transfer-Encoding; i=postmaster@probeens.com;
  bh=1zP5GBrJFymEKCHdvF32JDzauLQ=;
@@ -353,3 +348,4 @@ height="1" width="10"></body>
 </html>
 
 --b1_e3c18000ecad48afef6128f37a18d777--
+

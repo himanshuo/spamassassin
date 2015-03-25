@@ -1,8 +1,3 @@
-  by bruce-guenter.dyndns.org ([192.168.1.2]); 13 Mar 2015 03:25:06 -0000
-  by localhost ([127.0.0.1])
-  with SMTP via TCP; 13 Mar 2015 03:25:06 -0000
-  by zak.futurequest.net ([69.5.6.152])
-  with SMTP via TCP; 13 Mar 2015 03:25:05 -0000
 	by localhost (Postfix)
 	with ESMTP 20141217 S37DBFD7A69574403B4DD734E3E11278A id A5B176A9
 	for <bruce@bruce-guenter.dyndns.org> from <return-mail-49856@westernjapan.co>;
@@ -29,3 +24,4 @@ NDkwNzkwOTQ5Y2Y4YTg1MmM1Y2YzDQotLS0tLS0tLS0tLS0tLS0tLS0tLQ0KDQqCqJJtgueCuV+S
 4l+Ofg0KaHR0cDovL3d3dy53ZXN0ZXJuamFwYW4uY28vdG9wL2luZGV4LnBocD91az00ZGExNWRi
 NzIxZjQ5MDc5MDk0OWNmOGE4NTJjNWNmMw0KgaGBoYGhgaGBoYGhDQoxOCCNziCWoiCWng0Kl5gg
 l3Agi9Ygjn4NCoGhgaGBoYGhgaGBoQ==
+

@@ -1,8 +1,3 @@
-  by bruce-guenter.dyndns.org ([192.168.1.2]); 15 Mar 2015 12:13:24 -0000
-  by localhost ([127.0.0.1])
-  with SMTP via TCP; 15 Mar 2015 12:13:24 -0000
-  by zak.futurequest.net ([69.5.6.152])
-  with ESMTP via TCP; 15 Mar 2015 12:13:23 -0000
 	id DA84FDACAA; Sun, 15 Mar 2015 21:12:55 +0900 (JST)
 	by localhost (Postfix) with ESMTP id 84CB81048CC0
 	for <bruce@bruce-guenter.dyndns.org>; Sun, 15 Mar 2015 21:12:42 +0900 (JST)
@@ -96,3 +91,4 @@ http://toxwgx.zyadokbgakn.com/reg/sb01x.php?gs=t0818mZM7Qig80FwzmLwL0np808wzQr5
 
 
 
+ストップ+メール

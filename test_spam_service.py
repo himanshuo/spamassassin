@@ -12,6 +12,7 @@ class TestSpamService(unittest.TestCase):
         self.teach_url = "http://localhost:8000/teach"
 
 
+
     def _setup_request_data(self, filename):
         file= open(filename, 'rb')
         data = {}
@@ -32,32 +33,47 @@ class TestSpamService(unittest.TestCase):
 
         message= '\n'.join(lines[lineno:])
         message = message.rstrip('\n')
-        data['message'] = message
+        data['message'] = unicode(message,'utf8','ignore')
         return data
 
     def test_basic(self):
-        data = self._setup_request_data('./all_spam/1426089335.3311_583.lorien')
+        data = self._setup_request_data('./all_spam/dir_114/1426893085.3375_3635.lorien')
         data = json.dumps(data)
 
 
-        headers = {
-            'Content-type': 'application/json'
-        }
 
         r = requests.post(self.url, data=data)
-        self.assertEqual("HAM", r.text)
+        self.assertEqual("SPAM", r.text)
 
     def test_teach(self):
-        data = self._setup_request_data('./all_spam/1426089335.3311_583.lorien')
+        data = self._setup_request_data('./all_spam/dir_114/1426893085.3375_3635.lorien')
         data = json.dumps(data)
 
+    def test_file(self):
+        files = {'file': open('./all_spam/dir_114/1426893085.3375_3635.lorien', 'rb')}
+        r = requests.post(self.url+"?is_file=true", files=files)
+        self.assertEqual(u'SPAM', r.text)
 
-        headers = {
-            'Content-type': 'application/json'
-        }
+    def test_full_report_file(self):
+        files = {'file': open('./all_spam/dir_114/1426893085.3375_3635.lorien', 'rb')}
+        r = requests.post(self.url+"?is_file=true&full_report=true", files=files)
+        self.assertTrue(r.text)
 
-        r = requests.post(self.teach_url, data=data)
-        self.assertEqual("Learned.", r.text)
+    def test_full_report_dict(self):
+        data = self._setup_request_data('./all_spam/dir_114/1426893085.3375_3635.lorien')
+        data = json.dumps(data)
+        r = requests.post(self.url+"?full_report=true", data=data)
+        self.assertTrue(len(r.text)>50)
+
+    def test_incorrect_input_vals(self):
+        data = self._setup_request_data('./all_spam/dir_114/1426893085.3375_3635.lorien')
+        data = json.dumps(data)
+        r = requests.post(self.url+"?is_file=true", data=data)
+        self.assertEqual(u"Malformed Request", r.text)
+
+
+        #r = requests.post(self.teach_url, data=data)
+        #self.assertEqual("Learned", r.text)
 
 
 
@@ -75,7 +91,8 @@ def fix_messages(folder_name):
                 i+=1
                 for lineno in range(0,len(cur_file_contents)-1):
                     #cur_file.write(cur_file_contents[lineno])
-                    if "Received:" not in cur_file_contents[lineno] and "Delivered-To:" not in cur_file_contents[lineno] :
+                    if "Received:" not in cur_file_contents[lineno] and "Delivered-To:" not in cur_file_contents[lineno] \
+                            and " by " not in cur_file_contents[lineno] and "  with " not in cur_file_contents[lineno]:
                         cur_file.write(cur_file_contents[lineno])
                         #print "YES", cur_file_contents[lineno]
                     else:

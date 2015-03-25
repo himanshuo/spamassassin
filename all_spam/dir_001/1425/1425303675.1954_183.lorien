@@ -1,0 +1,80 @@
+Delivered-To: cvs@bruce-guenter.dyndns.org
+Received: (qmail 16102 invoked from network); 28 Feb 2015 13:20:39 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 28 Feb 2015 13:20:39 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 28 Feb 2015 13:20:39 -0000
+Received: (qmail 15095 invoked from network); 28 Feb 2015 13:20:38 -0000
+Received: from r001-fai001.localhost ([103.240.119.41])
+  by zak.futurequest.net ([69.5.6.152])
+  with ESMTP via TCP; 28 Feb 2015 13:20:38 -0000
+Received: by r001-fai001.localhost (Postfix, from userid 1002)
+	id 0DB9014C11DB; Sat, 28 Feb 2015 22:18:22 +0900 (JST)
+Received: from localhost (unknown [10.252.65.66])
+	by localhost (Postfix) with ESMTP id A2DAA1048DDE
+	for <cvs@bruce-guenter.dyndns.org>; Sat, 28 Feb 2015 22:18:04 +0900 (JST)
+MIME-Version: 1.0
+Content-Type: multipart/related;
+ boundary="=_5badaf0a54cb95027b7cf9cb8a013c3a"
+To: <cvs@bruce-guenter.dyndns.org>
+From: mail@swiabeapl.com
+Subject: =?Shift_JIS?B?k5aO0ILFgs2Q4pHOgsmCqJJmguiCooK9grWC3IK5gvGBSQ==?=
+Message-Id: <20150228131804.A2DAA1048DDE@rzhmilawfs.mglfbao>
+Date: Sat, 28 Feb 2015 22:18:04 +0900 (JST)
+
+--=_5badaf0a54cb95027b7cf9cb8a013c3a
+Content-Type: multipart/alternative;
+ boundary="=_cb3643d1dceca63d1de101ab0edbf26f"
+
+--=_cb3643d1dceca63d1de101ab0edbf26f
+Content-Transfer-Encoding: 7bit
+Content-Type: text/plain; charset=Shift_JIS
+
+
+--=_cb3643d1dceca63d1de101ab0edbf26f
+Content-Transfer-Encoding: base64
+Content-Type: text/html; charset=Shift_JIS
+
+PCFET0NUWVBFIGh0bWwgUFVCTElDICItLy9XM0MvL0RURCBYSFRNTCAxLjEvL0VOIiAiaHR0cDov
+L3d3dy53My5vcmcvVFIveGh0bWwxMS9EVEQveGh0bWwxMS5kdGQiPgo8aHRtbD4NCjxib2R5Pjxk
+aXYgc3R5bGU9J2JvcmRlcjogMXB4IHNvbGlkIGJsYWNrOyBtYXJnaW4tbGVmdDogYXV0bzsgbWFy
+Z2luLXJpZ2h0OiBhdXRvOyB3aWR0aDogMjUwcHg7IGJhY2tncm91bmQtY29sb3I6ICc+PGltZyBz
+cmM9J2NpZDptYWlsX3RvcCcgc3R5bGU9J3dpZHRoOiAyNTBweDsnPjxicj4NCg0KDQo8YnI+DQqO
++5P8gqqCyIKilfuCyYLggqiR3YK1grWC3IK3gUI8YnI+DQo8YnI+DQqRvI7QgsWSZoLnguqCvZX7
+guCCspGKkmuCrYK+grOCooFCPGJyPg0KPGJyPg0KgseC8YLIlfuCyYLggrKXWo6RicKUXILFgreB
+Qjxicj4NCjxicj4NCjGBYDUwlpyJfoFCjmeCopO5gs2CoILIgr2CzIKyjqmXUoLFgreBQjxicj4N
+Cjxicj4NCpdajpGXpjk2LjWBk4LwjNaC6YNcg3SDQoNBgsiC54KrgsGCxoKggsiCvYLMgqiXzYLJ
+gsiC6oLcgreBQjxicj4NCjxicj4NCjxhIGhyZWY9Imh0dHA6Ly9mMDEuc2h1aWtsZWFzaC5jb20v
+bmc2LzJzaWo5LnBocD80aD1MbWtnOG1MdXptaXd6UTJOOG1wZzhRVHA4TWs1NzBUMzh5YmIiPmh0
+dHA6Ly9mMDEuc2h1aWtsZWFzaC5jb20vbmc2LzJzaWo5LnBocD80aD1MbWtnOG1MdXptaXd6UTJO
+OG1wZzhRVHA4TWs1NzBUMzh5YmI8L2E+PGJyPg0KPGJyPg0KDQo8YnI+DQo8YnI+DQo8YnI+DQo8
+YnI+DQo8YnI+DQo8YnI+DQo8YnI+DQo8YnI+DQo8YnI+DQo8YnI+DQo8YnI+DQo8YnI+DQo8YnI+
+DQo8YnI+DQo8YnI+DQo8YnI+DQo8YnI+DQo8YnI+DQo8YnI+DQo8YnI+DQo8YnI+DQo8YnI+DQo8
+YnI+DQo8YnI+DQqBpSCCx4KxguaC6ILgkFKNuIKqguSC6YKtkuGL4JeYgsWRppP6l1qOkYKqicKU
+XDxicj4NCiAgPGEgaHJlZj0iaHR0cDovL2YwMS5zaHVpa2xlYXNoLmNvbS9uZzYvMnNpajkucGhw
+PzRoPUwwSE44bXBnOFFUTXpRRkU3MHJFN1FMMThFeXU4MFBHN3liYiI+gqiL4ILJgqiNooLogsyV
++4LNg1KDYIOJgqmC5zwvYT48YnI+DQo8YnI+DQqBpSCPiZBTjtKMwJLogsyKyJJQgsmJ0oKwgumV
+m4vGg4KDaoNegVuV5Y9XgXmQbJCUkKeMwIKgguiBejxicj4NCjxhIGhyZWY9Imh0dHA6Ly9mMDEu
+c2h1aWtsZWFzaC5jb20vbmc2LzJzaWo5LnBocD80aD1MbUZtOFFMMXptODE4UTJOOG1wZzhRVDM4
+RXl1ODBQRzd5YmIiPorIklCVm4vGg1iDZYFbg1c8L2E+PGJyPg0KPGJyPg0KgaUgj1SCyYJQifEx
+MDCJfoNWg4eDYoN2gsmQlJWqksqCpIK+gq+CzJWbi8aC8Ir6itSMwJLogsWP0InuPGJyPg0KICA8
+YSBocmVmPSJodHRwOi8vZjAxLnNodWlrbGVhc2guY29tL25nNi8yc2lqOS5waHA/NGg9dDA4R3pt
+ckdMbThjem15dzhtcjF6YWtSSlFGd3owcEciPoNfg0ODXIFbivGC6JO5g3KDV4Nsg1g8L2E+PGJy
+Pg0KPGJyPg0KPGJyPg0KPGJyPg0KPGJyPg0KPGJyPg0KPGJyPg0KPGJyPg0KPGJyPg0KPGJyPg0K
+gaaUepBNkuKOfoLNPGEgaHJlZj0iaHR0cDovL2YwMS5zaHVpa2xlYXNoLmNvbS9uZzYvMnlyLnBo
+cD80aD10MDhHem1yR0pRRnd6MHBHTG1GR3pRTDU4MHltODBMYiI+grGCv4LnPC9hPjxicj4NCjxi
+cj4NCjxicj4NCg0KPC9kaXY+PC9ib2R5Pg0KPC9odG1sPg==
+--=_cb3643d1dceca63d1de101ab0edbf26f--
+
+--=_5badaf0a54cb95027b7cf9cb8a013c3a
+Content-Type: message/external-body; access-type=x-deleted; length=1702
+
+
+Content-Transfer-Encoding: base64
+Content-ID: <mail_top>
+Content-Type: image/gif;
+ name="mail_top.gif"
+
+--=_5badaf0a54cb95027b7cf9cb8a013c3a--
+

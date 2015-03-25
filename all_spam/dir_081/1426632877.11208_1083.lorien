@@ -1,8 +1,3 @@
-  by bruce-guenter.dyndns.org ([192.168.1.2]); 17 Mar 2015 03:19:15 -0000
-  by localhost ([127.0.0.1])
-  with SMTP via TCP; 17 Mar 2015 03:19:15 -0000
-  by zak.futurequest.net ([69.5.6.152])
-  with ESMTP via TCP; 17 Mar 2015 03:19:14 -0000
 	by flznuugnkf.px4wnidq.net (Postfix) with ESMTP id AEDAB563EBC
 	for <lists-linux-xfs@bruce-guenter.dyndns.org>; Tue, 17 Mar 2015 12:18:02 +0900 (JST)
 	by eywuhcysmv.px4wnidq.net (Postfix) with ESMTP id 9057854018D
@@ -45,3 +40,4 @@ http://zd0v.xleang.com/72Pj/7Ue7V7bWSe3fg
 info@zd0v.xleang.com
 
 Å¶1Å¶8Å¶çŒÅ¶ñ¢Å¶ñûÅ¶óòÅ¶ópÅ¶ã÷Å¶é~Å¶
+

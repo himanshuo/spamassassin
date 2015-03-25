@@ -1,8 +1,3 @@
-  by bruce-guenter.dyndns.org ([192.168.1.2]); 18 Mar 2015 01:19:40 -0000
-  by localhost ([127.0.0.1])
-  with SMTP via TCP; 18 Mar 2015 01:19:40 -0000
-  by zak.futurequest.net ([69.5.6.152])
-  with ESMTP via TCP; 18 Mar 2015 01:19:39 -0000
 	id 407C3C2380; Wed, 18 Mar 2015 10:18:40 +0900 (JST)
 	by localhost (Postfix) with ESMTP id 774F11048C2C
 	for <bruce@bruce-guenter.dyndns.org>; Wed, 18 Mar 2015 10:18:31 +0900 (JST)
@@ -65,3 +60,6 @@ http://bijnzx.wjyiigpzsru.com/reg/sb01x.php?gs=JQkm8M8R7O8m8QP170owz0L5t0omz0J38
 
 
 
+
+
+ストップメール

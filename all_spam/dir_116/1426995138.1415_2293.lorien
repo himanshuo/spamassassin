@@ -1,6 +1,3 @@
-  by mx06.futurequest.net ([69.5.6.177]); 21 Mar 2015 21:05:57 -0000
-  by rip.mx06.futurequest.net ([10.2.1.177])
-  with ESMTP via TCP; 21 Mar 2015 21:05:57 -0000
  DB3PR07MB0489.eurprd07.prod.outlook.com (25.160.44.14) with Microsoft SMTP
  Server (TLS) id 15.1.112.19; Sat, 21 Mar 2015 21:05:53 +0000
  (25.160.52.151) with Microsoft SMTP Server (TLS) id 15.1.118.21; Sat, 21 Mar
@@ -400,3 +397,4 @@ Content-Type: application/vnd.openxmlformats-officedocument.wordprocessingml.doc
 Content-Transfer-Encoding: base64
 Content-Disposition: attachment;
 	filename="Formular inscriere Social Media in 10 pasi.docx"
+

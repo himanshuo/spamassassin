@@ -1,8 +1,3 @@
-  by bruce-guenter.dyndns.org ([192.168.1.2]); 17 Mar 2015 22:20:11 -0000
-  by localhost ([127.0.0.1])
-  with SMTP via TCP; 17 Mar 2015 22:20:11 -0000
-  by zak.futurequest.net ([69.5.6.152])
-  with ESMTP via TCP; 17 Mar 2015 22:20:10 -0000
 	by lpbdjeofme.ttvng.com (Postfix) with ESMTP id 6F40F261645
 	for <lists-bikini@bruce-guenter.dyndns.org>; Wed, 18 Mar 2015 07:19:07 +0900 (JST)
 	by zmyxbygfal.ttvng.com (Postfix) with ESMTP id 5FAA52401B2
@@ -78,3 +73,4 @@ Content-Id: <id_f995gif_@_219595265_infodonfinin>
 Content-Disposition: inline;
  filename="f995.gif"
 
+--__Next-66-MKUWRtYWlsIEFHUEx2Mw==RzA=__--
