@@ -160,12 +160,13 @@ class MainHandler(tornado.web.RequestHandler):
 
         cur_proc.stdin.close()
 
+
         result, error = yield [
             Task(cur_proc.stdout.read_until_close),
             Task(cur_proc.stderr.read_until_close)
         ]
 
-        # self.write("inside call_spammassssin")
+
 
         return result, error
 
@@ -213,7 +214,7 @@ class MainHandler(tornado.web.RequestHandler):
             if self.get_argument('is_file', False):
                 file_contents = self.request.files['file'][0]['body']
                 file_contents = file_contents.decode('utf-8','ignore')
-                import pdb;pdb.set_trace()
+
                 data= self._file_to_data(file_contents)
 
 
@@ -245,24 +246,25 @@ class MainHandler(tornado.web.RequestHandler):
 class TeacherHandler(MainHandler):
 
     def prepare(self):
-
-        command = "sudo ./call_sa-learn.sh"
-
         self.STREAM = tornado.process.Subprocess.STREAM
-        print(1)
-        self.teaching_spam_proc = tornado.process.Subprocess(
-            shlex.split(command+" --spam"), stdin=self.STREAM, stdout=self.STREAM, stderr=self.STREAM
-        )
-        print(2)
-        self.teaching_ham_proc = tornado.process.Subprocess(
-            shlex.split(command+" --ham"), stdin=self.STREAM, stdout=self.STREAM, stderr=self.STREAM
-        )
-        print(3)
         self.PREDEFINED_HEADERS = {
             'Content-Type': 'text/plain; charset=UTF-8',
             'MIME-Version': 1.0
         }
-        print(4)
+
+
+    def _get_proc(self, is_spam):
+        command = "sudo ./call_sa-learn.sh"
+        if is_spam:
+            command+=" --spam"
+        else:
+            command+=" --ham"
+
+        args = shlex.split(command)
+        proc = tornado.process.Subprocess(
+            args, stdin=self.STREAM, stdout=self.STREAM, stderr=self.STREAM
+        )
+        return proc
 
 
     @coroutine
@@ -275,47 +277,39 @@ class TeacherHandler(MainHandler):
         :param data:
         :return:
         """
-        print(7.1)
-        cur_proc = None
-        if data.get('spam'):
-            print("7.2 spam")
-            cur_proc = self.teaching_spam_proc
-        else:
-            print("7.2 ham")
-            cur_proc = self.teaching_ham_proc
-        print(7.3)
-        message_with_header = self._get_custom_headers(data) +"\n" + data['message']
-        print(7.4)
+
+        cur_proc = self._get_proc(data.pop('is_spam'))
+
+
+
+        message_with_header = self._get_custom_headers(data) +"\n" + data.get('message',"")
+
         stdin_data = str.encode(message_with_header)
-        print(7.5)
+
         yield Task(cur_proc.stdin.write, stdin_data)
-        print(7.6)
+
+        import pdb;pdb.set_trace()
         cur_proc.stdin.close()
-        print(7.7)
+
         result, error = yield [
             Task(cur_proc.stdout.read_until_close),
             Task(cur_proc.stderr.read_until_close)
         ]
-        print(7.8)
+
         return result, error
 
 
     @gen.coroutine
     def post(self):
-        print(5)
+
         data = json.loads(self.request.body.decode('utf-8'))
-        print(6)
-        print(data)
-        print(7)
+
         if 'message' in data:
             result,error = yield gen.Task(self.teach_spamassassin,data )
 
-            print("-----------------------------------")
-            print(error)
-            print("-----------------------------------")
-            print(8)
+
             if not error:
-                print(9)
+
                 self.write("Learned")
                 self.finish()
             else:

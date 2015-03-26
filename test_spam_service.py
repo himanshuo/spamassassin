@@ -34,20 +34,40 @@ class TestSpamService(unittest.TestCase):
         message= '\n'.join(lines[lineno:])
         message = message.rstrip('\n')
         data['message'] = unicode(message,'utf8','ignore')
+        file.close()
         return data
 
     def test_basic(self):
         data = self._setup_request_data('./all_spam/dir_114/1426893085.3375_3635.lorien')
         data = json.dumps(data)
 
-
-
         r = requests.post(self.url, data=data)
         self.assertEqual("SPAM", r.text)
 
     def test_teach(self):
         data = self._setup_request_data('./all_spam/dir_114/1426893085.3375_3635.lorien')
+        data['is_spam']=True
         data = json.dumps(data)
+
+
+        r = requests.post(self.teach_url, data=data)
+        self.assertEqual("Learned", r.text)
+
+    def test_teach_spam2(self):
+        data = self._setup_request_data('./all_spam/dir_001/1426034214.1415_367.lorien')
+        data['is_spam']=True
+        data = json.dumps(data)
+
+        r = requests.post(self.teach_url, data=data)
+        self.assertEqual("Learned", r.text)
+
+    def test_teach_ham(self):
+        data = self._setup_request_data('./all_ham/Hi')
+        data['is_spam']=False
+        data = json.dumps(data)
+
+        r = requests.post(self.teach_url, data=data)
+        self.assertEqual("Learned", r.text)
 
     def test_file(self):
         files = {'file': open('./all_spam/dir_114/1426893085.3375_3635.lorien', 'rb')}
@@ -70,6 +90,23 @@ class TestSpamService(unittest.TestCase):
         data = json.dumps(data)
         r = requests.post(self.url+"?is_file=true", data=data)
         self.assertEqual(u"Malformed Request", r.text)
+
+    def test_num_correct_osf_ham(self):
+        files_folders = os.listdir("./all_ham/")
+        osf_files = []
+        for f in files_folders:
+            if not f[0].isdigit() and not f[0:3]=="dir":
+                osf_files.append(f)
+        correct = 0
+        for f in osf_files:
+            data = self._setup_request_data('./all_ham/'+f)
+            data = json.dumps(data)
+            r = requests.post(self.url, data=data)
+            if r.text == u"HAM":
+                correct+=1
+            else:
+                print r.text
+        self.assertEqual(len(osf_files),correct)
 
 
         #r = requests.post(self.teach_url, data=data)
