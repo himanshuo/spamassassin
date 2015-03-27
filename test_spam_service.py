@@ -5,6 +5,7 @@ import requests
 import unittest
 import json
 import os
+import time
 class TestSpamService(unittest.TestCase):
 
     def setUp(self):
@@ -34,6 +35,8 @@ class TestSpamService(unittest.TestCase):
         message= '\n'.join(lines[lineno:])
         message = message.rstrip('\n')
         data['message'] = unicode(message,'utf8','ignore')
+
+
         file.close()
         return data
 
@@ -74,6 +77,21 @@ class TestSpamService(unittest.TestCase):
         r = requests.post(self.url+"?is_file=true", files=files)
         self.assertEqual(u'SPAM', r.text)
 
+
+    def test_file_multiple_time(self):
+        times=[]
+        for t in range(0,10):
+            files = {'file': open('./tornado/too_long.txt', 'rb')}
+            start = time.time()
+            r = requests.post(self.url+"?is_file=true", files=files)
+            end =time.time()
+            times.append(end-start)
+            self.assertEqual(u'HAM', r.text)
+        print times
+
+
+
+
     def test_full_report_file(self):
         files = {'file': open('./all_spam/dir_114/1426893085.3375_3635.lorien', 'rb')}
         r = requests.post(self.url+"?is_file=true&full_report=true", files=files)
@@ -104,40 +122,35 @@ class TestSpamService(unittest.TestCase):
             r = requests.post(self.url, data=data)
             if r.text == u"HAM":
                 correct+=1
-            else:
-                print r.text
+
         self.assertEqual(len(osf_files),correct)
 
+    def test_num_correct_sms_spam(self):
+        files_folders = os.listdir("./SMSSPAM/spam/")
+        sms_files = []
+        for f in files_folders:
+            if not f[0].isdigit() and not f[0:3]=="dir":
+                sms_files.append(f)
+        correct = 0
+        for f in sms_files:
+            data = self._setup_request_data('./SMSSPAM/spam/'+f)
+            data = json.dumps(data)
+            r = requests.post(self.url, data=data)
+            if r.text == u"SPAM":
+                correct+=1
+        self.assertEqual(len(sms_files),correct)
 
-        #r = requests.post(self.teach_url, data=data)
-        #self.assertEqual("Learned", r.text)
+
+
+    def test_HIMANSHU_spam(self):
+        data = self._setup_request_data('./all_ham/HIMANSHU')
+        data = json.dumps(data)
+        r = requests.post(self.url, data=data)
+
+        self.assertEqual(u'HAM', r.text)
 
 
 
-def fix_messages(folder_name):
-    files_folders = os.listdir(folder_name)
-    i=0
-    for f in files_folders:
-        try:
-            if f[0:3] == "dir" or f[0:3]=="spa":
-                fix_messages(folder_name.rstrip("/")+"/"+f)
-            else:
-                cur_file_path = folder_name.rstrip("/")+"/"+f
-                cur_file_contents = open(cur_file_path,'r').readlines()
-                cur_file = open(cur_file_path,'w')
-                i+=1
-                for lineno in range(0,len(cur_file_contents)-1):
-                    #cur_file.write(cur_file_contents[lineno])
-                    if "Received:" not in cur_file_contents[lineno] and "Delivered-To:" not in cur_file_contents[lineno] \
-                            and " by " not in cur_file_contents[lineno] and "  with " not in cur_file_contents[lineno]:
-                        cur_file.write(cur_file_contents[lineno])
-                        #print "YES", cur_file_contents[lineno]
-                    else:
-                        pass
-                        #print "NO", cur_file_contents[lineno]
-                cur_file.close()
-        except:
-            print f
 
 
 

@@ -62,8 +62,8 @@ next steps:
         score HTML_90_100		0
         4)score DNS_FROM_RFCI_DSN		0                                                                DONE
         5)score RCVD_IN_NJABL_DUL 0                                                                      DONE
-        score RCVD_IN_SORBS_DUL 0                                                                        DONE
-        score RCVD_IN_MAPS_DUL 0                                                                         DONE
+        6)score RCVD_IN_SORBS_DUL 0                                                                        DONE
+        7)score RCVD_IN_MAPS_DUL 0                                                                         DONE
     3) give more than just spam or ham output. GIVE ANALYTICS!!! EASY AND LOOKS GOOD (if user specifies full_report). DONE
 8) you can make seperate endpoints for different types of osf data: comments/ titles/ wikis/ ...
 REMEMBER WHAT THE ENTREPENEURSHIP GUY SAID: DO STUFF. IT MAKES PEOPLE THINK YOU ARE LEGIT. JUST KEEP PRODUCING MORE CONTENT!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
@@ -75,8 +75,28 @@ REMEMBER WHAT THE ENTREPENEURSHIP GUY SAID: DO STUFF. IT MAKES PEOPLE THINK YOU 
     safe for production.
 11)file input                                                                                            DONE
 12)multilanguage support                                                                                 DONE
-
-
+13)presentation
+    1)learn bayseian filter joke
+    2)fix too many files bug
+    3)redo jmeter tests
+    4)do accuracy tests again for osf_ham
+14) split up input data into two categories and then test against it!
+    1)MAKE python utility that goes through all the osf messages and then shows you message
+        if you say "s" then puts into spam folder. else "h" means put in ham folder
+    2)make a data.py file that basically has all the good descriptive functions to move the data around.
+    3)one by one add files learn small subset of files and then test against them. repeat.
+15) figure out where this code is placed on osf server.                                                 DONE
+    Docker. Micheal will help me setup that.
+16) Actually set up server on Docker with the right configs
+17) figure out where my service should be called from. And what features can I encorporate into it.
+      Features:
+        1)"mark as spam" flag for comments, wikis
+            remove comment/wiki when marked as spam. make it show up in admin window.
+        2)admin interface for COS to see various projects/comments and determine if they are spam
+        3)route emails to service.
+            Figure out where the emails are coming from. Ask Andrew.
+        4)
+18)
 
 Confident that spamd is running in parallel                                                             DONE
 https://svn.apache.org/repos/asf/spamassassin/branches/3.4/spamd/README section on performance.

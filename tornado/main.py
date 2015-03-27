@@ -29,28 +29,37 @@ class MainHandler(tornado.web.RequestHandler):
         # prepare is something that is run at start of server. NOT LIKELY A PROBLEM, BUT WHO KNOWS?
         # ACTUAL POTENTIAL PROBLEM: the stdin takes in a PIPE instead of a stream.
 
+
     def prepare(self):
-        #setup command
-
-
-        command = "spamc -c"
-        args = shlex.split(command)
-
-
-        self.STREAM = tornado.process.Subprocess.STREAM
-
-        self.proc = tornado.process.Subprocess(
-            args, stdin=self.STREAM, stdout=self.STREAM, stderr=self.STREAM
-        )
-
-        self.full_report_proc = tornado.process.Subprocess(
-            shlex.split("spamc"), stdin=self.STREAM, stdout=self.STREAM, stderr=self.STREAM
-        )
 
         self.PREDEFINED_HEADERS = {
             'Content-Type': 'text/plain; charset=UTF-8',
             'MIME-Version': 1.0
         }
+
+
+    def _get_proc(self, full_report):
+
+        STREAM = tornado.process.Subprocess.STREAM
+
+        cur_proc = None
+        if full_report:
+            #full report version
+            cur_proc = tornado.process.Subprocess(
+                shlex.split("spamc"), stdin=STREAM, stdout=STREAM, stderr=STREAM
+            )
+        else:
+            #normal version
+            command = "spamc -c"
+            args = shlex.split(command)
+            cur_proc = tornado.process.Subprocess(
+                args, stdin=STREAM, stdout=STREAM, stderr=STREAM
+            )
+
+        return cur_proc
+
+
+
 
 
 
@@ -151,9 +160,8 @@ class MainHandler(tornado.web.RequestHandler):
         #message = str.decode(stdin_data,'utf-8')
         message_with_header = self._get_custom_headers(data) +"\n" + data['message']
         stdin_data = str.encode(message_with_header)
-        cur_proc = self.proc
-        if full_report:
-            cur_proc = self.full_report_proc
+        cur_proc = self._get_proc(full_report)
+
 
         yield Task(cur_proc.stdin.write, stdin_data)
 
@@ -165,6 +173,9 @@ class MainHandler(tornado.web.RequestHandler):
             Task(cur_proc.stdout.read_until_close),
             Task(cur_proc.stderr.read_until_close)
         ]
+
+        cur_proc.stdout.close()
+        cur_proc.stderr.close()
 
 
 
@@ -209,6 +220,8 @@ class MainHandler(tornado.web.RequestHandler):
     def post(self):
         try:
 
+
+
             data = None
 
             if self.get_argument('is_file', False):
@@ -246,14 +259,15 @@ class MainHandler(tornado.web.RequestHandler):
 class TeacherHandler(MainHandler):
 
     def prepare(self):
-        self.STREAM = tornado.process.Subprocess.STREAM
         self.PREDEFINED_HEADERS = {
             'Content-Type': 'text/plain; charset=UTF-8',
             'MIME-Version': 1.0
         }
 
-
+    #todo: see if you can optimize (and not have security issue) by having 2 global proc objects.
     def _get_proc(self, is_spam):
+
+        STREAM = tornado.process.Subprocess.STREAM
         command = "sudo ./call_sa-learn.sh"
         if is_spam:
             command+=" --spam"
@@ -262,7 +276,7 @@ class TeacherHandler(MainHandler):
 
         args = shlex.split(command)
         proc = tornado.process.Subprocess(
-            args, stdin=self.STREAM, stdout=self.STREAM, stderr=self.STREAM
+            args, stdin=STREAM, stdout=STREAM, stderr=STREAM
         )
         return proc
 
@@ -288,13 +302,17 @@ class TeacherHandler(MainHandler):
 
         yield Task(cur_proc.stdin.write, stdin_data)
 
-        import pdb;pdb.set_trace()
+
         cur_proc.stdin.close()
 
         result, error = yield [
             Task(cur_proc.stdout.read_until_close),
             Task(cur_proc.stderr.read_until_close)
         ]
+
+        cur_proc.stdout.close()
+        cur_proc.stderr.close()
+
 
         return result, error
 
