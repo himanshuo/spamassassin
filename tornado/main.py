@@ -67,15 +67,19 @@ class MainHandler(tornado.web.RequestHandler):
 
 
     def _format_header_val(self,key, value ):
-        key = str(key).capitalize()
-        if isinstance(value, (list, tuple)):
-            out = key+": "
-            for v in value:
-                out+= str(v) + ", "
-            out = str[0:-2] + "\n"
-            return out
-        else:
-            return key+": "+str(value)+"\n"
+        try:
+            key = str(key).capitalize()
+            if isinstance(value, (list, tuple)):
+                out = key+": "
+                for v in value:
+                    out+= str(v) + ", "
+                out = str[0:-2] + "\n"
+                return out
+            else:
+                return key+": "+str(value)+"\n"
+        except:
+            print(key,"::::::::::::::::::::", value)
+            return ""
 
 
 
@@ -296,7 +300,7 @@ class TeacherHandler(MainHandler):
 
 
 
-        message_with_header = self._get_custom_headers(data) +"\n" + data.get('message',"")
+        message_with_header = self._get_custom_headers(data) +"\n" + str(data.get('message',""))
 
         stdin_data = str.encode(message_with_header)
 
