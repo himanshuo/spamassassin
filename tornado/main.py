@@ -71,14 +71,15 @@ class MainHandler(tornado.web.RequestHandler):
             key = str(key).capitalize()
             if isinstance(value, (list, tuple)):
                 out = key+": "
+                if len(value)==0:
+                    return out
                 for v in value:
                     out+= str(v) + ", "
-                out = str[0:-2] + "\n"
+                out = str(out[0:-2]) + "\n"
                 return out
             else:
                 return key+": "+str(value)+"\n"
         except:
-            print(key,"::::::::::::::::::::", value)
             return ""
 
 
@@ -268,7 +269,6 @@ class TeacherHandler(MainHandler):
             'MIME-Version': 1.0
         }
 
-    #todo: see if you can optimize (and not have security issue) by having 2 global proc objects.
     def _get_proc(self, is_spam):
 
         STREAM = tornado.process.Subprocess.STREAM
