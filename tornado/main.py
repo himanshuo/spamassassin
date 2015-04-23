@@ -163,7 +163,8 @@ class MainHandler(tornado.web.RequestHandler):
         #add headers to stdin_data
         #bytes to string. then add header strings then \n then reconvert to bytes
         #message = str.decode(stdin_data,'utf-8')
-        message_with_header = self._get_custom_headers(data) +"\n" + data['message']
+        print(1)
+        message_with_header = self._get_custom_headers(data) +"\n" + str(data['message'])
         stdin_data = str.encode(message_with_header)
         cur_proc = self._get_proc(full_report)
 
