@@ -41,7 +41,7 @@ class TestSpamService(unittest.TestCase):
         return data
 
     def test_basic(self):
-        data = self._setup_request_data('./all_spam/dir_114/1426893085.3375_3635.lorien')
+        data = self._setup_request_data('./all_spam/dir_114/1426893085.3375_3437.lorien')
         data = json.dumps(data)
 
         r = requests.post(self.url, data=data)
@@ -73,15 +73,15 @@ class TestSpamService(unittest.TestCase):
         self.assertEqual("Learned", r.text)
 
     def test_file(self):
-        files = {'file': open('./all_spam/dir_114/1426893085.3375_3635.lorien', 'rb')}
+        files = {'file': open('./all_spam/dir_114/1426893085.3375_3437.lorien', 'rb')}
         r = requests.post(self.url+"?is_file=true", files=files)
         self.assertEqual(u'SPAM', r.text)
 
 
     def test_file_multiple_time(self):
         times=[]
-        for t in range(0,1):
-            files = {'file': open('./tornado/too_long.txt', 'rb')}
+        for t in range(0,10):
+            files = {'file': open('./tornado/tests/sample_input/too_long.txt', 'rb')}
             start = time.time()
             r = requests.post(self.url+"?is_file=true", files=files)
             end =time.time()
@@ -142,12 +142,7 @@ class TestSpamService(unittest.TestCase):
 
 
 
-    def test_HIMANSHU_spam(self):
-        data = self._setup_request_data('./all_ham/HIMANSHU')
-        data = json.dumps(data)
-        r = requests.post(self.url, data=data)
 
-        self.assertEqual(u'HAM', r.text)
 
 
 
@@ -159,4 +154,3 @@ class TestSpamService(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
-    #fix_messages("./all_spam/")
