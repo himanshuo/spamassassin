@@ -80,7 +80,7 @@ class TestSpamService(unittest.TestCase):
 
     def test_file_multiple_time(self):
         times=[]
-        for t in range(0,10):
+        for t in range(0,1):
             files = {'file': open('./tornado/too_long.txt', 'rb')}
             start = time.time()
             r = requests.post(self.url+"?is_file=true", files=files)
@@ -109,36 +109,36 @@ class TestSpamService(unittest.TestCase):
         r = requests.post(self.url+"?is_file=true", data=data)
         self.assertEqual(u"Malformed Request", r.text)
 
-    def test_num_correct_osf_ham(self):
-        files_folders = os.listdir("./all_ham/")
-        osf_files = []
-        for f in files_folders:
-            if not f[0].isdigit() and not f[0:3]=="dir":
-                osf_files.append(f)
-        correct = 0
-        for f in osf_files:
-            data = self._setup_request_data('./all_ham/'+f)
-            data = json.dumps(data)
-            r = requests.post(self.url, data=data)
-            if r.text == u"HAM":
-                correct+=1
+    # def test_num_correct_osf_ham(self):
+    #     files_folders = os.listdir("./all_ham/")
+    #     osf_files = []
+    #     for f in files_folders:
+    #         if not f[0].isdigit() and not f[0:3]=="dir":
+    #             osf_files.append(f)
+    #     correct = 0
+    #     for f in osf_files:
+    #         data = self._setup_request_data('./all_ham/'+f)
+    #         data = json.dumps(data)
+    #         r = requests.post(self.url, data=data)
+    #         if r.text == u"HAM":
+    #             correct+=1
+    #
+    #     self.assertEqual(len(osf_files),correct)
 
-        self.assertEqual(len(osf_files),correct)
-
-    def test_num_correct_sms_spam(self):
-        files_folders = os.listdir("./SMSSPAM/spam/")
-        sms_files = []
-        for f in files_folders:
-            if not f[0].isdigit() and not f[0:3]=="dir":
-                sms_files.append(f)
-        correct = 0
-        for f in sms_files:
-            data = self._setup_request_data('./SMSSPAM/spam/'+f)
-            data = json.dumps(data)
-            r = requests.post(self.url, data=data)
-            if r.text == u"SPAM":
-                correct+=1
-        self.assertEqual(len(sms_files),correct)
+    # def test_num_correct_sms_spam(self):
+    #     files_folders = os.listdir("./SMSSPAM/spam/")
+    #     sms_files = []
+    #     for f in files_folders:
+    #         if not f[0].isdigit() and not f[0:3]=="dir":
+    #             sms_files.append(f)
+    #     correct = 0
+    #     for f in sms_files:
+    #         data = self._setup_request_data('./SMSSPAM/spam/'+f)
+    #         data = json.dumps(data)
+    #         r = requests.post(self.url, data=data)
+    #         if r.text == u"SPAM":
+    #             correct+=1
+    #     self.assertEqual(len(sms_files),correct)
 
 
 
