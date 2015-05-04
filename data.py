@@ -1,3 +1,6 @@
+"""
+This file helps to collect and use data from various sources including elastic search, sms spam, and email spam/ham.
+"""
 __author__ = 'himanshu'
 import os
 import subprocess

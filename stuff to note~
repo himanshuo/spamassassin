@@ -463,11 +463,14 @@ what to understand about async and tornado. with tornado,
 
 
 TODO:
-1)make a super spam user that can view the spam_admin page. 												DONE
+1)make a super spam user that can view the spam_admin page.
 	how to check if a user is logged in
 		@collect_auth  - puts auth into kwargs['auth']
 		@must_be_logged_in - makes sure that the kwargs['auth'] is logged in.
-		need to make a new decorator @is_spam_admin that checks to see if kwargs['auth'] is spam_admin.
+		
+		need to make a new decorator @is_spam_admin that checks to see if kwargs['auth'] is spam_admin. 
+		
+		
 	how to get auth of current user
 		auth.user will get you user info. What part of this do we use to make sure it is actually spam_admin user? FOR NOW, we can just check to see if email is spam_admin@cos.com and name=spam_admin.
 	how to create a new user?
@@ -475,28 +478,11 @@ TODO:
 		can check what is being called here.
 
 		
-1)spam_flagged_count num times this comment has been marked as spam. if >0 then put in admin_page.          NEED TO CHECK. elastic not working :(
-    1) add field to comment model
-    2) when user says something is spam, we increment the spam_flagged_count.
-            IF the spam_flagged_count >= 1 THEN mark comment.mark_as_spam()
-    3) is_spam does NOT change.
-    4) only change flag spam code.
+1)spam_flagged_count num times this comment has been marked as spam. if >0 then put in admin_page. 
 2)is_spam_confirmed  no longer check if this thing is spam  TRUE, FALSE, NONE
-3)users cant see spam comments.
-    delete. if is_spam_confirmed = True
-3)have some way to not have developers have spam assassin run in background. Just mark everything as not spam.
+3)have some way to 
 4)talk to steve about ginneys comment.
 5)todo: if user repeatedly spams, just say everything by that user is spam.
-
-
-
-TODO RIGHT NOW:
-1) make the delete thing actually delete the comment. make it so you cant see
-    others cant see it. DONE
-    doesnt post comment. Instead, shows you that it was marked as spam.
-2) see how other users see it DONE
-3) make it so the comment doesnt show up if it has been marked as spam. DONE
-
 
 
 

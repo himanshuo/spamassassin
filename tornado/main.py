@@ -19,9 +19,6 @@ import json
 
 
 class MainHandler(tornado.web.RequestHandler):
-    #THIS MIGHT BE NOT PARALLEL. 2ish reasons:
-        # prepare is something that is run at start of server. NOT LIKELY A PROBLEM, BUT WHO KNOWS?
-        # ACTUAL POTENTIAL PROBLEM: the stdin takes in a PIPE instead of a stream.
 
 
     def prepare(self):
@@ -33,7 +30,8 @@ class MainHandler(tornado.web.RequestHandler):
 
 
     def _get_proc(self, full_report):
-
+        """Get process object based on type of process
+        """
         STREAM = tornado.process.Subprocess.STREAM
 
         cur_proc = None
@@ -61,6 +59,8 @@ class MainHandler(tornado.web.RequestHandler):
 
 
     def _format_header_val(self,key, value ):
+        """ format each header value
+        """
         try:
             key = str(key).capitalize()
 
@@ -87,7 +87,7 @@ class MainHandler(tornado.web.RequestHandler):
 
     def _url_params_to_text(self, data):
         out=""
-        #i think it might be okay to have these url params as extra headers.
+
         dont_include = ['message']
         for k,v in data.items():
             if k not in dont_include:
@@ -96,47 +96,13 @@ class MainHandler(tornado.web.RequestHandler):
 
 
 
-    # def _add_recieved_header(self,data):
-    #     """
-    # Received: from iron3.mail.virginia.edu (iron3.mail.Virginia.EDU. [128.143.2.240])
-    #     by mx.google.com with ESMTP id c7si2000643qaj.77.2015.01.15.06.13.23
-    #     for <ho2es@goog.email.virginia.edu>;
-    #     Thu, 15 Jan 2015 06:13:23 -0800 (PST)
-    #
-    # """
-    #     received = "Received: "
-    #     if data.get('email'):
-    #         received += "by " data.get('email')
-    #         if data.get('')
+
 
 
     def _get_custom_headers(self, data):
-
-        #not predefined, but we really want it.
-            #Received; by ip_address OR name \n date(Thu, 15 Jan 2015 06:13:23 -0800 (PST) )
-            #Date same as data in the recieved.
-            #X-Sender-IP
-            #Subject: name_of_project
-
-        #RULES THAT BREAK WITHOUT HEADERS:
+        """convert all key-value pairs attained from the data that are not 'message' into headers
         """
-        -0.0 NO_RELAYS              Informational: message was not relayed via SMTP                           score 0
-         1.2 MISSING_HEADERS        Missing To: header                                                        score 0
-         1.4 MISSING_DATE           Missing Date: header                                                      score 0
-        -0.0 NO_RECEIVED            Informational: message has no Received headers                            score 0
-         0.1 MISSING_MID            Missing Message-Id: header                                                time+
-         1.8 MISSING_SUBJECT        Missing Subject: header                                                   project
-         1.0 MISSING_FROM           Missing From: header
-         0.0 NO_HEADERS_MESSAGE     Message appears to be missing most RFC-822 headers
 
-
-
-        author: commenter name
-                email: commenter email
-                subject: project on which person is
-                ip: ip address of author.
-                Content-Type: text/plain
-        """
         header=""
         header+=self._get_predefined_headers()
         header+=self._url_params_to_text(data)
@@ -145,7 +111,7 @@ class MainHandler(tornado.web.RequestHandler):
         if data.get('project_name'):
             header+=self._format_header_val("Subject",data.get('project_name'))
 
-        #header+=self._add_recieved_header()
+
 
         return header
 
@@ -156,9 +122,7 @@ class MainHandler(tornado.web.RequestHandler):
         """
         Wrapper around subprocess call using Tornado's Subprocess class.
         """
-        #add headers to stdin_data
-        #bytes to string. then add header strings then \n then reconvert to bytes
-        #message = str.decode(stdin_data,'utf-8')
+
 
         message_with_header = self._get_custom_headers(data) +"\n" + str(data['message'])
 
@@ -186,6 +150,8 @@ class MainHandler(tornado.web.RequestHandler):
 
 
     def _handle_result(self, res):
+        """return HAM if spam_assassin determines message is ham. else SPAM
+        """
         str_result = bytes.decode(res)
 
         result_val = eval(str_result.strip())
@@ -197,6 +163,8 @@ class MainHandler(tornado.web.RequestHandler):
 
 
     def _file_to_data(self, file_contents):
+        """Convert input data as a file into the data format usable for call_spamassassin
+        """
 
         data = {}
         lineno = 0
@@ -268,6 +236,8 @@ class TeacherHandler(MainHandler):
         }
 
     def _get_proc(self, is_spam):
+        """ create and return process object based on whether input is spam or ham
+        """
 
         STREAM = tornado.process.Subprocess.STREAM
         command = "sudo ./call_sa-learn.sh"
@@ -286,12 +256,11 @@ class TeacherHandler(MainHandler):
     @coroutine
     def teach_spamassassin(self, data):
         """
+        teach spam assassin whether current message is spam or not.
+
         NOTE: http://askubuntu.com/questions/159007/how-do-i-run-specific-sudo-commands-without-a-password
         sa-learn requires sudo. In this case, I just made it so that for this specific command (sa-learn)
-        we do not need to use sudo. O
-        Other way to handle this is to call sudo using process and then input a password. This is bad way.
-        :param data:
-        :return:
+        we do not need to use sudo.
         """
 
         cur_proc = self._get_proc(data.pop('is_spam'))
