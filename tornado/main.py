@@ -2,27 +2,21 @@ from __future__ import print_function
 
 import tornado.ioloop
 import tornado.web
-from tornado import gen, httpclient
-import os
+from tornado import gen
+
 
 #for calling spamc
-import subprocess
 import shlex
-from concurrent.futures import ThreadPoolExecutor
 
-#trying to do async
-import asyncio
-from tornado.process import *
 
-from tornado.gen import Task, Return, coroutine
+from tornado.gen import Task, coroutine
 import tornado.process
 from tornado.ioloop import IOLoop
-import subprocess
-import time
+
 import tornado.web
-from pprint import pprint
+
 import json
-import datetime
+
 
 class MainHandler(tornado.web.RequestHandler):
     #THIS MIGHT BE NOT PARALLEL. 2ish reasons:
@@ -69,6 +63,7 @@ class MainHandler(tornado.web.RequestHandler):
     def _format_header_val(self,key, value ):
         try:
             key = str(key).capitalize()
+
             if isinstance(value, (list, tuple)):
                 out = key+": "
                 if len(value)==0:
@@ -116,6 +111,7 @@ class MainHandler(tornado.web.RequestHandler):
 
 
     def _get_custom_headers(self, data):
+
         #not predefined, but we really want it.
             #Received; by ip_address OR name \n date(Thu, 15 Jan 2015 06:13:23 -0800 (PST) )
             #Date same as data in the recieved.
@@ -163,8 +159,9 @@ class MainHandler(tornado.web.RequestHandler):
         #add headers to stdin_data
         #bytes to string. then add header strings then \n then reconvert to bytes
         #message = str.decode(stdin_data,'utf-8')
-        print(1)
+
         message_with_header = self._get_custom_headers(data) +"\n" + str(data['message'])
+
         stdin_data = str.encode(message_with_header)
         cur_proc = self._get_proc(full_report)
 
