@@ -157,9 +157,17 @@ class MainHandler(tornado.web.RequestHandler):
         result_val = eval(str_result.strip())
 
         if result_val<1:
-            return "HAM"
+            return json.dumps({
+                "decision":"HAM",
+                "message":"The given message is HAM"
+
+            })
         else:
-            return "SPAM"
+            return json.dumps({
+                "decision":"SPAM",
+                "message":"The given message is SPAM"
+
+            })
 
 
     def _file_to_data(self, file_contents):
@@ -214,6 +222,7 @@ class MainHandler(tornado.web.RequestHandler):
                     self.write(result)
                 else:
                     result,error = yield gen.Task(self.call_spamassassin,data,full_report=False )
+                    self.set_header("Content-Type", "application/json") 
                     self.write(self._handle_result(result))
 
 
@@ -298,8 +307,13 @@ class TeacherHandler(MainHandler):
 
 
             if not error:
-
-                self.write("Learned")
+                self.set_header("Content-Type", "application/json")
+                self.write(
+                    json.dumps({
+                        "status":"Learned",
+                        "message":"Spam Assassin trained using given message"
+                    })
+                )
                 self.finish()
             else:
                 self.set_status(400)
