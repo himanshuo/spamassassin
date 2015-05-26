@@ -1,7 +1,0 @@
-Title: Robust Outlier Detection and Cleaning
-Description: This Excel document allows you to paste data for outlier examination and cleaning. There are currently four methods (MAD-Median, Mean and Variance, Boxplot, and Carling's Boxplot Modification; Wilcox, 2011) to select from, with the former typically outperforming the others. After examination and selecting a method, you can clean the data to remove the possible outliers.
-Contributors: Paul Turchan
-Tags: 
-
-Robust Outlier Detection and Cleaning
-This Excel document allows you to paste data for outlier examination and cleaning. There are currently four methods (MAD-Median, Mean and Variance, Boxplot, and Carling's Boxplot Modification; Wilcox, 2011) to select from, with the former typically outperforming the others. After examination and selecting a method, you can clean the data to remove the possible outliers.
