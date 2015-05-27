@@ -4,48 +4,160 @@ __author__ = 'himanshu'
 import requests
 import unittest
 import json
+import time
 
 class TestSpamService(unittest.TestCase):
 
     def setUp(self):
         self.url = 'http://localhost:8000/'
+        self.path = './tests/sample_input/'
+        self.teach_url = "http://localhost:8000/teach"
 
-
-    # def test_basic_non_spam(self):
-    #     files = {'file': open('sample-nonspam.txt', 'rb')}
-    #     r = requests.post(self.url, data=files['file'].read())
-    #     self.assertEqual("HAM", r.text)
-    #
-    # def test_almost_non_spam(self):
-    #     files = {'file': open('sample_almost_nonspam.txt', 'rb')}
-    #     r = requests.post(self.url, data=files['file'].read())
-    #     self.assertEqual("SPAM", r.text)
-    #
-    # def test_basic_spam(self):
-    #     files = {'file': open('sample-spam.txt', 'rb')}
-    #     r = requests.post(self.url, data=files['file'].read())
-    #     self.assertEqual("SPAM", r.text)
-    #
-    # def test_other_spam(self):
-    #     files = {'file': open('sample_long_nonspam.txt', 'rb')}
-    #     r = requests.post(self.url, data=files['file'].read())
-    #     self.assertEqual("HAM", r.text)
-    # def test_non_spam_with_no_email_headers(self):
-    #     files = {'file': open('non_spam_with_no_email_headers.txt', 'rb')}
-    #     r = requests.post(self.url, data=files['file'].read())
-    #     self.assertEqual("HAM", r.text)
-
-    def test_non_spam_with_no_email_headers(self):
-        file= open('non_spam_with_no_email_headers.txt', 'rb')
+    def test_basic_non_spam(self):
+        files = {'file': open(self.path+'sample-nonspam.txt', 'rb')}
         data = json.dumps({
-            'message': file.read(),
+            'message': files['file'].read(),
             'email':'ho2es@virginia.edu',
         })
-        headers = {
-            'Content-type': 'application/json'
-        }
         r = requests.post(self.url, data=data)
-        self.assertEqual("HAM", r.text)
+        self.assertEqual("HAM", json.loads(r.text).get('decision'))
+
+    def test_almost_non_spam(self):
+        files = {'file': open(self.path+'sample_almost_nonspam.txt', 'rb')}
+        data = json.dumps({
+            'message': files['file'].read(),
+            'email':'ho2es@virginia.edu',
+        })
+        r = requests.post(self.url, data=data)
+        self.assertEqual("SPAM", json.loads(r.text).get('decision'))
+
+    def test_basic_spam(self):
+        files = {'file': open(self.path+'sample-spam.txt', 'rb')}
+        data = json.dumps({
+            'message': files['file'].read(),
+            'email':'ho2es@virginia.edu',
+        })
+        r = requests.post(self.url, data=data)
+        self.assertEqual("SPAM", json.loads(r.text).get('decision'))
+
+    def test_other_spam(self):
+        files = {'file': open(self.path+'sample_long_nonspam.txt', 'rb')}
+        data = json.dumps({
+            'message': files['file'].read(),
+            'email':'ho2es@virginia.edu',
+        })
+        r = requests.post(self.url, data=data)
+        self.assertEqual("HAM", json.loads(r.text).get('decision'))
+
+    def test_non_spam_with_no_email_headers(self):
+        files = {'file': open(self.path+'non_spam_with_no_email_headers.txt', 'rb')}
+        data = json.dumps({
+            'message': files['file'].read(),
+            'email':'ho2es@virginia.edu',
+        })
+        r = requests.post(self.url, data=data)
+        self.assertEqual("HAM", json.loads(r.text).get('decision'))
+
+
+    """
+    NEW TESTS
+    """
+    def _setup_request_data(self, filename):
+        file= open(self.path+filename, 'rb')
+        data = {}
+        lineno = 0
+
+        lines = file.readlines()
+
+        for l in lines:
+            lineno+=1
+            if l=="\n" or l=="":
+                break
+            parts = l.split(":")
+            if len(parts)>1:
+                key = parts[0].rstrip('\n')
+                key = key.lower()
+                value = parts[1].rstrip('\n')
+                data[key] = value
+
+        message= '\n'.join(lines[lineno:])
+        message = message.rstrip('\n')
+        data['message'] = unicode(message,'utf8','ignore')
+
+
+        file.close()
+        return data
+
+    def test_basic(self):
+        data = self._setup_request_data('1426893085.3375_3437.lorien')
+        data = json.dumps(data)
+
+        r = requests.post(self.url, data=data)
+        self.assertEqual("SPAM", json.loads(r.text).get('decision'))
+
+    def test_teach(self):
+        data = self._setup_request_data('1426893085.3375_3635.lorien')
+        data['is_spam']=True
+        data = json.dumps(data)
+
+
+        r = requests.post(self.teach_url, data=data)
+        self.assertEqual("Learned", json.loads(r.text).get('status'))
+
+    def test_teach_spam2(self):
+        data = self._setup_request_data('1426034214.1415_367.lorien')
+        data['is_spam']=True
+        data = json.dumps(data)
+
+        r = requests.post(self.teach_url, data=data)
+        self.assertEqual("Learned", json.loads(r.text).get('status'))
+
+    def test_teach_ham(self):
+        data = self._setup_request_data('Hi')
+        data['is_spam']=False
+        data = json.dumps(data)
+
+        r = requests.post(self.teach_url, data=data)
+        self.assertEqual("Learned", json.loads(r.text).get('status'))
+
+    def test_file(self):
+        files = {'file': open(self.path+'1426893085.3375_3437.lorien', 'rb')}
+        r = requests.post(self.url+"?is_file=true", files=files)
+        self.assertEqual(u'SPAM', json.loads(r.text).get('decision'))
+
+
+    # def test_file_multiple_time(self):
+    #     times=[]
+    #     for t in range(0,10):
+    #         files = {'file': open(self.path+'too_long.txt', 'rb')}
+    #         start = time.time()
+    #         r = requests.post(self.url+"?is_file=true", files=files)
+    #         end =time.time()
+    #         times.append(end-start)
+    #         self.assertEqual(u'HAM', json.loads(r.text).get('decision'))
+    #     print(times)
+
+
+
+
+    def test_full_report_file(self):
+        files = {'file': open(self.path+'1426893085.3375_3635.lorien', 'rb')}
+        r = requests.post(self.url+"?is_file=true&full_report=true", files=files)
+        self.assertTrue(len(r.text)>50)
+
+    def test_full_report_dict(self):
+        data = self._setup_request_data('1426893085.3375_3635.lorien')
+        data = json.dumps(data)
+        r = requests.post(self.url+"?full_report=true", data=data)
+        self.assertTrue(len(r.text)>50)
+
+    def test_incorrect_input_vals(self):
+        data = self._setup_request_data('1426893085.3375_3635.lorien')
+        data = json.dumps(data)
+        r = requests.post(self.url+"?is_file=true", data=data)
+        self.assertEqual(u"Malformed Request", r.text)
+
+
 
 
 if __name__ == '__main__':

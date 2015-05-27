@@ -15,12 +15,13 @@ A user can optionally get a full report of why whatever decision was made. A use
 
 # Configuration Information:
 1) Edit /etc/spamassassin/local.cf (or wherever your configurations are) and make it look like tornado/settings/local_configs
-2) Will have to train spam assassin. 
+2) Will have to train spam assassin.
     To train (note that all_ham, all_spam folders are provided in repo):
     sudo sa-learn --progress --ham HAMFOLDER/*
     sudo sa-learn --sync
-    
+    <br/>
     Then, to see the contents of the spam db: (note, spamassassin basically turns messages into hashes.)
     sudo sa-learn --dump [all|magic|data]
 
 
+a

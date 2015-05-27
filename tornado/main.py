@@ -222,7 +222,7 @@ class MainHandler(tornado.web.RequestHandler):
                     self.write(result)
                 else:
                     result,error = yield gen.Task(self.call_spamassassin,data,full_report=False )
-                    self.set_header("Content-Type", "application/json") 
+                    self.set_header("Content-Type", "application/json")
                     self.write(self._handle_result(result))
 
 
