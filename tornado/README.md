@@ -12,6 +12,10 @@ In addition, the service allows users to send in a message to train spam assassi
 A user can optionally get a full report of why whatever decision was made. A user can also optionally send in a file instead of json key-value pairs for both teaching and
 
 
+#Issues:
+1) if the result of spamc -c < <filename> is constantly 0/0 then try restarting spam assassin via
+    sudo /etc/init.d/spamassassin restart
+
 
 # Configuration Information:
 1) Edit /etc/spamassassin/local.cf (or wherever your configurations are) and make it look like tornado/settings/local_configs
@@ -23,5 +27,3 @@ A user can optionally get a full report of why whatever decision was made. A use
     Then, to see the contents of the spam db: (note, spamassassin basically turns messages into hashes.)
     sudo sa-learn --dump [all|magic|data]
 
-
-a
