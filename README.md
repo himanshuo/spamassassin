@@ -28,7 +28,7 @@ file instead of json key-value pairs for both teaching and
 <li>Open up the terminal and go to the folder you downloaded spam assassin<br/> cd ~/Downloads/Mail-SpamAssassin*</li>
 <li>Allow perl to create a Makefile for you<br/> perl Makefile.PL </li>
 <li>run the Makefile<br/> make</li>
-<li>install<br/> sudo make install</li>
+<li>install<br/> <b>sudo make install</b></li>
 <li>get spam assassin rules<br/> sudo sa-learn</li>
 <br/>
 <li>Go back to your home folder in your terminal<br/> cd ~ </li>
