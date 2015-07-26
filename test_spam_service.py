@@ -141,16 +141,5 @@ class TestSpamService(unittest.TestCase):
     #     self.assertEqual(len(sms_files),correct)
 
 
-
-
-
-
-
-
-
-
-
-
-
 if __name__ == '__main__':
     unittest.main()
