@@ -23,24 +23,24 @@ file instead of json key-value pairs for both teaching and
 
 <h1>How to Install</h1>
 <ol>
-<li>We need to first install spam assassin. You can download it from: from http://www.macupdate.com/app/mac/13526/spamassassin </li>
+<li>We need to first install spam assassin. You can download it from <br/> from http://www.macupdate.com/app/mac/13526/spamassassin </li>
 <li>Go to the folder you downloaded it to and unpack it</li>
-<li>Open up the terminal and go to the folder you downloaded spam assassin: cd ~/Downloads/Mail-SpamAssassin*</li>
-<li>Allow perl to create a Makefile for you: perl Makefile.PL </li>
-<li>run the Makefile: make</li>
-<li>install: sudo make install</li>
-<li>get spam assassin rules: sudo sa-learn</li>
+<li>Open up the terminal and go to the folder you downloaded spam assassin<br/> cd ~/Downloads/Mail-SpamAssassin*</li>
+<li>Allow perl to create a Makefile for you<br/> perl Makefile.PL </li>
+<li>run the Makefile<br/> make</li>
+<li>install<br/> sudo make install</li>
+<li>get spam assassin rules<br/> sudo sa-learn</li>
 <br/>
-<li>Go back to your home folder in your terminal: cd ~ </li>
+<li>Go back to your home folder in your terminal<br/> cd ~ </li>
 <br/>
 <li>Now we need to install this standalone web service.</li>
-<li>You can get it from github: git clone https://github.com/himanshuo/spamassassin.git</li>
-<li>Create a python virtual environment: mkvirtualenv spam3 -p `which python3`</li>
-<li>Go into the tornado folder via the terminal: cd ~/spamassassin/tornado</li>
-<li>Run the server: python main.py</li>
+<li>You can get it from github<br/> git clone https://github.com/himanshuo/spamassassin.git</li>
+<li>Create a python virtual environment<br/> mkvirtualenv spam3 -p `which python3`</li>
+<li>Go into the tornado folder via the terminal<br/> cd ~/spamassassin/tornado</li>
+<li>Run the server<br/> python main.py</li>
 <li>You're done! The standalone web service should be running now. Someone can make web requests to the localhost:8000
 url with proper input and determine if their message is spam or not. This is basically what the tests do. You can run
-them by going into the spamassassin folder and running: python test_spam_service.py</li>
+them by going into the spamassassin folder and running<br/> python test_spam_service.py</li>
 
 </ol>
 
