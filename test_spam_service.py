@@ -87,7 +87,7 @@ class TestSpamService(unittest.TestCase):
             end =time.time()
             times.append(end-start)
             self.assertEqual(u'HAM', r.text)
-        print times
+        print(times)
 
 
 

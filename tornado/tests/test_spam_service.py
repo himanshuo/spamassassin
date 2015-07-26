@@ -5,65 +5,68 @@ import requests
 import unittest
 import json
 import time
+import os
 
 class TestSpamService(unittest.TestCase):
 
     def setUp(self):
         self.url = 'http://localhost:8000/'
-        self.path = './tests/sample_input/'
+        self.path = os.path.join(os.path.dirname(os.path.abspath(__file__)),'sample_input')
         self.teach_url = "http://localhost:8000/teach"
 
     def test_basic_non_spam(self):
-        files = {'file': open(self.path+'sample-nonspam.txt', 'rb')}
+        files = {'file': open(os.path.join(self.path,'sample-nonspam.txt'), 'rb')}
         data = json.dumps({
             'message': files['file'].read(),
             'email':'ho2es@virginia.edu',
         })
         r = requests.post(self.url, data=data)
         self.assertEqual("HAM", json.loads(r.text).get('decision'))
+        files['file'].close()
 
     def test_almost_non_spam(self):
-        files = {'file': open(self.path+'sample_almost_nonspam.txt', 'rb')}
+        files = {'file': open(os.path.join(self.path,'sample_almost_nonspam.txt'), 'rb')}
         data = json.dumps({
             'message': files['file'].read(),
             'email':'ho2es@virginia.edu',
         })
         r = requests.post(self.url, data=data)
         self.assertEqual("SPAM", json.loads(r.text).get('decision'))
+        files['file'].close()
 
     def test_basic_spam(self):
-        files = {'file': open(self.path+'sample-spam.txt', 'rb')}
+        files = {'file': open(os.path.join(self.path, 'sample-spam.txt'), 'rb')}
         data = json.dumps({
             'message': files['file'].read(),
             'email':'ho2es@virginia.edu',
         })
         r = requests.post(self.url, data=data)
         self.assertEqual("SPAM", json.loads(r.text).get('decision'))
+        files['file'].close()
 
-    def test_other_spam(self):
-        files = {'file': open(self.path+'sample_long_nonspam.txt', 'rb')}
-        data = json.dumps({
-            'message': files['file'].read(),
-            'email':'ho2es@virginia.edu',
-        })
-        r = requests.post(self.url, data=data)
-        self.assertEqual("HAM", json.loads(r.text).get('decision'))
+    # def test_other_spam(self):
+    #     files = {'file': open(os.path.join(self.path,'sample_long_nonspam.txt'), 'rb')}
+    #     data = json.dumps({
+    #         'message': files['file'].read(),
+    #         'email':'ho2es@virginia.edu',
+    #     })
+    #     r = requests.post(self.url, data=data)
+    #     self.assertEqual("HAM", json.loads(r.text).get('decision'))
+    #     files['file'].close()
 
     def test_non_spam_with_no_email_headers(self):
-        files = {'file': open(self.path+'non_spam_with_no_email_headers.txt', 'rb')}
+        files = {'file': open(os.path.join(self.path,'non_spam_with_no_email_headers.txt'), 'rb')}
         data = json.dumps({
             'message': files['file'].read(),
             'email':'ho2es@virginia.edu',
         })
         r = requests.post(self.url, data=data)
         self.assertEqual("HAM", json.loads(r.text).get('decision'))
+        files['file'].close()
 
 
-    """
-    NEW TESTS
-    """
     def _setup_request_data(self, filename):
-        file= open(self.path+filename, 'rb')
+        file= open(os.path.join(self.path,filename), 'rb')
         data = {}
         lineno = 0
 
@@ -73,7 +76,7 @@ class TestSpamService(unittest.TestCase):
             lineno+=1
             if l=="\n" or l=="":
                 break
-            parts = l.split(":")
+            parts = str(l).split(':')
             if len(parts)>1:
                 key = parts[0].rstrip('\n')
                 key = key.lower()
@@ -82,7 +85,7 @@ class TestSpamService(unittest.TestCase):
 
         message= '\n'.join(lines[lineno:])
         message = message.rstrip('\n')
-        data['message'] = unicode(message,'utf8','ignore')
+        data['message'] = str(message) #str(message,'utf8','ignore')
 
 
         file.close()
@@ -121,7 +124,7 @@ class TestSpamService(unittest.TestCase):
         self.assertEqual("Learned", json.loads(r.text).get('status'))
 
     def test_file(self):
-        files = {'file': open(self.path+'1426893085.3375_3437.lorien', 'rb')}
+        files = {'file': open(os.path.join(self.path,'1426893085.3375_3437.lorien'), 'rb')}
         r = requests.post(self.url+"?is_file=true", files=files)
         self.assertEqual(u'SPAM', json.loads(r.text).get('decision'))
 
@@ -141,15 +144,17 @@ class TestSpamService(unittest.TestCase):
 
 
     def test_full_report_file(self):
-        files = {'file': open(self.path+'1426893085.3375_3635.lorien', 'rb')}
+        files = {'file': open(os.path.join(self.path,'1426893085.3375_3635.lorien'), 'rb')}
         r = requests.post(self.url+"?is_file=true&full_report=true", files=files)
         self.assertTrue(len(r.text)>50)
+        files['file'].close()
 
     def test_full_report_dict(self):
         data = self._setup_request_data('1426893085.3375_3635.lorien')
         data = json.dumps(data)
         r = requests.post(self.url+"?full_report=true", data=data)
         self.assertTrue(len(r.text)>50)
+
 
     def test_incorrect_input_vals(self):
         data = self._setup_request_data('1426893085.3375_3635.lorien')
