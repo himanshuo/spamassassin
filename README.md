@@ -35,7 +35,7 @@ file instead of json key-value pairs for both teaching and
 <br/>
 <li>Now we need to install this standalone web service.</li>
 <li>You can get it from github<br/><b> git clone https://github.com/himanshuo/spamassassin.git </b></li>
-<li>Create a python virtual environment (` is the weird thing next to the 1 on the keyboard, NOT a single quote ' )<br/> <b> mkvirtualenv spam3 -p `which python3` </b></li>
+<li>Create a python virtual environment<br/> <b> mkvirtualenv --python=python3 spam3 </b></li>
 <li>Go into the tornado folder via the terminal<br/><b> cd ~/spamassassin/tornado </b></li>
 <li>Install requirements:<br/><b>pip install -r requirements.txt</b></li>
 <li>Run the server<br/><b> python main.py </b></li>
