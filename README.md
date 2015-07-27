@@ -29,7 +29,7 @@ file instead of json key-value pairs for both teaching and
 <li>Allow perl to create a Makefile for you<br/> <b>perl Makefile.PL </b></li>
 <li>run the Makefile<br/><b> make</b></li>
 <li>install<br/> <b>sudo make install</b></li>
-<li>get spam assassin rules<br/><b> sudo sa-update</b></li>
+<li>get spam assassin rules<br/><b> sudo sa-update --nogpg</b></li>
 <br/>
 <li>Go back to your home folder in your terminal<br/><b> cd ~ </b></li>
 <br/>
