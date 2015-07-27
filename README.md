@@ -29,14 +29,15 @@ file instead of json key-value pairs for both teaching and
 <li>Allow perl to create a Makefile for you<br/> <b>perl Makefile.PL </b></li>
 <li>run the Makefile<br/><b> make</b></li>
 <li>install<br/> <b>sudo make install</b></li>
-<li>get spam assassin rules<br/><b> sudo sa-learn</b></li>
+<li>get spam assassin rules<br/><b> sudo sa-update</b></li>
 <br/>
 <li>Go back to your home folder in your terminal<br/><b> cd ~ </b></li>
 <br/>
 <li>Now we need to install this standalone web service.</li>
 <li>You can get it from github<br/><b> git clone https://github.com/himanshuo/spamassassin.git </b></li>
-<li>Create a python virtual environment<br/> <b> mkvirtualenv spam3 -p `which python3` </b></li>
+<li>Create a python virtual environment (` is the weird thing next to the 1 on the keyboard, NOT a single quote ' )<br/> <b> mkvirtualenv spam3 -p `which python3` </b></li>
 <li>Go into the tornado folder via the terminal<br/><b> cd ~/spamassassin/tornado </b></li>
+<li>Install requirements:<br/><b>pip install -r requirements.txt</b></li>
 <li>Run the server<br/><b> python main.py </b></li>
 <br/>
 <li>Almost Done! Open up a <b>new</b> terminal and start spamd (the daemonized version of spam assassin which is automatically installed
