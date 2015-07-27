@@ -38,10 +38,19 @@ file instead of json key-value pairs for both teaching and
 <li>Create a python virtual environment<br/> <b> mkvirtualenv spam3 -p `which python3` </b></li>
 <li>Go into the tornado folder via the terminal<br/><b> cd ~/spamassassin/tornado </b></li>
 <li>Run the server<br/><b> python main.py </b></li>
+<br/>
+<li>Almost Done! Open up a <b>new</b> terminal and start spamd (the daemonized version of spam assassin which is automatically installed
+when you install spam assassin). <br/>
+<b>sudo spamd</b>
+</li>
 <li>You're done! The standalone web service should be running now. Someone can make web requests to the localhost:8000
 url with proper input and determine if their message is spam or not. This is basically what the tests do. You can run
 them by going into the spamassassin folder and running<br/><b> python test_spam_service.py  </b></li>
 
+
+<li>HOWEVER, you can configure spam assassin yourself to make it work better for your use case. The configuration
+information section below helps with that.</li>
+<li>Also, if you are having issue with your code, please look at the Issues section below. </li>
 </ol>
 
 
@@ -55,7 +64,12 @@ them by going into the spamassassin folder and running<br/><b> python test_spam_
 
 # Configuration Information:
 <ol>
-<li> Edit /etc/spamassassin/local.cf (or wherever your configurations are) and make it look like spamassassin/tornado/settings/local_configs</li>
+<li> Edit your local.cf rules to look like the <b>spamassassin/tornado/settings/local_configs</b> file provided in this
+repo. <br/> Your local.cf file is a configuration file that gets appended onto regular spam assassin configurations. On a mac, this
+file should be at <b>/etc/mail/spamassassin/local.cf</b>. On ubuntu, it should be at /etc/spamassassin/local.cf. Note that
+comments in this file are denoted with a # in the start of the line. Most of this file should be comments already.
+More details can be found in the README file of spam assassin (~/Downloads/Mail-SpamAssassin*/README).
+
 <li> Will have to train spam assassin.</li>
     To train:
     sudo sa-learn --progress --ham HAMFOLDER/*

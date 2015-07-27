@@ -107,6 +107,8 @@ class MainHandler(tornado.web.RequestHandler):
     def _handle_result(self, res):
         """return HAM if spam_assassin determines message is ham. else SPAM
         """
+        # throws a DivisionByZeroError which is caught by the post method
+        # and returns a error message to the user
         str_result = bytes.decode(res)
 
         result_val = eval(str_result.strip())
@@ -176,6 +178,9 @@ class MainHandler(tornado.web.RequestHandler):
             else:
                 self.write("No Message Given\n")
                 self.finish()
+        except ZeroDivisionError:
+            self.set_status(400)
+            self.finish('Internal Server Error')
         except:
             self.set_status(400)
             self.finish("Malformed Request")
