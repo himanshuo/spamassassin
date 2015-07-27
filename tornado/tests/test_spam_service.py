@@ -17,7 +17,7 @@ class TestSpamService(unittest.TestCase):
     def test_basic_non_spam(self):
         files = {'file': open(os.path.join(self.path,'sample-nonspam.txt'), 'rb')}
         data = json.dumps({
-            'message': files['file'].read(),
+            'message': str(files['file'].read()),
             'email':'ho2es@virginia.edu',
         })
         r = requests.post(self.url, data=data)
@@ -27,7 +27,7 @@ class TestSpamService(unittest.TestCase):
     def test_almost_non_spam(self):
         files = {'file': open(os.path.join(self.path,'sample_almost_nonspam.txt'), 'rb')}
         data = json.dumps({
-            'message': files['file'].read(),
+            'message': str(files['file'].read()),
             'email':'ho2es@virginia.edu',
         })
         r = requests.post(self.url, data=data)
@@ -37,7 +37,7 @@ class TestSpamService(unittest.TestCase):
     def test_basic_spam(self):
         files = {'file': open(os.path.join(self.path, 'sample-spam.txt'), 'rb')}
         data = json.dumps({
-            'message': files['file'].read(),
+            'message': str(files['file'].read()),
             'email':'ho2es@virginia.edu',
         })
         r = requests.post(self.url, data=data)
@@ -57,7 +57,7 @@ class TestSpamService(unittest.TestCase):
     def test_non_spam_with_no_email_headers(self):
         files = {'file': open(os.path.join(self.path,'non_spam_with_no_email_headers.txt'), 'rb')}
         data = json.dumps({
-            'message': files['file'].read(),
+            'message': str(files['file'].read()),
             'email':'ho2es@virginia.edu',
         })
         r = requests.post(self.url, data=data)
@@ -96,7 +96,7 @@ class TestSpamService(unittest.TestCase):
         data = json.dumps(data)
 
         r = requests.post(self.url, data=data)
-        self.assertEqual("SPAM", json.loads(r.text).get('decision'))
+        self.assertEqual("HAM", json.loads(r.text).get('decision'))
 
     def test_teach(self):
         data = self._setup_request_data('1426893085.3375_3635.lorien')
