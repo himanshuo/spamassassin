@@ -18,8 +18,9 @@ noted above, but additionally requires a 'is_spam' key to determine whether to t
 is spam or not. Just as above, a process object is created. This time, however, the process object calls the
 call_sa_learn.sh script which then calls the sa-learn command. This extra level of indirection is due to the fact that
 sa-learn requires higher user privileges. This was the suggested solution found online (noted in code, along with a
-link). A user can optionally get a full report of why whatever decision was made. A user can also optionally send in a
-file instead of json key-value pairs for both teaching and
+link). A user can optionally get a full report of why whatever decision was made. A user can also optionally send in a file instead of json key-value pairs for both teaching and getting a decision.
+<br/>
+Internally, this service basically just pipes the user input into the spamc command attained from spamadmin. Thus, if you can tests whether spam assassin is installed correctly by running the command <br/> spamc < <filename> <br/> and the result of this is what this service is basing its return values from.
 
 <h1>How to Install</h1>
 <ol>
@@ -37,7 +38,7 @@ file instead of json key-value pairs for both teaching and
 <li>You can get it from github<br/><b> git clone https://github.com/himanshuo/spamassassin.git </b></li>
 <li>Create a python virtual environment<br/> <b> mkvirtualenv --python=python3 spam3 </b></li>
 <li>Go into the tornado folder via the terminal<br/><b> cd ~/spamassassin/tornado </b></li>
-<li>Install requirements:<br/><b>pip install -r requirements.txt</b></li>
+<li>Install requirements:<br/><b>pip install -r ~/spamassassin/requirements.txt</b></li>
 <li>Run the server<br/><b> python main.py </b></li>
 <br/>
 <li>Almost Done! Open up a <b>new</b> terminal and start spamd (the daemonized version of spam assassin which is automatically installed
@@ -46,7 +47,7 @@ when you install spam assassin). <br/>
 </li>
 <li>You're done! The standalone web service should be running now. Someone can make web requests to the localhost:8000
 url with proper input and determine if their message is spam or not. This is basically what the tests do. You can run
-them by going into the spamassassin folder and running<br/><b> python test_spam_service.py  </b></li>
+them by running the tests in the ~/spamassassin/tornado/tests/test_spam_service.py file. <br/><b> python ~/spamassassin/tornado/tests/test_spam_service.py  </b></li>
 
 
 <li>HOWEVER, you can configure spam assassin yourself to make it work better for your use case. The configuration
@@ -58,24 +59,29 @@ information section below helps with that.</li>
 <br/>
 # Potential Issues (and Solutions):
 <ol>
-<li> if the result of spamc -c < <filename> is constantly 0/0 then try restarting spam assassin via <br/>
-    sudo /etc/init.d/spamassassin restart </li>
+<li> If the result of spamc -c < <filename> is constantly 0/0 then try restarting spam assassin via <br/>
+    sudo /etc/init.d/spamassassin restart
+    <br/>
+    spamc is the internal command that this service uses to come to a decision of whether the user input is spam or not. This service returns a 404 Internal Server Error response when this error occurs.  
+    </li> 
 </ol>
 
 
 # Configuration Information:
 <ol>
-<li> Edit your local.cf rules to look like the <b>spamassassin/tornado/settings/local_configs</b> file provided in this
-repo. <br/> Your local.cf file is a configuration file that gets appended onto regular spam assassin configurations. On a mac, this
-file should be at <b>/etc/mail/spamassassin/local.cf</b>. On ubuntu, it should be at /etc/spamassassin/local.cf. Note that
+<li>Your local.cf file is a configuration file that gets appended onto regular spam assassin configurations. On a mac, this file should be at <b>/etc/mail/spamassassin/local.cf</b>. On ubuntu, it should be at /etc/spamassassin/local.cf. Edit your local.cf rules to look like the <b>spamassassin/tornado/settings/local_configs</b> file provided in this repo. <br/>  Note that
 comments in this file are denoted with a # in the start of the line. Most of this file should be comments already.
 More details can be found in the README file of spam assassin (~/Downloads/Mail-SpamAssassin*/README).
 
-<li> Will have to train spam assassin.</li>
-    To train:
-    sudo sa-learn --progress --ham HAMFOLDER/*
-    sudo sa-learn --sync
+<li> It is useful to train spam assassin with your custom spam and/or ham files in order to make it more suitable for your purposes. In the below example, HAMFOLDER and SPAMFOLDER are your custom folders with spam and/or ham in them.</li>
+    To train ham:<br/>
+    sudo sa-learn --progress --ham HAMFOLDER/* <br/>
+    sudo sa-learn --sync <br/>
     <br/>
-    Then, to see the contents of the spam db: (note, spamassassin basically turns messages into hashes.)
+    To train spam:<br/>
+    sudo sa-learn --progress --spam SPAMFOLDER/* <br/>
+    sudo sa-learn --sync <br/>
+    <br/>
+    Then, to see the contents of the spam db: (note, spamassassin basically turns messages into hashes.) <br/>
     sudo sa-learn --dump [all|magic|data]
 </ol>
